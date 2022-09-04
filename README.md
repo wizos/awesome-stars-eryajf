@@ -1327,7 +1327,7 @@
 
 ## Vue
 
-*   [gxy5202/VideoRoll](https://github.com/gxy5202/VideoRoll) - A chrome/edge extension to rotate web video
+*   [VideoRoll/VideoRoll](https://github.com/VideoRoll/VideoRoll) - A chrome/edge extension to rotate web video
 
 *   [ZyqGitHub1/h-player-v2](https://github.com/ZyqGitHub1/h-player-v2) - 资源采集站在线播放
 
