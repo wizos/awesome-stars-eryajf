@@ -967,6 +967,8 @@
 
 *   [andreskrey/readability.php](https://github.com/andreskrey/readability.php) - PHP port of Mozilla's Readability.js
 
+*   [listen1/listen1\_chrome\_extension](https://github.com/listen1/listen1_chrome_extension) - one for all free music in china (chrome extension, also works for firefox)
+
 *   [onplus/shadowsocks-websocket-python](https://github.com/onplus/shadowsocks-websocket-python) - shadowsocks over WebSocket, support Heroku.
 
 *   [lzjun567/python\_scripts](https://github.com/lzjun567/python_scripts) - 一些python相关的演示代码
@@ -1430,8 +1432,6 @@
 *   [bimohxh/jsonon](https://github.com/bimohxh/jsonon) - A json online view
 
 *   [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
-
-*   [listen1/listen1\_chrome\_extension](https://github.com/listen1/listen1_chrome_extension) - one for all free music in china (chrome extension, also works for firefox)
 
 *   [zgq354/weibo-rss](https://github.com/zgq354/weibo-rss) - 🍰 把某人最近的微博转换为 RSS 格式输出
 
