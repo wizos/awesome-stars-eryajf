@@ -227,7 +227,7 @@
 
 *   [xiangyuecn/Android-UsesPermission](https://github.com/xiangyuecn/Android-UsesPermission) - 安卓权限申请封装处理框架。测试支持4.0+。只有简单的java文件，复制文件即可使用。调用方便
 
-*   [MiPushFramework/MiPushFramework](https://github.com/MiPushFramework/MiPushFramework) - Let supported push service run system-ly on every Android devices
+*   [MiPushFramework/MiPushFramework](https://github.com/MiPushFramework/MiPushFramework) - \[Archived, SEE THE LINK FOR FORK] Let supported push service run system-ly on every Android devices
 
 *   [JeremyLiao/LiveEventBus](https://github.com/JeremyLiao/LiveEventBus) - :mailbox\_with\_mail:EventBus for Android，消息总线，基于LiveData，具有生命周期感知能力，支持Sticky，支持AndroidX，支持跨进程，支持跨APP
 
