@@ -115,7 +115,7 @@
 
 *   [ferredoxin/QNotified](https://github.com/ferredoxin/QNotified) - 一个旨在使QQ变得更好用的开源Xposed模块
 
-*   [codyer/ElegantBus](https://github.com/codyer/ElegantBus) - 🔥🔥Android 平台，基于LivaData的EventBus，无侵入，更优雅，支持跨进程，跨应用粘性事件，自定义事件等功能。
+*   [codyer/ElegantBus](https://github.com/codyer/ElegantBus) - 🔥🔥Android 平台，基于LivaData的EventBus，无侵入，更优雅，支持跨进程，跨应用粘性事件，优先级，自定义事件等功能。
 
 *   [AnyLifeZLB/DownloadInstaller](https://github.com/AnyLifeZLB/DownloadInstaller) - Android App应用内更新的下载，储存，安装 ，未知来源等问题处理，已适配Android 5-12
 
@@ -1299,7 +1299,7 @@
 
 *   [Kyome22/RunCat\_for\_windows](https://github.com/Kyome22/RunCat_for_windows) - A cute running cat animation on your windows taskbar.
 
-*   [files-community/Files](https://github.com/files-community/Files) - A modern file manager for Windows
+*   [files-community/Files](https://github.com/files-community/Files) - Building the best File Manager for Windows
 
 *   [BluePointLilac/ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager) - 🖱️ 纯粹的Windows右键菜单管理程序
 
@@ -1329,7 +1329,7 @@
 
 ## TypeScript
 
-*   [VideoRoll/VideoRoll](https://github.com/VideoRoll/VideoRoll) - A chrome/edge extension to rotate web video
+*   [VideoRoll/VideoRoll](https://github.com/VideoRoll/VideoRoll) - A chrome/edge extension to rotate, zoom, scale and flip a web video
 
 *   [visiky/resume](https://github.com/visiky/resume) - 🚀 在线简历生成器
 
