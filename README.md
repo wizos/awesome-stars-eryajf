@@ -1329,7 +1329,7 @@
 
 ## TypeScript
 
-*   [VideoRoll/VideoRoll](https://github.com/VideoRoll/VideoRoll) - A chrome/edge extension to rotate, zoom, scale and flip a web video
+*   [VideoRoll/VideoRoll](https://github.com/VideoRoll/VideoRoll) - ✨A chrome/edge extension to rotate, zoom, scale and flip a web video
 
 *   [visiky/resume](https://github.com/visiky/resume) - 🚀 在线简历生成器
 
