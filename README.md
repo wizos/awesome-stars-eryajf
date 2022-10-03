@@ -833,8 +833,6 @@
 
 *   [Mapaler/FastCopy-M](https://github.com/Mapaler/FastCopy-M) - FastCopy-Multilanguage，FastCopy完整支持多国语言版
 
-*   [shuax/GreenChrome](https://github.com/shuax/GreenChrome) - 增强Chrome的工具
-
 *   [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree
 
 *   [kamikat/52g](https://github.com/kamikat/52g) - Index leaked password data with bloom filter.
@@ -846,6 +844,8 @@
 *   [yangyangwithgnu/autoshadower](https://github.com/yangyangwithgnu/autoshadower) - autoshadower is so sweet, she will find many free shadowsoks accounts for you, do her best!
 
 *   [QuiteRSS/quiterss](https://github.com/QuiteRSS/quiterss) - Free news feeds reader
+
+*   [zjccsg/permo](https://github.com/zjccsg/permo) - cpu\memory\net monitor application 性能监控悬浮窗
 
 ## Kotlin
 
