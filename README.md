@@ -349,7 +349,7 @@
 
 *   [geeeeeeeeek/WeChatLuckyMoney](https://github.com/geeeeeeeeek/WeChatLuckyMoney) - :money\_with\_wings: WeChat's lucky money helper (微信抢红包插件) by Zhongyi Tong. An Android app that helps you snatch red packets in WeChat groups.
 
-*   [alibaba/fastjson](https://github.com/alibaba/fastjson) - A fast JSON parser/generator for Java.
+*   [alibaba/fastjson](https://github.com/alibaba/fastjson) - FASTJSON 2.0.x has been released, faster and more secure, recommend you upgrade.
 
 *   [SherlockGougou/BigImageViewPager](https://github.com/SherlockGougou/BigImageViewPager) - 🔥🔥🔥 BigImage ImageView ViewPager 支持超长图、超大图的图片浏览器，优化内存，支持手势放大、下拉关闭、查看原图、加载百分比、保存图片等功能。现已支持androidx。
 
