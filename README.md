@@ -1329,7 +1329,7 @@
 
 ## TypeScript
 
-*   [VideoRoll/VideoRoll](https://github.com/VideoRoll/VideoRoll) - ✨A chrome/edge extension to rotate, zoom, scale and flip a web video
+*   [VideoRoll/VideoRoll](https://github.com/VideoRoll/VideoRoll) - ✨A chrome/edge extension to rotate, zoom, move, scale, flip and filter a web video
 
 *   [visiky/resume](https://github.com/visiky/resume) - 🚀 在线简历生成器
 
@@ -1553,7 +1553,7 @@
 
 *   [xiangrui120/v2ray-heroku-undone](https://github.com/xiangrui120/v2ray-heroku-undone) - Deploy V2Ray to Heroku
 
-*   [EtherDream/jsproxy](https://github.com/EtherDream/jsproxy) - An online proxy based on ServiceWorker
+*   [EtherDream/jsproxy](https://github.com/EtherDream/jsproxy) -
 
 *   [lmc999/auto-add-routes](https://github.com/lmc999/auto-add-routes) - China Route for VPN
 
