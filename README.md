@@ -267,7 +267,7 @@
 
 *   [JeffMony/JeffVideoCache](https://github.com/JeffMony/JeffVideoCache) - Better than AndroidVideoCache, it supports M3U8 and MP4
 
-*   [hyb1996/Auto.js](https://github.com/hyb1996/Auto.js) - A UiAutomator on android, does not need root access(安卓平台上的JavaScript自动化工具)
+*   [hyb1996/Auto.js](https://github.com/hyb1996/Auto.js) - Automation\&Workflow JavaScript IDE on Android(安卓平台上的自动化工作流JavaScript IDE)
 
 *   [donkingliang/ConsecutiveScroller](https://github.com/donkingliang/ConsecutiveScroller) - ConsecutiveScrollerLayout是Android下支持多个滑动布局(RecyclerView、WebView、ScrollView等)和普通控件(TextView、ImageView、LinearLayou、自定义View等)持续连贯滑动的容器,它使所有的子View像一个整体一样连续顺畅滑动。并且支持布局吸顶功能。
 
