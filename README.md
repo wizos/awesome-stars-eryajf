@@ -1793,7 +1793,7 @@
 
 *   [timdorr/spotifeed](https://github.com/timdorr/spotifeed) - A simple service to serve up Spotify podcasts as RSS feeds for use in any podcast app.
 
-*   [stefansundin/github-activity](https://github.com/stefansundin/github-activity) - :computer: GitHub Activity RSS Feed.
+*   [stefansundin/github-activity](https://github.com/stefansundin/github-activity) - :computer: RSS Feed for GitHub gist comments.
 
 *   [stefansundin/rssbox](https://github.com/stefansundin/rssbox) - :newspaper: I consume the world via RSS feeds, and this is my attempt to keep it that way.
 
