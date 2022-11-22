@@ -18,6 +18,7 @@
 
 ## Table of Contents
 
+*   [HTML](#html)
 *   [C++](#c)
 *   [JavaScript](#javascript)
 *   [miscellaneous](#miscellaneous)
@@ -25,7 +26,6 @@
 *   [Scala](#scala)
 *   [Go](#go)
 *   [Kotlin](#kotlin)
-*   [HTML](#html)
 *   [Python](#python)
 *   [C#](#c-1)
 *   [TypeScript](#typescript)
@@ -62,6 +62,48 @@
 *   [Scheme](#scheme)
 *   [Groff](#groff)
 *   [Thanks](#thanks)
+
+## HTML
+
+*   [atelier-anchor/smiley-sans](https://github.com/atelier-anchor/smiley-sans) - 得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体
+
+*   [WeNeedHome/SummaryOfLoanSuspension](https://github.com/WeNeedHome/SummaryOfLoanSuspension) - 全国各省市停贷通知汇总
+
+*   [0080004/AriaNg-Heroku](https://github.com/0080004/AriaNg-Heroku) - AriaNg, a modern web frontend making aria2 easier to use.
+
+*   [acl4ssr-sub/acl4ssr-sub.github.io](https://github.com/acl4ssr-sub/acl4ssr-sub.github.io) -
+
+*   [Sjj1024/Python-spider](https://github.com/Sjj1024/Python-spider) - 一些python小爬虫，包含我走过的很多坑，嘻嘻
+
+*   [pingfangx/TranslatorX](https://github.com/pingfangx/TranslatorX) - JetBrains 系列软件汉化包 关键字: Android Studio 3.5 汉化包 CLion 2019.3 汉化包 DataGrip 2019.3 汉化包 GoLand 2019.3 汉化包 IntelliJ IDEA 2019.3 汉化包 PhpStorm 2019.3 汉化包 PyCharm 2019.3 汉化包 Rider 2019.3 汉化包 RubyMine 2019.3 汉化包 WebStorm 2019.3 汉化包
+
+*   [nndl/nndl.github.io](https://github.com/nndl/nndl.github.io) - 《神经网络与深度学习》 邱锡鹏著 Neural Network and Deep Learning
+
+*   [aceimnorstuvwxz/irreader](https://github.com/aceimnorstuvwxz/irreader) - irreader 万能订阅阅读器，订阅任何网站。
+
+*   [dankito/Readability4J](https://github.com/dankito/Readability4J) - A Kotlin port of Mozilla‘s Readability. It extracts a website‘s relevant content and removes all clutter from it.
+
+*   [andreskrey/readability.php](https://github.com/andreskrey/readability.php) - PHP port of Mozilla's Readability.js
+
+*   [listen1/listen1\_chrome\_extension](https://github.com/listen1/listen1_chrome_extension) - one for all free music in china (chrome extension, also works for firefox)
+
+*   [onplus/shadowsocks-websocket-python](https://github.com/onplus/shadowsocks-websocket-python) - shadowsocks over WebSocket, support Heroku.
+
+*   [lzjun567/python\_scripts](https://github.com/lzjun567/python_scripts) - 一些python相关的演示代码
+
+*   [sofish/typo.css](https://github.com/sofish/typo.css) - 中文网页重设与排版：一致化浏览器排版效果，构建最适合中文阅读的网页排版
+
+*   [buildlove/spiders](https://github.com/buildlove/spiders) - A web crawler that crawls the latest WeChat article
+
+*   [n0tr00t/Sreg](https://github.com/n0tr00t/Sreg) - Sreg可对使用者通过输入email、phone、username的返回用户注册的所有互联网护照信息。
+
+*   [DIYgod/Resume](https://github.com/DIYgod/Resume) - :cake: Simple resume
+
+*   [fanfank/phpfetcher](https://github.com/fanfank/phpfetcher) - A PHP web crawler framework
+
+*   [L3au/colorful-qrcode](https://github.com/L3au/colorful-qrcode) - Simple & colorful QR code generator with chrome extension
+
+*   [nullice/NViconsLib\_Silhouette](https://github.com/nullice/NViconsLib_Silhouette) - vector PSD and SVG  popular website Icon (Especially China )
 
 ## C++
 
@@ -353,7 +395,7 @@
 
 *   [googlehosts/hosts](https://github.com/googlehosts/hosts) - 镜像：https://scaffrey.coding.net/p/hosts/git / https://git.qvq.network/googlehosts/hosts
 
-*   [MLNLP-World/MIT-Linear-Algebra-Notes](https://github.com/MLNLP-World/MIT-Linear-Algebra-Notes) - Notes for MIT-Linear-Algebra
+*   [MLNLP-World/MIT-Linear-Algebra-Notes](https://github.com/MLNLP-World/MIT-Linear-Algebra-Notes) - MLNLP: Notes for MIT-Linear-Algebra
 
 *   [wll8/aardio\_doc](https://github.com/wll8/aardio_doc) -
 
@@ -1251,46 +1293,6 @@
 
 *   [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android) - AnkiDroid: Anki flashcards on Android. Your secret trick to achieve superhuman information retention.
 
-## HTML
-
-*   [WeNeedHome/SummaryOfLoanSuspension](https://github.com/WeNeedHome/SummaryOfLoanSuspension) - 全国各省市停贷通知汇总
-
-*   [0080004/AriaNg-Heroku](https://github.com/0080004/AriaNg-Heroku) - AriaNg, a modern web frontend making aria2 easier to use.
-
-*   [acl4ssr-sub/acl4ssr-sub.github.io](https://github.com/acl4ssr-sub/acl4ssr-sub.github.io) -
-
-*   [Sjj1024/Python-spider](https://github.com/Sjj1024/Python-spider) - 一些python小爬虫，包含我走过的很多坑，嘻嘻
-
-*   [pingfangx/TranslatorX](https://github.com/pingfangx/TranslatorX) - JetBrains 系列软件汉化包 关键字: Android Studio 3.5 汉化包 CLion 2019.3 汉化包 DataGrip 2019.3 汉化包 GoLand 2019.3 汉化包 IntelliJ IDEA 2019.3 汉化包 PhpStorm 2019.3 汉化包 PyCharm 2019.3 汉化包 Rider 2019.3 汉化包 RubyMine 2019.3 汉化包 WebStorm 2019.3 汉化包
-
-*   [nndl/nndl.github.io](https://github.com/nndl/nndl.github.io) - 《神经网络与深度学习》 邱锡鹏著 Neural Network and Deep Learning
-
-*   [aceimnorstuvwxz/irreader](https://github.com/aceimnorstuvwxz/irreader) - irreader 万能订阅阅读器，订阅任何网站。
-
-*   [dankito/Readability4J](https://github.com/dankito/Readability4J) - A Kotlin port of Mozilla‘s Readability. It extracts a website‘s relevant content and removes all clutter from it.
-
-*   [andreskrey/readability.php](https://github.com/andreskrey/readability.php) - PHP port of Mozilla's Readability.js
-
-*   [listen1/listen1\_chrome\_extension](https://github.com/listen1/listen1_chrome_extension) - one for all free music in china (chrome extension, also works for firefox)
-
-*   [onplus/shadowsocks-websocket-python](https://github.com/onplus/shadowsocks-websocket-python) - shadowsocks over WebSocket, support Heroku.
-
-*   [lzjun567/python\_scripts](https://github.com/lzjun567/python_scripts) - 一些python相关的演示代码
-
-*   [sofish/typo.css](https://github.com/sofish/typo.css) - 中文网页重设与排版：一致化浏览器排版效果，构建最适合中文阅读的网页排版
-
-*   [buildlove/spiders](https://github.com/buildlove/spiders) - A web crawler that crawls the latest WeChat article
-
-*   [n0tr00t/Sreg](https://github.com/n0tr00t/Sreg) - Sreg可对使用者通过输入email、phone、username的返回用户注册的所有互联网护照信息。
-
-*   [DIYgod/Resume](https://github.com/DIYgod/Resume) - :cake: Simple resume
-
-*   [fanfank/phpfetcher](https://github.com/fanfank/phpfetcher) - A PHP web crawler framework
-
-*   [L3au/colorful-qrcode](https://github.com/L3au/colorful-qrcode) - Simple & colorful QR code generator with chrome extension
-
-*   [nullice/NViconsLib\_Silhouette](https://github.com/nullice/NViconsLib_Silhouette) - vector PSD and SVG  popular website Icon (Especially China )
-
 ## Python
 
 *   [aceimnorstuvwxz/toutiao-text-classfication-dataset](https://github.com/aceimnorstuvwxz/toutiao-text-classfication-dataset) - 今日头条中文新闻（文本）分类数据集
@@ -1498,8 +1500,6 @@
 *   [kenvix/USBCopyer](https://github.com/kenvix/USBCopyer) - 😉 用于在插上U盘后自动按需复制该U盘的文件。”备份&偷U盘文件的神器”（写作USBCopyer，读作USBCopier）
 
 *   [Wox-launcher/Wox](https://github.com/Wox-launcher/Wox) - Launcher for Windows, an alternative to Alfred and Launchy.
-
-*   [azzvx/gogotester](https://github.com/azzvx/gogotester) -
 
 ## TypeScript
 
