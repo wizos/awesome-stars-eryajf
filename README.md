@@ -1269,7 +1269,7 @@
 
 *   [ParfoisMeng/SlideBack](https://github.com/ParfoisMeng/SlideBack) - 无需继承的Activity侧滑返回库 类全面屏返回手势效果 仿“即刻”侧滑返回
 
-*   [MixinNetwork/android-app](https://github.com/MixinNetwork/android-app) - 📱 Android private messenger, crypto wallet and light node to the Mixin Network
+*   [MixinNetwork/android-app](https://github.com/MixinNetwork/android-app) - 📱 Android private messenger, crypto wallet and light node to Mixin Network
 
 *   [NewsCatchr/NewsCatchr](https://github.com/NewsCatchr/NewsCatchr) - FOSS Android News Reader App
 
@@ -1731,7 +1731,7 @@
 
 *   [zhenyolka/DPITunnel](https://github.com/zhenyolka/DPITunnel) - DPITunnel is an android app made for censorship bypass
 
-*   [pymumu/smartdns](https://github.com/pymumu/smartdns) - A local DNS server to obtain the fastest website IP for the best Internet experience， 一个本地DNS服务器，获取最快的网站IP，获得最佳上网体验。
+*   [pymumu/smartdns](https://github.com/pymumu/smartdns) - A local DNS server to obtain the fastest website IP for the best Internet experience, support DoT, DoH. 一个本地DNS服务器，获取最快的网站IP，获得最佳上网体验，支持DoH，DoT。
 
 *   [spirytusz/AndroidLua](https://github.com/spirytusz/AndroidLua) - Lua script supported on Android platform
 
