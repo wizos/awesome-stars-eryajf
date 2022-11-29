@@ -18,6 +18,7 @@
 
 ## Table of Contents
 
+*   [Vue](#vue)
 *   [HTML](#html)
 *   [C++](#c)
 *   [JavaScript](#javascript)
@@ -43,7 +44,6 @@
 *   [Groovy](#groovy)
 *   [Swift](#swift)
 *   [Nunjucks](#nunjucks)
-*   [Vue](#vue)
 *   [CSS](#css)
 *   [VBScript](#vbscript)
 *   [Assembly](#assembly)
@@ -62,6 +62,18 @@
 *   [Scheme](#scheme)
 *   [Groff](#groff)
 *   [Thanks](#thanks)
+
+## Vue
+
+*   [Haojen/planet-tab](https://github.com/Haojen/planet-tab) - A cool dynamic 3D planet new tab, support Search, Clock, Weather and custom, also compatible with Vimkey
+
+*   [ZyqGitHub1/h-player-v2](https://github.com/ZyqGitHub1/h-player-v2) - 资源采集站在线播放
+
+*   [wuhaoworld/torrent2magnet](https://github.com/wuhaoworld/torrent2magnet) - 种子转磁力链工具
+
+*   [easychen/catgate](https://github.com/easychen/catgate) - CatGate is a small crawler framework based on Chrome extension . CatGate是一个基于浏览器插件的数据抓取工具。做成浏览器插件无需模拟登入，能最真实的模仿用户行为和特征。
+
+*   [stonexer/wechatBot](https://github.com/stonexer/wechatBot) - 面向个人的微信 wechat 机器人平台 - 使用微信网页版接口 wechat4u
 
 ## HTML
 
@@ -1465,8 +1477,6 @@
 
 *   [ccbikai/weibotools](https://github.com/ccbikai/weibotools) - 新浪微博时间线与收藏生成rss（支持多图微博），腾讯微博时间线与收藏生成rss（支持多图微博），instagram同步到微博
 
-*   [XX-net/XX-Net](https://github.com/XX-net/XX-Net) - A proxy tool to bypass GFW.
-
 ## C\#
 
 *   [Clean-Reader/CleanReader.Desktop](https://github.com/Clean-Reader/CleanReader.Desktop) - 使用 Windows App SDK 构建的桌面版干净阅读
@@ -1838,16 +1848,6 @@
 ## Nunjucks
 
 *   [typlog/china-indie-podcasts](https://github.com/typlog/china-indie-podcasts) - 发现与推荐高质量的中文独立播客
-
-## Vue
-
-*   [ZyqGitHub1/h-player-v2](https://github.com/ZyqGitHub1/h-player-v2) - 资源采集站在线播放
-
-*   [wuhaoworld/torrent2magnet](https://github.com/wuhaoworld/torrent2magnet) - 种子转磁力链工具
-
-*   [easychen/catgate](https://github.com/easychen/catgate) - CatGate is a small crawler framework based on Chrome extension . CatGate是一个基于浏览器插件的数据抓取工具。做成浏览器插件无需模拟登入，能最真实的模仿用户行为和特征。
-
-*   [stonexer/wechatBot](https://github.com/stonexer/wechatBot) - 面向个人的微信 wechat 机器人平台 - 使用微信网页版接口 wechat4u
 
 ## CSS
 
