@@ -181,7 +181,7 @@
 
 ## JavaScript
 
-*   [AkaraChen/nashi](https://github.com/AkaraChen/nashi) - 🍐 The modern jQuery alternative
+*   [AkaraChen/nashi](https://github.com/AkaraChen/nashi) - 🍐 The modern jQuery alternative.
 
 *   [admbtlr/reams](https://github.com/admbtlr/reams) - Reams is a deeply superficial RSS app for iOS
 
