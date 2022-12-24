@@ -1419,7 +1419,7 @@
 
 *   [zhangxiaoyang/WechatImageDecoder](https://github.com/zhangxiaoyang/WechatImageDecoder) - :ghost:微信图片解密、找回撤回的图片
 
-*   [hack4code/BlogSpider](https://github.com/hack4code/BlogSpider) - spiders crawl blogs (rss | atom | blog)
+*   [hack4code/spider](https://github.com/hack4code/spider) - spiders crawl blogs (rss | atom | blog)
 
 *   [flybird1971/spider](https://github.com/flybird1971/spider) - 抓取rss订阅，根据后台配置规则抓取指定网站
 
