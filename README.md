@@ -1511,6 +1511,8 @@
 
 *   [Wox-launcher/Wox](https://github.com/Wox-launcher/Wox) - Launcher for Windows, an alternative to Alfred and Launchy.
 
+*   [azzvx/gogotester](https://github.com/azzvx/gogotester) -
+
 ## TypeScript
 
 *   [VideoRoll/VideoRoll](https://github.com/VideoRoll/VideoRoll) - ✨A chrome/edge extension to rotate, zoom, move, scale, flip and filter a web video
@@ -1587,7 +1589,7 @@
 
 *   [xtrime-ru/TelegramApiServer](https://github.com/xtrime-ru/TelegramApiServer) - Fast, simple, async php telegram api server: MadelineProto + Amp HTTP Server
 
-*   [juicyfx/vercel-examples](https://github.com/juicyfx/vercel-examples) - 📦 Examples and sample projects using Vercel platform
+*   [juicyfx/vercel-examples](https://github.com/juicyfx/vercel-examples) - 📦 Example projects using Vercel platform. Using Node.js, PHP and others.
 
 *   [aaro-n/heroku-wp](https://github.com/aaro-n/heroku-wp) - 在Heroku 搭建 Wordpress
 
@@ -1738,8 +1740,6 @@
 *   [bndeff/socksdroid](https://github.com/bndeff/socksdroid) -
 
 *   [eycorsican/go-tun2socks](https://github.com/eycorsican/go-tun2socks) - A tun2socks implementation written in Go.
-
-*   [zhenyolka/DPITunnel](https://github.com/zhenyolka/DPITunnel) - DPITunnel is an android app made for censorship bypass
 
 *   [pymumu/smartdns](https://github.com/pymumu/smartdns) - A local DNS server to obtain the fastest website IP for the best Internet experience, support DoT, DoH. 一个本地DNS服务器，获取最快的网站IP，获得最佳上网体验，支持DoH，DoT。
 
