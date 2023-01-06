@@ -1485,7 +1485,7 @@
 
 *   [Kyome22/RunCat\_for\_windows](https://github.com/Kyome22/RunCat_for_windows) - A cute running cat animation on your windows taskbar.
 
-*   [files-community/Files](https://github.com/files-community/Files) - Building the best File Manager for Windows
+*   [files-community/Files](https://github.com/files-community/Files) - Building the best file manager experience for Windows
 
 *   [BluePointLilac/ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager) - 🖱️ 纯粹的Windows右键菜单管理程序
 
