@@ -693,6 +693,10 @@
 
 *   [aizenchou/rsscatch](https://github.com/aizenchou/rsscatch) - 简书、一个等网站RSS生成器
 
+*   [sues-lee/SuesNews](https://github.com/sues-lee/SuesNews) - 一个符合 Google Material Design 的 Android 校园新闻客户端
+
+*   [fqrouter/fqrouter](https://github.com/fqrouter/fqrouter) - anti-GFW router
+
 ## JavaScript
 
 *   [yaohaixiao/AutocJS](https://github.com/yaohaixiao/AutocJS) - AutocJs 是一个专门用来生成文章导读（Table of Contents）导航的 JavaScript 工具（原 autocjs 的重构版本）。AutocJs 采用原生 JavaScript 编写，不依赖任何第三方 JavaScript 库。AutocJs 会自动查找文章指定区域中的所有 h1~h6 的标签，并自动分析文章段落间的层次结构，生成文章的导读导航。
@@ -847,8 +851,6 @@
 
 *   [impress/impress.js](https://github.com/impress/impress.js) - It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com.
 
-*   [songchenwen/zhuanlan-rss](https://github.com/songchenwen/zhuanlan-rss) - 知乎专栏 RSS
-
 *   [binux/qiandao](https://github.com/binux/qiandao) - 签到
 
 *   [scarletsky/md-avatar](https://github.com/scarletsky/md-avatar) - Material Design avatar for canvas!
@@ -862,6 +864,10 @@
 *   [xieren58/17qingsong](https://github.com/xieren58/17qingsong) - No longer maintained!
 
 *   [shispt/random-google-ip](https://github.com/shispt/random-google-ip) - Chrome扩展：随机选择一个 Google IP 并打开
+
+*   [bl4kraven/full\_text\_rss](https://github.com/bl4kraven/full_text_rss) - full text rss feed output
+
+*   [rose1988c/Caoliu.plug](https://github.com/rose1988c/Caoliu.plug) - now, cl is no open, no energy, no fresh
 
 ## Vue
 
@@ -885,13 +891,9 @@
 
 *   [acl4ssr-sub/acl4ssr-sub.github.io](https://github.com/acl4ssr-sub/acl4ssr-sub.github.io) -
 
-*   [Sjj1024/Python-spider](https://github.com/Sjj1024/Python-spider) - 一些python小爬虫，包含我走过的很多坑，嘻嘻
-
 *   [pingfangx/TranslatorX](https://github.com/pingfangx/TranslatorX) - JetBrains 系列软件汉化包 关键字: Android Studio 3.5 汉化包 CLion 2019.3 汉化包 DataGrip 2019.3 汉化包 GoLand 2019.3 汉化包 IntelliJ IDEA 2019.3 汉化包 PhpStorm 2019.3 汉化包 PyCharm 2019.3 汉化包 Rider 2019.3 汉化包 RubyMine 2019.3 汉化包 WebStorm 2019.3 汉化包
 
 *   [nndl/nndl.github.io](https://github.com/nndl/nndl.github.io) - 《神经网络与深度学习》 邱锡鹏著 Neural Network and Deep Learning
-
-*   [aceimnorstuvwxz/irreader](https://github.com/aceimnorstuvwxz/irreader) - irreader 万能订阅阅读器，订阅任何网站。
 
 *   [dankito/Readability4J](https://github.com/dankito/Readability4J) - A Kotlin port of Mozilla‘s Readability. It extracts a website‘s relevant content and removes all clutter from it.
 
@@ -899,15 +901,7 @@
 
 *   [listen1/listen1\_chrome\_extension](https://github.com/listen1/listen1_chrome_extension) - one for all free music in china (chrome extension, also works for firefox)
 
-*   [onplus/shadowsocks-websocket-python](https://github.com/onplus/shadowsocks-websocket-python) - shadowsocks over WebSocket, support Heroku.
-
-*   [lzjun567/python\_scripts](https://github.com/lzjun567/python_scripts) - 一些python相关的演示代码
-
 *   [sofish/typo.css](https://github.com/sofish/typo.css) - 中文网页重设与排版：一致化浏览器排版效果，构建最适合中文阅读的网页排版
-
-*   [buildlove/spiders](https://github.com/buildlove/spiders) - A web crawler that crawls the latest WeChat article
-
-*   [n0tr00t/Sreg](https://github.com/n0tr00t/Sreg) - Sreg可对使用者通过输入email、phone、username的返回用户注册的所有互联网护照信息。
 
 *   [DIYgod/Resume](https://github.com/DIYgod/Resume) - :cake: Simple resume
 
@@ -943,8 +937,6 @@
 
 *   [DuroSoft/XJoy](https://github.com/DuroSoft/XJoy) - Use Nintendo Switch JoyCons as a virtual Xbox 360 controller in Windows
 
-*   [pagxir/toy2vpn](https://github.com/pagxir/toy2vpn) - tun2socks tun2toyvpn and so on
-
 *   [Tencent/MMKV](https://github.com/Tencent/MMKV) - An efficient, small mobile key-value storage framework developed by WeChat. Works on Android, iOS, macOS, Windows, and POSIX.
 
 *   [XiaoMi/mace](https://github.com/XiaoMi/mace) - MACE is a deep learning inference framework optimized for mobile heterogeneous computing platforms.
@@ -969,15 +961,13 @@
 
 *   [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree
 
-*   [kamikat/52g](https://github.com/kamikat/52g) - Index leaked password data with bloom filter.
-
 *   [yangyangwithgnu/hanz2piny](https://github.com/yangyangwithgnu/hanz2piny) - hanz2piny is a tool that easy convert chinese hanzi to mandarin pinyin. It fast, no-DB-file, and supports polyphone.
-
-*   [jojoin/Def](https://github.com/jojoin/Def) - 可扩展的编程语言
 
 *   [yangyangwithgnu/autoshadower](https://github.com/yangyangwithgnu/autoshadower) - autoshadower is so sweet, she will find many free shadowsoks accounts for you, do her best!
 
 *   [QuiteRSS/quiterss](https://github.com/QuiteRSS/quiterss) - Free news feeds reader
+
+*   [zjccsg/permo](https://github.com/zjccsg/permo) - cpu\memory\net monitor application 性能监控悬浮窗
 
 ## miscellaneous
 
@@ -1517,6 +1507,12 @@
 
 *   [XX-net/XX-Net](https://github.com/XX-net/XX-Net) - A proxy tool to bypass GFW.
 
+*   [dacapoday/IDicon](https://github.com/dacapoday/IDicon) - 模仿identicon和v2ex默认头像生成脚本，仅使用标准库，生成PNG头像
+
+*   [binux/cssfulltext](https://github.com/binux/cssfulltext) - source code of
+
+*   [yangyangwithgnu/goagent\_out\_of\_box\_yang](https://github.com/yangyangwithgnu/goagent_out_of_box_yang) - this is the newest goagent with yangyang's settings for floks who are not good at computer, yes, out of box.
+
 ## C\#
 
 *   [Clean-Reader/CleanReader.Desktop](https://github.com/Clean-Reader/CleanReader.Desktop) - 使用 Windows App SDK 构建的桌面版干净阅读
@@ -1550,6 +1546,8 @@
 *   [kenvix/USBCopyer](https://github.com/kenvix/USBCopyer) - 😉 用于在插上U盘后自动按需复制该U盘的文件。”备份&偷U盘文件的神器”（写作USBCopyer，读作USBCopier）
 
 *   [Wox-launcher/Wox](https://github.com/Wox-launcher/Wox) - Launcher for Windows, an alternative to Alfred and Launchy.
+
+*   [azzvx/gogotester](https://github.com/azzvx/gogotester) -
 
 ## Shell
 
@@ -1912,6 +1910,8 @@
 *   [onplus/shadowsocks-heroku](https://github.com/onplus/shadowsocks-heroku) - 一键部署 Free Shadowsocks-Heroku
 
 *   [FelisCatus/SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega) - Manage and switch between multiple proxies quickly & easily.
+
+*   [Ysheep666/starry](https://github.com/Ysheep666/starry) - starry.so 完成一个故事
 
 ## Pascal
 
