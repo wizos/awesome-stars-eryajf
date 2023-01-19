@@ -18,6 +18,7 @@
 
 ## Table of Contents
 
+*   [Kotlin](#kotlin)
 *   [miscellaneous](#miscellaneous)
 *   [TypeScript](#typescript)
 *   [Java](#java)
@@ -27,7 +28,6 @@
 *   [C++](#c)
 *   [Scala](#scala)
 *   [Go](#go)
-*   [Kotlin](#kotlin)
 *   [Python](#python)
 *   [C#](#c-1)
 *   [Shell](#shell)
@@ -62,6 +62,108 @@
 *   [Scheme](#scheme)
 *   [Groff](#groff)
 *   [Thanks](#thanks)
+
+## Kotlin
+
+*   [dabutaizha/pixivcompose](https://github.com/dabutaizha/pixivcompose) - An Android application to get random images form pixiv
+
+*   [LuckyPray/XAutoDaily](https://github.com/LuckyPray/XAutoDaily) - 一个基于QQ的全自动签到模块
+
+*   [android/nowinandroid](https://github.com/android/nowinandroid) - A fully functional Android app built entirely with Kotlin and Jetpack Compose
+
+*   [leavesCZY/compose\_chat](https://github.com/leavesCZY/compose_chat) -  Jetpack Compose 最佳实践，用 Jetpack Compose 写一个 IM APP
+
+*   [Face-scroll-keyboard/lightink](https://github.com/Face-scroll-keyboard/lightink) - 轻墨 模仿厚墨v1.3 复刻.
+
+*   [re-ovo/iwara4a](https://github.com/re-ovo/iwara4a) - 基于Jetpack Compose开发的iwara安卓app (Unofficial Iwara Android Application)
+
+*   [bjzhou/ts-browser](https://github.com/bjzhou/ts-browser) - Android browser written by jetpack compose
+
+*   [0xZhangKe/Prism](https://github.com/0xZhangKe/Prism) - Kotlin platform implementation of RSS and ATOM protocols. RSS 协议与 Atom 协议的 Kotlin 平台实现
+
+*   [lee-su-chan/NewsPostman](https://github.com/lee-su-chan/NewsPostman) - 🗞 RSS-based news crawling app
+
+*   [Ashinch/ReadYou](https://github.com/Ashinch/ReadYou) - An Android RSS reader presented in Material You style.
+
+*   [vardemin/VardDB](https://github.com/vardemin/VardDB) - Modern key-value database for Android in Kotlin based on MMKV database and Fast serilization. With support of TTL(Time-to-live) objects, Android LiveData and kotlin coroutines
+
+*   [seemoo-lab/AirGuard](https://github.com/seemoo-lab/AirGuard) - Protect yourself from being tracked 🌍 by AirTags 🏷 and Find My accessories 📍
+
+*   [mukul500/AnimeXStream](https://github.com/mukul500/AnimeXStream) - An Android app to watch anime on your phone without ads.
+
+*   [ejiaogl/FuckCoolapk](https://github.com/ejiaogl/FuckCoolapk) - Best present for 316 and 423.
+
+*   [pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder) - 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正
+
+*   [AppIntro/AppIntro](https://github.com/AppIntro/AppIntro) - Make a cool intro for your Android app.
+
+*   [SagerNet/SagerNet](https://github.com/SagerNet/SagerNet) - The universal proxy toolchain for Android
+
+*   [forJrking/KLuban](https://github.com/forJrking/KLuban) - Lifecycle + Kotlin 协程 + flow + LiveData + Glide 识别和内存优化 + Luban采样算法 = KLuban图片压缩
+
+*   [liangjingkanji/Net](https://github.com/liangjingkanji/Net) - \[OkHttp最佳实践] Android最好的网络请求工具, 比 Retrofit/OkGo 更简单易用
+
+*   [Moriafly/DsoMusic](https://github.com/Moriafly/DsoMusic) - Kotlin 开发的美观安卓音乐软件，音源：网易云音乐、QQ 音乐、酷我音乐、Bilibili
+
+*   [teddysun/xray-plugin-android](https://github.com/teddysun/xray-plugin-android) - A SIP003 plugin based on Xray-core for shadowsocks-android
+
+*   [princekin-f/EasyFloat](https://github.com/princekin-f/EasyFloat) - 🔥 EasyFloat：浮窗从未如此简单（Android可拖拽悬浮窗口，支持页面过滤、自定义动画，可设置单页面浮窗、前台浮窗、全局浮窗，浮窗权限按需自动申请...）
+
+*   [chrisbanes/Roomigrant](https://github.com/chrisbanes/Roomigrant) - Automated Android Room ORM migrations generator with compile-time code generation
+
+*   [xbdcc/GrabRedEnvelope](https://github.com/xbdcc/GrabRedEnvelope) -  微信抢红包Android APP
+
+*   [zhanghai/MaterialFiles](https://github.com/zhanghai/MaterialFiles) - Material Design file manager for Android
+
+*   [spacecowboy/Feeder](https://github.com/spacecowboy/Feeder) - Mirror of Gitlab repo
+
+*   [eprendre/tingshu](https://github.com/eprendre/tingshu) - 一款可在线播放多个免费听书站点的安卓app
+
+*   [gedoor/legado](https://github.com/gedoor/legado) - Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
+
+*   [RetroMusicPlayer/RetroMusicPlayer](https://github.com/RetroMusicPlayer/RetroMusicPlayer) - Best Material You Design music player for Android
+
+*   [Kr328/ClashForAndroid](https://github.com/Kr328/ClashForAndroid) - A rule-based tunnel for Android.
+
+*   [2dust/v2rayNG](https://github.com/2dust/v2rayNG) - A V2Ray client for Android, support Xray core and v2fly core
+
+*   [shadowsocksRb/shadowsocksRb-android](https://github.com/shadowsocksRb/shadowsocksRb-android) - A shadowsocksR client for Android
+
+*   [tachiyomiorg/tachiyomi](https://github.com/tachiyomiorg/tachiyomi) - Free and open source manga reader for Android.
+
+*   [ChuckerTeam/chucker](https://github.com/ChuckerTeam/chucker) - 🔎 An HTTP inspector for Android & OkHTTP (like Charles but on device)
+
+*   [devzwy/open\_nsfw\_android](https://github.com/devzwy/open_nsfw_android) - 🔥🔥🔥色情图片离线识别，基于TensorFlow实现。识别只需20ms,可断网测试，成功率99%，调用只要一行代码，从雅虎的开源项目open\_nsfw移植，该模型文件可用于iOS、java、C++等平台
+
+*   [eycorsican/kitsunebi-android](https://github.com/eycorsican/kitsunebi-android) -  A fully-featured V2Ray client for Android.
+
+*   [thundernest/k-9](https://github.com/thundernest/k-9) - K-9 Mail – Open Source Email App for Android
+
+*   [ParfoisMeng/SlideBack](https://github.com/ParfoisMeng/SlideBack) - 无需继承的Activity侧滑返回库 类全面屏返回手势效果 仿“即刻”侧滑返回
+
+*   [MixinNetwork/android-app](https://github.com/MixinNetwork/android-app) - 📱 Android private messenger, crypto wallet and light node to Mixin Network
+
+*   [NewsCatchr/NewsCatchr](https://github.com/NewsCatchr/NewsCatchr) - FOSS Android News Reader App
+
+*   [V2Ray-Android/Actinium](https://github.com/V2Ray-Android/Actinium) - A 3rd party V2Ray client for Android
+
+*   [XhstormR/GetBilibili](https://github.com/XhstormR/GetBilibili) - Download Bilibili Ultra-Definition Video
+
+*   [loopeer/code-reader](https://github.com/loopeer/code-reader) - One Multi program language code reader
+
+*   [xdtianyu/CallerInfo](https://github.com/xdtianyu/CallerInfo) - 来电信息 - 一个获取号码归属地和其他信息（诈骗、骚扰等）的开源 Android 应用
+
+*   [afollestad/material-dialogs](https://github.com/afollestad/material-dialogs) - 😍 A beautiful, fluid, and extensible dialogs API for Kotlin & Android.
+
+*   [wordpress-mobile/WordPress-Android](https://github.com/wordpress-mobile/WordPress-Android) - WordPress for Android
+
+*   [shadowsocks/shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android) - A shadowsocks client for Android
+
+*   [FredJul/Flym](https://github.com/FredJul/Flym) - Flym News Reader is a light Android feed reader (RSS/Atom)
+
+*   [PaperAirplane-Dev-Team/BlackLight](https://github.com/PaperAirplane-Dev-Team/BlackLight) - A light Sina Weibo client for Android
+
+*   [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android) - AnkiDroid: Anki flashcards on Android. Your secret trick to achieve superhuman information retention.
 
 ## miscellaneous
 
@@ -743,8 +845,6 @@
 
 *   [zzz40500/ThemeDemo](https://github.com/zzz40500/ThemeDemo) - (DEPRECATED)日夜间模式切换
 
-*   [hjw541988478/ZfsoftCampusAssit](https://github.com/hjw541988478/ZfsoftCampusAssit) - 校园生活服务平台，集课表，成绩，校历，通知，电费，考试，图书等功能于一身的便捷效率助手。
-
 *   [ksoichiro/Android-ObservableScrollView](https://github.com/ksoichiro/Android-ObservableScrollView) - Android library to observe scroll events on scrollable views.
 
 *   [hanks-zyh/ScrollViewOnTouch](https://github.com/hanks-zyh/ScrollViewOnTouch) - 仿百度助手头部搜索框缩放.
@@ -1234,106 +1334,6 @@
 *   [fanpei91/torsniff](https://github.com/fanpei91/torsniff) - torsniff - a sniffer that sniffs torrents from BitTorrent network
 
 *   [mawenbao/gofeed](https://github.com/mawenbao/gofeed) - gofeed is disigned to extract full-text rss feeds from websites which only provide partial feeds or none
-
-## Kotlin
-
-*   [LuckyPray/XAutoDaily](https://github.com/LuckyPray/XAutoDaily) - 一个基于QQ的全自动签到模块
-
-*   [android/nowinandroid](https://github.com/android/nowinandroid) - A fully functional Android app built entirely with Kotlin and Jetpack Compose
-
-*   [leavesCZY/compose\_chat](https://github.com/leavesCZY/compose_chat) -  Jetpack Compose 最佳实践，用 Jetpack Compose 写一个 IM APP
-
-*   [Face-scroll-keyboard/lightink](https://github.com/Face-scroll-keyboard/lightink) - 轻墨 模仿厚墨v1.3 复刻.
-
-*   [re-ovo/iwara4a](https://github.com/re-ovo/iwara4a) - 基于Jetpack Compose开发的iwara安卓app (Unofficial Iwara Android Application)
-
-*   [bjzhou/ts-browser](https://github.com/bjzhou/ts-browser) - Android browser written by jetpack compose
-
-*   [0xZhangKe/Prism](https://github.com/0xZhangKe/Prism) - Kotlin platform implementation of RSS and ATOM protocols. RSS 协议与 Atom 协议的 Kotlin 平台实现
-
-*   [lee-su-chan/NewsPostman](https://github.com/lee-su-chan/NewsPostman) - 🗞 RSS-based news crawling app
-
-*   [Ashinch/ReadYou](https://github.com/Ashinch/ReadYou) - An Android RSS reader presented in Material You style.
-
-*   [vardemin/VardDB](https://github.com/vardemin/VardDB) - Modern key-value database for Android in Kotlin based on MMKV database and Fast serilization. With support of TTL(Time-to-live) objects, Android LiveData and kotlin coroutines
-
-*   [seemoo-lab/AirGuard](https://github.com/seemoo-lab/AirGuard) - Protect yourself from being tracked 🌍 by AirTags 🏷 and Find My accessories 📍
-
-*   [mukul500/AnimeXStream](https://github.com/mukul500/AnimeXStream) - An Android app to watch anime on your phone without ads.
-
-*   [ejiaogl/FuckCoolapk](https://github.com/ejiaogl/FuckCoolapk) - Best present for 316 and 423.
-
-*   [pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder) - 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正
-
-*   [AppIntro/AppIntro](https://github.com/AppIntro/AppIntro) - Make a cool intro for your Android app.
-
-*   [SagerNet/SagerNet](https://github.com/SagerNet/SagerNet) - The universal proxy toolchain for Android
-
-*   [forJrking/KLuban](https://github.com/forJrking/KLuban) - Lifecycle + Kotlin 协程 + flow + LiveData + Glide 识别和内存优化 + Luban采样算法 = KLuban图片压缩
-
-*   [liangjingkanji/Net](https://github.com/liangjingkanji/Net) - \[OkHttp最佳实践] Android最好的网络请求工具, 比 Retrofit/OkGo 更简单易用
-
-*   [Moriafly/DsoMusic](https://github.com/Moriafly/DsoMusic) - Kotlin 开发的美观安卓音乐软件，音源：网易云音乐、QQ 音乐、酷我音乐、Bilibili
-
-*   [teddysun/xray-plugin-android](https://github.com/teddysun/xray-plugin-android) - A SIP003 plugin based on Xray-core for shadowsocks-android
-
-*   [princekin-f/EasyFloat](https://github.com/princekin-f/EasyFloat) - 🔥 EasyFloat：浮窗从未如此简单（Android可拖拽悬浮窗口，支持页面过滤、自定义动画，可设置单页面浮窗、前台浮窗、全局浮窗，浮窗权限按需自动申请...）
-
-*   [chrisbanes/Roomigrant](https://github.com/chrisbanes/Roomigrant) - Automated Android Room ORM migrations generator with compile-time code generation
-
-*   [xbdcc/GrabRedEnvelope](https://github.com/xbdcc/GrabRedEnvelope) -  微信抢红包Android APP
-
-*   [zhanghai/MaterialFiles](https://github.com/zhanghai/MaterialFiles) - Material Design file manager for Android
-
-*   [spacecowboy/Feeder](https://github.com/spacecowboy/Feeder) - Mirror of Gitlab repo
-
-*   [eprendre/tingshu](https://github.com/eprendre/tingshu) - 一款可在线播放多个免费听书站点的安卓app
-
-*   [gedoor/legado](https://github.com/gedoor/legado) - Legado 3.0 Book Reader with powerful controls & full functions❤️阅读3.0, 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
-
-*   [RetroMusicPlayer/RetroMusicPlayer](https://github.com/RetroMusicPlayer/RetroMusicPlayer) - Best Material You Design music player for Android
-
-*   [Kr328/ClashForAndroid](https://github.com/Kr328/ClashForAndroid) - A rule-based tunnel for Android.
-
-*   [2dust/v2rayNG](https://github.com/2dust/v2rayNG) - A V2Ray client for Android, support Xray core and v2fly core
-
-*   [shadowsocksRb/shadowsocksRb-android](https://github.com/shadowsocksRb/shadowsocksRb-android) - A shadowsocksR client for Android
-
-*   [tachiyomiorg/tachiyomi](https://github.com/tachiyomiorg/tachiyomi) - Free and open source manga reader for Android.
-
-*   [ChuckerTeam/chucker](https://github.com/ChuckerTeam/chucker) - 🔎 An HTTP inspector for Android & OkHTTP (like Charles but on device)
-
-*   [devzwy/open\_nsfw\_android](https://github.com/devzwy/open_nsfw_android) - 🔥🔥🔥色情图片离线识别，基于TensorFlow实现。识别只需20ms,可断网测试，成功率99%，调用只要一行代码，从雅虎的开源项目open\_nsfw移植，该模型文件可用于iOS、java、C++等平台
-
-*   [eycorsican/kitsunebi-android](https://github.com/eycorsican/kitsunebi-android) -  A fully-featured V2Ray client for Android.
-
-*   [thundernest/k-9](https://github.com/thundernest/k-9) - K-9 Mail – Open Source Email App for Android
-
-*   [ParfoisMeng/SlideBack](https://github.com/ParfoisMeng/SlideBack) - 无需继承的Activity侧滑返回库 类全面屏返回手势效果 仿“即刻”侧滑返回
-
-*   [MixinNetwork/android-app](https://github.com/MixinNetwork/android-app) - 📱 Android private messenger, crypto wallet and light node to Mixin Network
-
-*   [NewsCatchr/NewsCatchr](https://github.com/NewsCatchr/NewsCatchr) - FOSS Android News Reader App
-
-*   [V2Ray-Android/Actinium](https://github.com/V2Ray-Android/Actinium) - A 3rd party V2Ray client for Android
-
-*   [XhstormR/GetBilibili](https://github.com/XhstormR/GetBilibili) - Download Bilibili Ultra-Definition Video
-
-*   [loopeer/code-reader](https://github.com/loopeer/code-reader) - One Multi program language code reader
-
-*   [xdtianyu/CallerInfo](https://github.com/xdtianyu/CallerInfo) - 来电信息 - 一个获取号码归属地和其他信息（诈骗、骚扰等）的开源 Android 应用
-
-*   [afollestad/material-dialogs](https://github.com/afollestad/material-dialogs) - 😍 A beautiful, fluid, and extensible dialogs API for Kotlin & Android.
-
-*   [wordpress-mobile/WordPress-Android](https://github.com/wordpress-mobile/WordPress-Android) - WordPress for Android
-
-*   [shadowsocks/shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android) - A shadowsocks client for Android
-
-*   [FredJul/Flym](https://github.com/FredJul/Flym) - Flym News Reader is a light Android feed reader (RSS/Atom)
-
-*   [PaperAirplane-Dev-Team/BlackLight](https://github.com/PaperAirplane-Dev-Team/BlackLight) - A light Sina Weibo client for Android
-
-*   [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android) - AnkiDroid: Anki flashcards on Android. Your secret trick to achieve superhuman information retention.
 
 ## Python
 
