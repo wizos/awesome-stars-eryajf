@@ -50,6 +50,7 @@
 *   [TeX](#tex)
 *   [Lua](#lua)
 *   [Jupyter Notebook](#jupyter-notebook)
+*   [Makefile](#makefile)
 *   [Perl](#perl)
 *   [CoffeeScript](#coffeescript)
 *   [Pascal](#pascal)
@@ -1015,8 +1016,6 @@
 
 *   [bimohxh/jsonon](https://github.com/bimohxh/jsonon) - A json online view
 
-*   [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
-
 *   [notadd/neditor](https://github.com/notadd/neditor) - 基于 ueditor的更现代化的富文本编辑器，支持HTTPS
 
 *   [hotoo/pinyin](https://github.com/hotoo/pinyin) - :cn: 汉字拼音 ➜ hàn zì pīn yīn
@@ -1898,6 +1897,10 @@
 ## Jupyter Notebook
 
 *   [xitu/tensorflow-docs](https://github.com/xitu/tensorflow-docs) - TensorFlow 最新官方文档中文版
+
+## Makefile
+
+*   [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 
 ## Perl
 
