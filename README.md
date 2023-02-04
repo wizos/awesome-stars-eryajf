@@ -176,7 +176,7 @@
 
 *   [heiher/hev-socks5-server](https://github.com/heiher/hev-socks5-server) - A simple, lightweight socks5 server for Unix (Linux/BSD/macOS)
 
-*   [heiher/hev-socks5-tunnel](https://github.com/heiher/hev-socks5-tunnel) - Tunnel over Socks5 proxy (tun2socks) (IPv4/IPv6/TCP/UDP over TCP)
+*   [heiher/hev-socks5-tunnel](https://github.com/heiher/hev-socks5-tunnel) - Tunnel over Socks5 proxy (tun2socks) for Linux/MacOS (IPv4/IPv6/TCP/UDP over TCP)
 
 *   [suizzide/qi](https://github.com/suizzide/qi) - Lightweight and fast programming language designed to be written in Chinese.
 
