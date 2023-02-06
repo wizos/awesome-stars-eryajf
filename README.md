@@ -84,7 +84,7 @@
 
 *   [bjzhou/ts-browser](https://github.com/bjzhou/ts-browser) - Android browser written by jetpack compose
 
-*   [0xZhangKe/Prism](https://github.com/0xZhangKe/Prism) - Kotlin platform implementation of RSS and ATOM protocols. RSS 协议与 Atom 协议的 Kotlin 平台实现
+*   [0xZhangKe/Prism](https://github.com/0xZhangKe/Prism) - Kotlin platform implementation of RSS and ATOM protocols
 
 *   [lee-su-chan/NewsPostman](https://github.com/lee-su-chan/NewsPostman) - 🗞 RSS-based news crawling app
 
