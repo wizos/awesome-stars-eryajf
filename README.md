@@ -242,6 +242,8 @@
 
 *   [Vinnl/feeds](https://github.com/Vinnl/feeds) -   Example repository for creating your own RSS feeds using Feed me up, Scotty!
 
+*   [hyb1996/Auto.js](https://github.com/hyb1996/Auto.js) - Automation\&Workflow JavaScript IDE on Android(安卓平台上的自动化工作流JavaScript IDE)
+
 *   [emma-oc/podcast-host](https://github.com/emma-oc/podcast-host) - Listen and subscribe to our podcast "杠上开花A Bouquet of Arguments"! This is the repo for files and RSS feed.
 
 *   [yuuwill/1024app-android](https://github.com/yuuwill/1024app-android) - 草榴官方客户端，小草客户端，Android
@@ -413,8 +415,6 @@
 *   [ZLYang110/FileSelector](https://github.com/ZLYang110/FileSelector) - Android 文件选择器，指定选择文件夹还是文件，根据后缀名过滤，支持多选
 
 *   [JeffMony/JeffVideoCache](https://github.com/JeffMony/JeffVideoCache) - Better than AndroidVideoCache, it supports M3U8 and MP4
-
-*   [hyb1996/Auto.js](https://github.com/hyb1996/Auto.js) - Automation\&Workflow JavaScript IDE on Android(安卓平台上的自动化工作流JavaScript IDE)
 
 *   [donkingliang/ConsecutiveScroller](https://github.com/donkingliang/ConsecutiveScroller) - ConsecutiveScrollerLayout是Android下支持多个滑动布局(RecyclerView、WebView、ScrollView等)和普通控件(TextView、ImageView、LinearLayou、自定义View等)持续连贯滑动的容器,它使所有的子View像一个整体一样连续顺畅滑动。并且支持布局吸顶功能。
 
@@ -716,7 +716,7 @@
 
 *   [limpoxe/Android-Plugin-Framework](https://github.com/limpoxe/Android-Plugin-Framework) - Android插件框架，免安装运行插件APK ，支持独立插件和非独立插件
 
-*   [cuu/ovpn\_webview](https://github.com/cuu/ovpn_webview) - openvpn android with webview interface 为了纪念曾经的灰产免流岁月,公开此代码,此版本与官方闭源openvpn安卓app完全一样,最强线路兼容,并且支持线路远程获取,dalo线路格式,请自行研究,不得用于非法商业活动
+*   [cuu/ovpn\_webview](https://github.com/cuu/ovpn_webview) - openvpn android with webview interface 逆向工程,为了纪念曾经的灰产免流岁月,公开此代码,此版本与官方闭源openvpn安卓app完全一样,最强线路兼容,并且支持线路远程获取,dalo线路格式,请自行研究,不得用于非法商业活动
 
 *   [iTXTech/Daedalus](https://github.com/iTXTech/Daedalus) - No root required Android DNS modifier and Hosts/DNSMasq resolver.
 
