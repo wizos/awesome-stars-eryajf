@@ -1182,6 +1182,8 @@
 
 *   [sofish/typo.css](https://github.com/sofish/typo.css) - 中文网页重设与排版：一致化浏览器排版效果，构建最适合中文阅读的网页排版
 
+*   [fossar/selfoss](https://github.com/fossar/selfoss) - multipurpose rss reader, live stream, mashup, aggregation web application
+
 *   [DIYgod/Resume](https://github.com/DIYgod/Resume) - :cake: Simple resume
 
 *   [fanfank/phpfetcher](https://github.com/fanfank/phpfetcher) - A PHP web crawler framework
@@ -1731,8 +1733,6 @@
 *   [JJYing/Podcast-RSS-Editor](https://github.com/JJYing/Podcast-RSS-Editor) - A simple Podcast RSS editor in PHP
 
 *   [mingcheng/php-readability](https://github.com/mingcheng/php-readability) - Back the fun of reading -  PHP Port for Arc90′s Readability
-
-*   [fossar/selfoss](https://github.com/fossar/selfoss) - multipurpose rss reader, live stream, mashup, aggregation web application
 
 *   [lformella/rss-extender](https://github.com/lformella/rss-extender) - This PHP Script can extend short rss feeds by visiting the site, download all articles and merge them together to get an ultimative feed.
 
