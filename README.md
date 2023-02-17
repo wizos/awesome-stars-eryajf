@@ -174,7 +174,7 @@
 
 *   [heiher/hev-socks5-server](https://github.com/heiher/hev-socks5-server) - A simple, lightweight socks5 server for Unix (Linux/BSD/macOS)
 
-*   [heiher/hev-socks5-tunnel](https://github.com/heiher/hev-socks5-tunnel) - Tunnel over Socks5 proxy (tun2socks) for Linux/Android/FreeBSD/macOS (IPv4/IPv6/TCP/UDP over TCP)
+*   [heiher/hev-socks5-tunnel](https://github.com/heiher/hev-socks5-tunnel) - Tunnel over Socks5 proxy (tun2socks) for Linux/Android/FreeBSD/macOS (IPv4/IPv6/TCP/UDP)
 
 *   [LuckyPray/XAutoDaily](https://github.com/LuckyPray/XAutoDaily) - 一个基于QQ的全自动签到模块
 
