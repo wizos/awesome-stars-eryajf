@@ -66,6 +66,8 @@
 
 ## Kotlin
 
+*   [WankkoRee/WebViewPP](https://github.com/WankkoRee/WebViewPP) - Enable WebView debugging and add vConsole in it. Support WebView, TBS X5, UC U4, Crosswalk(XWalk), XWeb. 启用 WebView 调试并添加 vConsole，支持 WebView、TBS X5、UC U4、Crosswalk(XWalk)、XWeb。
+
 *   [TermPlux/TermPlux-App](https://github.com/TermPlux/TermPlux-App) - TermPlux Project
 
 *   [Clearpole/VideoYou-Code-View](https://github.com/Clearpole/VideoYou-Code-View) -
@@ -952,7 +954,7 @@
 
 ## miscellaneous
 
-*   [o0HalfLife0o/TVBoxOSC](https://github.com/o0HalfLife0o/TVBoxOSC) -
+*   [pvqogw/TVBoxOSC](https://github.com/pvqogw/TVBoxOSC) -
 
 *   [ilovexjp/trip-card](https://github.com/ilovexjp/trip-card) - 通信大数据行程卡模拟
 
@@ -1084,7 +1086,7 @@
 
 *   [book-searcher-org/book-searcher](https://github.com/book-searcher-org/book-searcher) - Easy and fast book searcher, create and search your private library. Index metadata for over 10 million books in one minute as well as search in 30µs.
 
-*   [VideoRoll/VideoRoll](https://github.com/VideoRoll/VideoRoll) - ✨A chrome/edge extension to rotate, zoom, move, scale, flip and filter a web video
+*   [VideoRoll/VideoRoll](https://github.com/VideoRoll/VideoRoll) - ✨A chrome/edge extension to rotate, zoom, move, scale, flip, tune and filter a web video
 
 *   [visiky/resume](https://github.com/visiky/resume) - 🚀 在线简历生成器
 
@@ -1567,8 +1569,6 @@
 *   [PeterDing/iScript](https://github.com/PeterDing/iScript) - 各种脚本 -- 关于 虾米 xiami.com, 百度网盘 pan.baidu.com, 115网盘 115.com, 网易音乐 music.163.com, 百度音乐 music.baidu.com, 360网盘/云盘 yunpan.cn, 视频解析 flvxz.com, bt torrent ↔ magnet, ed2k 搜索, tumblr 图片下载, unzip
 
 *   [codelucas/newspaper](https://github.com/codelucas/newspaper) - News, full-text, and article metadata extraction in Python 3. Advanced docs:
-
-*   [ccbikai/weibotools](https://github.com/ccbikai/weibotools) - 新浪微博时间线与收藏生成rss（支持多图微博），腾讯微博时间线与收藏生成rss（支持多图微博），instagram同步到微博
 
 ## C\#
 
