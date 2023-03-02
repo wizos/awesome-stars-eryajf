@@ -116,7 +116,7 @@
 
 *   [forJrking/KLuban](https://github.com/forJrking/KLuban) - Lifecycle + Kotlin 协程 + flow + LiveData + Glide 识别和内存优化 + Luban采样算法 = KLuban图片压缩
 
-*   [liangjingkanji/Net](https://github.com/liangjingkanji/Net) - \[OkHttp最佳实践] Android最好的网络请求工具, 比 Retrofit/OkGo 更简单易用
+*   [liangjingkanji/Net](https://github.com/liangjingkanji/Net) - \[OkHttp最佳实践] 基于协程的Android网络请求工具, 比 Retrofit/OkGo 更简单易用
 
 *   [Moriafly/DsoMusic](https://github.com/Moriafly/DsoMusic) - Kotlin 开发的美观安卓音乐软件，音源：网易云音乐、QQ 音乐、酷我音乐、Bilibili
 
@@ -902,7 +902,7 @@
 
 *   [heiher/hev-socks5-server](https://github.com/heiher/hev-socks5-server) - A simple, lightweight socks5 server for Unix (Linux/BSD/macOS)
 
-*   [heiher/hev-socks5-tunnel](https://github.com/heiher/hev-socks5-tunnel) - High performance tun2socks for Linux/Android/FreeBSD/macOS (IPv4/IPv6/TCP/UDP)
+*   [heiher/hev-socks5-tunnel](https://github.com/heiher/hev-socks5-tunnel) - High performance tun2socks for Linux/Android/FreeBSD/macOS/iOS (IPv4/IPv6/TCP/UDP)
 
 *   [suizzide/qi](https://github.com/suizzide/qi) - Lightweight and fast programming language designed to be written in Chinese.
 
