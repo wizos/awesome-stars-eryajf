@@ -300,8 +300,6 @@
 
 *   [yanzhenjie/AndServer](https://github.com/yanzhenjie/AndServer) - :cherries: Web server and web framework of Android platform.
 
-*   [zhegexiaohuozi/JsoupXpath](https://github.com/zhegexiaohuozi/JsoupXpath) - 纯Java实现的支持W3C Xpath 1.0标准语法的HTML解析器。A html parser with xpath base on Jsoup and Antlr4. Maybe it is the best in java.Just try it.
-
 *   [json-path/JsonPath](https://github.com/json-path/JsonPath) - Java JsonPath implementation
 
 *   [gedoor/MyBookshelf](https://github.com/gedoor/MyBookshelf) - 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
@@ -1086,7 +1084,7 @@
 
 *   [book-searcher-org/book-searcher](https://github.com/book-searcher-org/book-searcher) - Easy and fast book searcher, create and search your private library. Index metadata for over 10 million books in one minute as well as search in 30µs.
 
-*   [VideoRoll/VideoRoll](https://github.com/VideoRoll/VideoRoll) - ✨A chrome/edge extension to rotate, zoom, move, scale, flip, tune and filter a web video
+*   [VideoRoll/VideoRoll](https://github.com/VideoRoll/VideoRoll) - 📺A chrome/edge extension to rotate, zoom, move, scale, flip, tune and filter a web video
 
 *   [visiky/resume](https://github.com/visiky/resume) - 🚀 在线简历生成器
 
@@ -1313,6 +1311,8 @@
 *   [acl4ssr-sub/acl4ssr-sub.github.io](https://github.com/acl4ssr-sub/acl4ssr-sub.github.io) -
 
 *   [pingfangx/TranslatorX](https://github.com/pingfangx/TranslatorX) - JetBrains 系列软件汉化包 关键字: Android Studio 3.5 汉化包 CLion 2019.3 汉化包 DataGrip 2019.3 汉化包 GoLand 2019.3 汉化包 IntelliJ IDEA 2019.3 汉化包 PhpStorm 2019.3 汉化包 PyCharm 2019.3 汉化包 Rider 2019.3 汉化包 RubyMine 2019.3 汉化包 WebStorm 2019.3 汉化包
+
+*   [zhegexiaohuozi/JsoupXpath](https://github.com/zhegexiaohuozi/JsoupXpath) - 纯Java实现的支持W3C Xpath 1.0标准语法的HTML解析器。A html parser with xpath base on Jsoup and Antlr4. Maybe it is the best in java.Just try it.
 
 *   [nndl/nndl.github.io](https://github.com/nndl/nndl.github.io) - 《神经网络与深度学习》 邱锡鹏著 Neural Network and Deep Learning
 
