@@ -130,7 +130,7 @@
 
 *   [zhanghai/MaterialFiles](https://github.com/zhanghai/MaterialFiles) - Material Design file manager for Android
 
-*   [spacecowboy/Feeder](https://github.com/spacecowboy/Feeder) - Mirror of Gitlab repo
+*   [spacecowboy/Feeder](https://github.com/spacecowboy/Feeder) - Android RSS reader app
 
 *   [eprendre/tingshu](https://github.com/eprendre/tingshu) - 一款可在线播放多个免费听书站点的安卓app
 
