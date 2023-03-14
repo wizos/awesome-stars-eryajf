@@ -61,6 +61,7 @@
 *   [Lex](#lex)
 *   [AppleScript](#applescript)
 *   [Scheme](#scheme)
+*   [Groff](#groff)
 *   [Thanks](#thanks)
 
 ## Kotlin
@@ -90,8 +91,6 @@
 *   [leavesCZY/compose\_chat](https://github.com/leavesCZY/compose_chat) -  Jetpack Compose 最佳实践，用 Jetpack Compose 写一个 IM APP
 
 *   [Face-scroll-keyboard/lightink](https://github.com/Face-scroll-keyboard/lightink) - 轻墨 模仿厚墨v1.3 复刻.
-
-*   [re-ovo/iwara4a](https://github.com/re-ovo/iwara4a) - 基于Jetpack Compose开发的iwara安卓app (Unofficial Iwara Android Application)
 
 *   [bjzhou/ts-browser](https://github.com/bjzhou/ts-browser) - Android browser written by jetpack compose
 
@@ -125,8 +124,6 @@
 
 *   [princekin-f/EasyFloat](https://github.com/princekin-f/EasyFloat) - 🔥 EasyFloat：浮窗从未如此简单（Android可拖拽悬浮窗口，支持页面过滤、自定义动画，可设置单页面浮窗、前台浮窗、全局浮窗，浮窗权限按需自动申请...）
 
-*   [chrisbanes/Roomigrant](https://github.com/chrisbanes/Roomigrant) - Automated Android Room ORM migrations generator with compile-time code generation
-
 *   [xbdcc/GrabRedEnvelope](https://github.com/xbdcc/GrabRedEnvelope) -  微信抢红包Android APP
 
 *   [zhanghai/MaterialFiles](https://github.com/zhanghai/MaterialFiles) - Material Design file manager for Android
@@ -158,8 +155,6 @@
 *   [ParfoisMeng/SlideBack](https://github.com/ParfoisMeng/SlideBack) - 无需继承的Activity侧滑返回库 类全面屏返回手势效果 仿“即刻”侧滑返回
 
 *   [MixinNetwork/android-app](https://github.com/MixinNetwork/android-app) - 📱 Android private messenger, crypto wallet and light node to Mixin Network
-
-*   [NewsCatchr/NewsCatchr](https://github.com/NewsCatchr/NewsCatchr) - FOSS Android News Reader App
 
 *   [V2Ray-Android/Actinium](https://github.com/V2Ray-Android/Actinium) - A 3rd party V2Ray client for Android
 
@@ -1255,6 +1250,10 @@
 
 *   [Show-Me-the-Code/show-me-the-code](https://github.com/Show-Me-the-Code/show-me-the-code) - Python 练习册，每天一个小程序
 
+*   [Trinea/android-open-project](https://github.com/Trinea/android-open-project) - A categorized collection of Android Open Source Projects,  More powerful web version:
+
+*   [fivefilters/ftr-site-config](https://github.com/fivefilters/ftr-site-config) - Site-specific article extraction rules to aid content extractors, feed readers, and 'read later' applications.
+
 ## TypeScript
 
 *   [book-searcher-org/book-searcher](https://github.com/book-searcher-org/book-searcher) - Easy and fast book searcher, create and search your private library. Index metadata for over 10 million books in one minute as well as search in 30µs.
@@ -1395,8 +1394,6 @@
 
 *   [yangyangwithgnu/hanz2piny](https://github.com/yangyangwithgnu/hanz2piny) - hanz2piny is a tool that easy convert chinese hanzi to mandarin pinyin. It fast, no-DB-file, and supports polyphone.
 
-*   [yangyangwithgnu/autoshadower](https://github.com/yangyangwithgnu/autoshadower) - autoshadower is so sweet, she will find many free shadowsoks accounts for you, do her best!
-
 *   [QuiteRSS/quiterss](https://github.com/QuiteRSS/quiterss) - Free news feeds reader
 
 ## Scala
@@ -1414,8 +1411,6 @@
 *   [aceimnorstuvwxz/toutiao-text-classfication-dataset](https://github.com/aceimnorstuvwxz/toutiao-text-classfication-dataset) - 今日头条中文新闻（文本）分类数据集
 
 *   [LingDong-/qiji-font](https://github.com/LingDong-/qiji-font) - 齊伋體 - typeface from Ming Dynasty woodblock printed books
-
-*   [n0raml/rsschan](https://github.com/n0raml/rsschan) - A update\&push rss/feed tool
 
 *   [chen310/NeteaseCloudMusicTasks](https://github.com/chen310/NeteaseCloudMusicTasks) -
 
@@ -1576,6 +1571,10 @@
 *   [ZhangBohan/fun\_crawler](https://github.com/ZhangBohan/fun_crawler) - Crawl some picture for fun
 
 *   [PeterDing/iScript](https://github.com/PeterDing/iScript) - 各种脚本 -- 关于 虾米 xiami.com, 百度网盘 pan.baidu.com, 115网盘 115.com, 网易音乐 music.163.com, 百度音乐 music.baidu.com, 360网盘/云盘 yunpan.cn, 视频解析 flvxz.com, bt torrent ↔ magnet, ed2k 搜索, tumblr 图片下载, unzip
+
+*   [codelucas/newspaper](https://github.com/codelucas/newspaper) - News, full-text, and article metadata extraction in Python 3. Advanced docs:
+
+*   [ccbikai/weibotools](https://github.com/ccbikai/weibotools) - 新浪微博时间线与收藏生成rss（支持多图微博），腾讯微博时间线与收藏生成rss（支持多图微博），instagram同步到微博
 
 ## C\#
 
@@ -1948,6 +1947,10 @@
 ## Scheme
 
 *   [cisco/ChezScheme](https://github.com/cisco/ChezScheme) - Chez Scheme
+
+## Groff
+
+*   [disconn3ct/tiny\_tiny\_rss-openshift-quickstart](https://github.com/disconn3ct/tiny_tiny_rss-openshift-quickstart) - Quickstart for Tiny Tiny RSS, with submodules for mobile plugin and upstream TTRSS source.
 
 ## Thanks
 
