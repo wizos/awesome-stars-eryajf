@@ -89,8 +89,6 @@
 
 *   [TermPlux/TermPlux-App](https://github.com/TermPlux/TermPlux-App) - TermPlux Project
 
-*   [Clearpole/VideoYou-Code-View](https://github.com/Clearpole/VideoYou-Code-View) -
-
 *   [thalloerupt/stage2](https://github.com/thalloerupt/stage2) - A browser base on Geckoview
 
 *   [cgspine/emo](https://github.com/cgspine/emo) - some android libraries to speed up development.
@@ -1422,6 +1420,8 @@
 *   [binux/qiandao](https://github.com/binux/qiandao) - 签到
 
 *   [scarletsky/md-avatar](https://github.com/scarletsky/md-avatar) - Material Design avatar for canvas!
+
+*   [chengjun/iching](https://github.com/chengjun/iching) - A python package of I Ching 《易经》蓍草卦的Python版本
 
 ## Dart
 
