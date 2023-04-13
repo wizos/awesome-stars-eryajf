@@ -1315,8 +1315,6 @@
 
 *   [b3log/baidu-netdisk-downloaderx](https://github.com/b3log/baidu-netdisk-downloaderx) - ⚡️ 一款图形界面的百度网盘不限速下载器，支持 Windows、Linux 和 Mac。
 
-*   [qiaomenzhuang/ssr\_subscrible\_tool](https://github.com/qiaomenzhuang/ssr_subscrible_tool) - SSR节点订阅地址生成器
-
 *   [bilibili/flv.js](https://github.com/bilibili/flv.js) - HTML5 FLV Player
 
 *   [FirefoxBar/HeaderEditor](https://github.com/FirefoxBar/HeaderEditor) - Manage browser's requests, include modify the request headers and response headers, redirect requests, cancel requests
@@ -1422,6 +1420,8 @@
 *   [binux/qiandao](https://github.com/binux/qiandao) - 签到
 
 *   [scarletsky/md-avatar](https://github.com/scarletsky/md-avatar) - Material Design avatar for canvas!
+
+*   [chengjun/iching](https://github.com/chengjun/iching) - A python package of I Ching 《易经》蓍草卦的Python版本
 
 ## Dart
 
