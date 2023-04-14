@@ -337,7 +337,7 @@
 
 *   [book-searcher-org/book-searcher](https://github.com/book-searcher-org/book-searcher) - Easy and fast book searcher, create and search your private library. Index metadata for over 10 million books in one minute as well as search in 30µs.
 
-*   [VideoRoll/VideoRoll](https://github.com/VideoRoll/VideoRoll) - 📺A chrome/edge extension to rotate, zoom, move, scale, flip, tune, focus and filter a web video
+*   [VideoRoll/VideoRoll](https://github.com/VideoRoll/VideoRoll) - 📺A chrome/edge/firefox extension to rotate, zoom, move, scale, flip, tune, focus and filter a web video
 
 *   [visiky/resume](https://github.com/visiky/resume) - 🚀 在线简历生成器
 
@@ -378,8 +378,6 @@
 ## HTML
 
 *   [xqdoo00o/chatgpt-web](https://github.com/xqdoo00o/chatgpt-web) - Pure Javascript ChatGPT demo based on OpenAI API
-
-*   [oneditor/oneditor](https://github.com/oneditor/oneditor) - 一画编辑器是一款功能丰富的在线海报编辑器、图片编辑器，支持psd、图片、文字、svg、gif、视频等多种格式处理。并提供个人免费的开放接口，高度可定制，一行代码即可接入，非常方便！
 
 *   [atelier-anchor/smiley-sans](https://github.com/atelier-anchor/smiley-sans) - 得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体
 
@@ -1782,6 +1780,8 @@
 *   [RSS-Bridge/rss-bridge](https://github.com/RSS-Bridge/rss-bridge) - The RSS feed for websites missing it
 
 *   [9IPHP/9IPHP](https://github.com/9IPHP/9IPHP) - 响应式WordPress主题
+
+*   [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable aggregator…
 
 ## Rust
 
