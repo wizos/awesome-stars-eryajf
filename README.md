@@ -66,6 +66,8 @@
 
 ## Kotlin
 
+*   [biubiuqiu0/flow-event-bus](https://github.com/biubiuqiu0/flow-event-bus) - EventBus for Android，消息总线，基于SharedFlow，具有生命周期感知能力，支持Sticky，支持线程切换，支持延迟发送。
+
 *   [onebone/compose-collapsing-toolbar](https://github.com/onebone/compose-collapsing-toolbar) - A simple implementation of collapsing toolbar for Jetpack Compose
 
 *   [T8RIN/ImageResizer](https://github.com/T8RIN/ImageResizer) - 🖼️ Powerful image resizer with width/height selection, cropping, EXIF editing, quality and output image type picking and batch processing feature.
@@ -855,8 +857,6 @@
 *   [xiangyuecn/Android-UsesPermission](https://github.com/xiangyuecn/Android-UsesPermission) - 安卓权限申请封装处理框架。测试支持4.0+。只有简单的java文件，复制文件即可使用。调用方便
 
 *   [MiPushFramework/MiPushFramework](https://github.com/MiPushFramework/MiPushFramework) - \[Archived, SEE THE LINK FOR FORK] Let supported push service run system-ly on every Android devices
-
-*   [JeremyLiao/LiveEventBus](https://github.com/JeremyLiao/LiveEventBus) - :mailbox\_with\_mail:EventBus for Android，消息总线，基于LiveData，具有生命周期感知能力，支持Sticky，支持AndroidX，支持跨进程，支持跨APP
 
 *   [xwlcn/Dodder](https://github.com/xwlcn/Dodder) - A distributed DHT crawler that sniffs torrents from BitTorrent network
 
