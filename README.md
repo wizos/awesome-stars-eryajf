@@ -634,7 +634,7 @@
 
 *   [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - Port of Facebook's LLaMA model in C/C++
 
-*   [gojue/ecapture](https://github.com/gojue/ecapture) - capture SSL/TLS text content without CA cert using eBPF. supports Linux/Android  x86\_64/Aarch64.
+*   [gojue/ecapture](https://github.com/gojue/ecapture) - Capture SSL/TLS text content without a CA certificate using eBPF. This tool is compatible with Linux/Android x86\_64/Aarch64.
 
 *   [heiher/hev-socks5-server](https://github.com/heiher/hev-socks5-server) - A simple, lightweight socks5 server for Unix (Linux/BSD/macOS)
 
