@@ -66,6 +66,8 @@
 
 ## Python
 
+*   [GaiZhenbiao/ChuanhuChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT) - GUI for ChatGPT API and any LLM
+
 *   [xtekky/gpt4free](https://github.com/xtekky/gpt4free) - decentralising the Ai Industry, just some language model api's...
 
 *   [databrickslabs/dolly](https://github.com/databrickslabs/dolly) - Databricks’ Dolly, a large language model trained on the Databricks Machine Learning Platform
@@ -1553,8 +1555,6 @@
 *   [dylang/node-rss](https://github.com/dylang/node-rss) - RSS feed generator for Node.
 
 *   [impress/impress.js](https://github.com/impress/impress.js) - It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com.
-
-*   [binux/qiandao](https://github.com/binux/qiandao) - 签到
 
 ## Dart
 
