@@ -18,6 +18,7 @@
 
 ## Table of Contents
 
+*   [PHP](#php)
 *   [Python](#python)
 *   [Go](#go)
 *   [Haskell](#haskell)
@@ -36,7 +37,6 @@
 *   [C++](#c-2)
 *   [Scala](#scala)
 *   [Shell](#shell)
-*   [PHP](#php)
 *   [Rust](#rust)
 *   [Objective-C](#objective-c)
 *   [EJS](#ejs)
@@ -64,6 +64,122 @@
 *   [Scheme](#scheme)
 *   [Thanks](#thanks)
 
+## PHP
+
+*   [beyondcode/writeout.ai](https://github.com/beyondcode/writeout.ai) - Transcribe and translate your audio files - for free
+
+*   [xtrime-ru/TelegramApiServer](https://github.com/xtrime-ru/TelegramApiServer) - Fast, simple, async php telegram api server: MadelineProto + Amp HTTP Server
+
+*   [juicyfx/vercel-examples](https://github.com/juicyfx/vercel-examples) - 📦 Example projects using Vercel platform. Using Node.js, PHP and others.
+
+*   [aaro-n/heroku-wp](https://github.com/aaro-n/heroku-wp) - 在Heroku 搭建 Wordpress
+
+*   [reycn/tt-rss-heroku](https://github.com/reycn/tt-rss-heroku) - Tiny-tiny RSS for Heroku
+
+*   [serl/ttrss-heroku](https://github.com/serl/ttrss-heroku) - Tiny Tiny RSS on Heroku, and it's actually working!
+
+*   [hasinhayder/wpsqlite](https://github.com/hasinhayder/wpsqlite) - Quickly provision a fully functional WordPress site with SQLite, with \*.wplocal.xyz domain support
+
+*   [easychen/howto-make-more-money](https://github.com/easychen/howto-make-more-money) - 程序员如何优雅的挣零花钱，2.0版，升级为小书了。Most of this not work outside China , so no English translate
+
+*   [PrintNow/Jiangxi-University-Health-Check-in](https://github.com/PrintNow/Jiangxi-University-Health-Check-in) - 江西省普通高等学校 校园防疫 健康签到 自动签到
+
+*   [bclswl0827/goagent-php](https://github.com/bclswl0827/goagent-php) - GoAgent PHP 翻墙
+
+*   [wltb/ff\_feedcleaner](https://github.com/wltb/ff_feedcleaner) - Plugin for Tiny Tiny RSS
+
+*   [fukuball/jieba-php](https://github.com/fukuball/jieba-php) - "結巴"中文分詞：做最好的 PHP 中文分詞、中文斷詞組件。 / "Jieba" (Chinese for "to stutter") Chinese text segmentation: built to be the best PHP Chinese word segmentation module.
+
+*   [Baiduio/7ghost](https://github.com/Baiduio/7ghost) - 7ghost是一款基于PHP的网站反向代理程序
+
+*   [zbfzn/douyin-clear-php](https://github.com/zbfzn/douyin-clear-php) - 抖音去水印PHP版接口
+
+*   [guyueyingmu/avbook](https://github.com/guyueyingmu/avbook) - AV 电影管理系统， avmoo , javbus , javlibrary 爬虫，线上 AV 影片图书馆，AV 磁力链接数据库，Japanese Adult Video Library,Adult Video Magnet Links - Japanese Adult Video Database
+
+*   [mashirozx/sakura](https://github.com/mashirozx/sakura) - A Wonderful WordPress Theme: 樱花庄的白猫博客主题
+
+*   [fanly/lrss](https://github.com/fanly/lrss) - 利用 laravel 转 URL 为 RSS Feed
+
+*   [ivopetkov/html5-dom-document-php](https://github.com/ivopetkov/html5-dom-document-php) - A better HTML5 parser for PHP.
+
+*   [flarum/flarum](https://github.com/flarum/flarum) - Simple forum software for building great communities.
+
+*   [erusev/parsedown](https://github.com/erusev/parsedown) - Better Markdown Parser in PHP
+
+*   [zorlan/skycaiji](https://github.com/zorlan/skycaiji) - 蓝天采集器是一款开源免费的爬虫系统，仅需点选编辑规则即可采集数据，可运行在本地、虚拟主机或云服务器中，几乎能采集所有类型的网页，无缝对接各类CMS建站程序，免登录实时发布数据，全自动无需人工干预！是网页大数据采集软件中完全跨平台的云端爬虫系统
+
+*   [LoeiFy/Diaspora](https://github.com/LoeiFy/Diaspora) - Diaspora - A WordPress theme
+
+*   [jacklenox/susty](https://github.com/jacklenox/susty) - 🌍 A tiny WordPress theme focused on being as  sustainable as possible. https://sustywp.com
+
+*   [dartiss/code-embed](https://github.com/dartiss/code-embed) - 🧩WordPress plugin to make embedding of code in posts really, really easy
+
+*   [helloxz/imgurl](https://github.com/helloxz/imgurl) - ImgURL是一个简单、纯粹的图床程序，让个人图床多一个选择。
+
+*   [leproxy/leproxy](https://github.com/leproxy/leproxy) - LeProxy is the HTTP/SOCKS proxy server for everybody!
+
+*   [j0k3r/f43.me](https://github.com/j0k3r/f43.me) - A more readable & cleaner feed
+
+*   [jae-jae/QueryList](https://github.com/jae-jae/QueryList) - :spider: The progressive PHP crawler framework!  优雅的渐进式PHP采集框架。
+
+*   [finndychain/finndychain-node](https://github.com/finndychain/finndychain-node) - 发源地/发源链开源分布式”数据挖矿“引擎，致力于挖掘大数据矿山背后的价值！
+
+*   [qsbaq/btlike-php-front](https://github.com/qsbaq/btlike-php-front) - BTLIKE 的PHP前端
+
+*   [tangshuang/php-cron](https://github.com/tangshuang/php-cron) - 实现PHP Cron，也就是PHP定时任务，通过本地文件记录schedules，然后通过fsockopen实现非阻塞式的后台访问对应的url来实现定时任务，通过sleep实现定时，如果错过任务，则通过用户访问来执行该任务（还未完善）
+
+*   [bephp/router](https://github.com/bephp/router) - A barebones router for PHP. Automatic get variable based on handler function parameter list. Suport to compile router callback handlers into plain array source code.
+
+*   [noahbuscher/macaw](https://github.com/noahbuscher/macaw) - The simple PHP router
+
+*   [alaouy/Youtube](https://github.com/alaouy/Youtube) - 🔥 Laravel PHP Facade/Wrapper for the Youtube Data API
+
+*   [zxq2233/youtube-php-mirroring](https://github.com/zxq2233/youtube-php-mirroring) - 本项目作废，已经无法使用，
+
+*   [kalcaddle/KodExplorer](https://github.com/kalcaddle/KodExplorer) - A web based file manager,web IDE / browser based code editor
+
+*   [koalabearguo/reverse-proxy-php](https://github.com/koalabearguo/reverse-proxy-php) - 在GAE php空间或者在国外apache php空间搭建反向代理
+
+*   [j0k3r/php-readability](https://github.com/j0k3r/php-readability) - A fork of https://bitbucket.org/fivefilters/php-readability
+
+*   [kn007/Wordpress-Comments-Manager](https://github.com/kn007/Wordpress-Comments-Manager) - Manage your comments faster, handle data more quickly.
+
+*   [Siinger/wp\_theme\_siinger](https://github.com/Siinger/wp_theme_siinger) - a wordpress theme , http://siinger.com
+
+*   [atallo/ttrss\_fullpost](https://github.com/atallo/ttrss_fullpost) - Tiny Tiny RSS Plugin to see full post
+
+*   [jieerf/wp-jief-videojj](https://github.com/jieerf/wp-jief-videojj) - WordPress云解析HTML5播放器Shortcode插件；支持所有主流CDN的资源类型：mp4、flv及m3u8；支持大型主流平台优酷、土豆、腾讯视频、芒果TV
+
+*   [stephanediondev/readerself](https://github.com/stephanediondev/readerself) - Self-hosted rss reader (php / mysql or sqlite) - Google Reader alternative
+
+*   [ety001/url2io](https://github.com/ety001/url2io) - A SDK for URL2io
+
+*   [grt1st/wooyun\_search](https://github.com/grt1st/wooyun_search) - 乌云公开漏洞、知识库搜索 search from wooyun.org
+
+*   [ketle/jiumozhi](https://github.com/ketle/jiumozhi) - phpcrawler,php爬虫,php采集器,多进程,多线程
+
+*   [sendya/shadowsocks-panel](https://github.com/sendya/shadowsocks-panel) - a new begin...
+
+*   [JJYing/Podcast-RSS-Editor](https://github.com/JJYing/Podcast-RSS-Editor) - A simple Podcast RSS editor in PHP
+
+*   [mingcheng/php-readability](https://github.com/mingcheng/php-readability) - Back the fun of reading -  PHP Port for Arc90′s Readability
+
+*   [lformella/rss-extender](https://github.com/lformella/rss-extender) - This PHP Script can extend short rss feeds by visiting the site, download all articles and merge them together to get an ultimative feed.
+
+*   [abcdabcd987/qq-monitor](https://github.com/abcdabcd987/qq-monitor) - Watch somebody's network status on QQ and send it to a server.
+
+*   [walkor/shadowsocks-php](https://github.com/walkor/shadowsocks-php) - A php port of shadowsocks based on workerman. A socks5 proxy written in PHP.
+
+*   [davelima/inoreader-php-client](https://github.com/davelima/inoreader-php-client) - PHP Client for the Inoreader Feed API
+
+*   [typecho/typecho](https://github.com/typecho/typecho) - A PHP Blogging Platform. Simple and Powerful.
+
+*   [top-think/think](https://github.com/top-think/think) - ThinkPHP Framework ——十年匠心的高性能PHP框架
+
+*   [owner888/phpspider](https://github.com/owner888/phpspider) - 《我用爬虫一天时间“偷了”知乎一百万用户，只为证明PHP是世界上最好的语言 》所使用的程序
+
+*   [RSS-Bridge/rss-bridge](https://github.com/RSS-Bridge/rss-bridge) - The RSS feed for websites missing it
+
 ## Python
 
 *   [GaiZhenbiao/ChuanhuChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT) - GUI for ChatGPT API and any LLM
@@ -72,7 +188,7 @@
 
 *   [databrickslabs/dolly](https://github.com/databrickslabs/dolly) - Databricks’ Dolly, a large language model trained on the Databricks Machine Learning Platform
 
-*   [binary-husky/gpt\_academic](https://github.com/binary-husky/gpt_academic) - 为GPT/GLM提供图形交互界面，特别优化论文阅读润色体验，模块化设计支持自定义快捷按钮&函数插件，支持代码块表格显示，Tex公式双显示，新增Python和C++项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持清华chatglm等本地模型。兼容llama,rwkv,盘古大模型等。
+*   [binary-husky/gpt\_academic](https://github.com/binary-husky/gpt_academic) - 为GPT/GLM提供图形交互界面，特别优化论文阅读润色体验，模块化设计支持自定义快捷按钮&函数插件，支持代码块表格显示，Tex公式双显示，新增Python和C++项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持清华chatglm等本地模型。兼容复旦MOSS, llama, rwkv, 盘古等。
 
 *   [LeslieLeung/heimdallr](https://github.com/LeslieLeung/heimdallr) - 一个非常轻量的通知网关，可以聚合各种推送渠道，使用 Serverless 部署，几乎零成本运行。
 
@@ -721,8 +837,6 @@
 *   [sofish/typo.css](https://github.com/sofish/typo.css) - 中文网页重设与排版：一致化浏览器排版效果，构建最适合中文阅读的网页排版
 
 *   [fossar/selfoss](https://github.com/fossar/selfoss) - multipurpose rss reader, live stream, mashup, aggregation web application
-
-*   [DIYgod/Resume](https://github.com/DIYgod/Resume) - :cake: Simple resume
 
 ## C\#
 
@@ -1671,120 +1785,6 @@
 *   [OnePlusOSS/android](https://github.com/OnePlusOSS/android) -
 
 *   [zhanghai/MaterialColdStart](https://github.com/zhanghai/MaterialColdStart) - Utilize the window background during cold start time to make your app look faster.
-
-## PHP
-
-*   [xtrime-ru/TelegramApiServer](https://github.com/xtrime-ru/TelegramApiServer) - Fast, simple, async php telegram api server: MadelineProto + Amp HTTP Server
-
-*   [juicyfx/vercel-examples](https://github.com/juicyfx/vercel-examples) - 📦 Example projects using Vercel platform. Using Node.js, PHP and others.
-
-*   [aaro-n/heroku-wp](https://github.com/aaro-n/heroku-wp) - 在Heroku 搭建 Wordpress
-
-*   [reycn/tt-rss-heroku](https://github.com/reycn/tt-rss-heroku) - Tiny-tiny RSS for Heroku
-
-*   [serl/ttrss-heroku](https://github.com/serl/ttrss-heroku) - Tiny Tiny RSS on Heroku, and it's actually working!
-
-*   [hasinhayder/wpsqlite](https://github.com/hasinhayder/wpsqlite) - Quickly provision a fully functional WordPress site with SQLite, with \*.wplocal.xyz domain support
-
-*   [easychen/howto-make-more-money](https://github.com/easychen/howto-make-more-money) - 程序员如何优雅的挣零花钱，2.0版，升级为小书了。Most of this not work outside China , so no English translate
-
-*   [PrintNow/Jiangxi-University-Health-Check-in](https://github.com/PrintNow/Jiangxi-University-Health-Check-in) - 江西省普通高等学校 校园防疫 健康签到 自动签到
-
-*   [bclswl0827/goagent-php](https://github.com/bclswl0827/goagent-php) - GoAgent PHP 翻墙
-
-*   [wltb/ff\_feedcleaner](https://github.com/wltb/ff_feedcleaner) - Plugin for Tiny Tiny RSS
-
-*   [fukuball/jieba-php](https://github.com/fukuball/jieba-php) - "結巴"中文分詞：做最好的 PHP 中文分詞、中文斷詞組件。 / "Jieba" (Chinese for "to stutter") Chinese text segmentation: built to be the best PHP Chinese word segmentation module.
-
-*   [Baiduio/7ghost](https://github.com/Baiduio/7ghost) - 7ghost是一款基于PHP的网站反向代理程序
-
-*   [zbfzn/douyin-clear-php](https://github.com/zbfzn/douyin-clear-php) - 抖音去水印PHP版接口
-
-*   [guyueyingmu/avbook](https://github.com/guyueyingmu/avbook) - AV 电影管理系统， avmoo , javbus , javlibrary 爬虫，线上 AV 影片图书馆，AV 磁力链接数据库，Japanese Adult Video Library,Adult Video Magnet Links - Japanese Adult Video Database
-
-*   [mashirozx/sakura](https://github.com/mashirozx/sakura) - A Wonderful WordPress Theme: 樱花庄的白猫博客主题
-
-*   [fanly/lrss](https://github.com/fanly/lrss) - 利用 laravel 转 URL 为 RSS Feed
-
-*   [ivopetkov/html5-dom-document-php](https://github.com/ivopetkov/html5-dom-document-php) - A better HTML5 parser for PHP.
-
-*   [flarum/flarum](https://github.com/flarum/flarum) - Simple forum software for building great communities.
-
-*   [erusev/parsedown](https://github.com/erusev/parsedown) - Better Markdown Parser in PHP
-
-*   [zorlan/skycaiji](https://github.com/zorlan/skycaiji) - 蓝天采集器是一款开源免费的爬虫系统，仅需点选编辑规则即可采集数据，可运行在本地、虚拟主机或云服务器中，几乎能采集所有类型的网页，无缝对接各类CMS建站程序，免登录实时发布数据，全自动无需人工干预！是网页大数据采集软件中完全跨平台的云端爬虫系统
-
-*   [LoeiFy/Diaspora](https://github.com/LoeiFy/Diaspora) - Diaspora - A WordPress theme
-
-*   [jacklenox/susty](https://github.com/jacklenox/susty) - 🌍 A tiny WordPress theme focused on being as  sustainable as possible. https://sustywp.com
-
-*   [dartiss/code-embed](https://github.com/dartiss/code-embed) - 🧩WordPress plugin to make embedding of code in posts really, really easy
-
-*   [helloxz/imgurl](https://github.com/helloxz/imgurl) - ImgURL是一个简单、纯粹的图床程序，让个人图床多一个选择。
-
-*   [leproxy/leproxy](https://github.com/leproxy/leproxy) - LeProxy is the HTTP/SOCKS proxy server for everybody!
-
-*   [j0k3r/f43.me](https://github.com/j0k3r/f43.me) - A more readable & cleaner feed
-
-*   [jae-jae/QueryList](https://github.com/jae-jae/QueryList) - :spider: The progressive PHP crawler framework!  优雅的渐进式PHP采集框架。
-
-*   [finndychain/finndychain-node](https://github.com/finndychain/finndychain-node) - 发源地/发源链开源分布式”数据挖矿“引擎，致力于挖掘大数据矿山背后的价值！
-
-*   [qsbaq/btlike-php-front](https://github.com/qsbaq/btlike-php-front) - BTLIKE 的PHP前端
-
-*   [tangshuang/php-cron](https://github.com/tangshuang/php-cron) - 实现PHP Cron，也就是PHP定时任务，通过本地文件记录schedules，然后通过fsockopen实现非阻塞式的后台访问对应的url来实现定时任务，通过sleep实现定时，如果错过任务，则通过用户访问来执行该任务（还未完善）
-
-*   [bephp/router](https://github.com/bephp/router) - A barebones router for PHP. Automatic get variable based on handler function parameter list. Suport to compile router callback handlers into plain array source code.
-
-*   [noahbuscher/macaw](https://github.com/noahbuscher/macaw) - The simple PHP router
-
-*   [alaouy/Youtube](https://github.com/alaouy/Youtube) - 🔥 Laravel PHP Facade/Wrapper for the Youtube Data API
-
-*   [zxq2233/youtube-php-mirroring](https://github.com/zxq2233/youtube-php-mirroring) - 本项目作废，已经无法使用，
-
-*   [kalcaddle/KodExplorer](https://github.com/kalcaddle/KodExplorer) - A web based file manager,web IDE / browser based code editor
-
-*   [koalabearguo/reverse-proxy-php](https://github.com/koalabearguo/reverse-proxy-php) - 在GAE php空间或者在国外apache php空间搭建反向代理
-
-*   [j0k3r/php-readability](https://github.com/j0k3r/php-readability) - A fork of https://bitbucket.org/fivefilters/php-readability
-
-*   [kn007/Wordpress-Comments-Manager](https://github.com/kn007/Wordpress-Comments-Manager) - Manage your comments faster, handle data more quickly.
-
-*   [Siinger/wp\_theme\_siinger](https://github.com/Siinger/wp_theme_siinger) - a wordpress theme , http://siinger.com
-
-*   [atallo/ttrss\_fullpost](https://github.com/atallo/ttrss_fullpost) - Tiny Tiny RSS Plugin to see full post
-
-*   [jieerf/wp-jief-videojj](https://github.com/jieerf/wp-jief-videojj) - WordPress云解析HTML5播放器Shortcode插件；支持所有主流CDN的资源类型：mp4、flv及m3u8；支持大型主流平台优酷、土豆、腾讯视频、芒果TV
-
-*   [stephanediondev/readerself](https://github.com/stephanediondev/readerself) - Self-hosted rss reader (php / mysql or sqlite) - Google Reader alternative
-
-*   [ety001/url2io](https://github.com/ety001/url2io) - A SDK for URL2io
-
-*   [grt1st/wooyun\_search](https://github.com/grt1st/wooyun_search) - 乌云公开漏洞、知识库搜索 search from wooyun.org
-
-*   [ketle/jiumozhi](https://github.com/ketle/jiumozhi) - phpcrawler,php爬虫,php采集器,多进程,多线程
-
-*   [sendya/shadowsocks-panel](https://github.com/sendya/shadowsocks-panel) - a new begin...
-
-*   [JJYing/Podcast-RSS-Editor](https://github.com/JJYing/Podcast-RSS-Editor) - A simple Podcast RSS editor in PHP
-
-*   [mingcheng/php-readability](https://github.com/mingcheng/php-readability) - Back the fun of reading -  PHP Port for Arc90′s Readability
-
-*   [lformella/rss-extender](https://github.com/lformella/rss-extender) - This PHP Script can extend short rss feeds by visiting the site, download all articles and merge them together to get an ultimative feed.
-
-*   [abcdabcd987/qq-monitor](https://github.com/abcdabcd987/qq-monitor) - Watch somebody's network status on QQ and send it to a server.
-
-*   [walkor/shadowsocks-php](https://github.com/walkor/shadowsocks-php) - A php port of shadowsocks based on workerman. A socks5 proxy written in PHP.
-
-*   [davelima/inoreader-php-client](https://github.com/davelima/inoreader-php-client) - PHP Client for the Inoreader Feed API
-
-*   [typecho/typecho](https://github.com/typecho/typecho) - A PHP Blogging Platform. Simple and Powerful.
-
-*   [top-think/think](https://github.com/top-think/think) - ThinkPHP Framework ——十年匠心的高性能PHP框架
-
-*   [owner888/phpspider](https://github.com/owner888/phpspider) - 《我用爬虫一天时间“偷了”知乎一百万用户，只为证明PHP是世界上最好的语言 》所使用的程序
-
-*   [RSS-Bridge/rss-bridge](https://github.com/RSS-Bridge/rss-bridge) - The RSS feed for websites missing it
 
 ## Rust
 
