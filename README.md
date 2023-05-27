@@ -952,7 +952,7 @@
 
 *   [heiher/hev-socks5-tunnel](https://github.com/heiher/hev-socks5-tunnel) - High performance tun2socks for Linux/Android/FreeBSD/macOS/iOS (IPv4/IPv6/TCP/UDP)
 
-*   [suizzide/qi](https://github.com/suizzide/qi) - Lightweight and fast programming language designed to be written in Chinese.
+*   [AnonymousAAArdvark/qi](https://github.com/AnonymousAAArdvark/qi) - Lightweight and fast programming language designed to be written in Chinese.
 
 *   [tumuyan/ESRGAN-Android-TFLite-Demo](https://github.com/tumuyan/ESRGAN-Android-TFLite-Demo) - TFLite Super Resolution for Android with ESRGAN model, modify from https://github.com/tensorflow/examples/tree/master/lite/examples/super\_resolution/android
 
