@@ -746,7 +746,7 @@
 
 *   [onebone/compose-collapsing-toolbar](https://github.com/onebone/compose-collapsing-toolbar) - A simple implementation of collapsing toolbar for Jetpack Compose
 
-*   [T8RIN/ImageResizer](https://github.com/T8RIN/ImageResizer) - 🖼️ Powerful image resizer with width/height selection, SVG to image convertion, cropping, EXIF editing, quality and output image type picking and batch processing feature.
+*   [T8RIN/ImageResizer](https://github.com/T8RIN/ImageResizer) - 🖼️ Powerful image editor with width/height selection, applying filters, SVG to image convertion, cropping, EXIF editing, quality and output image type picking and batch processing feature.
 
 *   [TwidereProject/TwidereX-Android](https://github.com/TwidereProject/TwidereX-Android) - Next generation of Twidere for Android
 
