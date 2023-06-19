@@ -278,8 +278,6 @@
 
 *   [thalloerupt/stage2](https://github.com/thalloerupt/stage2) - A browser base on Geckoview
 
-*   [cgspine/emo](https://github.com/cgspine/emo) - some android libraries to speed up development.
-
 *   [liangjingkanji/Serialize](https://github.com/liangjingkanji/Serialize) - 🍒 Android 简单高性能读写本地数据, 直接存储对象/基础类型
 
 *   [cooaer/v2compose](https://github.com/cooaer/v2compose) - 使用 Compose 构建的一个 V2ex 的 Android 客户端！
@@ -1589,6 +1587,8 @@
 *   [notice501/coolMenu](https://github.com/notice501/coolMenu) - A Cool Cards Menu Concept
 
 *   [heroLi/WeChatLuckyLi](https://github.com/heroLi/WeChatLuckyLi) -
+
+*   [Nightonke/CoCoin](https://github.com/Nightonke/CoCoin) - CoCoin, Multi-view Accounting Application
 
 ## JavaScript
 
