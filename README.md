@@ -106,6 +106,8 @@
 
 *   [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest free open source website change detection, restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites had a text change for free. Free Open source web page change detection, Website defacement monitoring, Price change and Price Drop notification
 
+*   [XingangPan/DragGAN](https://github.com/XingangPan/DragGAN) - Official Code for DragGAN (SIGGRAPH 2023)
+
 *   [pengzhile/pandora](https://github.com/pengzhile/pandora) - 潘多拉，一个让你呼吸顺畅的ChatGPT。Pandora, a ChatGPT that helps you breathe smoothly.
 
 *   [GaiZhenbiao/ChuanhuChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT) - GUI for ChatGPT API and many LLMs
@@ -403,8 +405,6 @@
 *   [glovebx/moco-ai-client](https://github.com/glovebx/moco-ai-client) - Concurrently chat with ChatGPT, Bing Chat, Bard, Poe on Android Phone FREELY
 
 *   [gaboolic/vercel-reverse-proxy](https://github.com/gaboolic/vercel-reverse-proxy) - vercel反向代理|OpenAI/ChatGPT 免翻墙代理|github免翻墙代理|github下载加速|google代理|vercel万能代理
-
-*   [XingangPan/DragGAN](https://github.com/XingangPan/DragGAN) - Code for DragGAN (SIGGRAPH 2023)
 
 *   [sharmajv/vpn](https://github.com/sharmajv/vpn) - VPN软件（小三VPN），完全免费，不注册，不限速，不限流，不看广告不流氓
 
