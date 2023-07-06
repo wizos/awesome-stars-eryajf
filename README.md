@@ -1594,7 +1594,7 @@
 
 *   [100apps/MOSS](https://github.com/100apps/MOSS) - ChatGPT web browser extension
 
-*   [yaohaixiao/autocjs](https://github.com/yaohaixiao/autocjs) - AutocJs 是一个专门用来生成文章导读（Table of Contents）导航的 JavaScript 工具（原 autocjs 的重构版本）。AutocJs 采用原生 JavaScript 编写，不依赖任何第三方 JavaScript 库。AutocJs 会自动查找文章指定区域中的所有 h1~h6 的标签，并自动分析文章段落间的层次结构，生成文章的导读导航。
+*   [yaohaixiao/outline.js](https://github.com/yaohaixiao/outline.js) - AutocJs 是一个专门用来生成文章导读（Table of Contents）导航的 JavaScript 工具（原 autocjs 的重构版本）。AutocJs 采用原生 JavaScript 编写，不依赖任何第三方 JavaScript 库。AutocJs 会自动查找文章指定区域中的所有 h1~h6 的标签，并自动分析文章段落间的层次结构，生成文章的导读导航。
 
 *   [lyricat/code-knack](https://github.com/lyricat/code-knack) - A code evaluator on your web page. Support both client implements and server implements.
 
