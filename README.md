@@ -196,6 +196,8 @@
 
 *   [WankkoRee/WebViewPP](https://github.com/WankkoRee/WebViewPP) - Enable WebView debugging and add vConsole in it. Support WebView, TBS X5, UC U4, Crosswalk(XWalk), XWeb. 启用 WebView 调试并添加 vConsole，支持 WebView、TBS X5、UC U4、Crosswalk(XWalk)、XWeb。
 
+*   [TermPlux/TermPlux-App](https://github.com/TermPlux/TermPlux-App) - TermPlux致力于让Termux更加好用、易用，提高移动设备生产力。
+
 *   [thalloerupt/stage2](https://github.com/thalloerupt/stage2) - A browser base on Geckoview
 
 *   [liangjingkanji/Serialize](https://github.com/liangjingkanji/Serialize) - 🍒 Android 简单高性能读写本地数据, 直接存储对象/基础类型
@@ -817,8 +819,6 @@
 *   [localsend/localsend](https://github.com/localsend/localsend) - An open source cross-platform alternative to AirDrop
 
 *   [marchellodev/sharik](https://github.com/marchellodev/sharik) - Sharik is an open-source, cross-platform solution for sharing files via Wi-Fi or Mobile Hotspot
-
-*   [TermPlux/TermPlux-App](https://github.com/TermPlux/TermPlux-App) - TermPlux致力于让Termux更加好用、易用，提高移动设备生产力。
 
 *   [yang991178/fluent-reader-lite](https://github.com/yang991178/fluent-reader-lite) - Simplistic mobile RSS client built with Flutter
 
@@ -1594,7 +1594,7 @@
 
 *   [100apps/MOSS](https://github.com/100apps/MOSS) - ChatGPT web browser extension
 
-*   [yaohaixiao/autocjs](https://github.com/yaohaixiao/autocjs) - AutocJs 是一个专门用来生成文章导读（Table of Contents）导航的 JavaScript 工具（原 autocjs 的重构版本）。AutocJs 采用原生 JavaScript 编写，不依赖任何第三方 JavaScript 库。AutocJs 会自动查找文章指定区域中的所有 h1~h6 的标签，并自动分析文章段落间的层次结构，生成文章的导读导航。
+*   [yaohaixiao/outline.js](https://github.com/yaohaixiao/outline.js) - AutocJs 是一个专门用来生成文章导读（Table of Contents）导航的 JavaScript 工具（原 autocjs 的重构版本）。AutocJs 采用原生 JavaScript 编写，不依赖任何第三方 JavaScript 库。AutocJs 会自动查找文章指定区域中的所有 h1~h6 的标签，并自动分析文章段落间的层次结构，生成文章的导读导航。
 
 *   [lyricat/code-knack](https://github.com/lyricat/code-knack) - A code evaluator on your web page. Support both client implements and server implements.
 
