@@ -1000,7 +1000,7 @@
 
 *   [russdill/tunsocks](https://github.com/russdill/tunsocks) - User-level IP forwarding, SOCKS proxy, and HTTP proxy for VPNs that provide tun-like interface
 
-*   [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time! https://www.netdata.cloud
+*   [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time!
 
 *   [skywind3000/kcp](https://github.com/skywind3000/kcp) - :zap: KCP - A Fast and Reliable ARQ Protocol
 
