@@ -18,6 +18,7 @@
 
 ## Table of Contents
 
+*   [Rust](#rust)
 *   [TypeScript](#typescript)
 *   [Kotlin](#kotlin)
 *   [HTML](#html)
@@ -37,7 +38,6 @@
 *   [Vue](#vue)
 *   [Scala](#scala)
 *   [Shell](#shell)
-*   [Rust](#rust)
 *   [Objective-C](#objective-c)
 *   [EJS](#ejs)
 *   [Ruby](#ruby)
@@ -63,6 +63,16 @@
 *   [AppleScript](#applescript)
 *   [Scheme](#scheme)
 *   [Thanks](#thanks)
+
+## Rust
+
+*   [YtFlow/YtFlowCore](https://github.com/YtFlow/YtFlowCore) - A modern proxy framework, core of YtFlow.
+
+*   [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
+
+*   [eycorsican/leaf](https://github.com/eycorsican/leaf) - A versatile and efficient proxy framework with nice features suitable for various use cases.
+
+*   [loggerhead/shadowsocks-rust](https://github.com/loggerhead/shadowsocks-rust) - Oh my implementation of Shadowsocks in Rust
 
 ## TypeScript
 
@@ -1588,8 +1598,6 @@
 
 *   [notice501/coolMenu](https://github.com/notice501/coolMenu) - A Cool Cards Menu Concept
 
-*   [heroLi/WeChatLuckyLi](https://github.com/heroLi/WeChatLuckyLi) -
-
 ## JavaScript
 
 *   [100apps/MOSS](https://github.com/100apps/MOSS) - ChatGPT web browser extension
@@ -1793,14 +1801,6 @@
 *   [OnePlusOSS/android](https://github.com/OnePlusOSS/android) -
 
 *   [zhanghai/MaterialColdStart](https://github.com/zhanghai/MaterialColdStart) - Utilize the window background during cold start time to make your app look faster.
-
-## Rust
-
-*   [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
-
-*   [eycorsican/leaf](https://github.com/eycorsican/leaf) - A versatile and efficient proxy framework with nice features suitable for various use cases.
-
-*   [loggerhead/shadowsocks-rust](https://github.com/loggerhead/shadowsocks-rust) - Oh my implementation of Shadowsocks in Rust
 
 ## Objective-C
 
