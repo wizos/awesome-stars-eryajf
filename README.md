@@ -294,7 +294,7 @@
 
 ## Python
 
-*   [wenge-research/YaYi](https://github.com/wenge-research/YaYi) - 雅意大模型：为每一家企业打造大模型
+*   [wenge-research/YaYi](https://github.com/wenge-research/YaYi) - 雅意大模型：为客户打造安全可靠的专属大模型，基于大规模中英文多领域指令数据训练的 LlaMA 2 & BLOOM 系列模型，由中科闻歌算法团队研发。(Repo for YaYi Chinese LLMs based on LlaMA2 & BLOOM)
 
 *   [hleb-kastseika/tg-channel-to-rss](https://github.com/hleb-kastseika/tg-channel-to-rss) - AWS Lambda function for converting of Telegram channel to RSS feed.
 
