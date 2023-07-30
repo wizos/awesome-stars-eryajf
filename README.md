@@ -882,7 +882,7 @@
 
 *   [jieerf/wp-jief-videojj](https://github.com/jieerf/wp-jief-videojj) - WordPress云解析HTML5播放器Shortcode插件；支持所有主流CDN的资源类型：mp4、flv及m3u8；支持大型主流平台优酷、土豆、腾讯视频、芒果TV
 
-*   [stephanediondev/readerself](https://github.com/stephanediondev/readerself) - Self-hosted rss reader (php / mysql or sqlite) - Google Reader alternative
+*   [stephanediondev/readerself](https://github.com/stephanediondev/readerself) - Replaced by a new version
 
 *   [ety001/url2io](https://github.com/ety001/url2io) - A SDK for URL2io
 
