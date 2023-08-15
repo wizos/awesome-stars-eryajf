@@ -546,7 +546,7 @@
 
 *   [android-hacker/exposed](https://github.com/android-hacker/exposed) - A library to use Xposed without root or recovery(or modify system image etc..).
 
-*   [asLody/VirtualApp](https://github.com/asLody/VirtualApp) - Virtual Engine for Android(Support 12.0 in business version)
+*   [asLody/VirtualApp](https://github.com/asLody/VirtualApp) - Virtual Engine for Android(Support 14.0 in business version)
 
 *   [ZhangJiupeng/AgentX](https://github.com/ZhangJiupeng/AgentX) - Shadowsocks升级版，支持协议伪装和流量压缩，易于扩展，可统计流量
 
