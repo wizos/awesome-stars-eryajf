@@ -160,7 +160,7 @@
 
 *   [forJrking/KLuban](https://github.com/forJrking/KLuban) - Lifecycle + Kotlin 协程 + flow + LiveData + Glide 识别和内存优化 + Luban采样算法 = KLuban图片压缩
 
-*   [liangjingkanji/Net](https://github.com/liangjingkanji/Net) - \[OkHttp最佳实践] Android 协程并发网络请求, 比 Retrofit/OkGo 更简单易用
+*   [liangjingkanji/Net](https://github.com/liangjingkanji/Net) - Android 基于协程/OkHttp网络请求工具
 
 *   [Moriafly/DsoMusic](https://github.com/Moriafly/DsoMusic) - Kotlin 开发的美观安卓音乐软件，音源：网易云音乐、QQ 音乐、酷我音乐、Bilibili
 
