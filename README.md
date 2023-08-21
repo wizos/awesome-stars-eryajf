@@ -1580,7 +1580,7 @@
 
 ## Dart
 
-*   [gvenusleo/MeRead](https://github.com/gvenusleo/MeRead) - 简洁、易用的 Feed 阅读器，使用 Flutter 构建和 Material You 设计
+*   [gvenusleo/MeRead](https://github.com/gvenusleo/MeRead) - A concise and easy-to-use feed reader built using Flutter and designed with Material You. 简洁、易用的 Feed 阅读器，使用 Flutter 构建和 Material You 设计
 
 *   [localsend/localsend](https://github.com/localsend/localsend) - An open source cross-platform alternative to AirDrop
 
