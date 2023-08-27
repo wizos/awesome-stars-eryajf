@@ -723,7 +723,7 @@
 
 *   [xiangyuecn/Android-UsesPermission](https://github.com/xiangyuecn/Android-UsesPermission) - 安卓权限申请封装处理框架。测试支持4.0+。只有简单的java文件，复制文件即可使用。调用方便
 
-*   [MiPushFramework/MiPushFramework](https://github.com/MiPushFramework/MiPushFramework) - \[Archived, SEE THE LINK FOR FORK] Let supported push service run system-ly on every Android devices
+*   [MiPushFramework/MiPushFramework](https://github.com/MiPushFramework/MiPushFramework) - \[Archived, FORK: https://github.com/NihilityT/MiPushFramework] Let supported push service run system-ly on every Android devices
 
 *   [xwlcn/Dodder](https://github.com/xwlcn/Dodder) - A distributed DHT crawler that sniffs torrents from BitTorrent network
 
