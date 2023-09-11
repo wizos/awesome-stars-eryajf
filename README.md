@@ -1364,7 +1364,7 @@
 
 *   [hapiman/fin-circle](https://github.com/hapiman/fin-circle) - 探讨技术、金融、赚钱的小圈子！
 
-*   [yanue/V2rayU](https://github.com/yanue/V2rayU) - V2rayU,基于v2ray核心的mac版客户端,用于科学上网,使用swift编写,支持vmess,shadowsocks,socks5等服务协议,支持订阅, 支持二维码,剪贴板导入,手动配置,二维码分享等
+*   [yanue/V2rayU](https://github.com/yanue/V2rayU) - V2rayU,基于v2ray核心的mac版客户端,用于科学上网,使用swift编写,支持trojan,vmess,shadowsocks,socks5等服务协议,支持订阅, 支持二维码,剪贴板导入,手动配置,二维码分享等
 
 *   [ttpianobirds/RenZhengfei](https://github.com/ttpianobirds/RenZhengfei) - 任正非思想
 
@@ -1716,7 +1716,7 @@
 
 *   [dankito/Readability4J](https://github.com/dankito/Readability4J) - A Kotlin port of Mozilla‘s Readability. It extracts a website‘s relevant content and removes all clutter from it.
 
-*   [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English which might benefit you a lot 🎉 .  可能是让你受益匪浅的英语进阶指南。
+*   [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English which might benefit you a lot 🎉 .  离谱的英语学习指南。
 
 *   [andreskrey/readability.php](https://github.com/andreskrey/readability.php) - PHP port of Mozilla's Readability.js
 
