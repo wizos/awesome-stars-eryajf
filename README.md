@@ -92,8 +92,6 @@
 
 *   [MuntashirAkon/AppManager](https://github.com/MuntashirAkon/AppManager) - A full-featured package manager and viewer for Android
 
-*   [scoute-dich/browser](https://github.com/scoute-dich/browser) - A simple Android webbrowser based on webview.
-
 *   [benjaminwan/ChineseTtsTflite](https://github.com/benjaminwan/ChineseTtsTflite) - Android Chinese TTS Engine Base On Tensorflow TTS , use for TfLite Models Test。安卓离线中文TTS引擎，在TensorflowTTS基础上开发，用于TfLite模型测试。
 
 *   [liaoguobao/TweakMe](https://github.com/liaoguobao/TweakMe) - android免root native层与java层注入框架
@@ -675,6 +673,8 @@
 *   [fqrouter/fqrouter](https://github.com/fqrouter/fqrouter) - anti-GFW router
 
 *   [JayFang1993/ScanBook](https://github.com/JayFang1993/ScanBook) - scan book's ISBN to get the information of this book
+
+*   [heruoxin/Clip-Stack](https://github.com/heruoxin/Clip-Stack) - \[deprecated]
 
 ## Dart
 
