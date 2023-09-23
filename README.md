@@ -102,7 +102,7 @@
 
 *   [APISENSE/rhino-android](https://github.com/APISENSE/rhino-android) -  Give access to RhinoScriptEngine from the JSR223 interfaces on Android JRE.
 
-*   [penfeizhou/APNG4Android](https://github.com/penfeizhou/APNG4Android) - Android animation support for APNG & Animated WebP & Gif,High performance
+*   [penfeizhou/APNG4Android](https://github.com/penfeizhou/APNG4Android) - Android animation support for APNG & Animated WebP & Gif & Animated AVIF, High performance
 
 *   [ZLYang110/FileSelector](https://github.com/ZLYang110/FileSelector) - Android 文件选择器，指定选择文件夹还是文件，根据后缀名过滤，支持多选
 
