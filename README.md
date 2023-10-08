@@ -1126,7 +1126,7 @@
 
 ## JavaScript
 
-*   [fishjar/kiss-translator](https://github.com/fishjar/kiss-translator) - A minimalist bilingual translation Extension & Greasemonkey Script  (一个简约的双语网页翻译扩展 & 油猴脚本。)
+*   [fishjar/kiss-translator](https://github.com/fishjar/kiss-translator) - A minimalist bilingual translation Extension & Greasemonkey Script (一个简约的网页双语翻译扩展 & 油猴脚本)
 
 *   [Edsuns/AdblockAndroid](https://github.com/Edsuns/AdblockAndroid) - A adblock engine (ad filter) library for Android WebView
 
@@ -2016,7 +2016,7 @@
 
 *   [guiqiqi/chromate](https://github.com/guiqiqi/chromate) - A new Hexo theme with full podcast support | 一款专为 Podcaster 打造的 Hexo 主题
 
-*   [gwuhaolin/blog](https://github.com/gwuhaolin/blog) - 浩麟的技术博客
+*   [gwuhaolin/blog](https://github.com/gwuhaolin/blog) - 浩的技术博客
 
 ## Ruby
 
