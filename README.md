@@ -312,7 +312,7 @@
 
 *   [theAkito/webmon](https://github.com/theAkito/webmon) - Android app for monitoring web services. Notifies you of any HTTP or Onion destination not being available.
 
-*   [Slion/Fulguris](https://github.com/Slion/Fulguris) - ⚡Sparkling Android Web Browser⚡
+*   [Slion/Fulguris](https://github.com/Slion/Fulguris) - ⚡Web Browser
 
 *   [cgspine/emo-public](https://github.com/cgspine/emo-public) - emo 开源库
 
