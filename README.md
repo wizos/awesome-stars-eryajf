@@ -1082,7 +1082,7 @@
 
 *   [ourongxing/chatgpt-vercel](https://github.com/ourongxing/chatgpt-vercel) - Elegant and Powerfull. Powered by OpenAI and Vercel.
 
-*   [book-searcher-org/book-searcher](https://github.com/book-searcher-org/book-searcher) - Easy and blazing-fast book searcher, create and search your private library.
+*   [book-searcher-org/book-searcher](https://github.com/book-searcher-org/book-searcher) - Easy and blazing-fast book searcher, create and search your private library. Index metadata for over 10 million books in one minute, and search in 30µs.
 
 *   [VideoRoll/VideoRoll](https://github.com/VideoRoll/VideoRoll) - 📺A chrome/edge/firefox extension to rotate, zoom, reposition, stretch, flip, tune, focus and filter a web video
 
@@ -1126,7 +1126,7 @@
 
 ## JavaScript
 
-*   [fishjar/kiss-translator](https://github.com/fishjar/kiss-translator) - A minimalist bilingual translation Extension & Greasemonkey Script (一个简约的网页双语翻译扩展 & 油猴脚本)
+*   [fishjar/kiss-translator](https://github.com/fishjar/kiss-translator) - A simple bilingual translation extension & Greasemonkey script (一个简约的 双语对照翻译扩展 & 油猴脚本)
 
 *   [Edsuns/AdblockAndroid](https://github.com/Edsuns/AdblockAndroid) - A adblock engine (ad filter) library for Android WebView
 
