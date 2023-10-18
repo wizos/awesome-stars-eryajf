@@ -1214,11 +1214,11 @@
 
 *   [Yidadaa/ChatGPT-Next-Web](https://github.com/Yidadaa/ChatGPT-Next-Web) - A well-designed cross-platform ChatGPT UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT 应用。
 
-*   [codebdy/rxdrag](https://github.com/codebdy/rxdrag) - Design anything based on HTML, 可视化编辑， 设计一切基于HTML的东西，模块化设计
+*   [codebdy/rxdrag](https://github.com/codebdy/rxdrag) - Design anything based on HTML, 可视化编辑， 带逻辑引擎的低代码前端。
 
 *   [ourongxing/chatgpt-vercel](https://github.com/ourongxing/chatgpt-vercel) - Elegant and Powerfull. Powered by OpenAI and Vercel.
 
-*   [book-searcher-org/book-searcher](https://github.com/book-searcher-org/book-searcher) - Easy and blazing-fast book searcher, create and search your private library. Index metadata for over 10 million books in one minute, and search in 30µs.
+*   [book-searcher-org/book-searcher](https://github.com/book-searcher-org/book-searcher) - Easy and blazing-fast book searcher, create and search your private library.
 
 *   [VideoRoll/VideoRoll](https://github.com/VideoRoll/VideoRoll) - 📺A chrome/edge/firefox extension to rotate, zoom, reposition, stretch, flip, tune, focus and filter a web video
 
@@ -1966,7 +1966,7 @@
 
 *   [bclswl0827/v2ray-heroku](https://github.com/bclswl0827/v2ray-heroku) - 用于在 Heroku 上部署 V2Ray WebSocket。
 
-*   [anyuzu99/heroku-miniflux](https://github.com/anyuzu99/heroku-miniflux) - one click to deploy miniflux on heroku.
+*   [jinyuzu99/heroku-miniflux](https://github.com/jinyuzu99/heroku-miniflux) - one click to deploy miniflux on heroku.
 
 *   [snail007/tgbot-heroku](https://github.com/snail007/tgbot-heroku) - Deploy tgbot to heroku in one key, you can use it as your telegram private notifier.
 
