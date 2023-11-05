@@ -1854,8 +1854,6 @@
 
 *   [abcdabcd987/qq-monitor](https://github.com/abcdabcd987/qq-monitor) - Watch somebody's network status on QQ and send it to a server.
 
-*   [walkor/shadowsocks-php](https://github.com/walkor/shadowsocks-php) - A php port of shadowsocks based on workerman. A socks5 proxy written in PHP.
-
 *   [davelima/inoreader-php-client](https://github.com/davelima/inoreader-php-client) - PHP Client for the Inoreader Feed API
 
 *   [typecho/typecho](https://github.com/typecho/typecho) - A PHP Blogging Platform. Simple and Powerful.
@@ -1879,6 +1877,8 @@
 *   [picasso250/zhihu-archive](https://github.com/picasso250/zhihu-archive) - Save the entire Internet to IPFS 保存整个互联网到IPFS
 
 *   [hutushen222/JianshuRSS](https://github.com/hutushen222/JianshuRSS) - Jianshu RSS Feed Generator
+
+*   [zhw2590582/Teahouse-Wordpress-Theme](https://github.com/zhw2590582/Teahouse-Wordpress-Theme) - :tea: Wordpress blog theme Teahouse
 
 ## Haskell
 
