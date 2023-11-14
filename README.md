@@ -34,7 +34,6 @@
 *   [PHP](#php)
 *   [Haskell](#haskell)
 *   [Jupyter Notebook](#jupyter-notebook)
-*   [Swift](#swift)
 *   [C#](#c-2)
 *   [Vue](#vue)
 *   [Scala](#scala)
@@ -45,6 +44,7 @@
 *   [Batchfile](#batchfile)
 *   [Dockerfile](#dockerfile)
 *   [SCSS](#scss)
+*   [Swift](#swift)
 *   [Nunjucks](#nunjucks)
 *   [CSS](#css)
 *   [VBScript](#vbscript)
@@ -1040,6 +1040,8 @@
 
 *   [yangyangwithgnu/goagent\_out\_of\_box\_yang](https://github.com/yangyangwithgnu/goagent_out_of_box_yang) - this is the newest goagent with yangyang's settings for floks who are not good at computer, yes, out of box.
 
+*   [no13bus/bustime](https://github.com/no13bus/bustime) - 提供公交车信息查询
+
 ## Kotlin
 
 *   [greatfire/envoy](https://github.com/greatfire/envoy) - C and Java Library derived from Chromium Cronet which can be used to make Android apps resistant to censorship
@@ -1892,14 +1894,6 @@
 
 *   [xitu/tensorflow-docs](https://github.com/xitu/tensorflow-docs) - TensorFlow 最新官方文档中文版
 
-## Swift
-
-*   [arror/Mango](https://github.com/arror/Mango) - Xray for iOS
-
-*   [nmdias/FeedKit](https://github.com/nmdias/FeedKit) - An RSS, Atom and JSON Feed parser written in Swift
-
-*   [liruqi/Mume-iOS](https://github.com/liruqi/Mume-iOS) -
-
 ## C\#
 
 *   [vpnhood/VpnHood](https://github.com/vpnhood/VpnHood) - Undetectable Fast Portable VPN
@@ -2049,6 +2043,12 @@
 ## SCSS
 
 *   [sivan/heti](https://github.com/sivan/heti) - 赫蹏（hètí）是专为中文内容展示设计的排版样式增强。它基于通行的中文排版规范而来，可以为网站的读者带来更好的文章阅读体验。
+
+## Swift
+
+*   [nmdias/FeedKit](https://github.com/nmdias/FeedKit) - An RSS, Atom and JSON Feed parser written in Swift
+
+*   [liruqi/Mume-iOS](https://github.com/liruqi/Mume-iOS) -
 
 ## Nunjucks
 
