@@ -1262,7 +1262,7 @@
 
 ## JavaScript
 
-*   [fishjar/kiss-translator](https://github.com/fishjar/kiss-translator) - A simple bilingual translation extension & Greasemonkey script (一个简约的 双语对照翻译扩展 & 油猴脚本)
+*   [fishjar/kiss-translator](https://github.com/fishjar/kiss-translator) - A simple, open source bilingual translation extension & Greasemonkey script (一个简约、开源的 双语对照翻译扩展 & 油猴脚本)
 
 *   [Edsuns/AdblockAndroid](https://github.com/Edsuns/AdblockAndroid) - A adblock engine (ad filter) library for Android WebView
 
