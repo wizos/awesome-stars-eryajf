@@ -18,6 +18,7 @@
 
 ## Table of Contents
 
+*   [Shell](#shell)
 *   [Java](#java)
 *   [Kotlin](#kotlin)
 *   [miscellaneous](#miscellaneous)
@@ -37,7 +38,6 @@
 *   [C#](#c-2)
 *   [Vue](#vue)
 *   [Scala](#scala)
-*   [Shell](#shell)
 *   [Objective-C](#objective-c)
 *   [EJS](#ejs)
 *   [Ruby](#ruby)
@@ -63,6 +63,42 @@
 *   [Scheme](#scheme)
 *   [Groff](#groff)
 *   [Thanks](#thanks)
+
+## Shell
+
+*   [alsyundawy/Parallels](https://github.com/alsyundawy/Parallels) - Parallels Desktop for mac
+
+*   [Lbingyi/Heroku-Xray](https://github.com/Lbingyi/Heroku-Xray) - 使用Heroku部署Xray高性能代理服务，通过ws传输的 (vless)协议
+
+*   [bclswl0827/v2ray-heroku](https://github.com/bclswl0827/v2ray-heroku) - 用于在 Heroku 上部署 V2Ray WebSocket。
+
+*   [jinyuzu99/heroku-miniflux](https://github.com/jinyuzu99/heroku-miniflux) - one click to deploy miniflux on heroku.
+
+*   [snail007/tgbot-heroku](https://github.com/snail007/tgbot-heroku) - Deploy tgbot to heroku in one key, you can use it as your telegram private notifier.
+
+*   [yeahwu/kinto](https://github.com/yeahwu/kinto) -
+
+*   [xiangrui120/v2ray-heroku-undone](https://github.com/xiangrui120/v2ray-heroku-undone) - Deploy V2Ray to Heroku
+
+*   [EtherDream/jsproxy](https://github.com/EtherDream/jsproxy) - An online proxy based on ServiceWorker
+
+*   [lmc999/auto-add-routes](https://github.com/lmc999/auto-add-routes) - China Route for VPN
+
+*   [sandae/epubFreq](https://github.com/sandae/epubFreq) - 为epub电子书添加词频标记和注释（词典释义）
+
+*   [neoFelhz/neohosts](https://github.com/neoFelhz/neohosts) - 自由·负责·克制 去广告 Hosts 项目
+
+*   [sh1r0/caffe-android-lib](https://github.com/sh1r0/caffe-android-lib) - Porting caffe to android platform
+
+*   [shadowsocks/kcptun-android](https://github.com/shadowsocks/kcptun-android) - kcptun for Android.
+
+*   [shengxinjing/programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist) - :see\_no\_evil:程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞
+
+*   [mba811/gitdisk](https://github.com/mba811/gitdisk) - GitDisk：基于Git的网盘式文件同步软件
+
+*   [OnePlusOSS/android](https://github.com/OnePlusOSS/android) -
+
+*   [zhanghai/MaterialColdStart](https://github.com/zhanghai/MaterialColdStart) - Utilize the window background during cold start time to make your app look faster.
 
 ## Java
 
@@ -1340,8 +1376,6 @@
 
 *   [binux/cssfulltext](https://github.com/binux/cssfulltext) - source code of
 
-*   [yangyangwithgnu/goagent\_out\_of\_box\_yang](https://github.com/yangyangwithgnu/goagent_out_of_box_yang) - this is the newest goagent with yangyang's settings for floks who are not good at computer, yes, out of box.
-
 ## TypeScript
 
 *   [smol-ai/GodMode](https://github.com/smol-ai/GodMode) - AI Chat Browser: Fast, Full webapp access to ChatGPT / Claude / Bard / Bing / Llama2! I use this 20 times a day.
@@ -1953,40 +1987,6 @@
 *   [markwinter/Antox](https://github.com/markwinter/Antox) - Scala android client for Project Tox - secure p2p messaging
 
 *   [wuhx/shelldroid](https://github.com/wuhx/shelldroid) - Create Virtual Environment for your Android Apps
-
-## Shell
-
-*   [Lbingyi/Heroku-Xray](https://github.com/Lbingyi/Heroku-Xray) - 使用Heroku部署Xray高性能代理服务，通过ws传输的 (vless)协议
-
-*   [bclswl0827/v2ray-heroku](https://github.com/bclswl0827/v2ray-heroku) - 用于在 Heroku 上部署 V2Ray WebSocket。
-
-*   [jinyuzu99/heroku-miniflux](https://github.com/jinyuzu99/heroku-miniflux) - one click to deploy miniflux on heroku.
-
-*   [snail007/tgbot-heroku](https://github.com/snail007/tgbot-heroku) - Deploy tgbot to heroku in one key, you can use it as your telegram private notifier.
-
-*   [yeahwu/kinto](https://github.com/yeahwu/kinto) -
-
-*   [xiangrui120/v2ray-heroku-undone](https://github.com/xiangrui120/v2ray-heroku-undone) - Deploy V2Ray to Heroku
-
-*   [EtherDream/jsproxy](https://github.com/EtherDream/jsproxy) - An online proxy based on ServiceWorker
-
-*   [lmc999/auto-add-routes](https://github.com/lmc999/auto-add-routes) - China Route for VPN
-
-*   [sandae/epubFreq](https://github.com/sandae/epubFreq) - 为epub电子书添加词频标记和注释（词典释义）
-
-*   [neoFelhz/neohosts](https://github.com/neoFelhz/neohosts) - 自由·负责·克制 去广告 Hosts 项目
-
-*   [sh1r0/caffe-android-lib](https://github.com/sh1r0/caffe-android-lib) - Porting caffe to android platform
-
-*   [shadowsocks/kcptun-android](https://github.com/shadowsocks/kcptun-android) - kcptun for Android.
-
-*   [shengxinjing/programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist) - :see\_no\_evil:程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞
-
-*   [mba811/gitdisk](https://github.com/mba811/gitdisk) - GitDisk：基于Git的网盘式文件同步软件
-
-*   [OnePlusOSS/android](https://github.com/OnePlusOSS/android) -
-
-*   [zhanghai/MaterialColdStart](https://github.com/zhanghai/MaterialColdStart) - Utilize the window background during cold start time to make your app look faster.
 
 ## Objective-C
 
