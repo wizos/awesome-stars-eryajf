@@ -138,7 +138,7 @@
 
 *   [MLNLP-World/MIT-Linear-Algebra-Notes](https://github.com/MLNLP-World/MIT-Linear-Algebra-Notes) - MLNLP: Notes for MIT-Linear-Algebra
 
-*   [wll8/aardio\_doc](https://github.com/wll8/aardio_doc) -
+*   [wll8/aardio\_doc](https://github.com/wll8/aardio_doc) - aardio 文档 markdown 版本。
 
 *   [ghostery/browser-android](https://github.com/ghostery/browser-android) - Legacy Ghostery Browser for Android
 
@@ -273,8 +273,6 @@
 *   [mehrvarz/webcall-android](https://github.com/mehrvarz/webcall-android) - WebCall for Android - Web-Telephony P2P Messaging File-Exchange E2E-Encryption No-SIM
 
 *   [warren-bank/Android-WebMonkey](https://github.com/warren-bank/Android-WebMonkey) - No-frills light-weight Android web browser with support for Greasemonkey userscripts.
-
-*   [elulis/sensitive-words](https://github.com/elulis/sensitive-words) - Java快速中文敏感词过滤，在15k敏感词库上的过滤速度超过50M字符每秒。
 
 *   [qiujiayu/AutoLoadCache](https://github.com/qiujiayu/AutoLoadCache) -   AutoLoadCache 是基于AOP+Annotation等技术实现的高效的缓存管理解决方案，实现缓存与业务逻辑的解耦，并增加异步刷新及“拿来主义机制”，以适应高并发环境下的使用。
 
@@ -1613,6 +1611,8 @@
 *   [shispt/random-google-ip](https://github.com/shispt/random-google-ip) - Chrome扩展：随机选择一个 Google IP 并打开
 
 *   [bl4kraven/full\_text\_rss](https://github.com/bl4kraven/full_text_rss) - full text rss feed output
+
+*   [rose1988c/Caoliu.plug](https://github.com/rose1988c/Caoliu.plug) - now, cl is no open, no energy, no fresh
 
 ## Groovy
 
