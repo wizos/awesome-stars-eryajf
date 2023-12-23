@@ -61,10 +61,13 @@
 *   [Lex](#lex)
 *   [AppleScript](#applescript)
 *   [Scheme](#scheme)
-*   [Groff](#groff)
 *   [Thanks](#thanks)
 
 ## Kotlin
+
+*   [MatsuriDayo/NekoBoxForAndroid](https://github.com/MatsuriDayo/NekoBoxForAndroid) - NekoBox for Android / sing-box / universal proxy toolchain for Android
+
+*   [you-apps/ConnectYou](https://github.com/you-apps/ConnectYou) - Privacy focused contacts and SMS messenger app built with MD3
 
 *   [gkd-kit/gkd](https://github.com/gkd-kit/gkd) - 基于 无障碍 + 高级选择器 + 订阅规则 的自定义屏幕点击 Android APP
 
@@ -133,6 +136,8 @@
 *   [mozilla-mobile/reference-browser](https://github.com/mozilla-mobile/reference-browser) - A full-featured browser reference implementation using Mozilla Android Components.
 
 *   [WankkoRee/WebViewPP](https://github.com/WankkoRee/WebViewPP) - Enable WebView debugging and add vConsole in it. Support WebView, TBS X5, UC U4, Crosswalk(XWalk), XWeb. 启用 WebView 调试并添加 vConsole，支持 WebView、TBS X5、UC U4、Crosswalk(XWalk)、XWeb。
+
+*   [TermPlux/TermPlux-App](https://github.com/TermPlux/TermPlux-App) - TermPlux致力于让Termux更加好用、易用，提高移动设备生产力。
 
 *   [thalloerupt/stage2](https://github.com/thalloerupt/stage2) - A browser base on Geckoview
 
@@ -239,8 +244,6 @@
 *   [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 
 *   [marchellodev/sharik](https://github.com/marchellodev/sharik) - Sharik is an open-source, cross-platform solution for sharing files via Wi-Fi or Mobile Hotspot
-
-*   [TermPlux/TermPlux-App](https://github.com/TermPlux/TermPlux-App) - TermPlux致力于让Termux更加好用、易用，提高移动设备生产力。
 
 *   [yang991178/fluent-reader-lite](https://github.com/yang991178/fluent-reader-lite) - Simplistic mobile RSS client built with Flutter
 
@@ -1764,8 +1767,6 @@
 
 *   [yangyangwithgnu/hanz2piny](https://github.com/yangyangwithgnu/hanz2piny) - hanz2piny is a tool that easy convert chinese hanzi to mandarin pinyin. It fast, no-DB-file, and supports polyphone.
 
-*   [QuiteRSS/quiterss](https://github.com/QuiteRSS/quiterss) - Free news feeds reader
-
 ## HTML
 
 *   [damoeb/feedless](https://github.com/damoeb/feedless) - Middleware to create RSS feeds, filter existing feeds and transform them (e.g.  fulltext or media detection)
@@ -2147,10 +2148,6 @@
 ## Scheme
 
 *   [cisco/ChezScheme](https://github.com/cisco/ChezScheme) - Chez Scheme
-
-## Groff
-
-*   [disconn3ct/tiny\_tiny\_rss-openshift-quickstart](https://github.com/disconn3ct/tiny_tiny_rss-openshift-quickstart) - Quickstart for Tiny Tiny RSS, with submodules for mobile plugin and upstream TTRSS source.
 
 ## Thanks
 
