@@ -1663,7 +1663,7 @@
 
 *   [ourongxing/chatgpt-vercel](https://github.com/ourongxing/chatgpt-vercel) - Elegant and Powerfull. Powered by OpenAI and Vercel.
 
-*   [Millera0/private](https://github.com/Millera0/private) - This project has been deleted to avoid legal risks.
+*   [zu1k/bs-core](https://github.com/zu1k/bs-core) -
 
 *   [VideoRoll/VideoRoll](https://github.com/VideoRoll/VideoRoll) - 📺A chrome/edge/firefox extension to rotate, zoom, reposition, stretch, flip, tune, focus and filter a web video
 
