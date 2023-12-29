@@ -845,7 +845,7 @@
 
 *   [chr0mag/geoipsets](https://github.com/chr0mag/geoipsets) - Python package to generate country-specific IP network ranges consumable by both iptables/ipset and nftables.
 
-*   [GoogleLLP/Archive-password-cracker](https://github.com/GoogleLLP/Archive-password-cracker) - 设计精良的压缩包密码破解工具，具有自定义字典、导出字典、选择字典等功能。基于Python实现，支持多线程与多进程，不断完善中……
+*   [ZongXR/Archive-password-cracker](https://github.com/ZongXR/Archive-password-cracker) - 设计精良的压缩包密码破解工具，具有自定义字典、导出字典、选择字典等功能。基于Python实现，支持多线程与多进程，不断完善中……
 
 *   [JiahuiYu/generative\_inpainting](https://github.com/JiahuiYu/generative_inpainting) - DeepFill v1/v2 with Contextual Attention and Gated Convolution, CVPR 2018, and ICCV 2019 Oral
 
