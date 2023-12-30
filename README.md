@@ -1767,6 +1767,8 @@
 
 *   [yangyangwithgnu/hanz2piny](https://github.com/yangyangwithgnu/hanz2piny) - hanz2piny is a tool that easy convert chinese hanzi to mandarin pinyin. It fast, no-DB-file, and supports polyphone.
 
+*   [QuiteRSS/quiterss](https://github.com/QuiteRSS/quiterss) - Free news feeds reader
+
 ## HTML
 
 *   [damoeb/feedless](https://github.com/damoeb/feedless) - Middleware to create RSS feeds, filter existing feeds and transform them (e.g.  fulltext or media detection)
@@ -1874,8 +1876,6 @@
 *   [noahbuscher/macaw](https://github.com/noahbuscher/macaw) - The simple PHP router
 
 *   [alaouy/Youtube](https://github.com/alaouy/Youtube) - 🔥 Laravel PHP Facade/Wrapper for the Youtube Data API
-
-*   [zxq2233/youtube-php-mirroring](https://github.com/zxq2233/youtube-php-mirroring) - 本项目作废，已经无法使用，
 
 *   [kalcaddle/KodExplorer](https://github.com/kalcaddle/KodExplorer) - A web based file manager,web IDE / browser based code editor
 
