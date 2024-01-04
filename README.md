@@ -18,6 +18,7 @@
 
 ## Table of Contents
 
+*   [Shell](#shell)
 *   [Kotlin](#kotlin)
 *   [Dart](#dart)
 *   [Rust](#rust)
@@ -27,7 +28,6 @@
 *   [JavaScript](#javascript)
 *   [C](#c)
 *   [Python](#python)
-*   [Shell](#shell)
 *   [Java](#java)
 *   [TypeScript](#typescript)
 *   [Groovy](#groovy)
@@ -62,6 +62,44 @@
 *   [AppleScript](#applescript)
 *   [Scheme](#scheme)
 *   [Thanks](#thanks)
+
+## Shell
+
+*   [dupontjoy/Customization](https://github.com/dupontjoy/Customization) -
+
+*   [alsyundawy/Parallels](https://github.com/alsyundawy/Parallels) - Parallels Desktop for mac
+
+*   [Lbingyi/Heroku-Xray](https://github.com/Lbingyi/Heroku-Xray) - 使用Heroku部署Xray高性能代理服务，通过ws传输的 (vless)协议
+
+*   [bclswl0827/v2ray-heroku](https://github.com/bclswl0827/v2ray-heroku) - 用于在 Heroku 上部署 V2Ray WebSocket。
+
+*   [jinyuzu99/heroku-miniflux](https://github.com/jinyuzu99/heroku-miniflux) - one click to deploy miniflux on heroku.
+
+*   [snail007/tgbot-heroku](https://github.com/snail007/tgbot-heroku) - Deploy tgbot to heroku in one key, you can use it as your telegram private notifier.
+
+*   [yeahwu/kinto](https://github.com/yeahwu/kinto) -
+
+*   [xiangrui120/v2ray-heroku-undone](https://github.com/xiangrui120/v2ray-heroku-undone) - Deploy V2Ray to Heroku
+
+*   [EtherDream/jsproxy](https://github.com/EtherDream/jsproxy) - An online proxy based on ServiceWorker
+
+*   [lmc999/auto-add-routes](https://github.com/lmc999/auto-add-routes) - China Route for VPN
+
+*   [sandae/epubFreq](https://github.com/sandae/epubFreq) - 为epub电子书添加词频标记和注释（词典释义）
+
+*   [neoFelhz/neohosts](https://github.com/neoFelhz/neohosts) - 自由·负责·克制 去广告 Hosts 项目
+
+*   [sh1r0/caffe-android-lib](https://github.com/sh1r0/caffe-android-lib) - Porting caffe to android platform
+
+*   [shadowsocks/kcptun-android](https://github.com/shadowsocks/kcptun-android) - kcptun for Android.
+
+*   [shengxinjing/programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist) - :see\_no\_evil:程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞
+
+*   [mba811/gitdisk](https://github.com/mba811/gitdisk) - GitDisk：基于Git的网盘式文件同步软件
+
+*   [OnePlusOSS/android](https://github.com/OnePlusOSS/android) -
+
+*   [zhanghai/MaterialColdStart](https://github.com/zhanghai/MaterialColdStart) - Utilize the window background during cold start time to make your app look faster.
 
 ## Kotlin
 
@@ -995,42 +1033,6 @@
 
 *   [PeterDing/iScript](https://github.com/PeterDing/iScript) - 各种脚本 -- 关于 虾米 xiami.com, 百度网盘 pan.baidu.com, 115网盘 115.com, 网易音乐 music.163.com, 百度音乐 music.baidu.com, 360网盘/云盘 yunpan.cn, 视频解析 flvxz.com, bt torrent ↔ magnet, ed2k 搜索, tumblr 图片下载, unzip
 
-## Shell
-
-*   [alsyundawy/Parallels](https://github.com/alsyundawy/Parallels) - Parallels Desktop for mac
-
-*   [Lbingyi/Heroku-Xray](https://github.com/Lbingyi/Heroku-Xray) - 使用Heroku部署Xray高性能代理服务，通过ws传输的 (vless)协议
-
-*   [bclswl0827/v2ray-heroku](https://github.com/bclswl0827/v2ray-heroku) - 用于在 Heroku 上部署 V2Ray WebSocket。
-
-*   [jinyuzu99/heroku-miniflux](https://github.com/jinyuzu99/heroku-miniflux) - one click to deploy miniflux on heroku.
-
-*   [snail007/tgbot-heroku](https://github.com/snail007/tgbot-heroku) - Deploy tgbot to heroku in one key, you can use it as your telegram private notifier.
-
-*   [yeahwu/kinto](https://github.com/yeahwu/kinto) -
-
-*   [xiangrui120/v2ray-heroku-undone](https://github.com/xiangrui120/v2ray-heroku-undone) - Deploy V2Ray to Heroku
-
-*   [EtherDream/jsproxy](https://github.com/EtherDream/jsproxy) - An online proxy based on ServiceWorker
-
-*   [lmc999/auto-add-routes](https://github.com/lmc999/auto-add-routes) - China Route for VPN
-
-*   [sandae/epubFreq](https://github.com/sandae/epubFreq) - 为epub电子书添加词频标记和注释（词典释义）
-
-*   [neoFelhz/neohosts](https://github.com/neoFelhz/neohosts) - 自由·负责·克制 去广告 Hosts 项目
-
-*   [sh1r0/caffe-android-lib](https://github.com/sh1r0/caffe-android-lib) - Porting caffe to android platform
-
-*   [shadowsocks/kcptun-android](https://github.com/shadowsocks/kcptun-android) - kcptun for Android.
-
-*   [shengxinjing/programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist) - :see\_no\_evil:程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞
-
-*   [mba811/gitdisk](https://github.com/mba811/gitdisk) - GitDisk：基于Git的网盘式文件同步软件
-
-*   [OnePlusOSS/android](https://github.com/OnePlusOSS/android) -
-
-*   [zhanghai/MaterialColdStart](https://github.com/zhanghai/MaterialColdStart) - Utilize the window background during cold start time to make your app look faster.
-
 ## Java
 
 *   [emanuele-f/PCAPdroid-mitm](https://github.com/emanuele-f/PCAPdroid-mitm) - Mitm addon for PCAPdroid
@@ -1766,8 +1768,6 @@
 *   [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree
 
 *   [yangyangwithgnu/hanz2piny](https://github.com/yangyangwithgnu/hanz2piny) - hanz2piny is a tool that easy convert chinese hanzi to mandarin pinyin. It fast, no-DB-file, and supports polyphone.
-
-*   [QuiteRSS/quiterss](https://github.com/QuiteRSS/quiterss) - Free news feeds reader
 
 ## HTML
 
