@@ -18,6 +18,7 @@
 
 ## Table of Contents
 
+*   [Vue](#vue)
 *   [Go](#go)
 *   [miscellaneous](#miscellaneous)
 *   [Shell](#shell)
@@ -36,7 +37,6 @@
 *   [PHP](#php)
 *   [Haskell](#haskell)
 *   [C#](#c-2)
-*   [Vue](#vue)
 *   [Scala](#scala)
 *   [Objective-C](#objective-c)
 *   [EJS](#ejs)
@@ -63,9 +63,23 @@
 *   [Scheme](#scheme)
 *   [Thanks](#thanks)
 
+## Vue
+
+*   [Jazee6/cloudflare-ai-web](https://github.com/Jazee6/cloudflare-ai-web) - 支持GeminiPro Vision / Cloudflare Workers AI / ChatGPT的融合Web平台
+
+*   [Haojen/planet-tab](https://github.com/Haojen/planet-tab) - A cool dynamic 3D planet new tab, support Search, Clock, Weather and custom, also compatible with Vimkey
+
+*   [ZyqGitHub1/h-player-v2](https://github.com/ZyqGitHub1/h-player-v2) - 资源采集站在线播放
+
+*   [wuhaoworld/torrent2magnet](https://github.com/wuhaoworld/torrent2magnet) - 种子转磁力链工具
+
+*   [easychen/catgate](https://github.com/easychen/catgate) - CatGate is a small crawler framework based on Chrome extension . CatGate是一个基于浏览器插件的数据抓取工具。做成浏览器插件无需模拟登入，能最真实的模仿用户行为和特征。
+
+*   [stonexer/wechatBot](https://github.com/stonexer/wechatBot) - 面向个人的微信 wechat 机器人平台 - 使用微信网页版接口 wechat4u
+
 ## Go
 
-*   [aaamoon/copilot-gpt4-service](https://github.com/aaamoon/copilot-gpt4-service) - Convert the Github Copilot request into a ChatGPT request, free to use the GPT-4 model. 将Github Copilot请求转换为ChatGPT请求，免费使用GPT-4模型
+*   [aaamoon/copilot-gpt4-service](https://github.com/aaamoon/copilot-gpt4-service) - Convert Github Copilot to ChatGPT, free to use the GPT-4 model
 
 *   [msterzhang/onelist](https://github.com/msterzhang/onelist) - 一个类似emby的专注于刮削alist聚合网盘形成影视媒体库的程序。
 
@@ -1793,7 +1807,7 @@
 
 *   [dankito/Readability4J](https://github.com/dankito/Readability4J) - A Kotlin port of Mozilla‘s Readability. It extracts a website‘s relevant content and removes all clutter from it.
 
-*   [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English which might benefit you a lot 🎉 .  离谱的英语学习指南。
+*   [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English which might benefit you a lot 🎉 .  离谱的英语学习指南/英语学习教程。
 
 *   [andreskrey/readability.php](https://github.com/andreskrey/readability.php) - PHP port of Mozilla's Readability.js
 
@@ -1929,8 +1943,6 @@
 
 *   [maicong/music](https://github.com/maicong/music) - 音乐搜索器 - 多站合一音乐搜索解决方案
 
-*   [Celend/google-alias](https://github.com/Celend/google-alias) - No longer maintenance
-
 ## Haskell
 
 *   [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - SimpleX - the first messaging platform operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
@@ -1968,18 +1980,6 @@
 *   [shadowsocks/shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) - A C# port of shadowsocks
 
 *   [kenvix/USBCopyer](https://github.com/kenvix/USBCopyer) - 😉 用于在插上U盘后自动按需复制该U盘的文件。”备份&偷U盘文件的神器”（写作USBCopyer，读作USBCopier）
-
-## Vue
-
-*   [Haojen/planet-tab](https://github.com/Haojen/planet-tab) - A cool dynamic 3D planet new tab, support Search, Clock, Weather and custom, also compatible with Vimkey
-
-*   [ZyqGitHub1/h-player-v2](https://github.com/ZyqGitHub1/h-player-v2) - 资源采集站在线播放
-
-*   [wuhaoworld/torrent2magnet](https://github.com/wuhaoworld/torrent2magnet) - 种子转磁力链工具
-
-*   [easychen/catgate](https://github.com/easychen/catgate) - CatGate is a small crawler framework based on Chrome extension . CatGate是一个基于浏览器插件的数据抓取工具。做成浏览器插件无需模拟登入，能最真实的模仿用户行为和特征。
-
-*   [stonexer/wechatBot](https://github.com/stonexer/wechatBot) - 面向个人的微信 wechat 机器人平台 - 使用微信网页版接口 wechat4u
 
 ## Scala
 
