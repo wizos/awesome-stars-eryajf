@@ -1121,7 +1121,7 @@
 
 *   [WankkoRee/WebViewPP](https://github.com/WankkoRee/WebViewPP) - Enable WebView debugging and add vConsole in it. Support WebView, TBS X5, UC U4, Crosswalk(XWalk), XWeb. 启用 WebView 调试并添加 vConsole，支持 WebView、TBS X5、UC U4、Crosswalk(XWalk)、XWeb。
 
-*   [TermPlux/TermPlux-App](https://github.com/TermPlux/TermPlux-App) - TermPlux致力于让Termux更加好用、易用，提高移动设备生产力。
+*   [TermPlux/TermPlux](https://github.com/TermPlux/TermPlux) - TermPlux致力于让Termux更加好用、易用，提高移动设备生产力。
 
 *   [thalloerupt/stage2](https://github.com/thalloerupt/stage2) - A browser base on Geckoview
 
