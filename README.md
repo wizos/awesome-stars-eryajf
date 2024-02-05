@@ -65,6 +65,8 @@
 
 ## Kotlin
 
+*   [WirelessAlien/ZipXtract](https://github.com/WirelessAlien/ZipXtract) - An open source app to extract rar, zip, tar, bz2, gz, 7z, xz, jar and z etc (encrypted .zip & .7z supported)
+
 *   [SagerNet/sing-box-for-android](https://github.com/SagerNet/sing-box-for-android) - Experimental Android client for sing-box
 
 *   [Droid-ify/client](https://github.com/Droid-ify/client) - F-Droid client with Material UI.
@@ -1378,8 +1380,6 @@
 *   [scarletsky/md-avatar](https://github.com/scarletsky/md-avatar) - Material Design avatar for canvas!
 
 *   [chengjun/iching](https://github.com/chengjun/iching) - A python package of I Ching 《易经》蓍草卦的Python版本
-
-*   [acgotaku/ShanBayHelper](https://github.com/acgotaku/ShanBayHelper) - 标注文章中已学单词并且可以点击发音和释义
 
 ## Vue
 
