@@ -1431,7 +1431,7 @@
 
 *   [wa-lang/ugo-compiler-book](https://github.com/wa-lang/ugo-compiler-book) - :books: µGo语言实现(从头开发一个迷你Go语言编译器)
 
-*   [easychen/wecomchan](https://github.com/easychen/wecomchan) - 通过企业微信向微信推送消息的配置文档、直推函数和可自行搭建的在线服务代码。可以看成Server酱的开源替代方案之一。
+*   [easychen/wecomchan](https://github.com/easychen/wecomchan) - 微信推送服务Server酱的开源替代。通过企业微信向微信推送消息的配置文档、直推函数和可自行搭建的在线服务代码。
 
 *   [xumng123/clash](https://github.com/xumng123/clash) - A rule-based tunnel in Go.
 
