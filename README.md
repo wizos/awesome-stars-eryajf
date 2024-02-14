@@ -229,7 +229,7 @@
 
 ## Java
 
-*   [catx-feitu/Coze-Discord-Bridge](https://github.com/catx-feitu/Coze-Discord-Bridge) - 一个能够让你完全免费接入 GPT4  , DALL-E3 API 的项目 , 还提供 Google\&Bing 搜索 , BiliBili搜索 等众多插件 , 完全免费无限制 , 无二次收费 , 由 Coze 强力驱动.
+*   [catx-feitu/Coze-Discord-Bridge](https://github.com/catx-feitu/Coze-Discord-Bridge) - 一个能够让你完全免费接入 GPT4  , DALL-E3 API 的项目 , 还提供 Google\&Bing 搜索 , BiliBili搜索 等众多插件 , 完全免费 , 无二次收费
 
 *   [brunodev85/winlator](https://github.com/brunodev85/winlator) - Android application for running Windows applications with Wine and Box86/Box64
 
