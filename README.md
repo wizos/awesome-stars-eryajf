@@ -931,8 +931,6 @@
 
 *   [WankkoRee/WebViewPP](https://github.com/WankkoRee/WebViewPP) - Enable WebView debugging and add vConsole in it. Support WebView, TBS X5, UC U4, Crosswalk(XWalk), XWeb. 启用 WebView 调试并添加 vConsole，支持 WebView、TBS X5、UC U4、Crosswalk(XWalk)、XWeb。
 
-*   [TermPlux/TermPlux-App](https://github.com/TermPlux/TermPlux-App) - TermPlux是基于arm架构的跨生态软件平台，提高旧设备利用率，助力STEM教育事业发展。
-
 *   [thalloerupt/stage2](https://github.com/thalloerupt/stage2) - A browser base on Geckoview
 
 *   [liangjingkanji/Serialize](https://github.com/liangjingkanji/Serialize) - 🍒 Android 简单高性能读写本地数据, 直接存储对象/基础类型
@@ -1306,6 +1304,8 @@
 *   [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 
 *   [marchellodev/sharik](https://github.com/marchellodev/sharik) - Sharik is an open-source, cross-platform solution for sharing files via Wi-Fi or Mobile Hotspot
+
+*   [TermPlux/TermPlux-App](https://github.com/TermPlux/TermPlux-App) - TermPlux是基于arm架构的跨生态软件平台，提高旧设备利用率，助力STEM教育事业发展。
 
 *   [yang991178/fluent-reader-lite](https://github.com/yang991178/fluent-reader-lite) - Simplistic mobile RSS client built with Flutter
 
