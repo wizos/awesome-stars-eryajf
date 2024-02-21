@@ -1175,8 +1175,6 @@
 
 *   [zuisong/gemini-openai-proxy](https://github.com/zuisong/gemini-openai-proxy) - Convert OpenAI protocol to Google Gemini Pro protocol https://gemini-openai-proxy.zuisong.workers.dev
 
-*   [xiaolai/everyone-can-use-english](https://github.com/xiaolai/everyone-can-use-english) - 人人都能用英语
-
 *   [smol-ai/GodMode](https://github.com/smol-ai/GodMode) - AI Chat Browser: Fast, Full webapp access to ChatGPT / Claude / Bard / Bing / Llama2! I use this 20 times a day.
 
 *   [AdguardTeam/ExtendedCss](https://github.com/AdguardTeam/ExtendedCss) - A TypeScript library for non-standard element selecting — :contains(), :matches-css(), etc., and applying CSS styles with extended properties.
@@ -1672,6 +1670,8 @@
 ## Jupyter Notebook
 
 *   [PRIS-CV/DemoFusion](https://github.com/PRIS-CV/DemoFusion) - Let us democratise high-resolution generation! (arXiv 2023)
+
+*   [xiaolai/everyone-can-use-english](https://github.com/xiaolai/everyone-can-use-english) - 人人都能用英语
 
 *   [facebookresearch/segment-anything](https://github.com/facebookresearch/segment-anything) - The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
 
