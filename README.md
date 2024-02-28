@@ -1493,7 +1493,7 @@
 
 *   [OwO-Network/DeepLX](https://github.com/OwO-Network/DeepLX) - DeepL Free API (No TOKEN required)
 
-*   [echosoar/news](https://github.com/echosoar/news) - 热点聚合排序，基于SimHash算法聚合相似内容
+*   [echosoar/news](https://github.com/echosoar/news) - 基于SimHash算法聚合相似全网内容，根据来源数量进行排序，并对一些内容进行过滤
 
 *   [piqoni/matcha](https://github.com/piqoni/matcha) - Daily Digest Reader
 
