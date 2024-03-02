@@ -65,6 +65,8 @@
 
 ## Kotlin
 
+*   [you-apps/RecordYou](https://github.com/you-apps/RecordYou) - Privacy focused recorder app built with MD3
+
 *   [AndraxDev/speak-gpt](https://github.com/AndraxDev/speak-gpt) - Your personal voice assistant based on OpenAI ChatGPT.
 
 *   [bannedbook/fanqiang](https://github.com/bannedbook/fanqiang) - 翻墙-科学上网
@@ -444,8 +446,6 @@
 *   [flingjie/words\_image](https://github.com/flingjie/words_image) -
 
 *   [YaoZeyuan/ZhihuHelp\_archived](https://github.com/YaoZeyuan/ZhihuHelp_archived) - (停止维护)快速将知乎内容转换为epub电子书, 请移步https://github.com/YaoZeyuan/zhihuhelp\_with\_node
-
-*   [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
 
 ## miscellaneous
 
