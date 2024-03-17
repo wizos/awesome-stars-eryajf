@@ -68,7 +68,7 @@
 
 *   [KaringX/karing](https://github.com/KaringX/karing) - Simple & Powerful proxy utility, Support routing rules for clash/sing-box
 
-*   [xiaohucode/yidaRule](https://github.com/xiaohucode/yidaRule) - yida规则仓库
+*   [xiaohucode/yidaRule](https://github.com/xiaohucode/yidaRule) - 益达规则仓库
 
 *   [I-S00N/I-S00N](https://github.com/I-S00N/I-S00N) -
 
