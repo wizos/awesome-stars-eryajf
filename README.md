@@ -18,10 +18,10 @@
 
 ## Table of Contents
 
+*   [Rust](#rust)
 *   [miscellaneous](#miscellaneous)
 *   [C++](#c)
 *   [Kotlin](#kotlin)
-*   [Rust](#rust)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [Python](#python)
 *   [JavaScript](#javascript)
@@ -63,6 +63,24 @@
 *   [AppleScript](#applescript)
 *   [Scheme](#scheme)
 *   [Thanks](#thanks)
+
+## Rust
+
+*   [e1732a364fed/ruci](https://github.com/e1732a364fed/ruci) - a proxy framework
+
+*   [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
+
+*   [Chaoses-Ib/IbPinyinLib](https://github.com/Chaoses-Ib/IbPinyinLib) - 一个高性能 Rust 拼音匹配库，支持 C、AHK2
+
+*   [kihlh/WxDatViewerAutoExportRust](https://github.com/kihlh/WxDatViewerAutoExportRust) - (WxAutoExIm) 自动备份wx聊天图片到指定位置
+
+*   [YtFlow/YtFlowCore](https://github.com/YtFlow/YtFlowCore) - A modern proxy framework, core of YtFlow.
+
+*   [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
+
+*   [eycorsican/leaf](https://github.com/eycorsican/leaf) - A versatile and efficient proxy framework with nice features suitable for various use cases.
+
+*   [loggerhead/shadowsocks-rust](https://github.com/loggerhead/shadowsocks-rust) - Oh my implementation of Shadowsocks in Rust
 
 ## miscellaneous
 
@@ -464,22 +482,6 @@
 
 *   [PaperAirplane-Dev-Team/BlackLight](https://github.com/PaperAirplane-Dev-Team/BlackLight) - A light Sina Weibo client for Android
 
-## Rust
-
-*   [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
-
-*   [Chaoses-Ib/IbPinyinLib](https://github.com/Chaoses-Ib/IbPinyinLib) - 一个高性能 Rust 拼音匹配库，支持 C、AHK2
-
-*   [kihlh/WxDatViewerAutoExportRust](https://github.com/kihlh/WxDatViewerAutoExportRust) - (WxAutoExIm) 自动备份wx聊天图片到指定位置
-
-*   [YtFlow/YtFlowCore](https://github.com/YtFlow/YtFlowCore) - A modern proxy framework, core of YtFlow.
-
-*   [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
-
-*   [eycorsican/leaf](https://github.com/eycorsican/leaf) - A versatile and efficient proxy framework with nice features suitable for various use cases.
-
-*   [loggerhead/shadowsocks-rust](https://github.com/loggerhead/shadowsocks-rust) - Oh my implementation of Shadowsocks in Rust
-
 ## Jupyter Notebook
 
 *   [elroy93/12306spy](https://github.com/elroy93/12306spy) - 12306查票, 找到一张能上车的票
@@ -689,8 +691,6 @@
 *   [lilydjwg/morerssplz](https://github.com/lilydjwg/morerssplz) - Convert other article sources to RSS feeds
 
 *   [flingjie/words\_image](https://github.com/flingjie/words_image) -
-
-*   [YaoZeyuan/ZhihuHelp\_archived](https://github.com/YaoZeyuan/ZhihuHelp_archived) - (停止维护)快速将知乎内容转换为epub电子书, 请移步https://github.com/YaoZeyuan/zhihuhelp\_with\_node
 
 ## JavaScript
 
