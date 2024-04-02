@@ -1492,7 +1492,7 @@
 
 *   [zu1k/bs-core](https://github.com/zu1k/bs-core) -
 
-*   [VideoRoll/VideoRoll](https://github.com/VideoRoll/VideoRoll) - 📺A chrome/edge/firefox extension to rotate, zoom, reposition, stretch, flip, tune, focus and filter a web video
+*   [VideoRoll/VideoRoll](https://github.com/VideoRoll/VideoRoll) - 📺A chrome/edge/firefox extension to rotate, zoom, reposition, stretch, flip, download, tune, volume++, playback, focus and filter a web video
 
 *   [visiky/resume](https://github.com/visiky/resume) - 🚀 在线简历生成器
 
