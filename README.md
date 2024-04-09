@@ -220,8 +220,6 @@
 
 *   [qiusunshine/movienow](https://github.com/qiusunshine/movienow) - 新方圆影视
 
-*   [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Android real-time display control software
-
 *   [roomanl/AndroidDownload](https://github.com/roomanl/AndroidDownload) - 一个支持种子、磁力、迅雷下载和磁力搜索的APP
 
 *   [devgianlu/Aria2Android](https://github.com/devgianlu/Aria2Android) - An Android app that allows you run aria2 on your device
@@ -1072,6 +1070,8 @@
 
 *   [DuroSoft/XJoy](https://github.com/DuroSoft/XJoy) - Use Nintendo Switch JoyCons as a virtual Xbox 360 controller in Windows
 
+*   [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Android real-time display control software
+
 *   [Tencent/MMKV](https://github.com/Tencent/MMKV) - An efficient, small mobile key-value storage framework developed by WeChat. Works on Android, iOS, macOS, Windows, and POSIX.
 
 *   [XiaoMi/mace](https://github.com/XiaoMi/mace) - MACE is a deep learning inference framework optimized for mobile heterogeneous computing platforms.
@@ -1494,7 +1494,7 @@
 
 *   [zu1k/bs-core](https://github.com/zu1k/bs-core) -
 
-*   [VideoRoll/VideoRoll](https://github.com/VideoRoll/VideoRoll) - 📺A chrome/edge/firefox extension to rotate, zoom, reposition, stretch, flip, download, tune, volume++, playback, focus and filter a web video
+*   [VideoRoll/VideoRoll](https://github.com/VideoRoll/VideoRoll) - 📺All-in-One browser extension to enhance your video watching experience.
 
 *   [visiky/resume](https://github.com/visiky/resume) - 🚀 在线简历生成器
 
