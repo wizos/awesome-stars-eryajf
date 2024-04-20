@@ -1614,7 +1614,7 @@
 
 *   [ourongxing/chatgpt-vercel](https://github.com/ourongxing/chatgpt-vercel) - Elegant and Powerfull. Powered by OpenAI and Vercel.
 
-*   [zu1k/bs-core](https://github.com/zu1k/bs-core) -
+*   [zu1k/bs-core](https://github.com/zu1k/bs-core) - Easy and blazing-fast book searcher, create and search your private library.
 
 *   [VideoRoll/VideoRoll](https://github.com/VideoRoll/VideoRoll) - 📺All-in-One browser extension to enhance your video watching experience.
 
@@ -1934,7 +1934,7 @@
 
 *   [jacklenox/susty](https://github.com/jacklenox/susty) - 🌍 A tiny WordPress theme focused on being as  sustainable as possible. https://sustywp.com
 
-*   [dartiss/code-embed](https://github.com/dartiss/code-embed) - 🧩 WordPress plugin to make embedding of code in posts really, really easy
+*   [dartiss/code-embed](https://github.com/dartiss/code-embed) - WordPress plugin to make embedding of code in posts really, really easy
 
 *   [helloxz/imgurl](https://github.com/helloxz/imgurl) - ImgURL是一个简单、纯粹的图床程序，让个人图床多一个选择。
 
