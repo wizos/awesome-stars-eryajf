@@ -18,6 +18,7 @@
 
 ## Table of Contents
 
+*   [Julia](#julia)
 *   [C++](#c)
 *   [C#](#c-1)
 *   [Java](#java)
@@ -63,6 +64,10 @@
 *   [AppleScript](#applescript)
 *   [Scheme](#scheme)
 *   [Thanks](#thanks)
+
+## Julia
+
+*   [nealmckee/penumbra](https://github.com/nealmckee/penumbra) - Penumbra Color Theme
 
 ## C++
 
@@ -174,7 +179,7 @@
 
 *   [virjar/geoLibChina](https://github.com/virjar/geoLibChina) - 经纬度转省市区县乡镇离线包，采用空间查询算法，速度快(单线程5w次/s)，省市区县100%准确率。
 
-*   [catx-feitu/Coze-Discord-Bridge](https://github.com/catx-feitu/Coze-Discord-Bridge) - 一个能够让你完全免费接入 GPT4  , DALL-E3 API 的项目 , 还提供 Google\&Bing 搜索 , BiliBili搜索 等众多插件 , 完全免费 , 无二次收费
+*   [catx-feitu/Coze-Discord-Bridge](https://github.com/catx-feitu/Coze-Discord-Bridge) - 免费接入 GPT4  , DALL-E3 API  , 还提供 Google\&Bing 搜索 , BiliBili搜索 等众多插件
 
 *   [JeffMony/VideoDownloader](https://github.com/JeffMony/VideoDownloader) - 支持下载队列，支持M3U8视频、MP4视频等，支持M3U8合并为MP4视频。
 
@@ -1791,8 +1796,6 @@
 *   [Wox-launcher/Wox](https://github.com/Wox-launcher/Wox) - A cross-platform launcher that simply works
 
 *   [mmcdole/gofeed](https://github.com/mmcdole/gofeed) - Parse RSS, Atom and JSON feeds in Go
-
-*   [fanpei91/torsniff](https://github.com/fanpei91/torsniff) - torsniff - a sniffer that sniffs torrents from BitTorrent network
 
 ## Shell
 
