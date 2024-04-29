@@ -929,6 +929,8 @@
 
 *   [Jeffmen/Git.NB](https://github.com/Jeffmen/Git.NB) - A app client for Github
 
+*   [MummyDing/Leisure](https://github.com/MummyDing/Leisure) - Leisure is an Android App containing Zhihu Daily,Guokr Scientific,XinhuaNet News and Douban Books
+
 ## Julia
 
 *   [nealmckee/penumbra](https://github.com/nealmckee/penumbra) - Penumbra Color Theme
@@ -1811,8 +1813,6 @@
 
 *   [snail007/tgbot-heroku](https://github.com/snail007/tgbot-heroku) - Deploy tgbot to heroku in one key, you can use it as your telegram private notifier.
 
-*   [yeahwu/kinto](https://github.com/yeahwu/kinto) -
-
 *   [xiangrui120/v2ray-heroku-undone](https://github.com/xiangrui120/v2ray-heroku-undone) - Deploy V2Ray to Heroku
 
 *   [EtherDream/jsproxy](https://github.com/EtherDream/jsproxy) - An online proxy based on ServiceWorker
@@ -1851,7 +1851,7 @@
 
 ## Zig
 
-*   [zfl9/chinadns-ng](https://github.com/zfl9/chinadns-ng) - chinadns 重构增强版，支持黑白名单，ipset/nftset
+*   [zfl9/chinadns-ng](https://github.com/zfl9/chinadns-ng) - chinadns 重构增强版，支持域名分流、ipset/nftset、UDP/TCP/DoT
 
 ## Groovy
 
