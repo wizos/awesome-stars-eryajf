@@ -1595,7 +1595,7 @@
 
 ## TypeScript
 
-*   [AIsouler-gkd/GKD\_subscription](https://github.com/AIsouler-gkd/GKD_subscription) - GKD 第三方订阅规则
+*   [AIsouler/GKD\_subscription](https://github.com/AIsouler/GKD_subscription) - GKD 第三方订阅规则
 
 *   [zuisong/gemini-openai-proxy](https://github.com/zuisong/gemini-openai-proxy) - OpenAI to Google Gemini         https://gemini-openai-proxy.deno.dev
 
