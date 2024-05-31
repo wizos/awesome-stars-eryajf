@@ -847,7 +847,7 @@
 
 *   [SheepYang1993/OnlyLive](https://github.com/SheepYang1993/OnlyLive) - 仿手游《混》、《买房记》，练手项目欢迎指点
 
-*   [objectbox/objectbox-java](https://github.com/objectbox/objectbox-java) - Java and Android Database - fast and lightweight without any ORM
+*   [objectbox/objectbox-java](https://github.com/objectbox/objectbox-java) - Android Database - first and fast, lightweight on-device vector database
 
 *   [ximsfei/Android-skin-support](https://github.com/ximsfei/Android-skin-support) - Android-skin-support is an easy dynamic skin framework to use  for Android, Only one line of code to integrate it. Android 换肤框架, 极低的学习成本, 极好的用户体验. "一行"代码就可以实现换肤, 你值得拥有!!!
 
