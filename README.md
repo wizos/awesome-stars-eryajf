@@ -361,6 +361,8 @@
 
 *   [tarolabs/sscap](https://github.com/tarolabs/sscap) - Shadowsocks client written in C++,MFC
 
+*   [AriaLyy/Aria](https://github.com/AriaLyy/Aria) -
+
 *   [greatfire/wiki](https://github.com/greatfire/wiki) -
 
 *   [ngosang/trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
@@ -1034,8 +1036,6 @@
 *   [scwang90/SmartRefreshLayout](https://github.com/scwang90/SmartRefreshLayout) - 🔥下拉刷新、上拉加载、二级刷新、淘宝二楼、RefreshLayout、OverScroll，Android智能下拉刷新框架，支持越界回弹、越界拖动，具有极强的扩展性，集成了几十种炫酷的Header和 Footer。
 
 *   [Justson/AgentWeb](https://github.com/Justson/AgentWeb) -  AgentWeb is a powerful library based on Android WebView.
-
-*   [AriaLyy/Aria](https://github.com/AriaLyy/Aria) - 下载可以很简单
 
 *   [yuukidach/Ucount](https://github.com/yuukidach/Ucount) - 简易记账APP
 
