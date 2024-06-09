@@ -1515,7 +1515,7 @@
 
 *   [qiyeboy/IPProxyPool](https://github.com/qiyeboy/IPProxyPool) - IPProxyPool代理池项目，提供代理ip
 
-*   [cdhigh/KindleEar](https://github.com/cdhigh/KindleEar) - A web app that automatically fetches RSS on schedule, compiles them into e-books, and sends them to Kindle.
+*   [cdhigh/KindleEar](https://github.com/cdhigh/KindleEar) - Aggregates RSS and web content, sends to Kindle, and includes an e-ink optimized online reader.
 
 *   [bynil/v2ex-crawler](https://github.com/bynil/v2ex-crawler) - A simple single-threaded crawler for V2EX
 
