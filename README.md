@@ -1329,7 +1329,7 @@
 
 *   [gojue/ecapture](https://github.com/gojue/ecapture) - Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels for amd64/arm64.
 
-*   [heiher/hev-socks5-server](https://github.com/heiher/hev-socks5-server) - A high-performance socks5 server for Unix (Linux/BSD/macOS)
+*   [heiher/hev-socks5-server](https://github.com/heiher/hev-socks5-server) - A high-performance socks5 server for Unix (Linux/Android/BSD/macOS)
 
 *   [heiher/hev-socks5-tunnel](https://github.com/heiher/hev-socks5-tunnel) - A high-performance tun2socks for Linux/Android/FreeBSD/macOS/iOS/WSL2 (IPv4/IPv6/TCP/UDP)
 
