@@ -1377,7 +1377,7 @@
 
 ## Dart
 
-*   [TheHCJ/Quacker](https://github.com/TheHCJ/Quacker) - Quacker is a more private and clean way to browse Twitter/X
+*   [TheHCJ/Quacker](https://github.com/TheHCJ/Quacker) - The continuation of fritter with feeds
 
 *   [hiddify/hiddify-next](https://github.com/hiddify/hiddify-next) - Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.
 
