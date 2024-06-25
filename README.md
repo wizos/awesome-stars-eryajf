@@ -225,7 +225,7 @@
 
 ## C++
 
-*   [niedev/RTranslator](https://github.com/niedev/RTranslator) - RTranslator is the world's first open source real-time translation app.
+*   [niedev/RTranslator](https://github.com/niedev/RTranslator) - World's first open source real-time translation app for Android.
 
 *   [frostwire/frostwire-jlibtorrent](https://github.com/frostwire/frostwire-jlibtorrent) - A swig Java interface for libtorrent by the makers of FrostWire.  Develop libtorrent based apps with the joy of coding in Java.
 
@@ -311,7 +311,7 @@
 
 *   [deniscerri/ytdlnis](https://github.com/deniscerri/ytdlnis) - Android Video/Audio Downloader app using yt-dlp
 
-*   [MRepoApp/MRepo](https://github.com/MRepoApp/MRepo) - A modules manager for Magisk & KernelSU
+*   [MRepoApp/MRepo](https://github.com/MRepoApp/MRepo) - A modules manager for Magisk, KernelSU and APatch
 
 *   [celzero/rethink-app](https://github.com/celzero/rethink-app) - DNS over HTTPS / DNS over Tor / DNSCrypt client, WireGuard proxifier, firewall, and connection tracker for Android.
 
