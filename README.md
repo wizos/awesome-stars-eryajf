@@ -1952,7 +1952,7 @@
 
 *   [shadowsocks/go-shadowsocks2](https://github.com/shadowsocks/go-shadowsocks2) - Modern Shadowsocks in Go
 
-*   [xtaci/kcptun](https://github.com/xtaci/kcptun) - A Quantum Secure Tunnel based on QPP, KCP, FEC, and N:M multiplexing.
+*   [xtaci/kcptun](https://github.com/xtaci/kcptun) - A Quantum-Safe Secure Tunnel based on QPP, KCP, FEC, and N:M multiplexing.
 
 *   [yeelone/yeetikuserver](https://github.com/yeelone/yeetikuserver) - yeetiku服务端，go gorm boltdb postgresql
 
@@ -2120,7 +2120,7 @@
 
 *   [noahbuscher/macaw](https://github.com/noahbuscher/macaw) - The simple PHP router
 
-*   [alaouy/Youtube](https://github.com/alaouy/Youtube) - 🔥 Laravel PHP Facade/Wrapper for the Youtube Data API
+*   [alaouy/YouTube](https://github.com/alaouy/YouTube) - 🔥 Laravel PHP Facade/Wrapper for the Youtube Data API
 
 *   [kalcaddle/KodExplorer](https://github.com/kalcaddle/KodExplorer) - A web based file manager,web IDE / browser based code editor
 
