@@ -256,7 +256,7 @@
 
 ## miscellaneous
 
-*   [hua1995116/indiehackers-steps](https://github.com/hua1995116/indiehackers-steps) - 《独立开发者艺术》打造最全的独立开发者指南，一人公司。
+*   [hua1995116/indiehackers-steps](https://github.com/hua1995116/indiehackers-steps) - 《独立开发者的艺术》打造最全的独立开发者指南，一人公司。
 
 *   [snakem982/Pandora-Box](https://github.com/snakem982/Pandora-Box) - A Simple Mihomo/Clash.Meta/Clash GUI.
 
@@ -356,7 +356,7 @@
 
 *   [meetocean/webnovel](https://github.com/meetocean/webnovel) -
 
-*   [abcmiao/SS-and-SSR-Collection](https://github.com/abcmiao/SS-and-SSR-Collection) - ss，ssr，v2ray软件的个人向收集，不定期更新
+*   [amiaoapp/SS-and-SSR-Collection](https://github.com/amiaoapp/SS-and-SSR-Collection) - ss，ssr，v2ray软件的个人向收集，不定期更新
 
 *   [hapiman/fin-circle](https://github.com/hapiman/fin-circle) - 探讨技术、金融、赚钱的小圈子！
 
