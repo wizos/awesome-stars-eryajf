@@ -1230,7 +1230,7 @@
 
 *   [virjar/geoLibChina](https://github.com/virjar/geoLibChina) - 经纬度转省市区县乡镇离线包，采用空间查询算法，速度快(单线程5w次/s)，省市区县100%准确率。
 
-*   [catx-feitu/Coze-Discord-Bridge](https://github.com/catx-feitu/Coze-Discord-Bridge) - 免费接入 GPT4  , DALL-E3 API  , 还提供 Google\&Bing 搜索 , BiliBili搜索 等众多插件
+*   [NahidaLing/Coze-Discord-Bridge](https://github.com/NahidaLing/Coze-Discord-Bridge) - 免费接入 GPT4  , DALL-E3 API  , 还提供 Google\&Bing 搜索 , BiliBili搜索 等众多插件
 
 *   [JeffMony/VideoDownloader](https://github.com/JeffMony/VideoDownloader) - 支持下载队列，支持M3U8视频、MP4视频等，支持M3U8合并为MP4视频。
 
