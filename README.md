@@ -18,6 +18,7 @@
 
 ## Table of Contents
 
+*   [Java](#java)
 *   [Kotlin](#kotlin)
 *   [C](#c)
 *   [Python](#python)
@@ -27,7 +28,6 @@
 *   [Go](#go)
 *   [C++](#c-1)
 *   [HTML](#html)
-*   [Java](#java)
 *   [Julia](#julia)
 *   [C#](#c-2)
 *   [Rust](#rust)
@@ -65,6 +65,628 @@
 *   [Scheme](#scheme)
 *   [Groff](#groff)
 *   [Thanks](#thanks)
+
+## Java
+
+*   [webdev-support/chrome\_content\_shell](https://github.com/webdev-support/chrome_content_shell) -
+
+*   [se-bastiaan/TorrentStream-Android](https://github.com/se-bastiaan/TorrentStream-Android) - A torrent streamer library for Android based on libtorrent4j
+
+*   [cciradih/pcip](https://github.com/cciradih/pcip) - Preferred Cloudflare IP
+
+*   [virjar/geoLibChina](https://github.com/virjar/geoLibChina) - 经纬度转省市区县乡镇离线包，采用空间查询算法，速度快(单线程5w次/s)，省市区县100%准确率。
+
+*   [NahidaLing/Coze-Discord-Bridge](https://github.com/NahidaLing/Coze-Discord-Bridge) - 免费接入 GPT4  , DALL-E3 API  , 还提供 Google\&Bing 搜索 , BiliBili搜索 等众多插件
+
+*   [JeffMony/VideoDownloader](https://github.com/JeffMony/VideoDownloader) - 支持下载队列，支持M3U8视频、MP4视频等，支持M3U8合并为MP4视频。
+
+*   [emanuele-f/PCAPdroid-mitm](https://github.com/emanuele-f/PCAPdroid-mitm) - Mitm addon for PCAPdroid
+
+*   [LSPosed/LSPatch](https://github.com/LSPosed/LSPatch) - LSPatch: A non-root Xposed framework extending from LSPosed
+
+*   [fengzhizi715/RxCache](https://github.com/fengzhizi715/RxCache) - A local reactive cache for Java and Android. Now, it supports heap memory、off-heap memory and disk cache.
+
+*   [SPLWare/esProc](https://github.com/SPLWare/esProc) - esProc SPL is a scripting language for data processing, with well-designed rich library functions and powerful syntax, which can be executed in a Java program through JDBC interface and computing independently.
+
+*   [lizhangqu/cronet](https://github.com/lizhangqu/cronet) - cronet is a framework that using chromium net to send network request for android
+
+*   [NetCapture/Aether](https://github.com/NetCapture/Aether) - 网络抓包、网络检测
+
+*   [MegatronKing/NetBare-Android](https://github.com/MegatronKing/NetBare-Android) - Net packets capture & injection library designed for Android
+
+*   [wbayer/webview-gm](https://github.com/wbayer/webview-gm) - Android library for Greasemonkey-compatible user script support
+
+*   [tawhidmonowar/URLtoPDFConverter](https://github.com/tawhidmonowar/URLtoPDFConverter) - URL to PDF Converter is an open source Android application that allows users to convert any web page into a PDF file.
+
+*   [agusibrahim/Android-Web-Inspector](https://github.com/agusibrahim/Android-Web-Inspector) - How to Inspecting Android WebView, Network logs, XHR logs (including url request and parameter) and Element/DOM inspecting
+
+*   [warenix/Web2PDF](https://github.com/warenix/Web2PDF) -
+
+*   [MistralMireille/MHTML-Viewer](https://github.com/MistralMireille/MHTML-Viewer) - An Android App that lets you view and save mhtml files. Uses WebView's saveWebArchive method.
+
+*   [mehrvarz/webcall-android](https://github.com/mehrvarz/webcall-android) - WebCall for Android - Web-Telephony P2P Messaging File-Exchange E2E-Encryption No-SIM
+
+*   [warren-bank/Android-WebMonkey](https://github.com/warren-bank/Android-WebMonkey) - No-frills light-weight Android web browser with support for Greasemonkey userscripts.
+
+*   [qiujiayu/AutoLoadCache](https://github.com/qiujiayu/AutoLoadCache) -   AutoLoadCache 是基于AOP+Annotation等技术实现的高效的缓存管理解决方案，实现缓存与业务逻辑的解耦，并增加异步刷新及“拿来主义机制”，以适应高并发环境下的使用。
+
+*   [thalloerupt/stage](https://github.com/thalloerupt/stage) - 基于geckoview开发的浏览器
+
+*   [MuntashirAkon/AppManager](https://github.com/MuntashirAkon/AppManager) - A full-featured package manager and viewer for Android
+
+*   [benjaminwan/ChineseTtsTflite](https://github.com/benjaminwan/ChineseTtsTflite) - Android Chinese TTS Engine Base On Tensorflow TTS , use for TfLite Models Test。安卓离线中文TTS引擎，在TensorflowTTS基础上开发，用于TfLite模型测试。
+
+*   [liaoguobao/TweakMe](https://github.com/liaoguobao/TweakMe) - android免root native层与java层注入框架
+
+*   [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis) - A free, secure and open source app for Android to manage your 2-step verification tokens.
+
+*   [erickok/transdroid](https://github.com/erickok/transdroid) - Manage your torrents from your Android device
+
+*   [APISENSE/rhino-android](https://github.com/APISENSE/rhino-android) -  Give access to RhinoScriptEngine from the JSR223 interfaces on Android JRE.
+
+*   [penfeizhou/APNG4Android](https://github.com/penfeizhou/APNG4Android) - Android animation support for APNG & Animated WebP & Gif & Animated AVIF, High performance
+
+*   [ZLYang110/FileSelector](https://github.com/ZLYang110/FileSelector) - Android 文件选择器，指定选择文件夹还是文件，根据后缀名过滤，支持多选
+
+*   [JeffMony/JeffVideoCache](https://github.com/JeffMony/JeffVideoCache) - Better than AndroidVideoCache, it supports M3U8 and MP4
+
+*   [donkingliang/ConsecutiveScroller](https://github.com/donkingliang/ConsecutiveScroller) - ConsecutiveScrollerLayout是Android下支持多个滑动布局(RecyclerView、WebView、ScrollView等)和普通控件(TextView、ImageView、LinearLayou、自定义View等)持续连贯滑动的容器,它使所有的子View像一个整体一样连续顺畅滑动。并且支持布局吸顶功能。
+
+*   [deepjavalibrary/djl](https://github.com/deepjavalibrary/djl) - An Engine-Agnostic Deep Learning Framework in Java
+
+*   [REBOOTERS/AndroidPanoramaSample](https://github.com/REBOOTERS/AndroidPanoramaSample) - 高仿百度地图中街景页面实现，街景图层可显示在地图图层之上
+
+*   [andforce/Maps](https://github.com/andforce/Maps) - 基于高德地图SDK开发的一款地图应用
+
+*   [LillteZheng/FlowHelper](https://github.com/LillteZheng/FlowHelper) - 帮助您迅速构建顶部Tab，比如今日头条效果，热搜、搜索记录、与ViewPager/ViewPager2搭配的工具类;
+
+*   [wenbochang888/house](https://github.com/wenbochang888/house) - 有完整版的PDF下载。
+
+*   [binIoter/GuideView](https://github.com/binIoter/GuideView) - 东半球最好用的新手引导库，能够快速为任何一个View创建一个遮罩层，支持单个页面，多个引导串联展示，支持为高亮区域设置不同的图形，支持引导动画，方便扩展,良好支持fragment
+
+*   [wizos/loread](https://github.com/wizos/loread) - RSS Android client，support Inoreader, Feedly, TinyTinyRSS, Fever。
+
+*   [yasserg/crawler4j](https://github.com/yasserg/crawler4j) - Open Source Web Crawler for Java
+
+*   [DruidSpirit/crawler](https://github.com/DruidSpirit/crawler) - 基金股票信息爬取项目
+
+*   [xyxyLiu/Edit-Spinner](https://github.com/xyxyLiu/Edit-Spinner) - EditText with spinner for Android
+
+*   [ndroi/easy163](https://github.com/ndroi/easy163) - 安卓端一键解锁网易云音乐，无须 ROOT
+
+*   [Grinner2436/mdict-java](https://github.com/Grinner2436/mdict-java) - 解析库：mdx/mdd 词典文件解析库
+
+*   [micronaut-projects/micronaut-rss](https://github.com/micronaut-projects/micronaut-rss) -
+
+*   [rometools/rome](https://github.com/rometools/rome) - Java library for RSS and Atom feeds
+
+*   [ferredoxin/QNotified](https://github.com/ferredoxin/QNotified) - 一个旨在使QQ变得更好用的开源Xposed模块
+
+*   [codyer/ElegantBus](https://github.com/codyer/ElegantBus) - 🔥🔥Android 平台，基于LivaData的EventBus，无侵入，更优雅，支持跨进程，跨应用粘性事件，优先级，自定义事件等功能。
+
+*   [AnyLifeZLB/DownloadInstaller](https://github.com/AnyLifeZLB/DownloadInstaller) - Android App应用内更新的下载，储存，安装 ，未知来源等问题处理，已适配Android 5-12
+
+*   [unclepizza/AutoClickService](https://github.com/unclepizza/AutoClickService) - 后台模拟点击service，有两套方案：AccessibilityService和adb shell命令
+
+*   [elvishew/xLog](https://github.com/elvishew/xLog) - Android logger, pretty, powerful and flexible, log to everywhere, save to file, all you want is here.
+
+*   [song-dev/device-info](https://github.com/song-dev/device-info) - 获取 Android 设备信息
+
+*   [JeremyLiao/InterfaceLoader](https://github.com/JeremyLiao/InterfaceLoader) - 史上最好用的Android跨进程接口调用框架
+
+*   [Haleydu/Cimoc](https://github.com/Haleydu/Cimoc) - 漫画阅读器
+
+*   [sinpolib/nfcard](https://github.com/sinpolib/nfcard) - NFCard is an Android App. It can read contactless IC card use NFC hadware.
+
+*   [JeffMony/MediaSDK](https://github.com/JeffMony/MediaSDK) - The library is working for downloading video while playing the video, the video contains M3U8/MP4
+
+*   [ihewro/Focus](https://github.com/ihewro/Focus) - 关注我要关注的—RSS本地阅读器
+
+*   [Notsfsssf/Pix-EzViewer](https://github.com/Notsfsssf/Pix-EzViewer) -  一个支持免代理直连及查看动图的第三方Pixiv android客户端
+
+*   [houbb/segment](https://github.com/houbb/segment) - The jieba-analysis tool for java.（基于结巴分词词库实现的更加灵活优雅易用，高性能的 java 分词实现。支持词性标注。）
+
+*   [EXALAB/AnLinux-App](https://github.com/EXALAB/AnLinux-App) - AnLinux allow you to run Linux on Android without root access.
+
+*   [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
+
+*   [Blankj/AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode) - :fire: Android developers should collect the following utils(updating).
+
+*   [mmjang/ankihelper](https://github.com/mmjang/ankihelper) -
+
+*   [yangchong211/YCWebView](https://github.com/yangchong211/YCWebView) - 基于腾讯x5开源库，提高webView开发效率，大概要节约你百分之六十的时间成本。该案例支持处理js的交互逻辑且无耦合、同时暴露进度条加载进度、可以监听异常error状态、支持视频播放并且可以全频、支持加载word，xls，ppt，pdf，txt等文件文档、发短信、打电话、发邮件、打开文件操作上传图片、唤起原生App、支持webView页面截图、x5库为最新版本，功能强大。
+
+*   [123lxw123/VideoWorld\_Android](https://github.com/123lxw123/VideoWorld_Android) - 影视天地（Android 客户端），涵盖电影、电视剧、综艺节目、动漫、游戏五大类别的资源。整合两大资源搜索引擎，连接互联网千万数量级的资源库。支持视频资源在线播放、边下边播，不限速下载，不等待播放。
+
+*   [DingProg/Makeup](https://github.com/DingProg/Makeup) - 让你的“女神”逆袭，代码撸彩妆（画妆）
+
+*   [seeeeal/juzimi](https://github.com/seeeeal/juzimi) - 句子迷APP,MVP架构,Okhttp + Retrofit + RxJava,图片加载Glide,数据库Object-box
+
+*   [zzsrv/torrent-utils](https://github.com/zzsrv/torrent-utils) - BT（BitTorrent）文件操作工具，从著名开源BitTorrent客户端Vuze（是一个用Java编写的BitTorrent客户端，且支持I2P和Tor匿名网络协议）源码中抽取的BT文件操作工具类，可以用来改变种子内的关键字，解决离线下载服务对包含敏感字符的种子屏蔽。
+
+*   [fanchen001/Sniffing](https://github.com/fanchen001/Sniffing) - 【次元番】使用的，一个基于webview/x5webview的视频嗅探工具,能准确解析绝大多数手机在线视频网站的视频真实链接。例如:https://www.kankan001.com ， https://www.kankanwu.com   等
+
+*   [SufficientlySecure/html-textview](https://github.com/SufficientlySecure/html-textview) - TextView to display simple HTML
+
+*   [zbfzn/douyin-quick](https://github.com/zbfzn/douyin-quick) - 抖音无水印解析、下载的工具app（安卓平台）
+
+*   [virjar/sipsoup](https://github.com/virjar/sipsoup) - a xpath implementation base on JSoup, dom query mixed with xpath and cssQuery
+
+*   [code4craft/xsoup](https://github.com/code4craft/xsoup) - When jsoup meets XPath.
+
+*   [limuyang2/CardSearchView](https://github.com/limuyang2/CardSearchView) - 🔍一个自定义搜索框
+
+*   [Tencent/GT](https://github.com/Tencent/GT) - GT (Great Tit) is a portable debugging tool for bug hunting and performance tuning on smartphones anytime and anywhere just as listening music with Walkman. GT can act as the Integrated Debug Environment by directly running on smartphones.
+
+*   [yanzhenjie/AndServer](https://github.com/yanzhenjie/AndServer) - :cherries: Web server and web framework of Android platform.
+
+*   [json-path/JsonPath](https://github.com/json-path/JsonPath) - Java JsonPath implementation
+
+*   [gedoor/MyBookshelf](https://github.com/gedoor/MyBookshelf) - 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
+
+*   [qiusunshine/movienow](https://github.com/qiusunshine/movienow) - 新方圆影视
+
+*   [roomanl/AndroidDownload](https://github.com/roomanl/AndroidDownload) - 一个支持种子、磁力、迅雷下载和磁力搜索的APP
+
+*   [devgianlu/Aria2Android](https://github.com/devgianlu/Aria2Android) - An Android app that allows you run aria2 on your device
+
+*   [qiuqiu3/cilimao-android](https://github.com/qiuqiu3/cilimao-android) - 磁力猫客户端
+
+*   [roomanl/AndroidMagnetSearch](https://github.com/roomanl/AndroidMagnetSearch) - 聚合几个磁力搜索网站的搜索结果开发的APP 主要用到JAVA htmlcleaner来解析搜索结果展示在APP上
+
+*   [Hengle/DeepNewdsForAndroid](https://github.com/Hengle/DeepNewdsForAndroid) - DeepNudes & deep nudes Android Source Code
+
+*   [imkiwa/Ansole](https://github.com/imkiwa/Ansole) - Another terminal emulator for Android.
+
+*   [xausky/ShadowsocksGostPlugin](https://github.com/xausky/ShadowsocksGostPlugin) - Gost 的 Shadowsocks 安卓插件，可以直接在 Shadowsocks 安卓客户端上连接 Gost 服务器
+
+*   [atomashpolskiy/bt](https://github.com/atomashpolskiy/bt) - BitTorrent library and client with DHT, magnet links, encryption and more
+
+*   [michaldrabik/TapBarMenu](https://github.com/michaldrabik/TapBarMenu) - Tap Bar Menu
+
+*   [devzwy/open\_nsfw\_android](https://github.com/devzwy/open_nsfw_android) - 🔥🔥🔥色情图片离线识别，基于TensorFlow实现。识别只需20ms,可断网测试，成功率99%，调用只要一行代码，从雅虎的开源项目open\_nsfw移植，该模型文件可用于iOS、java、C++等平台
+
+*   [Guolei1130/global\_httpdns](https://github.com/Guolei1130/global_httpdns) - 全局HttpDns替换方案
+
+*   [SheepYang1993/OnlyLive](https://github.com/SheepYang1993/OnlyLive) - 仿手游《混》、《买房记》，练手项目欢迎指点
+
+*   [objectbox/objectbox-java](https://github.com/objectbox/objectbox-java) - Android Database - first and fast, lightweight on-device vector database
+
+*   [ximsfei/Android-skin-support](https://github.com/ximsfei/Android-skin-support) - Android-skin-support is an easy dynamic skin framework to use  for Android, Only one line of code to integrate it. Android 换肤框架, 极低的学习成本, 极好的用户体验. "一行"代码就可以实现换肤, 你值得拥有!!!
+
+*   [Meituan-Dianping/walle](https://github.com/Meituan-Dianping/walle) - Android Signature V2 Scheme签名下的新一代渠道包打包神器
+
+*   [alibaba/UltraViewPager](https://github.com/alibaba/UltraViewPager) - UltraViewPager is an extension for ViewPager to provide multiple features in a single ViewPager.
+
+*   [geeeeeeeeek/WeChatLuckyMoney](https://github.com/geeeeeeeeek/WeChatLuckyMoney) - :money\_with\_wings: WeChat's lucky money helper (微信抢红包插件) by Zhongyi Tong. An Android app that helps you snatch red packets in WeChat groups.
+
+*   [alibaba/fastjson](https://github.com/alibaba/fastjson) - FASTJSON 2.0.x has been released, faster and more secure, recommend you upgrade.
+
+*   [SherlockGougou/BigImageViewPager](https://github.com/SherlockGougou/BigImageViewPager) - 🔥🔥🔥 BigImage ImageView ViewPager 支持超长图、超大图的图片浏览器，优化内存，支持手势放大、下拉关闭、查看原图、加载百分比、保存图片等功能。
+
+*   [xiangyuecn/Android-UsesPermission](https://github.com/xiangyuecn/Android-UsesPermission) - 安卓权限申请封装处理框架。测试支持4.0+。只有简单的java文件，复制文件即可使用。调用方便
+
+*   [MiPushFramework/MiPushFramework](https://github.com/MiPushFramework/MiPushFramework) - \[Archived, FORK: https://github.com/NihilityT/MiPushFramework] Let supported push service run system-ly on every Android devices
+
+*   [xwlcn/Dodder](https://github.com/xwlcn/Dodder) - A distributed DHT crawler that sniffs torrents from BitTorrent network
+
+*   [huangyz0918/AndroidWM](https://github.com/huangyz0918/AndroidWM) - An android image watermark library that supports steganography.
+
+*   [Eajy/MaterialDesignDemo](https://github.com/Eajy/MaterialDesignDemo) - A beautiful app designed with Material Design.
+
+*   [JarvisGG/NestedTouchScrollingLayout](https://github.com/JarvisGG/NestedTouchScrollingLayout) - :8ball: 处理子 View，父 View 嵌套滚动，成本比 support v4 NestedScrolling 低，放心食用～
+
+*   [yaoguangluo/Deta\_Parser](https://github.com/yaoguangluo/Deta_Parser) - 快速中文分词分析word segmentation
+
+*   [Yuloran/Camera2](https://github.com/Yuloran/Camera2) - Google Camera2 App Sources, build with gradle.
+
+*   [SplashCodes/JAViewer](https://github.com/SplashCodes/JAViewer) - 更优雅的驾车体验
+
+*   [Victory-Over/SuperWeb](https://github.com/Victory-Over/SuperWeb) - Android基于腾讯X5内核的WebView(超级浏览器)，拥有文件上传、下载、浏览（支持PDF/PPT/DOC/EXCEL/TXT格式）、Android与JS的交互、视频播放、自定义进度条、下拉回弹等功能
+
+*   [xm0625/VBrowser-Android](https://github.com/xm0625/VBrowser-Android) - 全网视频嗅探缓存APP
+
+*   [ChenTianSaber/SlideBack](https://github.com/ChenTianSaber/SlideBack) - 一个可以让你页面支持 滑动返回 的小东西
+
+*   [chenBingX/SuperTextView](https://github.com/chenBingX/SuperTextView) - Hi，Developer，Welcome to use SuperTextView ！
+
+*   [huolizhuminh/NetWorkPacketCapture](https://github.com/huolizhuminh/NetWorkPacketCapture) - It is used to capture network packet via Android VPN.
+
+*   [oasisfeng/condom](https://github.com/oasisfeng/condom) - 一个超轻超薄的Android工具库，阻止三方SDK中常见的有害行为，而不影响应用自身的功能。（例如严重影响用户体验的『链式唤醒』）
+
+*   [deeplearning4j/deeplearning4j](https://github.com/deeplearning4j/deeplearning4j) - Suite of tools for deploying and training deep learning models using the JVM. Highlights include model import for keras, tensorflow, and onnx/pytorch, a modular and tiny c++ library for running math code and a java based math library on top of the core c++ library. Also includes samediff: a pytorch/tensorflow like library for running deep learn...
+
+*   [oasisfeng/island](https://github.com/oasisfeng/island) - Island for Android
+
+*   [JavaNoober/BackgroundLibrary](https://github.com/JavaNoober/BackgroundLibrary) - A framework for directly generating shape through Tags, no need to write shape.xml again（通过标签直接生成shape，无需再写shape.xml）
+
+*   [nytimes/Store](https://github.com/nytimes/Store) - Android Library for Async Data Loading and Caching
+
+*   [iReaderAndroid/X2C](https://github.com/iReaderAndroid/X2C) - Increase layout loading speed 200%
+
+*   [wudikua/ps](https://github.com/wudikua/ps) - 自己实现的深度学习训练框架，纯java实现，没有过多的第三方依赖，可分布式训练
+
+*   [mthli/Ninja](https://github.com/mthli/Ninja) - Yet another web browser for Android.
+
+*   [Mixiaoxiao/FastScroll-Everywhere](https://github.com/Mixiaoxiao/FastScroll-Everywhere) - Add the fast-scroll feature to any scrollable view: RecyclerView, ScrollView, WebView, ListView, GridView, etc. 为任意可滑动的View添加快速滑动，是的，任意。
+
+*   [ahmaabdo/ReadifyRSS](https://github.com/ahmaabdo/ReadifyRSS) - Checks RSS/Atom news feeds, polling for updates from the device on a regular basis. Fetched items are available for offline reading.
+
+*   [CrawlScript/WebCollector](https://github.com/CrawlScript/WebCollector) - WebCollector is an open source web crawler framework based on Java.It provides some simple interfaces for crawling the Web,you can setup a multi-threaded web crawler in less than 5 minutes.
+
+*   [novadata/adblock-parser](https://github.com/novadata/adblock-parser) - adblock 规则分析器
+
+*   [mayubao/KuaiChuan](https://github.com/mayubao/KuaiChuan) - 仿茄子快传的一款文件传输应用
+
+*   [guolindev/LitePal](https://github.com/guolindev/LitePal) - An Android library that makes developers use SQLite database extremely easy.
+
+*   [zhhr1122/z\_comic\_new](https://github.com/zhhr1122/z_comic_new) - 一款采用MVP模式的设计的仿造腾讯漫画的APP
+
+*   [madeye/BaoLianDeng](https://github.com/madeye/BaoLianDeng) - An android client for Lantern
+
+*   [KnIfER/mdict-java](https://github.com/KnIfER/mdict-java) - Query library for Mdict (mdx or mdd) , a popular dictionary file format.
+
+*   [Curzibn/Luban](https://github.com/Curzibn/Luban) - Luban(鲁班)—Image compression with efficiency very close to WeChat Moments/可能是最接近微信朋友圈的图片压缩算法
+
+*   [TommyLemon/Android-ZBLibrary](https://github.com/TommyLemon/Android-ZBLibrary) - 🔥 Android MVP 快速开发框架，做国内 「示例最全面」「注释最详细」「使用最简单」「代码最严谨」的 Android 开源 UI 框架。                🔥 An Android MVP Framework with many demos, detailed documents, simple usages and strict codes.
+
+*   [yuweiguocn/GreenDaoUpgradeHelper](https://github.com/yuweiguocn/GreenDaoUpgradeHelper) - To solve database upgrade of greenDao and just need one line code
+
+*   [code-mc/linear-time-picker](https://github.com/code-mc/linear-time-picker) - Gorgeous Android Time and Date picker library inspired by the Timely app
+
+*   [Evernote/android-job](https://github.com/Evernote/android-job) - Android library to handle jobs in the background.
+
+*   [qqliu10u/QSkinLoader](https://github.com/qqliu10u/QSkinLoader) - 一个支持多种场景的Android换肤框架。基本原理是通过代理LayoutInflater的View创建过程解析皮肤相关属性（background/src/textColor等），将皮肤相关属性设置到View的Tag内，在切换皮肤时寻找对应的皮肤来完成实时刷新动作。此方案具有代码及XML侵入性小、功能完善（支持Activity/Dialog/悬浮窗/PopWindow/Fragment等）、无需重启Activity、支持自定义属性换肤、同时支持资源内换肤和独立资源包（下载后换肤）等优点。接口按流式编程设计，个人感觉，比目前几种换肤框架好用一些。
+
+*   [cccdada/FloatingSettingView](https://github.com/cccdada/FloatingSettingView) - 仿网易新闻兴趣选择页面
+
+*   [codezjx/AndLinker](https://github.com/codezjx/AndLinker) - AndLinker is a IPC library for Android, which combines the features of AIDL and Retrofit. Allows IPC call seamlessly compose with RxJava and RxJava2 call adapters.
+
+*   [adymilk/xinBrowser](https://github.com/adymilk/xinBrowser) - “我们从不装作很懂你”---- 昕浏览器！（1、遵守软件开发友好原则 ，及时 释放 CPU 更省电。  2、秉承昕浏览器开发原则，简约而不失强悍。  3、采用最新 AgentWeb 支持。更快更安全!）
+
+*   [DrownCoder/GlideStudy](https://github.com/DrownCoder/GlideStudy) - 利用Glide，并且实现竖向的Viewpager，3D翻页特效
+
+*   [MRLuowen/GrabContent](https://github.com/MRLuowen/GrabContent) - 基于行块抽取正文内容的java版本的改进算法
+
+*   [vejei/mua](https://github.com/vejei/mua) - An open source markdown editor for Android.
+
+*   [graycreate/Fruit](https://github.com/graycreate/Fruit) - Fruit for Html just like Gson for Json.
+
+*   [songhanghang/goaway](https://github.com/songhanghang/goaway) - 远离手机 / goaway mobile  phone
+
+*   [leolin310148/ShortcutBadger](https://github.com/leolin310148/ShortcutBadger) - An Android library supports badge notification like iOS in Samsung, LG, Sony and HTC launchers.
+
+*   [BaymaxTong/SwitchButton](https://github.com/BaymaxTong/SwitchButton) - DayOrNight SwitchButton
+
+*   [uknownothingsnow/JsBridge](https://github.com/uknownothingsnow/JsBridge) - android java and javascript bridge, inspired by wechat webview jsbridge
+
+*   [ReactiveX/RxJava](https://github.com/ReactiveX/RxJava) - RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.
+
+*   [Bearded-Hen/Android-Bootstrap](https://github.com/Bearded-Hen/Android-Bootstrap) - Bootstrap style widgets for Android, with Glyph Icons
+
+*   [yigit/android-priority-jobqueue](https://github.com/yigit/android-priority-jobqueue) - A Job Queue specifically written for Android to easily schedule jobs (tasks) that run in the background, improving UX and application stability.
+
+*   [connectbot/connectbot](https://github.com/connectbot/connectbot) - ConnectBot is the first SSH client for Android.
+
+*   [android-hacker/VirtualXposed](https://github.com/android-hacker/VirtualXposed) - A simple app to use Xposed without root, unlock the bootloader or modify system image, etc.
+
+*   [amitshekhariitbhu/AndroidTensorFlowMachineLearningExample](https://github.com/amitshekhariitbhu/AndroidTensorFlowMachineLearningExample) - Android TensorFlow MachineLearning Example (Building TensorFlow for Android)
+
+*   [b3log/xiaov](https://github.com/b3log/xiaov) - :bride\_with\_veil: 一个 QQ 聊天机器人，她的名字叫做小薇~
+
+*   [ScienJus/smartqq](https://github.com/ScienJus/smartqq) - SmartQQ（WebQQ）的Api ，你可以用它实现自己的QQ 机器人 a qq robot based on smartqq (webqq) api
+
+*   [Tencent/QMUI\_Android](https://github.com/Tencent/QMUI_Android) - 提高 Android UI 开发效率的 UI 库
+
+*   [zhihu/Matisse](https://github.com/zhihu/Matisse) - :fireworks: A well-designed local image and video selector for Android
+
+*   [smuyyh/BookReader](https://github.com/smuyyh/BookReader) - :closed\_book:  "任阅" 网络小说阅读器，3D翻页效果、txt/pdf/epub书籍阅读、Wifi传书~
+
+*   [codinguser/gnucash-android](https://github.com/codinguser/gnucash-android) - Gnucash for Android mobile companion application.
+
+*   [bitcoin-wallet/bitcoin-wallet](https://github.com/bitcoin-wallet/bitcoin-wallet) - Bitcoin Wallet app for your Android device. Standalone Bitcoin node, no centralized backend required.
+
+*   [Nightonke/WoWoViewPager](https://github.com/Nightonke/WoWoViewPager) - Combine ViewPager and Animations to provide a simple way to create applications' guide pages.
+
+*   [proxyee-down-org/proxyee-down](https://github.com/proxyee-down-org/proxyee-down) - http下载工具，基于http代理，支持多连接分块下载
+
+*   [Kelin-Hong/CalendarListView](https://github.com/Kelin-Hong/CalendarListView) - A custom ListView combine with CalendarView which interactive each other.
+
+*   [yingLanNull/ScrollLayout](https://github.com/yingLanNull/ScrollLayout) - 上拉滑动上滑拖出 类似百度地图抽屉拖拽效果  Upward sliding out
+
+*   [dragonite-network/dragonite-java](https://github.com/dragonite-network/dragonite-java) - \[DEPRECATED, please check https://github.com/tobyxdd/hysteria]
+
+*   [wenwenwen888/SearchDialog](https://github.com/wenwenwen888/SearchDialog) - 仿bilibili搜索框效果(三句代码实现)
+
+*   [zzz40500/AndroidSweetSheet](https://github.com/zzz40500/AndroidSweetSheet) - 一个富有动感的Sheet(选择器)
+
+*   [yale8848/CacheWebView](https://github.com/yale8848/CacheWebView) - Custom implement Android WebView cache, offline website, let cahe config more simple and  flexible
+
+*   [huanghaibin-dev/CalendarView](https://github.com/huanghaibin-dev/CalendarView) - Android上一个优雅、万能自定义UI、仿iOS、支持垂直、水平方向切换、支持周视图、自定义周起始、性能高效的日历控件，支持热插拔实现的UI定制！支持标记、自定义颜色、农历、自定义月视图各种显示模式等。Canvas绘制，速度快、占用内存低，你真的想不到日历居然还可以如此优雅！An elegant, highly customized and high-performance Calendar Widget on Android.
+
+*   [XndroidDev/Xndroid](https://github.com/XndroidDev/Xndroid) - A proxy software for Android based on XX-Net and fqrouter.
+
+*   [daimajia/AndroidSwipeLayout](https://github.com/daimajia/AndroidSwipeLayout) - The Most Powerful Swipe Layout!
+
+*   [pencil-box/NetKnight](https://github.com/pencil-box/NetKnight) - NetKnight-一款基于vpn的手机流量监控软件
+
+*   [ksfzhaohui/shadowsocks-netty](https://github.com/ksfzhaohui/shadowsocks-netty) - 基于netty4的shadowsocks客户端
+
+*   [android-hacker/exposed](https://github.com/android-hacker/exposed) - A library to use Xposed without root or recovery(or modify system image etc..).
+
+*   [asLody/VirtualApp](https://github.com/asLody/VirtualApp) - Virtual Engine for Android(Support 14.0 in business version)
+
+*   [ZhangJiupeng/AgentX](https://github.com/ZhangJiupeng/AgentX) - Shadowsocks升级版，支持协议伪装和流量压缩，易于扩展，可统计流量
+
+*   [limpoxe/Android-Plugin-Framework](https://github.com/limpoxe/Android-Plugin-Framework) - Android插件框架，免安装运行插件APK ，支持独立插件和非独立插件
+
+*   [cuu/ovpn\_webview](https://github.com/cuu/ovpn_webview) - openvpn android with webview interface 逆向工程,为了纪念曾经的灰产免流岁月,公开此代码,此版本与官方闭源openvpn安卓app完全一样,最强线路兼容,并且支持线路远程获取,dalo线路格式,请自行研究,不得用于非法商业活动
+
+*   [iTXTech/Daedalus](https://github.com/iTXTech/Daedalus) - No root required Android DNS modifier and Hosts/DNSMasq resolver.
+
+*   [ViceFantasyPlace/activate-power-mode](https://github.com/ViceFantasyPlace/activate-power-mode) -
+
+*   [Skykai521/ECTranslation](https://github.com/Skykai521/ECTranslation) - Android Studio Plugin,Translate English to Chinese. Android Studio 翻译插件,可以将英文翻译为中文.
+
+*   [catofmrlu/Reer](https://github.com/catofmrlu/Reer) - 一个建设中的离线RSS阅读器。个人第一个正式项目，虽然RSS现在是一个小众的需求，但本人因为是RSS的重度用户，所以希望为安卓平台贡献一个好用的客户端。
+
+*   [jeasonlzy/okhttp-OkGo](https://github.com/jeasonlzy/okhttp-OkGo) - OkGo - 3.0 震撼来袭，该库是基于 Http 协议，封装了 OkHttp 的网络请求框架，比 Retrofit 更简单易用，支持 RxJava，RxJava2，支持自定义缓存，支持批量断点下载管理和批量上传管理功能
+
+*   [HITGIF/TextFieldBoxes](https://github.com/HITGIF/TextFieldBoxes) - Material Design text field that comes in a box, based on (OLD) Google Material Design guidelines.
+
+*   [scwang90/SmartRefreshLayout](https://github.com/scwang90/SmartRefreshLayout) - 🔥下拉刷新、上拉加载、二级刷新、淘宝二楼、RefreshLayout、OverScroll，Android智能下拉刷新框架，支持越界回弹、越界拖动，具有极强的扩展性，集成了几十种炫酷的Header和 Footer。
+
+*   [Justson/AgentWeb](https://github.com/Justson/AgentWeb) -  AgentWeb is a powerful library based on Android WebView.
+
+*   [yuukidach/Ucount](https://github.com/yuukidach/Ucount) - 简易记账APP
+
+*   [cclient/baiduSign](https://github.com/cclient/baiduSign) - 逆向百度https登陆。实现签到功能，Client/androidBaiduSign是android项目的半本品。
+
+*   [unsummon/WechatLucky](https://github.com/unsummon/WechatLucky) - 逆向还原veryyoung 大神的微信红包插件
+
+*   [CzBiX/peanut-link](https://github.com/CzBiX/peanut-link) - 第三方花生地铁 WiFi Android 客户端，逆向其 Android 客户端 v2.0.21 得出协议格式。
+
+*   [GcsSloop/ViewSupport](https://github.com/GcsSloop/ViewSupport) - View辅助工具包，帮助你快速优雅的完成自定义View
+
+*   [chinashiyu/gfw.press.android](https://github.com/chinashiyu/gfw.press.android) - GFW.Press新一代军用级高强度加密抗干扰网络数据高速传输软件安卓版
+
+*   [chinashiyu/gfw.press](https://github.com/chinashiyu/gfw.press) - GFW.Press新一代军用级高强度加密抗干扰网络数据高速传输软件
+
+*   [realm/realm-java](https://github.com/realm/realm-java) - Realm is a mobile database: a replacement for SQLite & ORMs
+
+*   [GcsSloop/AndroidNote](https://github.com/GcsSloop/AndroidNote) - 安卓学习笔记
+
+*   [JasonQS/Anti-recall](https://github.com/JasonQS/Anti-recall) - Android 免root 防撤回神器 !
+
+*   [wasabeef/richeditor-android](https://github.com/wasabeef/richeditor-android) - RichEditor for Android is a beautiful Rich Text WYSIWYG Editor for Android.
+
+*   [martin90s/ImagePicker](https://github.com/martin90s/ImagePicker) - Super Image Picker is a powerful image selector. Support for huge image preview (such as 10000 \* 5000px), support for image cropping, configurable avatar mode and normal mode, support for  a variety of image load library
+
+*   [wolearn/SmartTool](https://github.com/wolearn/SmartTool) -
+
+*   [Ajian-studio/GABottleLoading](https://github.com/Ajian-studio/GABottleLoading) - Bezier storm（贝塞尔风暴）
+
+*   [qapqap/TimelineView](https://github.com/qapqap/TimelineView) - Customzable TimelineView for Android
+
+*   [Zweihui/RxFingerPrinter](https://github.com/Zweihui/RxFingerPrinter) - 用rxjava简单封装了指纹识别，并实现对生命周期的自动绑定，顺便撸了一个指纹控件
+
+*   [yangguangfu520/MobilePlayer1020](https://github.com/yangguangfu520/MobilePlayer1020) - 手机影音项目是真实的上线项目，本视频在原项目基础上，进行了新技术的更新和优化。该项目包括本地音乐播放、网络音乐播放、本地视频播放、网络直播四大模块，几乎涵盖了市面上视频播放类APP的全部技术。
+
+*   [zhouchaoyuan/excelPanel](https://github.com/zhouchaoyuan/excelPanel) - An Android's two-dimensional RecyclerView. Not only can load historical data, but also can load future data.
+
+*   [north2016/T-MVP](https://github.com/north2016/T-MVP) - Android AOP Architecture by Apt, AspectJ, Javassisit, based on Realm+Databinding+MVP+Retrofit+Rxjava2
+
+*   [netcan/Talk](https://github.com/netcan/Talk) - A simple Java talk software.
+
+*   [pxb1988/dex2jar](https://github.com/pxb1988/dex2jar) - Tools to work with android .dex and java .class files
+
+*   [fourbrother/icodetools](https://github.com/fourbrother/icodetools) - Android中动态自动插入代码到apk中工具
+
+*   [Piasy/BigImageViewer](https://github.com/Piasy/BigImageViewer) - Big image viewer supporting pan and zoom, with very little memory usage and full featured image loading choices. Powered by Subsampling Scale Image View, Fresco, Glide, and Picasso. Even with gif and webp support! 🍻
+
+*   [proninyaroslav/libretorrent](https://github.com/proninyaroslav/libretorrent) - Free and Open Source, full-featured torrent client for Android. Mirrored from https://gitlab.com/proninyaroslav/libretorrent
+
+*   [CoolThink/StatusBarAdapt](https://github.com/CoolThink/StatusBarAdapt) - Android使用fitsSystemWindows属性实现--状态栏【status\_bar】各版本适配
+
+*   [hehonghui/Colorful](https://github.com/hehonghui/Colorful) - 基于Theme的Android动态换肤库，无需重启Activity、无需自定义View，方便的实现日间、夜间模式。
+
+*   [D-clock/AndroidStudyCode](https://github.com/D-clock/AndroidStudyCode) - 关于Android的一些原理学习和代码实现
+
+*   [JZ-Darkal/AndroidHttpCapture](https://github.com/JZ-Darkal/AndroidHttpCapture) - AndroidHttpCapture网络诊断工具 是一款Android手机抓包软件 主要功能包括：手机端抓包、PING/DNS/TraceRoute诊断、抓包HAR数据上传分享。你也可以看成是Android版的"Fiddler" (^o^)/~
+
+*   [mingcheng/Rainville](https://github.com/mingcheng/Rainville) - Rain Noise for Android
+
+*   [fanbaolong/TestPassword](https://github.com/fanbaolong/TestPassword) - 和支付宝一样的密码验证框
+
+*   [chentao0707/SimplifyReader](https://github.com/chentao0707/SimplifyReader) - 一款基于Google Material Design设计开发的Android客户端，包括新闻简读，图片浏览，视频爽看 ，音乐轻听以及二维码扫描五个子模块。项目采取的是MVP架构开发，由于还是摸索阶段，可能不是很规范。但基本上应该是这么个套路，至少我个人认为是这样的~恩，就是这样的！
+
+*   [haibuzou/Calendar365](https://github.com/haibuzou/Calendar365) - 仿365的日历显示
+
+*   [PureDark/H-Viewer](https://github.com/PureDark/H-Viewer) - An android feed reader application which fetch data with selector and regular expression.
+
+*   [githubwing/MVPHelper](https://github.com/githubwing/MVPHelper) - A plugin for Intellj IDEA & Android Studio which can help you generate interfaces and classes of MVP. 一款Intellj IDEA 和Android Studio 自动生成MVP模式所需接口以及实现类的插件。
+
+*   [oldman1977/SmartProxy](https://github.com/oldman1977/SmartProxy) - 安卓下的智能代理
+
+*   [dawei101/shadowsocks-android-java](https://github.com/dawei101/shadowsocks-android-java) - Shadowsocks android client, pure java version
+
+*   [54cgt/weixin](https://github.com/54cgt/weixin) - 微信-Android版
+
+*   [zhangsr/Feeder2](https://github.com/zhangsr/Feeder2) - Feeder2.0， Android Rss 阅读器，Material Design，MVP架构
+
+*   [jecelyin/920-text-editor-v2](https://github.com/jecelyin/920-text-editor-v2) - 920 Text Editor is a Free, Open Source and no Ad software for android
+
+*   [vivian8725118/SearchListView](https://github.com/vivian8725118/SearchListView) - 带搜索栏的 listview，轻拉出现搜索栏，用力拉出现下拉刷新
+
+*   [wly2014/Choose\_ListView](https://github.com/wly2014/Choose_ListView) - 仿的魅族的listview的效果
+
+*   [WuLC/ThesaurusParser](https://github.com/WuLC/ThesaurusParser) - 搜狗、百度、QQ输入法的词库文件的 Java 解析程序，配合 ThesaurusSpider 使用
+
+*   [qinci/MarkdownEditors](https://github.com/qinci/MarkdownEditors) - Android Markdown编辑器
+
+*   [LudySu/LrcJaeger](https://github.com/LudySu/LrcJaeger) - A lyrics downloader for Android, which is great for ACG songs.
+
+*   [jungletian/TitanjumNote](https://github.com/jungletian/TitanjumNote) - 超简单的笔记，支持搜索，Material Design，滑动退出
+
+*   [Skarafaz/mercury](https://github.com/Skarafaz/mercury) - Simple Android app that sends pre-configured commands to remote servers via SSH.
+
+*   [wenmingvs/AndroidProcess](https://github.com/wenmingvs/AndroidProcess) - 判断App位于前台或者后台的6种方法
+
+*   [JeasonWong/BezierLoadingView](https://github.com/JeasonWong/BezierLoadingView) - Cool bezier loading view
+
+*   [tobyxdd/anchorDNS](https://github.com/tobyxdd/anchorDNS) - A smart DNS server for Chinese
+
+*   [code4craft/webmagic](https://github.com/code4craft/webmagic) - A scalable web crawler framework for Java.
+
+*   [nekocode/Badge](https://github.com/nekocode/Badge) - :octocat: Drawable of badge.
+
+*   [bignerdranch/expandable-recycler-view](https://github.com/bignerdranch/expandable-recycler-view) - \[DEPRECATED]
+
+*   [zhanghai/Douya](https://github.com/zhanghai/Douya) - 开源的 Material Design 豆瓣客户端（A Material Design app for douban.com）
+
+*   [janrone/MultiArcAsynCircleProgress](https://github.com/janrone/MultiArcAsynCircleProgress) - loading demo， circle progress
+
+*   [Zehao/sogouSCEL](https://github.com/Zehao/sogouSCEL) - 搜狗输入法细胞词库解析
+
+*   [tengbinlive/aibao\_demo](https://github.com/tengbinlive/aibao_demo) - This is a android demo
+
+*   [NLPchina/ansj\_seg](https://github.com/NLPchina/ansj_seg) - ansj分词.ict的真正java实现.分词效果速度都超过开源版的ict. 中文分词,人名识别,词性标注,用户自定义词典
+
+*   [CNSRE/HTTPDNSLib](https://github.com/CNSRE/HTTPDNSLib) -
+
+*   [kakajika/FragmentAnimations](https://github.com/kakajika/FragmentAnimations) - 3D animation examples for support-v4 Fragment transition.
+
+*   [sunfusheng/StickyHeaderListView](https://github.com/sunfusheng/StickyHeaderListView) - 打造炫酷列表之 StickyHeaderListView：标题渐变、吸附悬浮、筛选分类、动态头部等
+
+*   [mikepenz/Android-ActionItemBadge](https://github.com/mikepenz/Android-ActionItemBadge) - This library offers a simple method to add a small badge icon to your ActionBar-MenuItem
+
+*   [westlinkin/AndroidLocalizationer](https://github.com/westlinkin/AndroidLocalizationer) - This is a Android Studio/ IntelliJ IDEA plugin to localize your Android app, translate your string resources automactically.
+
+*   [saiwu-bigkoo/Android-AlertView](https://github.com/saiwu-bigkoo/Android-AlertView) - 仿iOS的AlertViewController
+
+*   [oguzbilgener/CircularFloatingActionMenu](https://github.com/oguzbilgener/CircularFloatingActionMenu) - an animated circular menu for Android
+
+*   [THEONE10211024/WaterDropListView](https://github.com/THEONE10211024/WaterDropListView) - WaterDropListView，just like the iOS
+
+*   [ZhaoKaiQiang/KLog](https://github.com/ZhaoKaiQiang/KLog) - 这是一个Android专用的LogCat工具，主要功能为打印行号、函数调用、Json解析、XML解析、点击跳转、Log信息保存等功能
+
+*   [dupengtao/BubbleTextView](https://github.com/dupengtao/BubbleTextView) - Android Bubble View
+
+*   [kyleduo/SwitchButton](https://github.com/kyleduo/SwitchButton) - A cute widget of Switch Button for  you to create beautiful and friendly UI.
+
+*   [zcweng/ToggleButton](https://github.com/zcweng/ToggleButton) - ToggleButton Widget For Android Dev
+
+*   [motianhuo/wechat](https://github.com/motianhuo/wechat) - A High Copy WeChat ,SNS APP (高仿微信)
+
+*   [daimajia/EverMemo](https://github.com/daimajia/EverMemo) - Fast Record,Organize,and Share. The android memo app you will deeply love. ❤
+
+*   [google/gson](https://github.com/google/gson) - A Java serialization/deserialization library to convert Java Objects into JSON and back
+
+*   [wangdan/AisenWeiBo](https://github.com/wangdan/AisenWeiBo) - 新浪微博第三方Android客户端
+
+*   [wingjay/jianshi](https://github.com/wingjay/jianshi) - A Full-Stack mobile app, including Android & Server, Simple-Poem 简诗. You can write poem in graceful & traditional Chinese style.
+
+*   [declangao/WordpressReader](https://github.com/declangao/WordpressReader) - Android JSON API WordPress Reader App (No longer maintained)
+
+*   [lytsing/weibo](https://github.com/lytsing/weibo) - Android client for weibo
+
+*   [TheKeeperOfPie/Reader](https://github.com/TheKeeperOfPie/Reader) - A Reddit client created to practice good UI/UX design
+
+*   [Nilhcem/hosts-editor-android](https://github.com/Nilhcem/hosts-editor-android) - Hosts Editor for Android
+
+*   [GitaiQAQ/Hosts-Studio-Android](https://github.com/GitaiQAQ/Hosts-Studio-Android) -
+
+*   [jinguangyue/AddwordLib](https://github.com/jinguangyue/AddwordLib) - Android Textview横竖排切换(文字方向不变)  Android TextView add text , vertical discharge switching (the direction of the font is no change!)
+
+*   [Bossyao168/StackOverView](https://github.com/Bossyao168/StackOverView) - a custom widget of android，like task manager of android 5.0.
+
+*   [mthli/Type](https://github.com/mthli/Type) - Typing experiment on Android.
+
+*   [android-cjj/JJSearchViewAnim](https://github.com/android-cjj/JJSearchViewAnim) - A cool search view animation library
+
+*   [zzz40500/ThemeDemo](https://github.com/zzz40500/ThemeDemo) - (DEPRECATED)日夜间模式切换
+
+*   [ksoichiro/Android-ObservableScrollView](https://github.com/ksoichiro/Android-ObservableScrollView) - Android library to observe scroll events on scrollable views.
+
+*   [hanks-zyh/ScrollViewOnTouch](https://github.com/hanks-zyh/ScrollViewOnTouch) - 仿百度助手头部搜索框缩放.
+
+*   [fg607/RelaxFinger](https://github.com/fg607/RelaxFinger) - a simple and useful android touch assistant
+
+*   [Athou/commafeed](https://github.com/Athou/commafeed) - Google Reader inspired self-hosted RSS reader.
+
+*   [noinnion/newsplus](https://github.com/noinnion/newsplus) - News+ is a simple, fast and intuitive feed/rss reader for Android, featuring beautiful themes, podcast support and full offline support.
+
+*   [crazyhitty/Munch](https://github.com/crazyhitty/Munch) - \[Deprecated] A minimalistic Rss Reader for Android devices
+
+*   [akhgupta/WebviewVideo](https://github.com/akhgupta/WebviewVideo) - sample app for displaying Html5Video using Webview in Android
+
+*   [miao1007/nmid-headline](https://github.com/miao1007/nmid-headline) - \[Android]\[Deprecated] a android client for news feed
+
+*   [laobie/StatusBarUtil](https://github.com/laobie/StatusBarUtil) - A util for setting status bar style on Android App.
+
+*   [hongyangAndroid/okhttputils](https://github.com/hongyangAndroid/okhttputils) - \[停止维护]okhttp的辅助类
+
+*   [KKys/ZhiHuSpider](https://github.com/KKys/ZhiHuSpider) - Java无框架实现爬取知乎用户信息、图片和知乎推荐内容并下载到本地或数据库中
+
+*   [oubowu/OuNews](https://github.com/oubowu/OuNews) - 新闻阅读
+
+*   [ikew0ng/Dribbo](https://github.com/ikew0ng/Dribbo) - Dribbble客户端
+
+*   [mxn21/FlowingDrawer](https://github.com/mxn21/FlowingDrawer) - swipe display drawer with flowing & bouncing effects.
+
+*   [fengzhizi715/SAF](https://github.com/fengzhizi715/SAF) - (Deprecated) SAF(Simple Android Framework)是一个简单的android框架，它为开发Android app提供了基础性组件。
+
+*   [white-cat/ThinkAndroid](https://github.com/white-cat/ThinkAndroid) - ThinkAndroid是一个免费的开源的、简易的、遵循Apache2开源协议发布的Android开发框架，其开发宗旨是简单、快速的进行 Android应用程序的开发，包含Android mvc、简易sqlite orm、ioc模块、封装Android httpclitent的http模块, 具有快速构建文件缓存功能，无需考虑缓存文件的格式，都可以非常轻松的实现缓存，它还基于文件缓存模块实现了图片缓存功能， 在android中加载的图片的时候，对oom的问题，和对加载图片错位的问题都轻易解决。他还包括了一个手机开发中经常应用的实用工具类， 如日志管理，配置文件管理，android下载器模块，网络切换检测等等工具。
+
+*   [maoruibin/GankDaily](https://github.com/maoruibin/GankDaily) - A application used to  show technical information in every working days, use MVP pattern.
+
+*   [maoruibin/TranslateApp](https://github.com/maoruibin/TranslateApp) - :memo: A translations app without interruptions, copy words and translate directly, show result by top view.
+
+*   [greenrobot/EventBus](https://github.com/greenrobot/EventBus) - Event bus for Android and Java that simplifies communication between Activities, Fragments, Threads, Services, etc. Less code, better quality.
+
+*   [Jeffmen/Git.NB](https://github.com/Jeffmen/Git.NB) - A app client for Github
+
+*   [MummyDing/Leisure](https://github.com/MummyDing/Leisure) - Leisure is an Android App containing Zhihu Daily,Guokr Scientific,XinhuaNet News and Douban Books
+
+*   [xEdenx/Isolate](https://github.com/xEdenx/Isolate) - A material design android app to show zhihu daily .  壁上观
+
+*   [DrKLO/Telegram](https://github.com/DrKLO/Telegram) - Telegram for Android source
+
+*   [ogaclejapan/SmartTabLayout](https://github.com/ogaclejapan/SmartTabLayout) - A custom ViewPager title strip which gives continuous feedback to the user when scrolling
+
+*   [ViksaaSkool/AwesomeSplash](https://github.com/ViksaaSkool/AwesomeSplash) - Awesome-looking customizable splash screen
+
+*   [wenmingvs/WeiBo](https://github.com/wenmingvs/WeiBo) - 第三方新浪微博客户端
+
+*   [saiwu-bigkoo/Android-SnappingStepper](https://github.com/saiwu-bigkoo/Android-SnappingStepper) - A beautiful UI control with flexible control of the number of changes.
+
+*   [yydcdut/SlideAndDragListView](https://github.com/yydcdut/SlideAndDragListView) - :curly\_loop:SlideAndDragListView (SDLV) is an extension of the Android ListView that enables slide and drag-and-drop reordering of list items.
+
+*   [ericzhang-cn/rss2epub](https://github.com/ericzhang-cn/rss2epub) - 将RSS内容转为epub格式电子书的工具
+
+*   [qii/weiciyuan](https://github.com/qii/weiciyuan) - Sina Weibo Android Client
+
+*   [andforce/iBeebo](https://github.com/andforce/iBeebo) - 第三方新浪微博客户端
+
+*   [notice501/coolMenu](https://github.com/notice501/coolMenu) - A Cool Cards Menu Concept
+
+*   [heroLi/WeChatLuckyLi](https://github.com/heroLi/WeChatLuckyLi) -
+
+*   [Nightonke/CoCoin](https://github.com/Nightonke/CoCoin) - CoCoin, Multi-view Accounting Application
+
+*   [baoyongzhang/SwipeMenuListView](https://github.com/baoyongzhang/SwipeMenuListView) - \[DEPRECATED] A swipe menu for ListView.
+
+*   [mthli/Knife](https://github.com/mthli/Knife) - Knife is a rich text editor component for writing documents in Android.
+
+*   [CycloneAxe/phphub-android](https://github.com/CycloneAxe/phphub-android) - PHPHub for Android
+
+*   [aizenchou/rsscatch](https://github.com/aizenchou/rsscatch) - 简书、一个等网站RSS生成器
+
+*   [sues-lee/SuesNews](https://github.com/sues-lee/SuesNews) - 一个符合 Google Material Design 的 Android 校园新闻客户端
+
+*   [fqrouter/fqrouter](https://github.com/fqrouter/fqrouter) - anti-GFW router
+
+*   [JayFang1993/ScanBook](https://github.com/JayFang1993/ScanBook) - scan book's ISBN to get the information of this book
 
 ## Kotlin
 
@@ -571,8 +1193,6 @@
 *   [binux/cssfulltext](https://github.com/binux/cssfulltext) - source code of
 
 *   [yangyangwithgnu/goagent\_out\_of\_box\_yang](https://github.com/yangyangwithgnu/goagent_out_of_box_yang) - this is the newest goagent with yangyang's settings for floks who are not good at computer, yes, out of box.
-
-*   [no13bus/bustime](https://github.com/no13bus/bustime) - 提供公交车信息查询
 
 ## JavaScript
 
@@ -1221,626 +1841,6 @@
 *   [L3au/colorful-qrcode](https://github.com/L3au/colorful-qrcode) - Simple & colorful QR code generator with chrome extension
 
 *   [nullice/NViconsLib\_Silhouette](https://github.com/nullice/NViconsLib_Silhouette) - vector PSD and SVG  popular website Icon (Especially China )
-
-## Java
-
-*   [se-bastiaan/TorrentStream-Android](https://github.com/se-bastiaan/TorrentStream-Android) - A torrent streamer library for Android based on libtorrent4j
-
-*   [cciradih/pcip](https://github.com/cciradih/pcip) - Preferred Cloudflare IP
-
-*   [virjar/geoLibChina](https://github.com/virjar/geoLibChina) - 经纬度转省市区县乡镇离线包，采用空间查询算法，速度快(单线程5w次/s)，省市区县100%准确率。
-
-*   [NahidaLing/Coze-Discord-Bridge](https://github.com/NahidaLing/Coze-Discord-Bridge) - 免费接入 GPT4  , DALL-E3 API  , 还提供 Google\&Bing 搜索 , BiliBili搜索 等众多插件
-
-*   [JeffMony/VideoDownloader](https://github.com/JeffMony/VideoDownloader) - 支持下载队列，支持M3U8视频、MP4视频等，支持M3U8合并为MP4视频。
-
-*   [emanuele-f/PCAPdroid-mitm](https://github.com/emanuele-f/PCAPdroid-mitm) - Mitm addon for PCAPdroid
-
-*   [LSPosed/LSPatch](https://github.com/LSPosed/LSPatch) - LSPatch: A non-root Xposed framework extending from LSPosed
-
-*   [fengzhizi715/RxCache](https://github.com/fengzhizi715/RxCache) - A local reactive cache for Java and Android. Now, it supports heap memory、off-heap memory and disk cache.
-
-*   [SPLWare/esProc](https://github.com/SPLWare/esProc) - esProc SPL is a scripting language for data processing, with well-designed rich library functions and powerful syntax, which can be executed in a Java program through JDBC interface and computing independently.
-
-*   [lizhangqu/cronet](https://github.com/lizhangqu/cronet) - cronet is a framework that using chromium net to send network request for android
-
-*   [NetCapture/Aether](https://github.com/NetCapture/Aether) - 网络抓包、网络检测
-
-*   [MegatronKing/NetBare-Android](https://github.com/MegatronKing/NetBare-Android) - Net packets capture & injection library designed for Android
-
-*   [wbayer/webview-gm](https://github.com/wbayer/webview-gm) - Android library for Greasemonkey-compatible user script support
-
-*   [tawhidmonowar/URLtoPDFConverter](https://github.com/tawhidmonowar/URLtoPDFConverter) - URL to PDF Converter is an open source Android application that allows users to convert any web page into a PDF file.
-
-*   [agusibrahim/Android-Web-Inspector](https://github.com/agusibrahim/Android-Web-Inspector) - How to Inspecting Android WebView, Network logs, XHR logs (including url request and parameter) and Element/DOM inspecting
-
-*   [warenix/Web2PDF](https://github.com/warenix/Web2PDF) -
-
-*   [MistralMireille/MHTML-Viewer](https://github.com/MistralMireille/MHTML-Viewer) - An Android App that lets you view and save mhtml files. Uses WebView's saveWebArchive method.
-
-*   [mehrvarz/webcall-android](https://github.com/mehrvarz/webcall-android) - WebCall for Android - Web-Telephony P2P Messaging File-Exchange E2E-Encryption No-SIM
-
-*   [warren-bank/Android-WebMonkey](https://github.com/warren-bank/Android-WebMonkey) - No-frills light-weight Android web browser with support for Greasemonkey userscripts.
-
-*   [qiujiayu/AutoLoadCache](https://github.com/qiujiayu/AutoLoadCache) -   AutoLoadCache 是基于AOP+Annotation等技术实现的高效的缓存管理解决方案，实现缓存与业务逻辑的解耦，并增加异步刷新及“拿来主义机制”，以适应高并发环境下的使用。
-
-*   [thalloerupt/stage](https://github.com/thalloerupt/stage) - 基于geckoview开发的浏览器
-
-*   [MuntashirAkon/AppManager](https://github.com/MuntashirAkon/AppManager) - A full-featured package manager and viewer for Android
-
-*   [benjaminwan/ChineseTtsTflite](https://github.com/benjaminwan/ChineseTtsTflite) - Android Chinese TTS Engine Base On Tensorflow TTS , use for TfLite Models Test。安卓离线中文TTS引擎，在TensorflowTTS基础上开发，用于TfLite模型测试。
-
-*   [liaoguobao/TweakMe](https://github.com/liaoguobao/TweakMe) - android免root native层与java层注入框架
-
-*   [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis) - A free, secure and open source app for Android to manage your 2-step verification tokens.
-
-*   [erickok/transdroid](https://github.com/erickok/transdroid) - Manage your torrents from your Android device
-
-*   [APISENSE/rhino-android](https://github.com/APISENSE/rhino-android) -  Give access to RhinoScriptEngine from the JSR223 interfaces on Android JRE.
-
-*   [penfeizhou/APNG4Android](https://github.com/penfeizhou/APNG4Android) - Android animation support for APNG & Animated WebP & Gif & Animated AVIF, High performance
-
-*   [ZLYang110/FileSelector](https://github.com/ZLYang110/FileSelector) - Android 文件选择器，指定选择文件夹还是文件，根据后缀名过滤，支持多选
-
-*   [JeffMony/JeffVideoCache](https://github.com/JeffMony/JeffVideoCache) - Better than AndroidVideoCache, it supports M3U8 and MP4
-
-*   [donkingliang/ConsecutiveScroller](https://github.com/donkingliang/ConsecutiveScroller) - ConsecutiveScrollerLayout是Android下支持多个滑动布局(RecyclerView、WebView、ScrollView等)和普通控件(TextView、ImageView、LinearLayou、自定义View等)持续连贯滑动的容器,它使所有的子View像一个整体一样连续顺畅滑动。并且支持布局吸顶功能。
-
-*   [deepjavalibrary/djl](https://github.com/deepjavalibrary/djl) - An Engine-Agnostic Deep Learning Framework in Java
-
-*   [REBOOTERS/AndroidPanoramaSample](https://github.com/REBOOTERS/AndroidPanoramaSample) - 高仿百度地图中街景页面实现，街景图层可显示在地图图层之上
-
-*   [andforce/Maps](https://github.com/andforce/Maps) - 基于高德地图SDK开发的一款地图应用
-
-*   [LillteZheng/FlowHelper](https://github.com/LillteZheng/FlowHelper) - 帮助您迅速构建顶部Tab，比如今日头条效果，热搜、搜索记录、与ViewPager/ViewPager2搭配的工具类;
-
-*   [wenbochang888/house](https://github.com/wenbochang888/house) - 有完整版的PDF下载。
-
-*   [binIoter/GuideView](https://github.com/binIoter/GuideView) - 东半球最好用的新手引导库，能够快速为任何一个View创建一个遮罩层，支持单个页面，多个引导串联展示，支持为高亮区域设置不同的图形，支持引导动画，方便扩展,良好支持fragment
-
-*   [wizos/loread](https://github.com/wizos/loread) - RSS Android client，support Inoreader, Feedly, TinyTinyRSS, Fever。
-
-*   [yasserg/crawler4j](https://github.com/yasserg/crawler4j) - Open Source Web Crawler for Java
-
-*   [DruidSpirit/crawler](https://github.com/DruidSpirit/crawler) - 基金股票信息爬取项目
-
-*   [xyxyLiu/Edit-Spinner](https://github.com/xyxyLiu/Edit-Spinner) - EditText with spinner for Android
-
-*   [ndroi/easy163](https://github.com/ndroi/easy163) - 安卓端一键解锁网易云音乐，无须 ROOT
-
-*   [Grinner2436/mdict-java](https://github.com/Grinner2436/mdict-java) - 解析库：mdx/mdd 词典文件解析库
-
-*   [micronaut-projects/micronaut-rss](https://github.com/micronaut-projects/micronaut-rss) -
-
-*   [rometools/rome](https://github.com/rometools/rome) - Java library for RSS and Atom feeds
-
-*   [ferredoxin/QNotified](https://github.com/ferredoxin/QNotified) - 一个旨在使QQ变得更好用的开源Xposed模块
-
-*   [codyer/ElegantBus](https://github.com/codyer/ElegantBus) - 🔥🔥Android 平台，基于LivaData的EventBus，无侵入，更优雅，支持跨进程，跨应用粘性事件，优先级，自定义事件等功能。
-
-*   [AnyLifeZLB/DownloadInstaller](https://github.com/AnyLifeZLB/DownloadInstaller) - Android App应用内更新的下载，储存，安装 ，未知来源等问题处理，已适配Android 5-12
-
-*   [unclepizza/AutoClickService](https://github.com/unclepizza/AutoClickService) - 后台模拟点击service，有两套方案：AccessibilityService和adb shell命令
-
-*   [elvishew/xLog](https://github.com/elvishew/xLog) - Android logger, pretty, powerful and flexible, log to everywhere, save to file, all you want is here.
-
-*   [song-dev/device-info](https://github.com/song-dev/device-info) - 获取 Android 设备信息
-
-*   [JeremyLiao/InterfaceLoader](https://github.com/JeremyLiao/InterfaceLoader) - 史上最好用的Android跨进程接口调用框架
-
-*   [Haleydu/Cimoc](https://github.com/Haleydu/Cimoc) - 漫画阅读器
-
-*   [sinpolib/nfcard](https://github.com/sinpolib/nfcard) - NFCard is an Android App. It can read contactless IC card use NFC hadware.
-
-*   [JeffMony/MediaSDK](https://github.com/JeffMony/MediaSDK) - The library is working for downloading video while playing the video, the video contains M3U8/MP4
-
-*   [ihewro/Focus](https://github.com/ihewro/Focus) - 关注我要关注的—RSS本地阅读器
-
-*   [Notsfsssf/Pix-EzViewer](https://github.com/Notsfsssf/Pix-EzViewer) -  一个支持免代理直连及查看动图的第三方Pixiv android客户端
-
-*   [houbb/segment](https://github.com/houbb/segment) - The jieba-analysis tool for java.（基于结巴分词词库实现的更加灵活优雅易用，高性能的 java 分词实现。支持词性标注。）
-
-*   [EXALAB/AnLinux-App](https://github.com/EXALAB/AnLinux-App) - AnLinux allow you to run Linux on Android without root access.
-
-*   [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages.
-
-*   [Blankj/AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode) - :fire: Android developers should collect the following utils(updating).
-
-*   [mmjang/ankihelper](https://github.com/mmjang/ankihelper) -
-
-*   [yangchong211/YCWebView](https://github.com/yangchong211/YCWebView) - 基于腾讯x5开源库，提高webView开发效率，大概要节约你百分之六十的时间成本。该案例支持处理js的交互逻辑且无耦合、同时暴露进度条加载进度、可以监听异常error状态、支持视频播放并且可以全频、支持加载word，xls，ppt，pdf，txt等文件文档、发短信、打电话、发邮件、打开文件操作上传图片、唤起原生App、支持webView页面截图、x5库为最新版本，功能强大。
-
-*   [123lxw123/VideoWorld\_Android](https://github.com/123lxw123/VideoWorld_Android) - 影视天地（Android 客户端），涵盖电影、电视剧、综艺节目、动漫、游戏五大类别的资源。整合两大资源搜索引擎，连接互联网千万数量级的资源库。支持视频资源在线播放、边下边播，不限速下载，不等待播放。
-
-*   [DingProg/Makeup](https://github.com/DingProg/Makeup) - 让你的“女神”逆袭，代码撸彩妆（画妆）
-
-*   [seeeeal/juzimi](https://github.com/seeeeal/juzimi) - 句子迷APP,MVP架构,Okhttp + Retrofit + RxJava,图片加载Glide,数据库Object-box
-
-*   [zzsrv/torrent-utils](https://github.com/zzsrv/torrent-utils) - BT（BitTorrent）文件操作工具，从著名开源BitTorrent客户端Vuze（是一个用Java编写的BitTorrent客户端，且支持I2P和Tor匿名网络协议）源码中抽取的BT文件操作工具类，可以用来改变种子内的关键字，解决离线下载服务对包含敏感字符的种子屏蔽。
-
-*   [fanchen001/Sniffing](https://github.com/fanchen001/Sniffing) - 【次元番】使用的，一个基于webview/x5webview的视频嗅探工具,能准确解析绝大多数手机在线视频网站的视频真实链接。例如:https://www.kankan001.com ， https://www.kankanwu.com   等
-
-*   [SufficientlySecure/html-textview](https://github.com/SufficientlySecure/html-textview) - TextView to display simple HTML
-
-*   [zbfzn/douyin-quick](https://github.com/zbfzn/douyin-quick) - 抖音无水印解析、下载的工具app（安卓平台）
-
-*   [virjar/sipsoup](https://github.com/virjar/sipsoup) - a xpath implementation base on JSoup, dom query mixed with xpath and cssQuery
-
-*   [code4craft/xsoup](https://github.com/code4craft/xsoup) - When jsoup meets XPath.
-
-*   [limuyang2/CardSearchView](https://github.com/limuyang2/CardSearchView) - 🔍一个自定义搜索框
-
-*   [Tencent/GT](https://github.com/Tencent/GT) - GT (Great Tit) is a portable debugging tool for bug hunting and performance tuning on smartphones anytime and anywhere just as listening music with Walkman. GT can act as the Integrated Debug Environment by directly running on smartphones.
-
-*   [yanzhenjie/AndServer](https://github.com/yanzhenjie/AndServer) - :cherries: Web server and web framework of Android platform.
-
-*   [json-path/JsonPath](https://github.com/json-path/JsonPath) - Java JsonPath implementation
-
-*   [gedoor/MyBookshelf](https://github.com/gedoor/MyBookshelf) - 阅读是一款可以自定义来源阅读网络内容的工具，为广大网络文学爱好者提供一种方便、快捷舒适的试读体验。
-
-*   [qiusunshine/movienow](https://github.com/qiusunshine/movienow) - 新方圆影视
-
-*   [roomanl/AndroidDownload](https://github.com/roomanl/AndroidDownload) - 一个支持种子、磁力、迅雷下载和磁力搜索的APP
-
-*   [devgianlu/Aria2Android](https://github.com/devgianlu/Aria2Android) - An Android app that allows you run aria2 on your device
-
-*   [qiuqiu3/cilimao-android](https://github.com/qiuqiu3/cilimao-android) - 磁力猫客户端
-
-*   [roomanl/AndroidMagnetSearch](https://github.com/roomanl/AndroidMagnetSearch) - 聚合几个磁力搜索网站的搜索结果开发的APP 主要用到JAVA htmlcleaner来解析搜索结果展示在APP上
-
-*   [Hengle/DeepNewdsForAndroid](https://github.com/Hengle/DeepNewdsForAndroid) - DeepNudes & deep nudes Android Source Code
-
-*   [imkiwa/Ansole](https://github.com/imkiwa/Ansole) - Another terminal emulator for Android.
-
-*   [xausky/ShadowsocksGostPlugin](https://github.com/xausky/ShadowsocksGostPlugin) - Gost 的 Shadowsocks 安卓插件，可以直接在 Shadowsocks 安卓客户端上连接 Gost 服务器
-
-*   [atomashpolskiy/bt](https://github.com/atomashpolskiy/bt) - BitTorrent library and client with DHT, magnet links, encryption and more
-
-*   [michaldrabik/TapBarMenu](https://github.com/michaldrabik/TapBarMenu) - Tap Bar Menu
-
-*   [devzwy/open\_nsfw\_android](https://github.com/devzwy/open_nsfw_android) - 🔥🔥🔥色情图片离线识别，基于TensorFlow实现。识别只需20ms,可断网测试，成功率99%，调用只要一行代码，从雅虎的开源项目open\_nsfw移植，该模型文件可用于iOS、java、C++等平台
-
-*   [Guolei1130/global\_httpdns](https://github.com/Guolei1130/global_httpdns) - 全局HttpDns替换方案
-
-*   [SheepYang1993/OnlyLive](https://github.com/SheepYang1993/OnlyLive) - 仿手游《混》、《买房记》，练手项目欢迎指点
-
-*   [objectbox/objectbox-java](https://github.com/objectbox/objectbox-java) - Android Database - first and fast, lightweight on-device vector database
-
-*   [ximsfei/Android-skin-support](https://github.com/ximsfei/Android-skin-support) - Android-skin-support is an easy dynamic skin framework to use  for Android, Only one line of code to integrate it. Android 换肤框架, 极低的学习成本, 极好的用户体验. "一行"代码就可以实现换肤, 你值得拥有!!!
-
-*   [Meituan-Dianping/walle](https://github.com/Meituan-Dianping/walle) - Android Signature V2 Scheme签名下的新一代渠道包打包神器
-
-*   [alibaba/UltraViewPager](https://github.com/alibaba/UltraViewPager) - UltraViewPager is an extension for ViewPager to provide multiple features in a single ViewPager.
-
-*   [geeeeeeeeek/WeChatLuckyMoney](https://github.com/geeeeeeeeek/WeChatLuckyMoney) - :money\_with\_wings: WeChat's lucky money helper (微信抢红包插件) by Zhongyi Tong. An Android app that helps you snatch red packets in WeChat groups.
-
-*   [alibaba/fastjson](https://github.com/alibaba/fastjson) - FASTJSON 2.0.x has been released, faster and more secure, recommend you upgrade.
-
-*   [SherlockGougou/BigImageViewPager](https://github.com/SherlockGougou/BigImageViewPager) - 🔥🔥🔥 BigImage ImageView ViewPager 支持超长图、超大图的图片浏览器，优化内存，支持手势放大、下拉关闭、查看原图、加载百分比、保存图片等功能。
-
-*   [xiangyuecn/Android-UsesPermission](https://github.com/xiangyuecn/Android-UsesPermission) - 安卓权限申请封装处理框架。测试支持4.0+。只有简单的java文件，复制文件即可使用。调用方便
-
-*   [MiPushFramework/MiPushFramework](https://github.com/MiPushFramework/MiPushFramework) - \[Archived, FORK: https://github.com/NihilityT/MiPushFramework] Let supported push service run system-ly on every Android devices
-
-*   [xwlcn/Dodder](https://github.com/xwlcn/Dodder) - A distributed DHT crawler that sniffs torrents from BitTorrent network
-
-*   [huangyz0918/AndroidWM](https://github.com/huangyz0918/AndroidWM) - An android image watermark library that supports steganography.
-
-*   [Eajy/MaterialDesignDemo](https://github.com/Eajy/MaterialDesignDemo) - A beautiful app designed with Material Design.
-
-*   [JarvisGG/NestedTouchScrollingLayout](https://github.com/JarvisGG/NestedTouchScrollingLayout) - :8ball: 处理子 View，父 View 嵌套滚动，成本比 support v4 NestedScrolling 低，放心食用～
-
-*   [yaoguangluo/Deta\_Parser](https://github.com/yaoguangluo/Deta_Parser) - 快速中文分词分析word segmentation
-
-*   [Yuloran/Camera2](https://github.com/Yuloran/Camera2) - Google Camera2 App Sources, build with gradle.
-
-*   [SplashCodes/JAViewer](https://github.com/SplashCodes/JAViewer) - 更优雅的驾车体验
-
-*   [Victory-Over/SuperWeb](https://github.com/Victory-Over/SuperWeb) - Android基于腾讯X5内核的WebView(超级浏览器)，拥有文件上传、下载、浏览（支持PDF/PPT/DOC/EXCEL/TXT格式）、Android与JS的交互、视频播放、自定义进度条、下拉回弹等功能
-
-*   [xm0625/VBrowser-Android](https://github.com/xm0625/VBrowser-Android) - 全网视频嗅探缓存APP
-
-*   [ChenTianSaber/SlideBack](https://github.com/ChenTianSaber/SlideBack) - 一个可以让你页面支持 滑动返回 的小东西
-
-*   [chenBingX/SuperTextView](https://github.com/chenBingX/SuperTextView) - Hi，Developer，Welcome to use SuperTextView ！
-
-*   [huolizhuminh/NetWorkPacketCapture](https://github.com/huolizhuminh/NetWorkPacketCapture) - It is used to capture network packet via Android VPN.
-
-*   [oasisfeng/condom](https://github.com/oasisfeng/condom) - 一个超轻超薄的Android工具库，阻止三方SDK中常见的有害行为，而不影响应用自身的功能。（例如严重影响用户体验的『链式唤醒』）
-
-*   [deeplearning4j/deeplearning4j](https://github.com/deeplearning4j/deeplearning4j) - Suite of tools for deploying and training deep learning models using the JVM. Highlights include model import for keras, tensorflow, and onnx/pytorch, a modular and tiny c++ library for running math code and a java based math library on top of the core c++ library. Also includes samediff: a pytorch/tensorflow like library for running deep learn...
-
-*   [oasisfeng/island](https://github.com/oasisfeng/island) - Island for Android
-
-*   [JavaNoober/BackgroundLibrary](https://github.com/JavaNoober/BackgroundLibrary) - A framework for directly generating shape through Tags, no need to write shape.xml again（通过标签直接生成shape，无需再写shape.xml）
-
-*   [nytimes/Store](https://github.com/nytimes/Store) - Android Library for Async Data Loading and Caching
-
-*   [iReaderAndroid/X2C](https://github.com/iReaderAndroid/X2C) - Increase layout loading speed 200%
-
-*   [wudikua/ps](https://github.com/wudikua/ps) - 自己实现的深度学习训练框架，纯java实现，没有过多的第三方依赖，可分布式训练
-
-*   [mthli/Ninja](https://github.com/mthli/Ninja) - Yet another web browser for Android.
-
-*   [Mixiaoxiao/FastScroll-Everywhere](https://github.com/Mixiaoxiao/FastScroll-Everywhere) - Add the fast-scroll feature to any scrollable view: RecyclerView, ScrollView, WebView, ListView, GridView, etc. 为任意可滑动的View添加快速滑动，是的，任意。
-
-*   [ahmaabdo/ReadifyRSS](https://github.com/ahmaabdo/ReadifyRSS) - Checks RSS/Atom news feeds, polling for updates from the device on a regular basis. Fetched items are available for offline reading.
-
-*   [CrawlScript/WebCollector](https://github.com/CrawlScript/WebCollector) - WebCollector is an open source web crawler framework based on Java.It provides some simple interfaces for crawling the Web,you can setup a multi-threaded web crawler in less than 5 minutes.
-
-*   [novadata/adblock-parser](https://github.com/novadata/adblock-parser) - adblock 规则分析器
-
-*   [mayubao/KuaiChuan](https://github.com/mayubao/KuaiChuan) - 仿茄子快传的一款文件传输应用
-
-*   [guolindev/LitePal](https://github.com/guolindev/LitePal) - An Android library that makes developers use SQLite database extremely easy.
-
-*   [zhhr1122/z\_comic\_new](https://github.com/zhhr1122/z_comic_new) - 一款采用MVP模式的设计的仿造腾讯漫画的APP
-
-*   [madeye/BaoLianDeng](https://github.com/madeye/BaoLianDeng) - An android client for Lantern
-
-*   [KnIfER/mdict-java](https://github.com/KnIfER/mdict-java) - Query library for Mdict (mdx or mdd) , a popular dictionary file format.
-
-*   [Curzibn/Luban](https://github.com/Curzibn/Luban) - Luban(鲁班)—Image compression with efficiency very close to WeChat Moments/可能是最接近微信朋友圈的图片压缩算法
-
-*   [TommyLemon/Android-ZBLibrary](https://github.com/TommyLemon/Android-ZBLibrary) - 🔥 Android MVP 快速开发框架，做国内 「示例最全面」「注释最详细」「使用最简单」「代码最严谨」的 Android 开源 UI 框架。                🔥 An Android MVP Framework with many demos, detailed documents, simple usages and strict codes.
-
-*   [yuweiguocn/GreenDaoUpgradeHelper](https://github.com/yuweiguocn/GreenDaoUpgradeHelper) - To solve database upgrade of greenDao and just need one line code
-
-*   [code-mc/linear-time-picker](https://github.com/code-mc/linear-time-picker) - Gorgeous Android Time and Date picker library inspired by the Timely app
-
-*   [Evernote/android-job](https://github.com/Evernote/android-job) - Android library to handle jobs in the background.
-
-*   [qqliu10u/QSkinLoader](https://github.com/qqliu10u/QSkinLoader) - 一个支持多种场景的Android换肤框架。基本原理是通过代理LayoutInflater的View创建过程解析皮肤相关属性（background/src/textColor等），将皮肤相关属性设置到View的Tag内，在切换皮肤时寻找对应的皮肤来完成实时刷新动作。此方案具有代码及XML侵入性小、功能完善（支持Activity/Dialog/悬浮窗/PopWindow/Fragment等）、无需重启Activity、支持自定义属性换肤、同时支持资源内换肤和独立资源包（下载后换肤）等优点。接口按流式编程设计，个人感觉，比目前几种换肤框架好用一些。
-
-*   [cccdada/FloatingSettingView](https://github.com/cccdada/FloatingSettingView) - 仿网易新闻兴趣选择页面
-
-*   [codezjx/AndLinker](https://github.com/codezjx/AndLinker) - AndLinker is a IPC library for Android, which combines the features of AIDL and Retrofit. Allows IPC call seamlessly compose with RxJava and RxJava2 call adapters.
-
-*   [adymilk/xinBrowser](https://github.com/adymilk/xinBrowser) - “我们从不装作很懂你”---- 昕浏览器！（1、遵守软件开发友好原则 ，及时 释放 CPU 更省电。  2、秉承昕浏览器开发原则，简约而不失强悍。  3、采用最新 AgentWeb 支持。更快更安全!）
-
-*   [DrownCoder/GlideStudy](https://github.com/DrownCoder/GlideStudy) - 利用Glide，并且实现竖向的Viewpager，3D翻页特效
-
-*   [MRLuowen/GrabContent](https://github.com/MRLuowen/GrabContent) - 基于行块抽取正文内容的java版本的改进算法
-
-*   [vejei/mua](https://github.com/vejei/mua) - An open source markdown editor for Android.
-
-*   [graycreate/Fruit](https://github.com/graycreate/Fruit) - Fruit for Html just like Gson for Json.
-
-*   [songhanghang/goaway](https://github.com/songhanghang/goaway) - 远离手机 / goaway mobile  phone
-
-*   [leolin310148/ShortcutBadger](https://github.com/leolin310148/ShortcutBadger) - An Android library supports badge notification like iOS in Samsung, LG, Sony and HTC launchers.
-
-*   [BaymaxTong/SwitchButton](https://github.com/BaymaxTong/SwitchButton) - DayOrNight SwitchButton
-
-*   [uknownothingsnow/JsBridge](https://github.com/uknownothingsnow/JsBridge) - android java and javascript bridge, inspired by wechat webview jsbridge
-
-*   [ReactiveX/RxJava](https://github.com/ReactiveX/RxJava) - RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.
-
-*   [Bearded-Hen/Android-Bootstrap](https://github.com/Bearded-Hen/Android-Bootstrap) - Bootstrap style widgets for Android, with Glyph Icons
-
-*   [yigit/android-priority-jobqueue](https://github.com/yigit/android-priority-jobqueue) - A Job Queue specifically written for Android to easily schedule jobs (tasks) that run in the background, improving UX and application stability.
-
-*   [connectbot/connectbot](https://github.com/connectbot/connectbot) - ConnectBot is the first SSH client for Android.
-
-*   [android-hacker/VirtualXposed](https://github.com/android-hacker/VirtualXposed) - A simple app to use Xposed without root, unlock the bootloader or modify system image, etc.
-
-*   [amitshekhariitbhu/AndroidTensorFlowMachineLearningExample](https://github.com/amitshekhariitbhu/AndroidTensorFlowMachineLearningExample) - Android TensorFlow MachineLearning Example (Building TensorFlow for Android)
-
-*   [b3log/xiaov](https://github.com/b3log/xiaov) - :bride\_with\_veil: 一个 QQ 聊天机器人，她的名字叫做小薇~
-
-*   [ScienJus/smartqq](https://github.com/ScienJus/smartqq) - SmartQQ（WebQQ）的Api ，你可以用它实现自己的QQ 机器人 a qq robot based on smartqq (webqq) api
-
-*   [Tencent/QMUI\_Android](https://github.com/Tencent/QMUI_Android) - 提高 Android UI 开发效率的 UI 库
-
-*   [zhihu/Matisse](https://github.com/zhihu/Matisse) - :fireworks: A well-designed local image and video selector for Android
-
-*   [smuyyh/BookReader](https://github.com/smuyyh/BookReader) - :closed\_book:  "任阅" 网络小说阅读器，3D翻页效果、txt/pdf/epub书籍阅读、Wifi传书~
-
-*   [codinguser/gnucash-android](https://github.com/codinguser/gnucash-android) - Gnucash for Android mobile companion application.
-
-*   [bitcoin-wallet/bitcoin-wallet](https://github.com/bitcoin-wallet/bitcoin-wallet) - Bitcoin Wallet app for your Android device. Standalone Bitcoin node, no centralized backend required.
-
-*   [Nightonke/WoWoViewPager](https://github.com/Nightonke/WoWoViewPager) - Combine ViewPager and Animations to provide a simple way to create applications' guide pages.
-
-*   [proxyee-down-org/proxyee-down](https://github.com/proxyee-down-org/proxyee-down) - http下载工具，基于http代理，支持多连接分块下载
-
-*   [Kelin-Hong/CalendarListView](https://github.com/Kelin-Hong/CalendarListView) - A custom ListView combine with CalendarView which interactive each other.
-
-*   [yingLanNull/ScrollLayout](https://github.com/yingLanNull/ScrollLayout) - 上拉滑动上滑拖出 类似百度地图抽屉拖拽效果  Upward sliding out
-
-*   [dragonite-network/dragonite-java](https://github.com/dragonite-network/dragonite-java) - \[DEPRECATED, please check https://github.com/tobyxdd/hysteria]
-
-*   [wenwenwen888/SearchDialog](https://github.com/wenwenwen888/SearchDialog) - 仿bilibili搜索框效果(三句代码实现)
-
-*   [zzz40500/AndroidSweetSheet](https://github.com/zzz40500/AndroidSweetSheet) - 一个富有动感的Sheet(选择器)
-
-*   [yale8848/CacheWebView](https://github.com/yale8848/CacheWebView) - Custom implement Android WebView cache, offline website, let cahe config more simple and  flexible
-
-*   [huanghaibin-dev/CalendarView](https://github.com/huanghaibin-dev/CalendarView) - Android上一个优雅、万能自定义UI、仿iOS、支持垂直、水平方向切换、支持周视图、自定义周起始、性能高效的日历控件，支持热插拔实现的UI定制！支持标记、自定义颜色、农历、自定义月视图各种显示模式等。Canvas绘制，速度快、占用内存低，你真的想不到日历居然还可以如此优雅！An elegant, highly customized and high-performance Calendar Widget on Android.
-
-*   [XndroidDev/Xndroid](https://github.com/XndroidDev/Xndroid) - A proxy software for Android based on XX-Net and fqrouter.
-
-*   [daimajia/AndroidSwipeLayout](https://github.com/daimajia/AndroidSwipeLayout) - The Most Powerful Swipe Layout!
-
-*   [pencil-box/NetKnight](https://github.com/pencil-box/NetKnight) - NetKnight-一款基于vpn的手机流量监控软件
-
-*   [ksfzhaohui/shadowsocks-netty](https://github.com/ksfzhaohui/shadowsocks-netty) - 基于netty4的shadowsocks客户端
-
-*   [android-hacker/exposed](https://github.com/android-hacker/exposed) - A library to use Xposed without root or recovery(or modify system image etc..).
-
-*   [asLody/VirtualApp](https://github.com/asLody/VirtualApp) - Virtual Engine for Android(Support 14.0 in business version)
-
-*   [ZhangJiupeng/AgentX](https://github.com/ZhangJiupeng/AgentX) - Shadowsocks升级版，支持协议伪装和流量压缩，易于扩展，可统计流量
-
-*   [limpoxe/Android-Plugin-Framework](https://github.com/limpoxe/Android-Plugin-Framework) - Android插件框架，免安装运行插件APK ，支持独立插件和非独立插件
-
-*   [cuu/ovpn\_webview](https://github.com/cuu/ovpn_webview) - openvpn android with webview interface 逆向工程,为了纪念曾经的灰产免流岁月,公开此代码,此版本与官方闭源openvpn安卓app完全一样,最强线路兼容,并且支持线路远程获取,dalo线路格式,请自行研究,不得用于非法商业活动
-
-*   [iTXTech/Daedalus](https://github.com/iTXTech/Daedalus) - No root required Android DNS modifier and Hosts/DNSMasq resolver.
-
-*   [ViceFantasyPlace/activate-power-mode](https://github.com/ViceFantasyPlace/activate-power-mode) -
-
-*   [Skykai521/ECTranslation](https://github.com/Skykai521/ECTranslation) - Android Studio Plugin,Translate English to Chinese. Android Studio 翻译插件,可以将英文翻译为中文.
-
-*   [catofmrlu/Reer](https://github.com/catofmrlu/Reer) - 一个建设中的离线RSS阅读器。个人第一个正式项目，虽然RSS现在是一个小众的需求，但本人因为是RSS的重度用户，所以希望为安卓平台贡献一个好用的客户端。
-
-*   [jeasonlzy/okhttp-OkGo](https://github.com/jeasonlzy/okhttp-OkGo) - OkGo - 3.0 震撼来袭，该库是基于 Http 协议，封装了 OkHttp 的网络请求框架，比 Retrofit 更简单易用，支持 RxJava，RxJava2，支持自定义缓存，支持批量断点下载管理和批量上传管理功能
-
-*   [HITGIF/TextFieldBoxes](https://github.com/HITGIF/TextFieldBoxes) - Material Design text field that comes in a box, based on (OLD) Google Material Design guidelines.
-
-*   [scwang90/SmartRefreshLayout](https://github.com/scwang90/SmartRefreshLayout) - 🔥下拉刷新、上拉加载、二级刷新、淘宝二楼、RefreshLayout、OverScroll，Android智能下拉刷新框架，支持越界回弹、越界拖动，具有极强的扩展性，集成了几十种炫酷的Header和 Footer。
-
-*   [Justson/AgentWeb](https://github.com/Justson/AgentWeb) -  AgentWeb is a powerful library based on Android WebView.
-
-*   [yuukidach/Ucount](https://github.com/yuukidach/Ucount) - 简易记账APP
-
-*   [cclient/baiduSign](https://github.com/cclient/baiduSign) - 逆向百度https登陆。实现签到功能，Client/androidBaiduSign是android项目的半本品。
-
-*   [unsummon/WechatLucky](https://github.com/unsummon/WechatLucky) - 逆向还原veryyoung 大神的微信红包插件
-
-*   [CzBiX/peanut-link](https://github.com/CzBiX/peanut-link) - 第三方花生地铁 WiFi Android 客户端，逆向其 Android 客户端 v2.0.21 得出协议格式。
-
-*   [GcsSloop/ViewSupport](https://github.com/GcsSloop/ViewSupport) - View辅助工具包，帮助你快速优雅的完成自定义View
-
-*   [chinashiyu/gfw.press.android](https://github.com/chinashiyu/gfw.press.android) - GFW.Press新一代军用级高强度加密抗干扰网络数据高速传输软件安卓版
-
-*   [chinashiyu/gfw.press](https://github.com/chinashiyu/gfw.press) - GFW.Press新一代军用级高强度加密抗干扰网络数据高速传输软件
-
-*   [realm/realm-java](https://github.com/realm/realm-java) - Realm is a mobile database: a replacement for SQLite & ORMs
-
-*   [GcsSloop/AndroidNote](https://github.com/GcsSloop/AndroidNote) - 安卓学习笔记
-
-*   [JasonQS/Anti-recall](https://github.com/JasonQS/Anti-recall) - Android 免root 防撤回神器 !
-
-*   [wasabeef/richeditor-android](https://github.com/wasabeef/richeditor-android) - RichEditor for Android is a beautiful Rich Text WYSIWYG Editor for Android.
-
-*   [martin90s/ImagePicker](https://github.com/martin90s/ImagePicker) - Super Image Picker is a powerful image selector. Support for huge image preview (such as 10000 \* 5000px), support for image cropping, configurable avatar mode and normal mode, support for  a variety of image load library
-
-*   [wolearn/SmartTool](https://github.com/wolearn/SmartTool) -
-
-*   [Ajian-studio/GABottleLoading](https://github.com/Ajian-studio/GABottleLoading) - Bezier storm（贝塞尔风暴）
-
-*   [qapqap/TimelineView](https://github.com/qapqap/TimelineView) - Customzable TimelineView for Android
-
-*   [Zweihui/RxFingerPrinter](https://github.com/Zweihui/RxFingerPrinter) - 用rxjava简单封装了指纹识别，并实现对生命周期的自动绑定，顺便撸了一个指纹控件
-
-*   [yangguangfu520/MobilePlayer1020](https://github.com/yangguangfu520/MobilePlayer1020) - 手机影音项目是真实的上线项目，本视频在原项目基础上，进行了新技术的更新和优化。该项目包括本地音乐播放、网络音乐播放、本地视频播放、网络直播四大模块，几乎涵盖了市面上视频播放类APP的全部技术。
-
-*   [zhouchaoyuan/excelPanel](https://github.com/zhouchaoyuan/excelPanel) - An Android's two-dimensional RecyclerView. Not only can load historical data, but also can load future data.
-
-*   [north2016/T-MVP](https://github.com/north2016/T-MVP) - Android AOP Architecture by Apt, AspectJ, Javassisit, based on Realm+Databinding+MVP+Retrofit+Rxjava2
-
-*   [netcan/Talk](https://github.com/netcan/Talk) - A simple Java talk software.
-
-*   [pxb1988/dex2jar](https://github.com/pxb1988/dex2jar) - Tools to work with android .dex and java .class files
-
-*   [fourbrother/icodetools](https://github.com/fourbrother/icodetools) - Android中动态自动插入代码到apk中工具
-
-*   [Piasy/BigImageViewer](https://github.com/Piasy/BigImageViewer) - Big image viewer supporting pan and zoom, with very little memory usage and full featured image loading choices. Powered by Subsampling Scale Image View, Fresco, Glide, and Picasso. Even with gif and webp support! 🍻
-
-*   [proninyaroslav/libretorrent](https://github.com/proninyaroslav/libretorrent) - Free and Open Source, full-featured torrent client for Android. Mirrored from https://gitlab.com/proninyaroslav/libretorrent
-
-*   [CoolThink/StatusBarAdapt](https://github.com/CoolThink/StatusBarAdapt) - Android使用fitsSystemWindows属性实现--状态栏【status\_bar】各版本适配
-
-*   [hehonghui/Colorful](https://github.com/hehonghui/Colorful) - 基于Theme的Android动态换肤库，无需重启Activity、无需自定义View，方便的实现日间、夜间模式。
-
-*   [D-clock/AndroidStudyCode](https://github.com/D-clock/AndroidStudyCode) - 关于Android的一些原理学习和代码实现
-
-*   [JZ-Darkal/AndroidHttpCapture](https://github.com/JZ-Darkal/AndroidHttpCapture) - AndroidHttpCapture网络诊断工具 是一款Android手机抓包软件 主要功能包括：手机端抓包、PING/DNS/TraceRoute诊断、抓包HAR数据上传分享。你也可以看成是Android版的"Fiddler" (^o^)/~
-
-*   [mingcheng/Rainville](https://github.com/mingcheng/Rainville) - Rain Noise for Android
-
-*   [fanbaolong/TestPassword](https://github.com/fanbaolong/TestPassword) - 和支付宝一样的密码验证框
-
-*   [chentao0707/SimplifyReader](https://github.com/chentao0707/SimplifyReader) - 一款基于Google Material Design设计开发的Android客户端，包括新闻简读，图片浏览，视频爽看 ，音乐轻听以及二维码扫描五个子模块。项目采取的是MVP架构开发，由于还是摸索阶段，可能不是很规范。但基本上应该是这么个套路，至少我个人认为是这样的~恩，就是这样的！
-
-*   [haibuzou/Calendar365](https://github.com/haibuzou/Calendar365) - 仿365的日历显示
-
-*   [PureDark/H-Viewer](https://github.com/PureDark/H-Viewer) - An android feed reader application which fetch data with selector and regular expression.
-
-*   [githubwing/MVPHelper](https://github.com/githubwing/MVPHelper) - A plugin for Intellj IDEA & Android Studio which can help you generate interfaces and classes of MVP. 一款Intellj IDEA 和Android Studio 自动生成MVP模式所需接口以及实现类的插件。
-
-*   [oldman1977/SmartProxy](https://github.com/oldman1977/SmartProxy) - 安卓下的智能代理
-
-*   [dawei101/shadowsocks-android-java](https://github.com/dawei101/shadowsocks-android-java) - Shadowsocks android client, pure java version
-
-*   [54cgt/weixin](https://github.com/54cgt/weixin) - 微信-Android版
-
-*   [zhangsr/Feeder2](https://github.com/zhangsr/Feeder2) - Feeder2.0， Android Rss 阅读器，Material Design，MVP架构
-
-*   [jecelyin/920-text-editor-v2](https://github.com/jecelyin/920-text-editor-v2) - 920 Text Editor is a Free, Open Source and no Ad software for android
-
-*   [vivian8725118/SearchListView](https://github.com/vivian8725118/SearchListView) - 带搜索栏的 listview，轻拉出现搜索栏，用力拉出现下拉刷新
-
-*   [wly2014/Choose\_ListView](https://github.com/wly2014/Choose_ListView) - 仿的魅族的listview的效果
-
-*   [WuLC/ThesaurusParser](https://github.com/WuLC/ThesaurusParser) - 搜狗、百度、QQ输入法的词库文件的 Java 解析程序，配合 ThesaurusSpider 使用
-
-*   [qinci/MarkdownEditors](https://github.com/qinci/MarkdownEditors) - Android Markdown编辑器
-
-*   [LudySu/LrcJaeger](https://github.com/LudySu/LrcJaeger) - A lyrics downloader for Android, which is great for ACG songs.
-
-*   [jungletian/TitanjumNote](https://github.com/jungletian/TitanjumNote) - 超简单的笔记，支持搜索，Material Design，滑动退出
-
-*   [Skarafaz/mercury](https://github.com/Skarafaz/mercury) - Simple Android app that sends pre-configured commands to remote servers via SSH.
-
-*   [wenmingvs/AndroidProcess](https://github.com/wenmingvs/AndroidProcess) - 判断App位于前台或者后台的6种方法
-
-*   [JeasonWong/BezierLoadingView](https://github.com/JeasonWong/BezierLoadingView) - Cool bezier loading view
-
-*   [tobyxdd/anchorDNS](https://github.com/tobyxdd/anchorDNS) - A smart DNS server for Chinese
-
-*   [code4craft/webmagic](https://github.com/code4craft/webmagic) - A scalable web crawler framework for Java.
-
-*   [nekocode/Badge](https://github.com/nekocode/Badge) - :octocat: Drawable of badge.
-
-*   [bignerdranch/expandable-recycler-view](https://github.com/bignerdranch/expandable-recycler-view) - \[DEPRECATED]
-
-*   [zhanghai/Douya](https://github.com/zhanghai/Douya) - 开源的 Material Design 豆瓣客户端（A Material Design app for douban.com）
-
-*   [janrone/MultiArcAsynCircleProgress](https://github.com/janrone/MultiArcAsynCircleProgress) - loading demo， circle progress
-
-*   [Zehao/sogouSCEL](https://github.com/Zehao/sogouSCEL) - 搜狗输入法细胞词库解析
-
-*   [tengbinlive/aibao\_demo](https://github.com/tengbinlive/aibao_demo) - This is a android demo
-
-*   [NLPchina/ansj\_seg](https://github.com/NLPchina/ansj_seg) - ansj分词.ict的真正java实现.分词效果速度都超过开源版的ict. 中文分词,人名识别,词性标注,用户自定义词典
-
-*   [CNSRE/HTTPDNSLib](https://github.com/CNSRE/HTTPDNSLib) -
-
-*   [kakajika/FragmentAnimations](https://github.com/kakajika/FragmentAnimations) - 3D animation examples for support-v4 Fragment transition.
-
-*   [sunfusheng/StickyHeaderListView](https://github.com/sunfusheng/StickyHeaderListView) - 打造炫酷列表之 StickyHeaderListView：标题渐变、吸附悬浮、筛选分类、动态头部等
-
-*   [mikepenz/Android-ActionItemBadge](https://github.com/mikepenz/Android-ActionItemBadge) - This library offers a simple method to add a small badge icon to your ActionBar-MenuItem
-
-*   [westlinkin/AndroidLocalizationer](https://github.com/westlinkin/AndroidLocalizationer) - This is a Android Studio/ IntelliJ IDEA plugin to localize your Android app, translate your string resources automactically.
-
-*   [saiwu-bigkoo/Android-AlertView](https://github.com/saiwu-bigkoo/Android-AlertView) - 仿iOS的AlertViewController
-
-*   [oguzbilgener/CircularFloatingActionMenu](https://github.com/oguzbilgener/CircularFloatingActionMenu) - an animated circular menu for Android
-
-*   [THEONE10211024/WaterDropListView](https://github.com/THEONE10211024/WaterDropListView) - WaterDropListView，just like the iOS
-
-*   [ZhaoKaiQiang/KLog](https://github.com/ZhaoKaiQiang/KLog) - 这是一个Android专用的LogCat工具，主要功能为打印行号、函数调用、Json解析、XML解析、点击跳转、Log信息保存等功能
-
-*   [dupengtao/BubbleTextView](https://github.com/dupengtao/BubbleTextView) - Android Bubble View
-
-*   [kyleduo/SwitchButton](https://github.com/kyleduo/SwitchButton) - A cute widget of Switch Button for  you to create beautiful and friendly UI.
-
-*   [zcweng/ToggleButton](https://github.com/zcweng/ToggleButton) - ToggleButton Widget For Android Dev
-
-*   [motianhuo/wechat](https://github.com/motianhuo/wechat) - A High Copy WeChat ,SNS APP (高仿微信)
-
-*   [daimajia/EverMemo](https://github.com/daimajia/EverMemo) - Fast Record,Organize,and Share. The android memo app you will deeply love. ❤
-
-*   [google/gson](https://github.com/google/gson) - A Java serialization/deserialization library to convert Java Objects into JSON and back
-
-*   [wangdan/AisenWeiBo](https://github.com/wangdan/AisenWeiBo) - 新浪微博第三方Android客户端
-
-*   [wingjay/jianshi](https://github.com/wingjay/jianshi) - A Full-Stack mobile app, including Android & Server, Simple-Poem 简诗. You can write poem in graceful & traditional Chinese style.
-
-*   [declangao/WordpressReader](https://github.com/declangao/WordpressReader) - Android JSON API WordPress Reader App (No longer maintained)
-
-*   [lytsing/weibo](https://github.com/lytsing/weibo) - Android client for weibo
-
-*   [TheKeeperOfPie/Reader](https://github.com/TheKeeperOfPie/Reader) - A Reddit client created to practice good UI/UX design
-
-*   [Nilhcem/hosts-editor-android](https://github.com/Nilhcem/hosts-editor-android) - Hosts Editor for Android
-
-*   [GitaiQAQ/Hosts-Studio-Android](https://github.com/GitaiQAQ/Hosts-Studio-Android) -
-
-*   [jinguangyue/AddwordLib](https://github.com/jinguangyue/AddwordLib) - Android Textview横竖排切换(文字方向不变)  Android TextView add text , vertical discharge switching (the direction of the font is no change!)
-
-*   [Bossyao168/StackOverView](https://github.com/Bossyao168/StackOverView) - a custom widget of android，like task manager of android 5.0.
-
-*   [mthli/Type](https://github.com/mthli/Type) - Typing experiment on Android.
-
-*   [android-cjj/JJSearchViewAnim](https://github.com/android-cjj/JJSearchViewAnim) - A cool search view animation library
-
-*   [zzz40500/ThemeDemo](https://github.com/zzz40500/ThemeDemo) - (DEPRECATED)日夜间模式切换
-
-*   [ksoichiro/Android-ObservableScrollView](https://github.com/ksoichiro/Android-ObservableScrollView) - Android library to observe scroll events on scrollable views.
-
-*   [hanks-zyh/ScrollViewOnTouch](https://github.com/hanks-zyh/ScrollViewOnTouch) - 仿百度助手头部搜索框缩放.
-
-*   [fg607/RelaxFinger](https://github.com/fg607/RelaxFinger) - a simple and useful android touch assistant
-
-*   [Athou/commafeed](https://github.com/Athou/commafeed) - Google Reader inspired self-hosted RSS reader.
-
-*   [noinnion/newsplus](https://github.com/noinnion/newsplus) - News+ is a simple, fast and intuitive feed/rss reader for Android, featuring beautiful themes, podcast support and full offline support.
-
-*   [crazyhitty/Munch](https://github.com/crazyhitty/Munch) - \[Deprecated] A minimalistic Rss Reader for Android devices
-
-*   [akhgupta/WebviewVideo](https://github.com/akhgupta/WebviewVideo) - sample app for displaying Html5Video using Webview in Android
-
-*   [miao1007/nmid-headline](https://github.com/miao1007/nmid-headline) - \[Android]\[Deprecated] a android client for news feed
-
-*   [laobie/StatusBarUtil](https://github.com/laobie/StatusBarUtil) - A util for setting status bar style on Android App.
-
-*   [hongyangAndroid/okhttputils](https://github.com/hongyangAndroid/okhttputils) - \[停止维护]okhttp的辅助类
-
-*   [KKys/ZhiHuSpider](https://github.com/KKys/ZhiHuSpider) - Java无框架实现爬取知乎用户信息、图片和知乎推荐内容并下载到本地或数据库中
-
-*   [oubowu/OuNews](https://github.com/oubowu/OuNews) - 新闻阅读
-
-*   [ikew0ng/Dribbo](https://github.com/ikew0ng/Dribbo) - Dribbble客户端
-
-*   [mxn21/FlowingDrawer](https://github.com/mxn21/FlowingDrawer) - swipe display drawer with flowing & bouncing effects.
-
-*   [fengzhizi715/SAF](https://github.com/fengzhizi715/SAF) - (Deprecated) SAF(Simple Android Framework)是一个简单的android框架，它为开发Android app提供了基础性组件。
-
-*   [white-cat/ThinkAndroid](https://github.com/white-cat/ThinkAndroid) - ThinkAndroid是一个免费的开源的、简易的、遵循Apache2开源协议发布的Android开发框架，其开发宗旨是简单、快速的进行 Android应用程序的开发，包含Android mvc、简易sqlite orm、ioc模块、封装Android httpclitent的http模块, 具有快速构建文件缓存功能，无需考虑缓存文件的格式，都可以非常轻松的实现缓存，它还基于文件缓存模块实现了图片缓存功能， 在android中加载的图片的时候，对oom的问题，和对加载图片错位的问题都轻易解决。他还包括了一个手机开发中经常应用的实用工具类， 如日志管理，配置文件管理，android下载器模块，网络切换检测等等工具。
-
-*   [maoruibin/GankDaily](https://github.com/maoruibin/GankDaily) - A application used to  show technical information in every working days, use MVP pattern.
-
-*   [maoruibin/TranslateApp](https://github.com/maoruibin/TranslateApp) - :memo: A translations app without interruptions, copy words and translate directly, show result by top view.
-
-*   [greenrobot/EventBus](https://github.com/greenrobot/EventBus) - Event bus for Android and Java that simplifies communication between Activities, Fragments, Threads, Services, etc. Less code, better quality.
-
-*   [Jeffmen/Git.NB](https://github.com/Jeffmen/Git.NB) - A app client for Github
-
-*   [MummyDing/Leisure](https://github.com/MummyDing/Leisure) - Leisure is an Android App containing Zhihu Daily,Guokr Scientific,XinhuaNet News and Douban Books
-
-*   [xEdenx/Isolate](https://github.com/xEdenx/Isolate) - A material design android app to show zhihu daily .  壁上观
-
-*   [DrKLO/Telegram](https://github.com/DrKLO/Telegram) - Telegram for Android source
-
-*   [ogaclejapan/SmartTabLayout](https://github.com/ogaclejapan/SmartTabLayout) - A custom ViewPager title strip which gives continuous feedback to the user when scrolling
-
-*   [ViksaaSkool/AwesomeSplash](https://github.com/ViksaaSkool/AwesomeSplash) - Awesome-looking customizable splash screen
-
-*   [wenmingvs/WeiBo](https://github.com/wenmingvs/WeiBo) - 第三方新浪微博客户端
-
-*   [saiwu-bigkoo/Android-SnappingStepper](https://github.com/saiwu-bigkoo/Android-SnappingStepper) - A beautiful UI control with flexible control of the number of changes.
-
-*   [yydcdut/SlideAndDragListView](https://github.com/yydcdut/SlideAndDragListView) - :curly\_loop:SlideAndDragListView (SDLV) is an extension of the Android ListView that enables slide and drag-and-drop reordering of list items.
-
-*   [ericzhang-cn/rss2epub](https://github.com/ericzhang-cn/rss2epub) - 将RSS内容转为epub格式电子书的工具
-
-*   [qii/weiciyuan](https://github.com/qii/weiciyuan) - Sina Weibo Android Client
-
-*   [andforce/iBeebo](https://github.com/andforce/iBeebo) - 第三方新浪微博客户端
-
-*   [notice501/coolMenu](https://github.com/notice501/coolMenu) - A Cool Cards Menu Concept
-
-*   [heroLi/WeChatLuckyLi](https://github.com/heroLi/WeChatLuckyLi) -
-
-*   [Nightonke/CoCoin](https://github.com/Nightonke/CoCoin) - CoCoin, Multi-view Accounting Application
-
-*   [baoyongzhang/SwipeMenuListView](https://github.com/baoyongzhang/SwipeMenuListView) - \[DEPRECATED] A swipe menu for ListView.
-
-*   [mthli/Knife](https://github.com/mthli/Knife) - Knife is a rich text editor component for writing documents in Android.
-
-*   [CycloneAxe/phphub-android](https://github.com/CycloneAxe/phphub-android) - PHPHub for Android
-
-*   [aizenchou/rsscatch](https://github.com/aizenchou/rsscatch) - 简书、一个等网站RSS生成器
-
-*   [sues-lee/SuesNews](https://github.com/sues-lee/SuesNews) - 一个符合 Google Material Design 的 Android 校园新闻客户端
-
-*   [fqrouter/fqrouter](https://github.com/fqrouter/fqrouter) - anti-GFW router
-
-*   [JayFang1993/ScanBook](https://github.com/JayFang1993/ScanBook) - scan book's ISBN to get the information of this book
 
 ## Julia
 
