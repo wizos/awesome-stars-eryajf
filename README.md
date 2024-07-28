@@ -68,6 +68,8 @@
 
 ## Dart
 
+*   [chen08209/FlClash](https://github.com/chen08209/FlClash) - A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
+
 *   [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
 
 *   [lollipopkit/flutter\_gpt\_box](https://github.com/lollipopkit/flutter_gpt_box) - GPTBox - a third-party GPT Client for OpenAI API.
@@ -1885,8 +1887,6 @@
 *   [kenvix/USBCopyer](https://github.com/kenvix/USBCopyer) - 😉 用于在插上U盘后自动按需复制该U盘的文件。”备份&偷U盘文件的神器”（写作USBCopyer，读作USBCopier）
 
 *   [azzvx/gogotester](https://github.com/azzvx/gogotester) -
-
-*   [stackia/DNSAgent](https://github.com/stackia/DNSAgent) - A powerful "hosts" replacement.
 
 ## Rust
 
