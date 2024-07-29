@@ -18,6 +18,7 @@
 
 ## Table of Contents
 
+*   [Vue](#vue)
 *   [Dart](#dart)
 *   [Java](#java)
 *   [Kotlin](#kotlin)
@@ -34,7 +35,6 @@
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [TypeScript](#typescript)
 *   [Lua](#lua)
-*   [Vue](#vue)
 *   [Zig](#zig)
 *   [Shell](#shell)
 *   [Swift](#swift)
@@ -65,6 +65,24 @@
 *   [Scheme](#scheme)
 *   [Groff](#groff)
 *   [Thanks](#thanks)
+
+## Vue
+
+*   [GUI-for-Cores/GUI.for.Clash](https://github.com/GUI-for-Cores/GUI.for.Clash) - A GUI program developed by vue3 + wails.
+
+*   [GUI-for-Cores/GUI.for.SingBox](https://github.com/GUI-for-Cores/GUI.for.SingBox) - GUI for SingBox
+
+*   [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) - The best IP Toolbox. Easy to check what's your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR test, check website availability, whois search and more! || 🇨🇳 可能是最好用的IP工具箱。轻松检查你的 IP，IP 地理位置，检查DNS泄漏，检查 WebRTC 连接，速度测试，ping 测试，MTR测试，检查网站可用性，查询 Whois 信息等等。
+
+*   [Haojen/planet-tab](https://github.com/Haojen/planet-tab) - A cool dynamic 3D planet new tab, support Search, Clock, Weather and custom, also compatible with Vimkey
+
+*   [ZyqGitHub1/h-player-v2](https://github.com/ZyqGitHub1/h-player-v2) - 资源采集站在线播放
+
+*   [wuhaoworld/torrent2magnet](https://github.com/wuhaoworld/torrent2magnet) - 种子转磁力链工具
+
+*   [easychen/catgate](https://github.com/easychen/catgate) - CatGate is a small crawler framework based on Chrome extension . CatGate是一个基于浏览器插件的数据抓取工具。做成浏览器插件无需模拟登入，能最真实的模仿用户行为和特征。
+
+*   [stonexer/wechatBot](https://github.com/stonexer/wechatBot) - 面向个人的微信 wechat 机器人平台 - 使用微信网页版接口 wechat4u
 
 ## Dart
 
@@ -718,8 +736,6 @@
 
 *   [fqrouter/fqrouter](https://github.com/fqrouter/fqrouter) - anti-GFW router
 
-*   [JayFang1993/ScanBook](https://github.com/JayFang1993/ScanBook) - scan book's ISBN to get the information of this book
-
 ## Kotlin
 
 *   [Akshatji800/ziplinekmmtesting](https://github.com/Akshatji800/ziplinekmmtesting) - This is zipline sample test application.
@@ -800,7 +816,7 @@
 
 *   [whitescent/Engine](https://github.com/whitescent/Engine) - Mapping your phone as a virtual joystick
 
-*   [kaajjo/Libre-Sudoku](https://github.com/kaajjo/Libre-Sudoku) - Sudoku app for android built with Kotlin + Jetpack Compose + Material3
+*   [kaajjo/Libre-Sudoku](https://github.com/kaajjo/Libre-Sudoku) - LibreSudoku - Sudoku app for android built with Kotlin + Jetpack Compose + Material3
 
 *   [tuskyapp/Tusky](https://github.com/tuskyapp/Tusky) - An Android client for the microblogging server Mastodon
 
@@ -1804,8 +1820,6 @@
 
 *   [zjccsg/permo](https://github.com/zjccsg/permo) - cpu\memory\net monitor application 性能监控悬浮窗
 
-*   [yangyangwithgnu/hardseed](https://github.com/yangyangwithgnu/hardseed) - SEX IS ZERO (0), so, who wanna be the ONE (1), aha?
-
 ## HTML
 
 *   [antonmedv/finder](https://github.com/antonmedv/finder) - CSS Selector Generator 🗺
@@ -2001,20 +2015,6 @@
 *   [koreader/koreader](https://github.com/koreader/koreader) - An ebook reader application supporting PDF, DjVu, EPUB, FB2 and many more formats, running on Cervantes, Kindle, Kobo, PocketBook and Android devices
 
 *   [alexazhou/VeryNginx](https://github.com/alexazhou/VeryNginx) -  A very powerful and friendly  nginx base on lua-nginx-module( openresty ) which provide WAF, Control Panel, and Dashboards.
-
-## Vue
-
-*   [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) - The best IP Toolbox. Easy to check what's your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR test, check website availability, whois search and more! || 🇨🇳 可能是最好用的IP工具箱。轻松检查你的 IP，IP 地理位置，检查DNS泄漏，检查 WebRTC 连接，速度测试，ping 测试，MTR测试，检查网站可用性，查询 Whois 信息等等。
-
-*   [Haojen/planet-tab](https://github.com/Haojen/planet-tab) - A cool dynamic 3D planet new tab, support Search, Clock, Weather and custom, also compatible with Vimkey
-
-*   [ZyqGitHub1/h-player-v2](https://github.com/ZyqGitHub1/h-player-v2) - 资源采集站在线播放
-
-*   [wuhaoworld/torrent2magnet](https://github.com/wuhaoworld/torrent2magnet) - 种子转磁力链工具
-
-*   [easychen/catgate](https://github.com/easychen/catgate) - CatGate is a small crawler framework based on Chrome extension . CatGate是一个基于浏览器插件的数据抓取工具。做成浏览器插件无需模拟登入，能最真实的模仿用户行为和特征。
-
-*   [stonexer/wechatBot](https://github.com/stonexer/wechatBot) - 面向个人的微信 wechat 机器人平台 - 使用微信网页版接口 wechat4u
 
 ## Zig
 
