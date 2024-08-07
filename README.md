@@ -816,7 +816,7 @@
 
 *   [whitescent/Engine](https://github.com/whitescent/Engine) - Mapping your phone as a virtual joystick
 
-*   [kaajjo/Libre-Sudoku](https://github.com/kaajjo/Libre-Sudoku) - LibreSudoku - Sudoku app for android built with Kotlin + Jetpack Compose + Material3
+*   [kaajjo/LibreSudoku](https://github.com/kaajjo/LibreSudoku) - LibreSudoku - Sudoku app for android built with Kotlin + Jetpack Compose + Material3
 
 *   [tuskyapp/Tusky](https://github.com/tuskyapp/Tusky) - An Android client for the microblogging server Mastodon
 
