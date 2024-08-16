@@ -918,13 +918,9 @@
 
 *   [qiusunshine/movienow](https://github.com/qiusunshine/movienow) - 新方圆影视
 
-*   [roomanl/AndroidDownload](https://github.com/roomanl/AndroidDownload) - 一个支持种子、磁力、迅雷下载和磁力搜索的APP
-
 *   [devgianlu/Aria2Android](https://github.com/devgianlu/Aria2Android) - An Android app that allows you run aria2 on your device
 
 *   [qiuqiu3/cilimao-android](https://github.com/qiuqiu3/cilimao-android) - 磁力猫客户端
-
-*   [roomanl/AndroidMagnetSearch](https://github.com/roomanl/AndroidMagnetSearch) - 聚合几个磁力搜索网站的搜索结果开发的APP 主要用到JAVA htmlcleaner来解析搜索结果展示在APP上
 
 *   [Hengle/DeepNewdsForAndroid](https://github.com/Hengle/DeepNewdsForAndroid) - DeepNudes & deep nudes Android Source Code
 
@@ -1520,7 +1516,7 @@
 
 *   [iloeng/Password-Dictionaries](https://github.com/iloeng/Password-Dictionaries) - 收集的压缩包解压密码，包括：自己遇到的、网络采集的等
 
-*   [Loyalsoldier/v2ray-rules-dat](https://github.com/Loyalsoldier/v2ray-rules-dat) - 🦄 🎃 👻 V2Ray 路由规则文件加强版，可代替 V2Ray 官方 geoip.dat 和 geosite.dat，兼容 Shadowsocks-windows、Xray-core、Trojan-Go、leaf 和 hysteria。Enhanced edition of V2Ray rules dat files, compatible with Xray-core, Shadowsocks-windows, Trojan-Go, leaf and hysteria.
+*   [Loyalsoldier/v2ray-rules-dat](https://github.com/Loyalsoldier/v2ray-rules-dat) - 🦄 🎃 👻 V2Ray 路由规则文件加强版，可代替 V2Ray 官方 geoip.dat 和 geosite.dat，适用于 V2Ray、Xray-core、mihomo(Clash-Meta)、hysteria、Trojan-Go 和 leaf。Enhanced edition of V2Ray rules dat files, applicable to V2Ray, Xray-core, mihomo(Clash-Meta), hysteria, Trojan-Go and leaf.
 
 *   [zealotCE/America-Against-America](https://github.com/zealotCE/America-Against-America) - 《美国反对美国》是王沪宁先生在上世纪80年代末赴美观察写作的。我们知道在那个年代中国对西方特别是美国的追捧有多高，所以突然看到一个学者在80年代就有如此清楚的认识，十分钦佩。由于网上只有效果很差的PDF扫描版，所以我想利用OCR技术和肉眼（人体OCR）来转成现代化的文本格式。目前已经全部完成。
 
@@ -1819,6 +1815,8 @@
 *   [yangyangwithgnu/hanz2piny](https://github.com/yangyangwithgnu/hanz2piny) - hanz2piny is a tool that easy convert chinese hanzi to mandarin pinyin. It fast, no-DB-file, and supports polyphone.
 
 *   [QuiteRSS/quiterss](https://github.com/QuiteRSS/quiterss) - Free news feeds reader
+
+*   [zjccsg/permo](https://github.com/zjccsg/permo) - cpu\memory\net monitor application 性能监控悬浮窗
 
 ## HTML
 
@@ -2321,6 +2319,8 @@
 *   [onplus/shadowsocks-heroku](https://github.com/onplus/shadowsocks-heroku) - 一键部署 Free Shadowsocks-Heroku
 
 *   [FelisCatus/SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega) - Manage and switch between multiple proxies quickly & easily.
+
+*   [Ysheep666/starry](https://github.com/Ysheep666/starry) - starry.so 完成一个故事
 
 ## Pascal
 
