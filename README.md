@@ -1370,6 +1370,8 @@
 
 *   [aizenchou/rsscatch](https://github.com/aizenchou/rsscatch) - 简书、一个等网站RSS生成器
 
+*   [sues-lee/SuesNews](https://github.com/sues-lee/SuesNews) - 一个符合 Google Material Design 的 Android 校园新闻客户端
+
 ## C
 
 *   [cashapp/zipline](https://github.com/cashapp/zipline) - Run Kotlin/JS libraries in Kotlin/JVM and Kotlin/Native programs
@@ -2217,8 +2219,6 @@
 *   [ViennaRSS/vienna-rss](https://github.com/ViennaRSS/vienna-rss) - Vienna is a free and open-source RSS/Atom newsreader for macOS.
 
 *   [ming1016/GCDFetchFeed](https://github.com/ming1016/GCDFetchFeed) - “已阅”新版，RSS阅读器，使用FMDB做存储，ReactiveCocoa处理数据流向
-
-*   [NickYang29/aria2gui](https://github.com/NickYang29/aria2gui) - Aria2GUI for macOS
 
 *   [alibaba/LuaViewSDK](https://github.com/alibaba/LuaViewSDK) - A cross-platform framework to build native, dynamic and swift user interface - 强大轻巧灵活的客户端动态化解决方案
 
