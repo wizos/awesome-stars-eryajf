@@ -294,7 +294,7 @@
 
 ## JavaScript
 
-*   [7Sageer/sublink-worker](https://github.com/7Sageer/sublink-worker) - 无需后端，一键部署，快速将自建节点分享URL转换为订阅链接，提供自定义路由规则，支持SingBox/Clash/V2Ray/Xray
+*   [7Sageer/sublink-worker](https://github.com/7Sageer/sublink-worker) - 无需后端，一键部署，快速将自建节点分享URL转换为订阅链接，提供灵活的自定义路由规则，支持SingBox/Clash/V2Ray/Xray
 
 *   [MapleEve/cohere-tunnel](https://github.com/MapleEve/cohere-tunnel) - 使用 CloudFlare Worker 运行的 Cohere AI 代理 tunnel
 
