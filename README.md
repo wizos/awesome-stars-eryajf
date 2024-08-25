@@ -788,7 +788,7 @@
 
 *   [wbayer/webview-gm](https://github.com/wbayer/webview-gm) - Android library for Greasemonkey-compatible user script support
 
-*   [tawhidmonowar/URLtoPDFConverter](https://github.com/tawhidmonowar/URLtoPDFConverter) - URL to PDF Converter is an open source Android application that allows users to convert any web page into a PDF file.
+*   [tawhidmonowar/WebCapture](https://github.com/tawhidmonowar/WebCapture) - WebCapture is an open source Android application that allows users to convert any web page into a PDF file.
 
 *   [agusibrahim/Android-Web-Inspector](https://github.com/agusibrahim/Android-Web-Inspector) - How to Inspecting Android WebView, Network logs, XHR logs (including url request and parameter) and Element/DOM inspecting
 
