@@ -294,7 +294,7 @@
 
 ## JavaScript
 
-*   [7Sageer/sublink-worker](https://github.com/7Sageer/sublink-worker) - 无需后端，一键部署，快速将自建节点分享URL转换为订阅链接，提供灵活的自定义路由规则，支持SingBox/Clash/V2Ray/Xray
+*   [7Sageer/sublink-worker](https://github.com/7Sageer/sublink-worker) - 一键部署，快速将自建节点分享URL转换为订阅链接，提供灵活的自定义路由规则，支持SingBox/Clash/V2Ray/Xray
 
 *   [MapleEve/cohere-tunnel](https://github.com/MapleEve/cohere-tunnel) - 使用 CloudFlare Worker 运行的 Cohere AI 代理 tunnel
 
@@ -787,6 +787,8 @@
 *   [MegatronKing/NetBare-Android](https://github.com/MegatronKing/NetBare-Android) - Net packets capture & injection library designed for Android
 
 *   [wbayer/webview-gm](https://github.com/wbayer/webview-gm) - Android library for Greasemonkey-compatible user script support
+
+*   [tawhidmonowar/WebCapture](https://github.com/tawhidmonowar/WebCapture) - WebCapture is an open source Android application that allows users to convert any web page into a PDF file.
 
 *   [agusibrahim/Android-Web-Inspector](https://github.com/agusibrahim/Android-Web-Inspector) - How to Inspecting Android WebView, Network logs, XHR logs (including url request and parameter) and Element/DOM inspecting
 
@@ -1821,8 +1823,6 @@
 ## HTML
 
 *   [antonmedv/finder](https://github.com/antonmedv/finder) - CSS Selector Generator 🗺
-
-*   [tawhidmonowar/WebCapture](https://github.com/tawhidmonowar/WebCapture) - WebCapture is an open source Android application that allows users to convert any web page into a PDF file.
 
 *   [damoeb/feedless](https://github.com/damoeb/feedless) - Middleware to create RSS feeds, filter existing feeds and transform them (e.g.  fulltext or media detection)
 
