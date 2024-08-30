@@ -788,8 +788,6 @@
 
 *   [wbayer/webview-gm](https://github.com/wbayer/webview-gm) - Android library for Greasemonkey-compatible user script support
 
-*   [tawhidmonowar/WebCapture](https://github.com/tawhidmonowar/WebCapture) - WebCapture is an open source Android application that allows users to convert any web page into a PDF file.
-
 *   [agusibrahim/Android-Web-Inspector](https://github.com/agusibrahim/Android-Web-Inspector) - How to Inspecting Android WebView, Network logs, XHR logs (including url request and parameter) and Element/DOM inspecting
 
 *   [warenix/Web2PDF](https://github.com/warenix/Web2PDF) -
@@ -1823,6 +1821,8 @@
 ## HTML
 
 *   [antonmedv/finder](https://github.com/antonmedv/finder) - CSS Selector Generator 🗺
+
+*   [tawhidmonowar/WebCapture](https://github.com/tawhidmonowar/WebCapture) - WebCapture is an open source Android application that allows users to convert any web page into a PDF file.
 
 *   [damoeb/feedless](https://github.com/damoeb/feedless) - Middleware to create RSS feeds, filter existing feeds and transform them (e.g.  fulltext)
 
