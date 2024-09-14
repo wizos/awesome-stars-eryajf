@@ -718,7 +718,7 @@
 
 *   [Anxcye/anx-reader](https://github.com/Anxcye/anx-reader) - An e-book reader written using Flutter. 使用Flutter编写的电子书阅读器
 
-*   [TheHCJ/Quacker](https://github.com/TheHCJ/Quacker) - The continuation of fritter with feeds
+*   [harleyjones/Quacker](https://github.com/harleyjones/Quacker) - The continuation of fritter with feeds
 
 *   [hiddify/hiddify-next](https://github.com/hiddify/hiddify-next) - Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.
 
