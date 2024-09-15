@@ -770,7 +770,7 @@
 
 *   [fast4x/RiMusic](https://github.com/fast4x/RiMusic) - A multilingual Android application for streaming music from YouTube Music.
 
-*   [XilinJia/Podcini](https://github.com/XilinJia/Podcini) - Open source podcast instrument for Android in Kotlin with media3, supporting YouTube channels.
+*   [XilinJia/Podcini](https://github.com/XilinJia/Podcini) - Open source podcast instrument for Android in Kotlin with media3, supporting YouTube channels, playlists and single media.
 
 *   [xfhy/MLCChat](https://github.com/xfhy/MLCChat) - 部署大模型到Android设备
 
