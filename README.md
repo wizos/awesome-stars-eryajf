@@ -742,7 +742,7 @@
 
 *   [Anxcye/anx-reader](https://github.com/Anxcye/anx-reader) - An e-book reader written using Flutter. 使用Flutter编写的电子书阅读器
 
-*   [harleyjones/Quacker](https://github.com/harleyjones/Quacker) - The continuation of fritter with feeds
+*   [HarleyJones/Quacker](https://github.com/HarleyJones/Quacker) - The continuation of fritter with feeds
 
 *   [KaringX/karing](https://github.com/KaringX/karing) - Simple & Powerful proxy utility, Support routing rules for clash/sing-box
 
