@@ -740,7 +740,7 @@
 
 *   [lollipopkit/flutter\_gpt\_box](https://github.com/lollipopkit/flutter_gpt_box) - GPTBox - a third-party client for OpenAI API.
 
-*   [Anxcye/anx-reader](https://github.com/Anxcye/anx-reader) - An e-book reader written using Flutter. 使用Flutter编写的电子书阅读器
+*   [Anxcye/anx-reader](https://github.com/Anxcye/anx-reader) - An e-book reader written using Flutter. 使用Flutter编写的电子书阅读器，支持多种格式
 
 *   [HarleyJones/Quacker](https://github.com/HarleyJones/Quacker) - The continuation of fritter with feeds
 
@@ -1144,7 +1144,7 @@
 
 *   [virjar/geoLibChina](https://github.com/virjar/geoLibChina) - 经纬度转省市区县乡镇离线包，采用空间查询算法，速度快(单线程5w次/s)，省市区县100%准确率。
 
-*   [NahidaLing/Coze-Discord-Bridge](https://github.com/NahidaLing/Coze-Discord-Bridge) - 免费接入 GPT4  , DALL-E3 API  , 还提供 Google\&Bing 搜索 , BiliBili搜索 等众多插件
+*   [NekoCurit/Coze-Discord-Bridge](https://github.com/NekoCurit/Coze-Discord-Bridge) - 免费接入 GPT4  , DALL-E3 API  , 还提供 Google\&Bing 搜索 , BiliBili搜索 等众多插件
 
 *   [JeffMony/VideoDownloader](https://github.com/JeffMony/VideoDownloader) - 支持下载队列，支持M3U8视频、MP4视频等，支持M3U8合并为MP4视频。
 
@@ -2084,7 +2084,7 @@
 
 *   [Kyome22/RunCat\_for\_windows](https://github.com/Kyome22/RunCat_for_windows) - A cute running cat animation on your windows taskbar.
 
-*   [files-community/Files](https://github.com/files-community/Files) - Building the best file manager for Windows
+*   [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
 
 *   [BluePointLilac/ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager) - 🖱️ 纯粹的Windows右键菜单管理程序
 
