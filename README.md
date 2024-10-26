@@ -1491,6 +1491,8 @@
 
 *   [xieren58/17qingsong](https://github.com/xieren58/17qingsong) - No longer maintained!
 
+*   [shipengtaov/random-google-ip](https://github.com/shipengtaov/random-google-ip) - Chrome扩展：随机选择一个 Google IP 并打开
+
 ## Dart
 
 *   [Predidit/Kazumi](https://github.com/Predidit/Kazumi) - 基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕。
@@ -1517,7 +1519,7 @@
 
 *   [mabDc/eso](https://github.com/mabDc/eso) - 亦搜，亦看，亦闻  manga\&novel reader, audio\&video player in one app developed by flutter
 
-*   [wanghongenpin/network\_proxy\_flutter](https://github.com/wanghongenpin/network_proxy_flutter) - Open source free capture HTTP(S) traffic  software ProxyPin, supporting full platform systems
+*   [wanghongenpin/proxypin](https://github.com/wanghongenpin/proxypin) - Open source free capture HTTP(S) traffic  software ProxyPin, supporting full platform systems
 
 *   [gvenusleo/MeRead](https://github.com/gvenusleo/MeRead) - A RSS reader built with Flutter and designed with Material You. 简洁、易用的 RSS 阅读器，使用 Flutter 构建和 Material You 设计
 
@@ -1530,8 +1532,6 @@
 *   [tsacdop/tsacdop](https://github.com/tsacdop/tsacdop) - Enjoy podcasts with Tsacdop!  A podcast player built with flutter.
 
 ## PHP
-
-*   [yebekhe/SingBoxer](https://github.com/yebekhe/SingBoxer) - PHP Tool for converting V2ray into Singbox json
 
 *   [scrivo/highlight.php](https://github.com/scrivo/highlight.php) - A port of highlight.js by Ivan Sagalaev to PHP
 
