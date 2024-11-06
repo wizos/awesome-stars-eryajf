@@ -1584,7 +1584,7 @@
 
 ## Jupyter Notebook
 
-*   [elroy93/12306spy](https://github.com/elroy93/12306spy) - 12306查票, 找到一张能上车的票
+*   [e1roy/12306spy](https://github.com/e1roy/12306spy) - 12306查票, 找到一张能上车的票
 
 *   [PRIS-CV/DemoFusion](https://github.com/PRIS-CV/DemoFusion) - Let us democratise high-resolution generation! (CVPR 2024)
 
