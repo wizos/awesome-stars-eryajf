@@ -1656,7 +1656,7 @@
 
 *   [ViennaRSS/vienna-rss](https://github.com/ViennaRSS/vienna-rss) - Vienna is a free and open-source RSS/Atom newsreader for macOS.
 
-*   [ming1016/GCDFetchFeed](https://github.com/ming1016/GCDFetchFeed) - “已阅”新版，RSS阅读器，使用FMDB做存储，ReactiveCocoa处理数据流向
+*   [ming1016/RSSReader](https://github.com/ming1016/RSSReader) - “已阅”新版，RSS阅读器，使用FMDB做存储，ReactiveCocoa处理数据流向
 
 *   [samuelclay/NewsBlur](https://github.com/samuelclay/NewsBlur) - NewsBlur is a personal news reader that brings people together to talk about the world. A new sound of an old instrument.
 
