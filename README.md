@@ -18,6 +18,7 @@
 
 ## Table of Contents
 
+*   [Rust](#rust)
 *   [TypeScript](#typescript)
 *   [Python](#python)
 *   [Go](#go)
@@ -34,7 +35,6 @@
 *   [C++](#c-1)
 *   [Julia](#julia)
 *   [C#](#c-2)
-*   [Rust](#rust)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [Lua](#lua)
 *   [Zig](#zig)
@@ -59,6 +59,26 @@
 *   [AppleScript](#applescript)
 *   [Scheme](#scheme)
 *   [Thanks](#thanks)
+
+## Rust
+
+*   [0xlane/wechat-dump-rs](https://github.com/0xlane/wechat-dump-rs) - 该工具用于导出正在运行中的微信进程的 key 并自动解密所有微信数据库文件以及导出 key 后数据库文件离线解密。
+
+*   [shadowsocks/shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust) - A Rust port of shadowsocks
+
+*   [e1732a364fed/ruci](https://github.com/e1732a364fed/ruci) - a proxy framework
+
+*   [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
+
+*   [Chaoses-Ib/IbPinyinLib](https://github.com/Chaoses-Ib/IbPinyinLib) - 一个高性能 Rust 拼音匹配库，支持 C、AHK2
+
+*   [kihlh/WxDatViewerAutoExportRust](https://github.com/kihlh/WxDatViewerAutoExportRust) - (WxAutoExIm) 自动备份wx聊天图片到指定位置
+
+*   [YtFlow/YtFlowCore](https://github.com/YtFlow/YtFlowCore) - A modern proxy framework, core of YtFlow.
+
+*   [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
+
+*   [eycorsican/leaf](https://github.com/eycorsican/leaf) - A versatile and efficient proxy framework with nice features suitable for various use cases.
 
 ## TypeScript
 
@@ -404,7 +424,7 @@
 
 ## Java
 
-*   [qaiu/netdisk-fast-download](https://github.com/qaiu/netdisk-fast-download) - 各类网盘直链解析, 已支持蓝奏云/奶牛快传/移动云云空间/QQ邮箱中转站/小飞机盘/亿方云/123云盘等. 预览地址 https://lz.qaiu.top
+*   [qaiu/netdisk-fast-download](https://github.com/qaiu/netdisk-fast-download) - 各类网盘直链解析, 已支持蓝奏云/奶牛快传/移动云云空间/QQ邮箱中转站/小飞机盘/亿方云/123云盘等. 体验地址: https://lz.qaiu.top
 
 *   [CzBiX/peanut-link](https://github.com/CzBiX/peanut-link) - 第三方花生地铁 WiFi Android 客户端，逆向其 Android 客户端 v2.0.21 得出协议格式。
 
@@ -753,8 +773,6 @@
 *   [maoruibin/TranslateApp](https://github.com/maoruibin/TranslateApp) - :memo: A translations app without interruptions, copy words and translate directly, show result by top view.
 
 *   [greenrobot/EventBus](https://github.com/greenrobot/EventBus) - Event bus for Android and Java that simplifies communication between Activities, Fragments, Threads, Services, etc. Less code, better quality.
-
-*   [MummyDing/Leisure](https://github.com/MummyDing/Leisure) - Leisure is an Android App containing Zhihu Daily,Guokr Scientific,XinhuaNet News and Douban Books
 
 ## HTML
 
@@ -1583,24 +1601,6 @@
 *   [shadowsocks/shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) - A C# port of shadowsocks
 
 *   [kenvix/USBCopyer](https://github.com/kenvix/USBCopyer) - 😉 用于在插上U盘后自动按需复制该U盘的文件。”备份&偷U盘文件的神器”（写作USBCopyer，读作USBCopier）
-
-## Rust
-
-*   [shadowsocks/shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust) - A Rust port of shadowsocks
-
-*   [e1732a364fed/ruci](https://github.com/e1732a364fed/ruci) - a proxy framework
-
-*   [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
-
-*   [Chaoses-Ib/IbPinyinLib](https://github.com/Chaoses-Ib/IbPinyinLib) - 一个高性能 Rust 拼音匹配库，支持 C、AHK2
-
-*   [kihlh/WxDatViewerAutoExportRust](https://github.com/kihlh/WxDatViewerAutoExportRust) - (WxAutoExIm) 自动备份wx聊天图片到指定位置
-
-*   [YtFlow/YtFlowCore](https://github.com/YtFlow/YtFlowCore) - A modern proxy framework, core of YtFlow.
-
-*   [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
-
-*   [eycorsican/leaf](https://github.com/eycorsican/leaf) - A versatile and efficient proxy framework with nice features suitable for various use cases.
 
 ## Jupyter Notebook
 
