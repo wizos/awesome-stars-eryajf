@@ -18,23 +18,23 @@
 
 ## Table of Contents
 
+*   [Dart](#dart)
+*   [C#](#c)
+*   [TypeScript](#typescript)
 *   [miscellaneous](#miscellaneous)
 *   [Rust](#rust)
 *   [Kotlin](#kotlin)
 *   [Shell](#shell)
-*   [TypeScript](#typescript)
 *   [Python](#python)
 *   [Go](#go)
 *   [Java](#java)
 *   [HTML](#html)
-*   [Dart](#dart)
 *   [JavaScript](#javascript)
 *   [PHP](#php)
 *   [Vue](#vue)
-*   [C](#c)
-*   [C++](#c-1)
+*   [C](#c-1)
+*   [C++](#c-2)
 *   [Julia](#julia)
-*   [C#](#c-2)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [Lua](#lua)
 *   [Zig](#zig)
@@ -59,6 +59,162 @@
 *   [AppleScript](#applescript)
 *   [Scheme](#scheme)
 *   [Thanks](#thanks)
+
+## Dart
+
+*   [j-fbriere/squawker](https://github.com/j-fbriere/squawker) - An open-source privacy oriented Twitter/X client
+
+*   [ys1231/appproxy](https://github.com/ys1231/appproxy) - 基于flutter的Android vpn代理工具 Android VPN Proxy Tool Based on Flutter
+
+*   [Predidit/Kazumi](https://github.com/Predidit/Kazumi) - 基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕。
+
+*   [Sanmeet007/logger](https://github.com/Sanmeet007/logger) - Logger is a Flutter-based Android app that enables you to view and export call logs in CSV or JSON format and perform lightweight on-device analysis.
+
+*   [chen08209/FlClash](https://github.com/chen08209/FlClash) - A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
+
+*   [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
+
+*   [lollipopkit/flutter\_gpt\_box](https://github.com/lollipopkit/flutter_gpt_box) - GPTBox - a third-party client for OpenAI API.
+
+*   [Anxcye/anx-reader](https://github.com/Anxcye/anx-reader) - An e-book reader written using Flutter. 使用Flutter编写的电子书阅读器，支持多种格式
+
+*   [TheHCJ/Quacker](https://github.com/TheHCJ/Quacker) - The continuation of fritter with feeds
+
+*   [KaringX/karing](https://github.com/KaringX/karing) - Simple & Powerful proxy utility, Support routing rules for clash/sing-box
+
+*   [hiddify/hiddify-app](https://github.com/hiddify/hiddify-app) - Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.
+
+*   [Kaiteki-Fedi/Kaiteki](https://github.com/Kaiteki-Fedi/Kaiteki) - The comfy SNS client for everything, everywhere
+
+*   [miru-project/miru-app](https://github.com/miru-project/miru-app) - 🎉 A versatile application that is free, open-source, and supports extension sources for videos, comics, and novels, available on Android, Windows, and Web platforms.
+
+*   [mabDc/eso](https://github.com/mabDc/eso) - 亦搜，亦看，亦闻  manga\&novel reader, audio\&video player in one app developed by flutter
+
+*   [wanghongenpin/proxypin](https://github.com/wanghongenpin/proxypin) - Open source free capture HTTP(S) traffic  software ProxyPin, supporting full platform systems
+
+*   [gvenusleo/MeRead](https://github.com/gvenusleo/MeRead) - A RSS reader built with Flutter and designed with Material You. 简洁、易用的 RSS 阅读器，使用 Flutter 构建和 Material You 设计
+
+*   [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
+
+*   [marchellodev/sharik](https://github.com/marchellodev/sharik) - Sharik is an open-source, cross-platform solution for sharing files via Wi-Fi or Mobile Hotspot
+
+*   [yang991178/fluent-reader-lite](https://github.com/yang991178/fluent-reader-lite) - Simplistic mobile RSS client built with Flutter
+
+*   [tsacdop/tsacdop](https://github.com/tsacdop/tsacdop) - Enjoy podcasts with Tsacdop!  A podcast player built with flutter.
+
+## C\#
+
+*   [LagrangeDev/Lagrange.Core](https://github.com/LagrangeDev/Lagrange.Core) - An Implementation of NTQQ Protocol, with Pure C#, Derived from Konata.Core
+
+*   [Jackett/Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers
+
+*   [vpnhood/VpnHood](https://github.com/vpnhood/VpnHood) - Undetectable Fast Portable VPN
+
+*   [Clean-Reader/CleanReader.Desktop](https://github.com/Clean-Reader/CleanReader.Desktop) - 使用 Windows App SDK 构建的桌面版干净阅读
+
+*   [stratumauth/app](https://github.com/stratumauth/app) - 📱 Two-Factor Authentication (2FA) client for Android + Wear OS
+
+*   [Kyome22/RunCat\_for\_windows](https://github.com/Kyome22/RunCat_for_windows) - A cute running cat animation on your windows taskbar.
+
+*   [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
+
+*   [BluePointLilac/ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager) - 🖱️ 纯粹的Windows右键菜单管理程序
+
+*   [huiyadanli/RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher) - :trollface: A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）
+
+*   [magicdmer/M3U8-Downloader](https://github.com/magicdmer/M3U8-Downloader) - m3u8 downloader
+
+*   [netchx/netch](https://github.com/netchx/netch) - A simple proxy client
+
+*   [HMBSbige/ShadowsocksR-Windows](https://github.com/HMBSbige/ShadowsocksR-Windows) - Ship of Theseus
+
+*   [bitbeans/SimpleDnsCrypt](https://github.com/bitbeans/SimpleDnsCrypt) - A simple management tool for dnscrypt-proxy
+
+*   [stanzhai/Html2Article](https://github.com/stanzhai/Html2Article) - Html网页正文提取
+
+*   [GangZhuo/kcptun-gui-windows](https://github.com/GangZhuo/kcptun-gui-windows) - GUI for kcptun (https://github.com/xtaci/kcptun). (Need .NET framework 4.5)
+
+*   [shadowsocks/shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) - A C# port of shadowsocks
+
+*   [kenvix/USBCopyer](https://github.com/kenvix/USBCopyer) - 😉 用于在插上U盘后自动按需复制该U盘的文件。”备份&偷U盘文件的神器”（写作USBCopyer，读作USBCopier）
+
+## TypeScript
+
+*   [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Azure /  DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT/ Claude application.
+
+*   [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - Continuation of Clash Verge - A Clash Meta GUI based on Tauri (Windows, MacOS, Linux)
+
+*   [LLM-Red-Team/kimi-free-api](https://github.com/LLM-Red-Team/kimi-free-api) - 🚀 KIMI AI 长文本大模型逆向API白嫖测试【特长：长文本解读整理】，支持高速流式输出、智能体对话、联网搜索、长文档解读、图像OCR、多轮对话，零配置部署，多路token支持，自动清理会话痕迹。
+
+*   [caorushizi/mediago](https://github.com/caorushizi/mediago) - m3u8\[m3u8-downloader] 视频在线提取工具 流媒体下载 、视频下载 、 m3u8下载 、 B站视频下载 桌面客户端 windows mac
+
+*   [lisonge/vite-plugin-monkey](https://github.com/lisonge/vite-plugin-monkey) - A vite plugin server and build your.user.js for userscript engine like Tampermonkey, Violentmonkey, Greasemonkey, ScriptCat
+
+*   [1653756334/claude-imitate](https://github.com/1653756334/claude-imitate) - 模仿 claude 界面的一个网站，对claude进行仿写
+
+*   [idootop/mi-gpt](https://github.com/idootop/mi-gpt) - 🏠 将小爱音箱接入 ChatGPT 和豆包，改造成你的专属语音助手。
+
+*   [AIsouler/GKD\_subscription](https://github.com/AIsouler/GKD_subscription) - GKD 第三方订阅规则
+
+*   [zuisong/gemini-openai-proxy](https://github.com/zuisong/gemini-openai-proxy) - OpenAI to Google Gemini         https://gemini-openai-proxy.deno.dev
+
+*   [Jazee6/cloudflare-ai-web](https://github.com/Jazee6/cloudflare-ai-web) - 支持Gemini Pro / Cloudflare Workers AI / ChatGPT的融合Web平台
+
+*   [ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english) - 人人都能用英语
+
+*   [smol-ai/GodMode](https://github.com/smol-ai/GodMode) - AI Chat Browser: Fast, Full webapp access to ChatGPT / Claude / Bard / Bing / Llama2! I use this 20 times a day.
+
+*   [AdguardTeam/ExtendedCss](https://github.com/AdguardTeam/ExtendedCss) - A TypeScript library for non-standard element selecting — :contains(), :matches-css(), etc., and applying CSS styles with extended properties.
+
+*   [noghartt/youtube-rss](https://github.com/noghartt/youtube-rss) - A simple web tool to get the RSS feed link from a YouTube channel
+
+*   [zzzgydi/clash-verge](https://github.com/zzzgydi/clash-verge) - A Clash GUI based on tauri. Supports Windows, macOS and Linux.
+
+*   [justjavac/zhihu-trending-hot-questions](https://github.com/justjavac/zhihu-trending-hot-questions) - 知乎热门话题，记录从 2020-11-24 日开始的知乎热门话题。每小时抓取一次数据，按天归档。
+
+*   [justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search) - 知乎热搜榜，记录从 2020-11-24 日开始的知乎热搜榜单。每小时抓取一次数据，按天归档。
+
+*   [jehna/mastofeeder](https://github.com/jehna/mastofeeder) - RSS to ActivityPub bridge
+
+*   [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。
+
+*   [codebdy/rxdrag](https://github.com/codebdy/rxdrag) - Design anything based on HTML, 可视化编辑， 带逻辑引擎的低代码前端。
+
+*   [ourongxing/chatgpt-vercel](https://github.com/ourongxing/chatgpt-vercel) - Elegant and Powerfull. Powered by OpenAI and Vercel.
+
+*   [zu1k/bs-core](https://github.com/zu1k/bs-core) - Easy and blazing-fast book searcher, create and search your private library.
+
+*   [VideoRoll/VideoRoll](https://github.com/VideoRoll/VideoRoll) - 📺All-in-One browser extension to enhance your video watching experience.
+
+*   [visiky/resume](https://github.com/visiky/resume) - 🚀 在线简历生成器
+
+*   [alexdevero/rss-finder-web-app](https://github.com/alexdevero/rss-finder-web-app) - Web app to help you find URLs for existing RSS feeds from website URLs.
+
+*   [nojsja/shadowsocks-electron](https://github.com/nojsja/shadowsocks-electron) - Shadowsocks GUI application made for Ubuntu / Mac / Win users and powered by Electron.
+
+*   [Tencent/vConsole](https://github.com/Tencent/vConsole) - A lightweight, extendable front-end developer tool for mobile web page.
+
+*   [haishanh/feedo](https://github.com/haishanh/feedo) - A Next.js app that provides RSS feeds for some sites that I enjoyed
+
+*   [hewenguang/circle](https://github.com/hewenguang/circle) - 让网页赏心悦目、让阅读回归初心。Circle 阅读模式提供更隐私、更轻松、更舒适的网页阅读体验
+
+*   [actionsflow/actionsflow](https://github.com/actionsflow/actionsflow) - The free Zapier/IFTTT alternative for developers to automate your workflows based on Github actions
+
+*   [damoeb/rss-proxy](https://github.com/damoeb/rss-proxy) - RSS-proxy allows you to do create an RSS or ATOM feed of almost any website, just by analyzing just the static HTML structure.
+
+*   [wenyan-lang/wenyan](https://github.com/wenyan-lang/wenyan) - 文言文編程語言 A programming language for the ancient Chinese.
+
+*   [FirefoxBar/HeaderEditor](https://github.com/FirefoxBar/HeaderEditor) - Manage browser's requests, include modify the request headers and response headers, redirect requests, cancel requests
+
+*   [loadchange/gwm](https://github.com/loadchange/gwm) - 🍭gwm.js Generate Watermark  用于生成网页水印，警示信息安全与责任追踪。
+
+*   [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
+
+*   [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket:A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder
+
+*   [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
+
+*   [zgq354/weibo-rss](https://github.com/zgq354/weibo-rss) - 🍰 把某人最近的微博转为 RSS 订阅源
 
 ## miscellaneous
 
@@ -200,8 +356,6 @@
 
 *   [kakuilan/china\_area\_mysql](https://github.com/kakuilan/china_area_mysql) - 中国5级行政区域mysql库
 
-*   [JMQCode/iBooks](https://github.com/JMQCode/iBooks) - android平台的电子阅读器，在Google Play下载量50W＋，不过因为账号封号了，所以这里把他开源出来
-
 ## Rust
 
 *   [sigoden/proxyfor](https://github.com/sigoden/proxyfor) - A proxy CLI for capturing HTTP(S) & WS(S) Traffic.
@@ -342,7 +496,7 @@
 
 *   [xxfast/NYTimes-KMP](https://github.com/xxfast/NYTimes-KMP) - A KMP template of the New York Times App using Compose multiplatform for Android, Desktop, iOS and Web
 
-*   [SkyD666/Rays-Android](https://github.com/SkyD666/Rays-Android) - 🥰 A tool to record, search and manage stickers on your phone. ⭐️ Star to support our work!
+*   [SkyD666/Rays-Android](https://github.com/SkyD666/Rays-Android) - 🥰 A tool to record, search and manage stickers / meme on your phone. ⭐️ Star to support our work!
 
 *   [onebone/compose-collapsing-toolbar](https://github.com/onebone/compose-collapsing-toolbar) - A simple implementation of collapsing toolbar for Jetpack Compose
 
@@ -467,82 +621,6 @@
 *   [shengxinjing/programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist) - :see\_no\_evil:程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞
 
 *   [mba811/gitdisk](https://github.com/mba811/gitdisk) - GitDisk：基于Git的网盘式文件同步软件
-
-## TypeScript
-
-*   [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - Continuation of Clash Verge - A Clash Meta GUI based on Tauri (Windows, MacOS, Linux)
-
-*   [LLM-Red-Team/kimi-free-api](https://github.com/LLM-Red-Team/kimi-free-api) - 🚀 KIMI AI 长文本大模型逆向API白嫖测试【特长：长文本解读整理】，支持高速流式输出、智能体对话、联网搜索、长文档解读、图像OCR、多轮对话，零配置部署，多路token支持，自动清理会话痕迹。
-
-*   [caorushizi/mediago](https://github.com/caorushizi/mediago) - m3u8\[m3u8-downloader] 视频在线提取工具 流媒体下载 、视频下载 、 m3u8下载 、 B站视频下载 桌面客户端 windows mac
-
-*   [lisonge/vite-plugin-monkey](https://github.com/lisonge/vite-plugin-monkey) - A vite plugin server and build your.user.js for userscript engine like Tampermonkey, Violentmonkey, Greasemonkey, ScriptCat
-
-*   [1653756334/claude-imitate](https://github.com/1653756334/claude-imitate) - 模仿 claude 界面的一个网站，对claude进行仿写
-
-*   [idootop/mi-gpt](https://github.com/idootop/mi-gpt) - 🏠 将小爱音箱接入 ChatGPT 和豆包，改造成你的专属语音助手。
-
-*   [AIsouler/GKD\_subscription](https://github.com/AIsouler/GKD_subscription) - GKD 第三方订阅规则
-
-*   [zuisong/gemini-openai-proxy](https://github.com/zuisong/gemini-openai-proxy) - OpenAI to Google Gemini         https://gemini-openai-proxy.deno.dev
-
-*   [Jazee6/cloudflare-ai-web](https://github.com/Jazee6/cloudflare-ai-web) - 支持Gemini Pro / Cloudflare Workers AI / ChatGPT的融合Web平台
-
-*   [ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english) - 人人都能用英语
-
-*   [smol-ai/GodMode](https://github.com/smol-ai/GodMode) - AI Chat Browser: Fast, Full webapp access to ChatGPT / Claude / Bard / Bing / Llama2! I use this 20 times a day.
-
-*   [AdguardTeam/ExtendedCss](https://github.com/AdguardTeam/ExtendedCss) - A TypeScript library for non-standard element selecting — :contains(), :matches-css(), etc., and applying CSS styles with extended properties.
-
-*   [noghartt/youtube-rss](https://github.com/noghartt/youtube-rss) - A simple web tool to get the RSS feed link from a YouTube channel
-
-*   [zzzgydi/clash-verge](https://github.com/zzzgydi/clash-verge) - A Clash GUI based on tauri. Supports Windows, macOS and Linux.
-
-*   [justjavac/zhihu-trending-hot-questions](https://github.com/justjavac/zhihu-trending-hot-questions) - 知乎热门话题，记录从 2020-11-24 日开始的知乎热门话题。每小时抓取一次数据，按天归档。
-
-*   [justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search) - 知乎热搜榜，记录从 2020-11-24 日开始的知乎热搜榜单。每小时抓取一次数据，按天归档。
-
-*   [jehna/mastofeeder](https://github.com/jehna/mastofeeder) - RSS to ActivityPub bridge
-
-*   [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。
-
-*   [codebdy/rxdrag](https://github.com/codebdy/rxdrag) - Design anything based on HTML, 可视化编辑， 带逻辑引擎的低代码前端。
-
-*   [ourongxing/chatgpt-vercel](https://github.com/ourongxing/chatgpt-vercel) - Elegant and Powerfull. Powered by OpenAI and Vercel.
-
-*   [zu1k/bs-core](https://github.com/zu1k/bs-core) - Easy and blazing-fast book searcher, create and search your private library.
-
-*   [VideoRoll/VideoRoll](https://github.com/VideoRoll/VideoRoll) - 📺All-in-One browser extension to enhance your video watching experience.
-
-*   [visiky/resume](https://github.com/visiky/resume) - 🚀 在线简历生成器
-
-*   [alexdevero/rss-finder-web-app](https://github.com/alexdevero/rss-finder-web-app) - Web app to help you find URLs for existing RSS feeds from website URLs.
-
-*   [nojsja/shadowsocks-electron](https://github.com/nojsja/shadowsocks-electron) - Shadowsocks GUI application made for Ubuntu / Mac / Win users and powered by Electron.
-
-*   [Tencent/vConsole](https://github.com/Tencent/vConsole) - A lightweight, extendable front-end developer tool for mobile web page.
-
-*   [haishanh/feedo](https://github.com/haishanh/feedo) - A Next.js app that provides RSS feeds for some sites that I enjoyed
-
-*   [hewenguang/circle](https://github.com/hewenguang/circle) - 让网页赏心悦目、让阅读回归初心。Circle 阅读模式提供更隐私、更轻松、更舒适的网页阅读体验
-
-*   [actionsflow/actionsflow](https://github.com/actionsflow/actionsflow) - The free Zapier/IFTTT alternative for developers to automate your workflows based on Github actions
-
-*   [damoeb/rss-proxy](https://github.com/damoeb/rss-proxy) - RSS-proxy allows you to do create an RSS or ATOM feed of almost any website, just by analyzing just the static HTML structure.
-
-*   [wenyan-lang/wenyan](https://github.com/wenyan-lang/wenyan) - 文言文編程語言 A programming language for the ancient Chinese.
-
-*   [FirefoxBar/HeaderEditor](https://github.com/FirefoxBar/HeaderEditor) - Manage browser's requests, include modify the request headers and response headers, redirect requests, cancel requests
-
-*   [loadchange/gwm](https://github.com/loadchange/gwm) - 🍭gwm.js Generate Watermark  用于生成网页水印，警示信息安全与责任追踪。
-
-*   [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
-
-*   [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket:A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder
-
-*   [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
-
-*   [zgq354/weibo-rss](https://github.com/zgq354/weibo-rss) - 🍰 把某人最近的微博转为 RSS 订阅源
 
 ## Python
 
@@ -1156,8 +1234,6 @@
 
 *   [noinnion/newsplus](https://github.com/noinnion/newsplus) - News+ is a simple, fast and intuitive feed/rss reader for Android, featuring beautiful themes, podcast support and full offline support.
 
-*   [mxn21/FlowingDrawer](https://github.com/mxn21/FlowingDrawer) - swipe display drawer with flowing & bouncing effects.
-
 ## HTML
 
 *   [iOS17/Jailbreak](https://github.com/iOS17/Jailbreak) - iOS 17 - iOS 17.7  & iOS 18.1 Jailbreak Tools, Cydia/Sileo/Zebra Tweaks & Jailbreak Related News Updates ||  AI Jailbreak Finder 👇👇
@@ -1187,46 +1263,6 @@
 *   [sofish/typo.css](https://github.com/sofish/typo.css) - 中文网页重设与排版：一致化浏览器排版效果，构建最适合中文阅读的网页排版
 
 *   [fossar/selfoss](https://github.com/fossar/selfoss) - multipurpose rss reader, live stream, mashup, aggregation web application
-
-## Dart
-
-*   [ys1231/appproxy](https://github.com/ys1231/appproxy) - 基于flutter的Android vpn代理工具 Android VPN Proxy Tool Based on Flutter
-
-*   [Predidit/Kazumi](https://github.com/Predidit/Kazumi) - 基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕。
-
-*   [Sanmeet007/logger](https://github.com/Sanmeet007/logger) - Logger is a Flutter-based Android app that enables you to view and export call logs in CSV or JSON format and perform lightweight on-device analysis.
-
-*   [chen08209/FlClash](https://github.com/chen08209/FlClash) - A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
-
-*   [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
-
-*   [lollipopkit/flutter\_gpt\_box](https://github.com/lollipopkit/flutter_gpt_box) - GPTBox - a third-party client for OpenAI API.
-
-*   [Anxcye/anx-reader](https://github.com/Anxcye/anx-reader) - An e-book reader written using Flutter. 使用Flutter编写的电子书阅读器，支持多种格式
-
-*   [TheHCJ/Quacker](https://github.com/TheHCJ/Quacker) - The continuation of fritter with feeds
-
-*   [KaringX/karing](https://github.com/KaringX/karing) - Simple & Powerful proxy utility, Support routing rules for clash/sing-box
-
-*   [hiddify/hiddify-app](https://github.com/hiddify/hiddify-app) - Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.
-
-*   [Kaiteki-Fedi/Kaiteki](https://github.com/Kaiteki-Fedi/Kaiteki) - The comfy SNS client for everything, everywhere
-
-*   [miru-project/miru-app](https://github.com/miru-project/miru-app) - 🎉 A versatile application that is free, open-source, and supports extension sources for videos, comics, and novels, available on Android, Windows, and Web platforms.
-
-*   [mabDc/eso](https://github.com/mabDc/eso) - 亦搜，亦看，亦闻  manga\&novel reader, audio\&video player in one app developed by flutter
-
-*   [wanghongenpin/proxypin](https://github.com/wanghongenpin/proxypin) - Open source free capture HTTP(S) traffic  software ProxyPin, supporting full platform systems
-
-*   [gvenusleo/MeRead](https://github.com/gvenusleo/MeRead) - A RSS reader built with Flutter and designed with Material You. 简洁、易用的 RSS 阅读器，使用 Flutter 构建和 Material You 设计
-
-*   [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
-
-*   [marchellodev/sharik](https://github.com/marchellodev/sharik) - Sharik is an open-source, cross-platform solution for sharing files via Wi-Fi or Mobile Hotspot
-
-*   [yang991178/fluent-reader-lite](https://github.com/yang991178/fluent-reader-lite) - Simplistic mobile RSS client built with Flutter
-
-*   [tsacdop/tsacdop](https://github.com/tsacdop/tsacdop) - Enjoy podcasts with Tsacdop!  A podcast player built with flutter.
 
 ## JavaScript
 
@@ -1359,8 +1395,6 @@
 *   [rptec/rpvideo](https://github.com/rptec/rpvideo) - （注：重心转移，这个我已经停更4年多了，发现还有人star...）v.rpsofts.com源码，国内视频网站解析，会员破解（部分站点近期更新解析算法，已不支持youku等会员视频），去广告。。你可以利用api自己做视频站，，同时api也可以适用于各主流电影cms站。
 
 *   [breakwa11/gfw\_whitelist](https://github.com/breakwa11/gfw_whitelist) - gfw\_whitelist
-
-*   [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 
 ## PHP
 
@@ -1569,40 +1603,6 @@
 ## Julia
 
 *   [nealmckee/penumbra](https://github.com/nealmckee/penumbra) - Penumbra Color Theme
-
-## C\#
-
-*   [Jackett/Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers
-
-*   [vpnhood/VpnHood](https://github.com/vpnhood/VpnHood) - Undetectable Fast Portable VPN
-
-*   [Clean-Reader/CleanReader.Desktop](https://github.com/Clean-Reader/CleanReader.Desktop) - 使用 Windows App SDK 构建的桌面版干净阅读
-
-*   [stratumauth/app](https://github.com/stratumauth/app) - 📱 Two-Factor Authentication (2FA) client for Android + Wear OS
-
-*   [Kyome22/RunCat\_for\_windows](https://github.com/Kyome22/RunCat_for_windows) - A cute running cat animation on your windows taskbar.
-
-*   [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
-
-*   [BluePointLilac/ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager) - 🖱️ 纯粹的Windows右键菜单管理程序
-
-*   [huiyadanli/RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher) - :trollface: A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）
-
-*   [magicdmer/M3U8-Downloader](https://github.com/magicdmer/M3U8-Downloader) - m3u8 downloader
-
-*   [netchx/netch](https://github.com/netchx/netch) - A simple proxy client
-
-*   [HMBSbige/ShadowsocksR-Windows](https://github.com/HMBSbige/ShadowsocksR-Windows) - Ship of Theseus
-
-*   [bitbeans/SimpleDnsCrypt](https://github.com/bitbeans/SimpleDnsCrypt) - A simple management tool for dnscrypt-proxy
-
-*   [stanzhai/Html2Article](https://github.com/stanzhai/Html2Article) - Html网页正文提取
-
-*   [GangZhuo/kcptun-gui-windows](https://github.com/GangZhuo/kcptun-gui-windows) - GUI for kcptun (https://github.com/xtaci/kcptun). (Need .NET framework 4.5)
-
-*   [shadowsocks/shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) - A C# port of shadowsocks
-
-*   [kenvix/USBCopyer](https://github.com/kenvix/USBCopyer) - 😉 用于在插上U盘后自动按需复制该U盘的文件。”备份&偷U盘文件的神器”（写作USBCopyer，读作USBCopier）
 
 ## Jupyter Notebook
 
