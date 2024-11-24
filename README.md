@@ -18,6 +18,7 @@
 
 ## Table of Contents
 
+*   [VBScript](#vbscript)
 *   [Swift](#swift)
 *   [Java](#java)
 *   [Ruby](#ruby)
@@ -59,6 +60,10 @@
 *   [AppleScript](#applescript)
 *   [Scheme](#scheme)
 *   [Thanks](#thanks)
+
+## VBScript
+
+*   [ethanZhang722/idea-Ultimate](https://github.com/ethanZhang722/idea-Ultimate) - idea-Ultimate 商用版破解
 
 ## Swift
 
@@ -646,8 +651,6 @@
 
 *   [wordpress-mobile/WordPress-Android](https://github.com/wordpress-mobile/WordPress-Android) - WordPress for Android
 
-*   [shadowsocks/shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android) - A shadowsocks client for Android
-
 ## TypeScript
 
 *   [aigem/CFr2-webdav](https://github.com/aigem/CFr2-webdav) - 使用 Cloudflare Workers 和 R2 实现了一个兼容 WebDAV 的服务器
@@ -790,7 +793,7 @@
 
 *   [Anxcye/anx-reader](https://github.com/Anxcye/anx-reader) - An e-book reader written using Flutter. 使用Flutter编写的电子书阅读器，支持多种格式
 
-*   [TheHCJ/Quacker](https://github.com/TheHCJ/Quacker) - The continuation of fritter with feeds
+*   [QuackerApp/Quacker](https://github.com/QuackerApp/Quacker) - The continuation of fritter with feeds
 
 *   [KaringX/karing](https://github.com/KaringX/karing) - Simple & Powerful proxy utility, Support routing rules for clash/sing-box
 
