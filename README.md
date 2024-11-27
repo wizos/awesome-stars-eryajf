@@ -121,7 +121,7 @@
 
 *   [JingMatrix/LSPosed](https://github.com/JingMatrix/LSPosed) - LSPosed Framework resuscitated
 
-*   [re-zero001/LSPosed-Irena](https://github.com/re-zero001/LSPosed-Irena) - LSPosed Framework
+*   [re-zero001/LSPosed-Irena](https://github.com/re-zero001/LSPosed-Irena) - Useless LSPosed Framework Fork
 
 *   [webdev-support/chrome\_content\_shell](https://github.com/webdev-support/chrome_content_shell) -
 
