@@ -925,7 +925,7 @@
 
 *   [fengzhizi715/RxCache](https://github.com/fengzhizi715/RxCache) - A local reactive cache for Java and Android. Now, it supports heap memory、off-heap memory and disk cache.
 
-*   [SPLWare/esProc](https://github.com/SPLWare/esProc) - esProc SPL is a scripting language for data processing, with well-designed rich library functions and powerful syntax, which can be executed in a Java program through JDBC interface and computing independently.
+*   [SPLWare/esProc](https://github.com/SPLWare/esProc) - esProc SPL is a pure Java developed software that can serve as a programming language for data analysis, a middleware for report data preparation, and an efficient big data computing engine.
 
 *   [lizhangqu/cronet](https://github.com/lizhangqu/cronet) - cronet is a framework that using chromium net to send network request for android
 
@@ -1311,7 +1311,7 @@
 
 *   [shadowsocks/shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust) - A Rust port of shadowsocks
 
-*   [e1732a364fed/ruci](https://github.com/e1732a364fed/ruci) - a proxy framework
+*   [e1732a364fed/ruci](https://github.com/e1732a364fed/ruci) - a flexible proxy framework written in rust
 
 *   [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 
