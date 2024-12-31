@@ -18,6 +18,7 @@
 
 ## Table of Contents
 
+*   [C](#c)
 *   [Vue](#vue)
 *   [Rust](#rust)
 *   [Python](#python)
@@ -26,7 +27,6 @@
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [Kotlin](#kotlin)
 *   [miscellaneous](#miscellaneous)
-*   [C](#c)
 *   [Java](#java)
 *   [Dart](#dart)
 *   [Shell](#shell)
@@ -58,6 +58,58 @@
 *   [Lex](#lex)
 *   [AppleScript](#applescript)
 *   [Thanks](#thanks)
+
+## C
+
+*   [nicbarker/clay](https://github.com/nicbarker/clay) - High performance UI layout library in C.
+
+*   [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) - Build your own AI friend
+
+*   [cashapp/zipline](https://github.com/cashapp/zipline) - Run Kotlin/JS libraries in Kotlin/JVM and Kotlin/Native programs
+
+*   [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
+
+*   [brunodev85/winlator](https://github.com/brunodev85/winlator) - Android application for running Windows applications with Wine and Box86/Box64
+
+*   [BillyWei01/FastAES](https://github.com/BillyWei01/FastAES) - 比SDK快10倍的AES加解密实现。
+
+*   [schwabe/ics-openvpn](https://github.com/schwabe/ics-openvpn) - OpenVPN for Android
+
+*   [gojue/ecapture](https://github.com/gojue/ecapture) - Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels for amd64/arm64.
+
+*   [heiher/hev-socks5-server](https://github.com/heiher/hev-socks5-server) - A socks5 server for Unix (Linux/Android/BSD/macOS/iOS)
+
+*   [heiher/hev-socks5-tunnel](https://github.com/heiher/hev-socks5-tunnel) - A tun2socks for Linux/Android/FreeBSD/macOS/iOS/WSL2 (IPv4/IPv6/TCP/UDP)
+
+*   [AnonymousAAArdvark/qi](https://github.com/AnonymousAAArdvark/qi) - Lightweight and fast programming language designed to be written in Chinese.
+
+*   [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake's main development repository
+
+*   [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - This project aims to enhance the working environment on Windows
+
+*   [Awesome-HarmonyOS/HarmonyOS](https://github.com/Awesome-HarmonyOS/HarmonyOS) - A curated list of awesome things related to HarmonyOS. 华为鸿蒙操作系统。
+
+*   [AdAway/AdAway](https://github.com/AdAway/AdAway) - AdAway is a free and open source ad blocker for Android.
+
+*   [wudicgi/SpleeterMsvcExe](https://github.com/wudicgi/SpleeterMsvcExe) - Windows command line program for Spleeter, pure C, no Python. GUI: https://github.com/wudicgi/SpleeterGui | Spleeter 的 Windows 命令行程序，纯 C 语言编写，无需 Python.
+
+*   [XTLS/badvpn](https://github.com/XTLS/badvpn) - NCD scripting language, tun2socks proxifier, P2P VPN
+
+*   [bndeff/socksdroid](https://github.com/bndeff/socksdroid) -
+
+*   [pymumu/smartdns](https://github.com/pymumu/smartdns) - A local DNS server to obtain the fastest website IP for the best Internet experience, support DoT, DoH. 一个本地DNS服务器，获取最快的网站IP，获得最佳上网体验，支持DoH，DoT。
+
+*   [spirytusz/AndroidLua](https://github.com/spirytusz/AndroidLua) - Lua script supported on Android platform
+
+*   [liudf0716/xkcptun](https://github.com/liudf0716/xkcptun) - xkcptun is kcp tunnel for OpenWRT\&LEDE, implemented in c language
+
+*   [russdill/tunsocks](https://github.com/russdill/tunsocks) - User-level IP forwarding, SOCKS proxy, and HTTP proxy for VPNs that provide tun-like interface
+
+*   [netdata/netdata](https://github.com/netdata/netdata) - Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!
+
+*   [skywind3000/kcp](https://github.com/skywind3000/kcp) - :zap: KCP - A Fast and Reliable ARQ Protocol
+
+*   [meyerd/n2n](https://github.com/meyerd/n2n) - A development branch of the n2n p2p vpn software
 
 ## Vue
 
@@ -258,8 +310,6 @@
 *   [lkiesow/python-feedgen](https://github.com/lkiesow/python-feedgen) - Python module to generate ATOM feeds, RSS feeds and Podcasts.
 
 *   [scrapinghub/portia](https://github.com/scrapinghub/portia) - Visual scraping for Scrapy
-
-*   [rfancn/aliyun-ddns-client](https://github.com/rfancn/aliyun-ddns-client) - Python DDNS client for Aliyun
 
 ## TypeScript
 
@@ -529,7 +579,7 @@
 
 *   [Calvin-LL/Reorderable](https://github.com/Calvin-LL/Reorderable) - Reorder items in Lists and Grids in Jetpack Compose and Compose Multiplatform with drag and drop.
 
-*   [SkyD666/AniVu](https://github.com/SkyD666/AniVu) - All-in-one Android podcast app for RSS, media dl & play. MVI arch, Material You style. ⭐️ Star to support!
+*   [SkyD666/PodAura](https://github.com/SkyD666/PodAura) - All-in-one Android podcast app for RSS, media dl & play. MVI arch, Material You style. ⭐️ Star to support!
 
 *   [OxygenCobalt/Auxio](https://github.com/OxygenCobalt/Auxio) - A simple, rational music player for android
 
@@ -862,56 +912,6 @@
 *   [SmartisanTech/android](https://github.com/SmartisanTech/android) - Smartisan open source code for full build.(repo manifest xml)
 
 *   [kakuilan/china\_area\_mysql](https://github.com/kakuilan/china_area_mysql) - 中国5级行政区域mysql库
-
-## C
-
-*   [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) - Build your own AI friend
-
-*   [cashapp/zipline](https://github.com/cashapp/zipline) - Run Kotlin/JS libraries in Kotlin/JVM and Kotlin/Native programs
-
-*   [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
-
-*   [brunodev85/winlator](https://github.com/brunodev85/winlator) - Android application for running Windows applications with Wine and Box86/Box64
-
-*   [BillyWei01/FastAES](https://github.com/BillyWei01/FastAES) - 比SDK快10倍的AES加解密实现。
-
-*   [schwabe/ics-openvpn](https://github.com/schwabe/ics-openvpn) - OpenVPN for Android
-
-*   [gojue/ecapture](https://github.com/gojue/ecapture) - Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels for amd64/arm64.
-
-*   [heiher/hev-socks5-server](https://github.com/heiher/hev-socks5-server) - A socks5 server for Unix (Linux/Android/BSD/macOS/iOS)
-
-*   [heiher/hev-socks5-tunnel](https://github.com/heiher/hev-socks5-tunnel) - A tun2socks for Linux/Android/FreeBSD/macOS/iOS/WSL2 (IPv4/IPv6/TCP/UDP)
-
-*   [AnonymousAAArdvark/qi](https://github.com/AnonymousAAArdvark/qi) - Lightweight and fast programming language designed to be written in Chinese.
-
-*   [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake's main development repository
-
-*   [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - This project aims to enhance the working environment on Windows
-
-*   [Awesome-HarmonyOS/HarmonyOS](https://github.com/Awesome-HarmonyOS/HarmonyOS) - A curated list of awesome things related to HarmonyOS. 华为鸿蒙操作系统。
-
-*   [AdAway/AdAway](https://github.com/AdAway/AdAway) - AdAway is a free and open source ad blocker for Android.
-
-*   [wudicgi/SpleeterMsvcExe](https://github.com/wudicgi/SpleeterMsvcExe) - Windows command line program for Spleeter, pure C, no Python. GUI: https://github.com/wudicgi/SpleeterGui | Spleeter 的 Windows 命令行程序，纯 C 语言编写，无需 Python.
-
-*   [XTLS/badvpn](https://github.com/XTLS/badvpn) - NCD scripting language, tun2socks proxifier, P2P VPN
-
-*   [bndeff/socksdroid](https://github.com/bndeff/socksdroid) -
-
-*   [pymumu/smartdns](https://github.com/pymumu/smartdns) - A local DNS server to obtain the fastest website IP for the best Internet experience, support DoT, DoH. 一个本地DNS服务器，获取最快的网站IP，获得最佳上网体验，支持DoH，DoT。
-
-*   [spirytusz/AndroidLua](https://github.com/spirytusz/AndroidLua) - Lua script supported on Android platform
-
-*   [liudf0716/xkcptun](https://github.com/liudf0716/xkcptun) - xkcptun is kcp tunnel for OpenWRT\&LEDE, implemented in c language
-
-*   [russdill/tunsocks](https://github.com/russdill/tunsocks) - User-level IP forwarding, SOCKS proxy, and HTTP proxy for VPNs that provide tun-like interface
-
-*   [netdata/netdata](https://github.com/netdata/netdata) - Architected for speed. Automated for easy. Monitoring and troubleshooting, transformed!
-
-*   [skywind3000/kcp](https://github.com/skywind3000/kcp) - :zap: KCP - A Fast and Reliable ARQ Protocol
-
-*   [meyerd/n2n](https://github.com/meyerd/n2n) - A development branch of the n2n p2p vpn software
 
 ## Java
 
