@@ -18,6 +18,7 @@
 
 ## Table of Contents
 
+*   [Swift](#swift)
 *   [Python](#python)
 *   [Dart](#dart)
 *   [Kotlin](#kotlin)
@@ -30,7 +31,6 @@
 *   [Svelte](#svelte)
 *   [JavaScript](#javascript)
 *   [Astro](#astro)
-*   [Swift](#swift)
 *   [Vue](#vue)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [miscellaneous](#miscellaneous)
@@ -61,6 +61,22 @@
 *   [AppleScript](#applescript)
 *   [Scheme](#scheme)
 *   [Thanks](#thanks)
+
+## Swift
+
+*   [DanielZhangyc/RLLM](https://github.com/DanielZhangyc/RLLM) - LLM powered RSS reader
+
+*   [bin64/Clash-Dash](https://github.com/bin64/Clash-Dash) - 原生 SwiftUI 开发的 OpenClash 管理工具
+
+*   [robertying/shadowsocks-macos](https://github.com/robertying/shadowsocks-macos) - Shadowsocks client for macOS, with support for Apple Silicon (arm64) and Intel (x86\_64)
+
+*   [coteditor/CotEditor](https://github.com/coteditor/CotEditor) - Lightweight Plain-Text Editor for macOS
+
+*   [greatfire/envoy](https://github.com/greatfire/envoy) - C and Java Library derived from Chromium Cronet which can be used to make Android apps resistant to censorship
+
+*   [nmdias/FeedKit](https://github.com/nmdias/FeedKit) - An RSS, Atom and JSON Feed parser written in Swift
+
+*   [liruqi/Mume-iOS](https://github.com/liruqi/Mume-iOS) -
 
 ## Python
 
@@ -235,8 +251,6 @@
 *   [lilydjwg/morerssplz](https://github.com/lilydjwg/morerssplz) - Convert other article sources to RSS feeds
 
 *   [searx/searx](https://github.com/searx/searx) - Privacy-respecting metasearch engine
-
-*   [codelucas/newspaper](https://github.com/codelucas/newspaper) - newspaper3k is a news, full-text, and article metadata extraction in Python 3. Advanced docs:
 
 ## Dart
 
@@ -1073,20 +1087,6 @@
 ## Astro
 
 *   [ccbikai/RSS.Beauty](https://github.com/ccbikai/RSS.Beauty) - Make Your RSS Beautiful!
-
-## Swift
-
-*   [bin64/Clash-Dash](https://github.com/bin64/Clash-Dash) - 原生 SwiftUI 开发的 OpenClash 管理工具
-
-*   [robertying/shadowsocks-macos](https://github.com/robertying/shadowsocks-macos) - Shadowsocks client for macOS, with support for Apple Silicon (arm64) and Intel (x86\_64)
-
-*   [coteditor/CotEditor](https://github.com/coteditor/CotEditor) - Lightweight Plain-Text Editor for macOS
-
-*   [greatfire/envoy](https://github.com/greatfire/envoy) - C and Java Library derived from Chromium Cronet which can be used to make Android apps resistant to censorship
-
-*   [nmdias/FeedKit](https://github.com/nmdias/FeedKit) - An RSS, Atom and JSON Feed parser written in Swift
-
-*   [liruqi/Mume-iOS](https://github.com/liruqi/Mume-iOS) -
 
 ## Vue
 
