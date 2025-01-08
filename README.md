@@ -300,7 +300,7 @@
 
 ## Kotlin
 
-*   [nerve-sparks/iris\_android](https://github.com/nerve-sparks/iris_android) - Local LLM App
+*   [nerve-sparks/iris\_android](https://github.com/nerve-sparks/iris_android) - IRIS is an android app for interfacing with GGUF / llama.cpp models locally. https://github.com/ggerganov/llama.cpp
 
 *   [ismartcoding/plain-app](https://github.com/ismartcoding/plain-app) - PlainApp is an open-source application that allows you to manage your phone through a web browser. Access files, videos, music, contacts, sms, calls, and more from your desktop using a secure, easy to use web interface!
 
