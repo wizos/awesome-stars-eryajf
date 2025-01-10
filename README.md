@@ -170,7 +170,7 @@
 
 *   [greatfire/envoy](https://github.com/greatfire/envoy) - C and Java Library derived from Chromium Cronet which can be used to make Android apps resistant to censorship
 
-*   [nmdias/FeedKit](https://github.com/nmdias/FeedKit) - An RSS, Atom and JSON Feed parser written in Swift
+*   [nmdias/FeedKit](https://github.com/nmdias/FeedKit) - An RSS, Atom and JSON feed Parser and Generator written in Swift.
 
 *   [liruqi/Mume-iOS](https://github.com/liruqi/Mume-iOS) -
 
