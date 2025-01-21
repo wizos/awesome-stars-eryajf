@@ -170,7 +170,7 @@
 
 ## JavaScript
 
-*   [vrnobody/cfxhttp](https://github.com/vrnobody/cfxhttp) - Deploy vless proxy to Cloudflare workers and pages. 在 CF 部署 vless 代理。支持 websocket 和 xhttp 两种协议，还有 DoH 和查询 IP 功能。
+*   [vrnobody/cfxhttp](https://github.com/vrnobody/cfxhttp) - Deploy vless-ws proxy to Cloudflare pages. 在 pages 部署 vless.ws 代理。还有 DoH 和查询 IP 功能。
 
 *   [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 
