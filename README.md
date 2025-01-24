@@ -18,10 +18,10 @@
 
 ## Table of Contents
 
+*   [JavaScript](#javascript)
 *   [Kotlin](#kotlin)
 *   [Java](#java)
 *   [Python](#python)
-*   [JavaScript](#javascript)
 *   [TypeScript](#typescript)
 *   [Go](#go)
 *   [Rust](#rust)
@@ -61,6 +61,154 @@
 *   [AppleScript](#applescript)
 *   [Scheme](#scheme)
 *   [Thanks](#thanks)
+
+## JavaScript
+
+*   [justjavac/proxy-www](https://github.com/justjavac/proxy-www) - 学会 Proxy 就可以为所欲为吗？对，学会 Proxy 就可以为所欲为！
+
+*   [tina-hello/doh-cf-workers](https://github.com/tina-hello/doh-cf-workers) - DNS-over-HTTPS proxy on Cloudflare Workers
+
+*   [vrnobody/cfxhttp](https://github.com/vrnobody/cfxhttp) -
+
+*   [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
+
+*   [gildas-lormeau/mhtml-to-html](https://github.com/gildas-lormeau/mhtml-to-html) - Convert MHTML to HTML
+
+*   [sqeven/siteproxy](https://github.com/sqeven/siteproxy) - site proxy
+
+*   [CrazyCreativeDream/mpl.js](https://github.com/CrazyCreativeDream/mpl.js) - JavaScript Multi Plaform Launcher | 跨Node/WebWorker的JS启动器,支持多个无服务器平台
+
+*   [kska32/ebooks](https://github.com/kska32/ebooks) - 收藏的一些经典的历史、政治、心理、哲学、数学、计算机方面电子书(约10万本）
+
+*   [seadfeng/cloudflare-proxy-sites](https://github.com/seadfeng/cloudflare-proxy-sites) -
+
+*   [yonggekkk/Cloudflare\_vless\_trojan](https://github.com/yonggekkk/Cloudflare_vless_trojan) - CF-workers/pages代理脚本【Vless与Trojan】，支持一键自建proxyip与CF反代IP，CF优选官方IP三地区应用脚本，自动输出美、亚、欧最佳优选IP
+
+*   [7Sageer/sublink-worker](https://github.com/7Sageer/sublink-worker) - 无需服务器，一键部署，快速使用自建节点分享URL进行订阅转换，提供灵活的自定义选项，支持SingBox/Clash/V2Ray/Xray
+
+*   [MapleEve/cohere-tunnel](https://github.com/MapleEve/cohere-tunnel) - 使用 CloudFlare Worker 运行的 Cohere AI 代理 tunnel
+
+*   [fabiospampinato/cash](https://github.com/fabiospampinato/cash) - An absurdly small jQuery alternative for modern browsers.
+
+*   [smallfawn/decode\_action](https://github.com/smallfawn/decode_action) - 世界上本来不存在加密，加密的人多了，也便成就了解密
+
+*   [yllhwa/RSSWorker](https://github.com/yllhwa/RSSWorker) - 运行在Cloudflare Worker上的RSS订阅生成器
+
+*   [cmliu/edgetunnel](https://github.com/cmliu/edgetunnel) - 在原版的基础上修改了显示 VLESS 配置信息转换为订阅内容。使用该脚本，你可以方便地将 VLESS 配置信息使用在线配置转换到 Clash 或 Singbox 等工具中。
+
+*   [barretlee/cloudflare-proxy](https://github.com/barretlee/cloudflare-proxy) - Cloudflare Worker 代理请求 ChatGPT API，支持 Stream 流式输出
+
+*   [wozulong/gemini-proxy](https://github.com/wozulong/gemini-proxy) - Gemini Pro Proxy
+
+*   [Explosion-Scratch/claude-unofficial-api](https://github.com/Explosion-Scratch/claude-unofficial-api) - Unofficial API for Claude-2 via Claude Web (Also CLI)
+
+*   [extractus/article-extractor](https://github.com/extractus/article-extractor) - To extract main article from given URL with Node.js
+
+*   [fishjar/kiss-translator](https://github.com/fishjar/kiss-translator) - A simple, open source bilingual translation extension & Greasemonkey script (一个简约、开源的 双语对照翻译扩展 & 油猴脚本)
+
+*   [Edsuns/AdblockAndroid](https://github.com/Edsuns/AdblockAndroid) - A adblock engine (ad filter) library for Android WebView
+
+*   [100apps/MOSS](https://github.com/100apps/MOSS) - ChatGPT web browser extension
+
+*   [yaohaixiao/outline.js](https://github.com/yaohaixiao/outline.js) - outline.js - 自动生成文章导读（Table of Contents）导航的 JavaScript 工具。会自动分析文章中的标题（ h1~h6 ）标签，并生成文章段落层次结构的导读导航菜单。
+
+*   [lyricat/code-knack](https://github.com/lyricat/code-knack) - A code evaluator on your web page. Support both client implements and server implements.
+
+*   [AkaraChen/nashi](https://github.com/AkaraChen/nashi) - 🍐 The modern jQuery alternative.
+
+*   [admbtlr/reams](https://github.com/admbtlr/reams) - Reams is a deeply superficial RSS app for iOS
+
+*   [farshed/SoundSpice-mobile](https://github.com/farshed/SoundSpice-mobile) - A minimalist and light-weight music player for Android
+
+*   [simov/grant](https://github.com/simov/grant) - OAuth Proxy
+
+*   [jaywcjlove/translater.js](https://github.com/jaywcjlove/translater.js) - ♣︎ This is a use of HTML comments page translation solution. For a small amount of static pages, this solution is more simple. it has no dependents, Compression only (4KB)
+
+*   [zenorocha/clipboard.js](https://github.com/zenorocha/clipboard.js) - :scissors: Modern copy to clipboard. No Flash. Just 3kb gzipped :clipboard:
+
+*   [mozilla/readability](https://github.com/mozilla/readability) - A standalone version of the readability lib
+
+*   [rahiel/archiveror](https://github.com/rahiel/archiveror) - Archiveror will help you preserve the webpages you love. 💾
+
+*   [sampotts/plyr](https://github.com/sampotts/plyr) - A simple HTML5, YouTube and Vimeo player
+
+*   [Momo707577045/m3u8-downloader](https://github.com/Momo707577045/m3u8-downloader) - m3u8 视频在线提取工具
+
+*   [JAVClub/core](https://github.com/JAVClub/core) - 🔞 JAVClub - 让你的大姐姐不再走丢
+
+*   [andrewchilds/jQuery.DomOutline](https://github.com/andrewchilds/jQuery.DomOutline) - Firebug/Dev Tools-like DOM outline implementation using jQuery.
+
+*   [alexhua/Aria2-Explorer](https://github.com/alexhua/Aria2-Explorer) - An aria2 download task management extension for chromium based browser
+
+*   [xiandanin/magnetW](https://github.com/xiandanin/magnetW) - \[已失效，不再维护]
+
+*   [jaruba/PowderPlayer](https://github.com/jaruba/PowderPlayer) - Hybrid between a Torrent Client and a Player (torrent streaming) -
+
+*   [oevery/Source](https://github.com/oevery/Source) - 阅读书源，海阔阅览器搜索源、插件。
+
+*   [mozilla/rhino](https://github.com/mozilla/rhino) - Rhino is an open-source implementation of JavaScript written entirely in Java
+
+*   [mabDc/cartoon-rule](https://github.com/mabDc/cartoon-rule) - 异次元规则支持说明
+
+*   [b3log/baidu-netdisk-downloaderx](https://github.com/b3log/baidu-netdisk-downloaderx) - ⚡️ 一款图形界面的百度网盘不限速下载器，支持 Windows、Linux 和 Mac。
+
+*   [bilibili/flv.js](https://github.com/bilibili/flv.js) - HTML5 FLV Player
+
+*   [postlight/parser](https://github.com/postlight/parser) - 📜 Extract meaningful content from the chaos of a web page
+
+*   [puemos/hls-downloader](https://github.com/puemos/hls-downloader) - Web Extension for sniffing and downloading HTTP Live streams (HLS)
+
+*   [mika-cn/maoxian-web-clipper](https://github.com/mika-cn/maoxian-web-clipper) - A web extension to clip information from web page. Save it to your local machine to avoid information invalidation. Not bored registration, Not charged.
+
+*   [lihongxun945/gobang](https://github.com/lihongxun945/gobang) - javascript gobang AI，JS五子棋AI，源码+教程，基于Alpha-Beta剪枝算法（不是神经网络）
+
+*   [webtorrent/webtorrent-desktop](https://github.com/webtorrent/webtorrent-desktop) - ❤️ Streaming torrent app for Mac, Windows, and Linux
+
+*   [rNeomy/reader-view](https://github.com/rNeomy/reader-view) - Access Firefox's built in reader view from right click context menu
+
+*   [EnlighterJS/EnlighterJS](https://github.com/EnlighterJS/EnlighterJS) - :high\_brightness: an open source syntax highlighter written in pure javascript
+
+*   [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。
+
+*   [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️ Streaming torrent client for the web
+
+*   [qsbaq/btlet.com](https://github.com/qsbaq/btlet.com) - DHT磁力引擎
+
+*   [bimohxh/jsonon](https://github.com/bimohxh/jsonon) - A json online view
+
+*   [listen1/listen1\_chrome\_extension](https://github.com/listen1/listen1_chrome_extension) - one for all free music in china (chrome extension, also works for firefox)
+
+*   [hotoo/pinyin](https://github.com/hotoo/pinyin) - :cn: 汉字拼音 ➜ hàn zì pīn yīn
+
+*   [mayswind/AriaNg](https://github.com/mayswind/AriaNg) - AriaNg, a modern web frontend making aria2 easier to use.
+
+*   [dccxi/trust-zh-CN](https://github.com/dccxi/trust-zh-CN) - 一个合作博弈论的互动讲解手册 An interactive guide to the game theory of cooperation
+
+*   [Kenshin/simpread](https://github.com/Kenshin/simpread) - 简悦 ( SimpRead ) - 让你瞬间进入沉浸式阅读的扩展
+
+*   [sechacking/sgk](https://github.com/sechacking/sgk) - 仿findmima的社工库代码，基于elasticsearch和PHP构建
+
+*   [lesspass/lesspass](https://github.com/lesspass/lesspass) - :key: stateless open source password manager
+
+*   [sqqihao/EPubBuilder](https://github.com/sqqihao/EPubBuilder) - 一款在线的epub格式书籍编辑器
+
+*   [nihey/nihey.github.io](https://github.com/nihey/nihey.github.io) - :star2: My homepage
+
+*   [javierbyte/docs2epub](https://github.com/javierbyte/docs2epub) - Doc scraper and ebook generator / library. \[unmaintained]
+
+*   [alanyang/dhtspider](https://github.com/alanyang/dhtspider) - Bittorrent dht network spider
+
+*   [HelloZeroNet/ZeroNet](https://github.com/HelloZeroNet/ZeroNet) - ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network
+
+*   [haroldtreen/epub-press-clients](https://github.com/haroldtreen/epub-press-clients) - 📦 Clients for building books with EpubPress.
+
+*   [speed/newcrawler](https://github.com/speed/newcrawler) - Free Web Scraping Tool with Java
+
+*   [rptec/rpvideo](https://github.com/rptec/rpvideo) - （注：重心转移，这个我已经停更4年多了，发现还有人star...）v.rpsofts.com源码，国内视频网站解析，会员破解（部分站点近期更新解析算法，已不支持youku等会员视频），去广告。。你可以利用api自己做视频站，，同时api也可以适用于各主流电影cms站。
+
+*   [breakwa11/gfw\_whitelist](https://github.com/breakwa11/gfw_whitelist) - gfw\_whitelist
+
+*   [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 
 ## Kotlin
 
@@ -852,154 +1000,6 @@
 
 *   [scrapinghub/python-scrapinghub](https://github.com/scrapinghub/python-scrapinghub) - A client interface for Scrapinghub's API
 
-*   [CreateChen/simDownloader](https://github.com/CreateChen/simDownloader) - Download metadata from DHT network directly.
-
-## JavaScript
-
-*   [tina-hello/doh-cf-workers](https://github.com/tina-hello/doh-cf-workers) - DNS-over-HTTPS proxy on Cloudflare Workers
-
-*   [vrnobody/cfxhttp](https://github.com/vrnobody/cfxhttp) -
-
-*   [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-
-*   [gildas-lormeau/mhtml-to-html](https://github.com/gildas-lormeau/mhtml-to-html) - Convert MHTML to HTML
-
-*   [sqeven/siteproxy](https://github.com/sqeven/siteproxy) - site proxy
-
-*   [CrazyCreativeDream/mpl.js](https://github.com/CrazyCreativeDream/mpl.js) - JavaScript Multi Plaform Launcher | 跨Node/WebWorker的JS启动器,支持多个无服务器平台
-
-*   [kska32/ebooks](https://github.com/kska32/ebooks) - 收藏的一些经典的历史、政治、心理、哲学、数学、计算机方面电子书(约10万本）
-
-*   [seadfeng/cloudflare-proxy-sites](https://github.com/seadfeng/cloudflare-proxy-sites) -
-
-*   [yonggekkk/Cloudflare\_vless\_trojan](https://github.com/yonggekkk/Cloudflare_vless_trojan) - CF-workers/pages代理脚本【Vless与Trojan】，支持一键自建proxyip与CF反代IP，CF优选官方IP三地区应用脚本，自动输出美、亚、欧最佳优选IP
-
-*   [7Sageer/sublink-worker](https://github.com/7Sageer/sublink-worker) - 无需服务器，一键部署，快速使用自建节点分享URL进行订阅转换，提供灵活的自定义选项，支持SingBox/Clash/V2Ray/Xray
-
-*   [MapleEve/cohere-tunnel](https://github.com/MapleEve/cohere-tunnel) - 使用 CloudFlare Worker 运行的 Cohere AI 代理 tunnel
-
-*   [fabiospampinato/cash](https://github.com/fabiospampinato/cash) - An absurdly small jQuery alternative for modern browsers.
-
-*   [smallfawn/decode\_action](https://github.com/smallfawn/decode_action) - 世界上本来不存在加密，加密的人多了，也便成就了解密
-
-*   [yllhwa/RSSWorker](https://github.com/yllhwa/RSSWorker) - 运行在Cloudflare Worker上的RSS订阅生成器
-
-*   [cmliu/edgetunnel](https://github.com/cmliu/edgetunnel) - 在原版的基础上修改了显示 VLESS 配置信息转换为订阅内容。使用该脚本，你可以方便地将 VLESS 配置信息使用在线配置转换到 Clash 或 Singbox 等工具中。
-
-*   [barretlee/cloudflare-proxy](https://github.com/barretlee/cloudflare-proxy) - Cloudflare Worker 代理请求 ChatGPT API，支持 Stream 流式输出
-
-*   [wozulong/gemini-proxy](https://github.com/wozulong/gemini-proxy) - Gemini Pro Proxy
-
-*   [Explosion-Scratch/claude-unofficial-api](https://github.com/Explosion-Scratch/claude-unofficial-api) - Unofficial API for Claude-2 via Claude Web (Also CLI)
-
-*   [extractus/article-extractor](https://github.com/extractus/article-extractor) - To extract main article from given URL with Node.js
-
-*   [fishjar/kiss-translator](https://github.com/fishjar/kiss-translator) - A simple, open source bilingual translation extension & Greasemonkey script (一个简约、开源的 双语对照翻译扩展 & 油猴脚本)
-
-*   [Edsuns/AdblockAndroid](https://github.com/Edsuns/AdblockAndroid) - A adblock engine (ad filter) library for Android WebView
-
-*   [100apps/MOSS](https://github.com/100apps/MOSS) - ChatGPT web browser extension
-
-*   [yaohaixiao/outline.js](https://github.com/yaohaixiao/outline.js) - outline.js - 自动生成文章导读（Table of Contents）导航的 JavaScript 工具。会自动分析文章中的标题（ h1~h6 ）标签，并生成文章段落层次结构的导读导航菜单。
-
-*   [lyricat/code-knack](https://github.com/lyricat/code-knack) - A code evaluator on your web page. Support both client implements and server implements.
-
-*   [AkaraChen/nashi](https://github.com/AkaraChen/nashi) - 🍐 The modern jQuery alternative.
-
-*   [admbtlr/reams](https://github.com/admbtlr/reams) - Reams is a deeply superficial RSS app for iOS
-
-*   [farshed/SoundSpice-mobile](https://github.com/farshed/SoundSpice-mobile) - A minimalist and light-weight music player for Android
-
-*   [simov/grant](https://github.com/simov/grant) - OAuth Proxy
-
-*   [jaywcjlove/translater.js](https://github.com/jaywcjlove/translater.js) - ♣︎ This is a use of HTML comments page translation solution. For a small amount of static pages, this solution is more simple. it has no dependents, Compression only (4KB)
-
-*   [zenorocha/clipboard.js](https://github.com/zenorocha/clipboard.js) - :scissors: Modern copy to clipboard. No Flash. Just 3kb gzipped :clipboard:
-
-*   [mozilla/readability](https://github.com/mozilla/readability) - A standalone version of the readability lib
-
-*   [rahiel/archiveror](https://github.com/rahiel/archiveror) - Archiveror will help you preserve the webpages you love. 💾
-
-*   [sampotts/plyr](https://github.com/sampotts/plyr) - A simple HTML5, YouTube and Vimeo player
-
-*   [Momo707577045/m3u8-downloader](https://github.com/Momo707577045/m3u8-downloader) - m3u8 视频在线提取工具
-
-*   [JAVClub/core](https://github.com/JAVClub/core) - 🔞 JAVClub - 让你的大姐姐不再走丢
-
-*   [andrewchilds/jQuery.DomOutline](https://github.com/andrewchilds/jQuery.DomOutline) - Firebug/Dev Tools-like DOM outline implementation using jQuery.
-
-*   [alexhua/Aria2-Explorer](https://github.com/alexhua/Aria2-Explorer) - An aria2 download task management extension for chromium based browser
-
-*   [xiandanin/magnetW](https://github.com/xiandanin/magnetW) - \[已失效，不再维护]
-
-*   [jaruba/PowderPlayer](https://github.com/jaruba/PowderPlayer) - Hybrid between a Torrent Client and a Player (torrent streaming) -
-
-*   [oevery/Source](https://github.com/oevery/Source) - 阅读书源，海阔阅览器搜索源、插件。
-
-*   [mozilla/rhino](https://github.com/mozilla/rhino) - Rhino is an open-source implementation of JavaScript written entirely in Java
-
-*   [mabDc/cartoon-rule](https://github.com/mabDc/cartoon-rule) - 异次元规则支持说明
-
-*   [b3log/baidu-netdisk-downloaderx](https://github.com/b3log/baidu-netdisk-downloaderx) - ⚡️ 一款图形界面的百度网盘不限速下载器，支持 Windows、Linux 和 Mac。
-
-*   [bilibili/flv.js](https://github.com/bilibili/flv.js) - HTML5 FLV Player
-
-*   [postlight/parser](https://github.com/postlight/parser) - 📜 Extract meaningful content from the chaos of a web page
-
-*   [puemos/hls-downloader](https://github.com/puemos/hls-downloader) - Web Extension for sniffing and downloading HTTP Live streams (HLS)
-
-*   [mika-cn/maoxian-web-clipper](https://github.com/mika-cn/maoxian-web-clipper) - A web extension to clip information from web page. Save it to your local machine to avoid information invalidation. Not bored registration, Not charged.
-
-*   [lihongxun945/gobang](https://github.com/lihongxun945/gobang) - javascript gobang AI，JS五子棋AI，源码+教程，基于Alpha-Beta剪枝算法（不是神经网络）
-
-*   [webtorrent/webtorrent-desktop](https://github.com/webtorrent/webtorrent-desktop) - ❤️ Streaming torrent app for Mac, Windows, and Linux
-
-*   [rNeomy/reader-view](https://github.com/rNeomy/reader-view) - Access Firefox's built in reader view from right click context menu
-
-*   [EnlighterJS/EnlighterJS](https://github.com/EnlighterJS/EnlighterJS) - :high\_brightness: an open source syntax highlighter written in pure javascript
-
-*   [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。
-
-*   [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️ Streaming torrent client for the web
-
-*   [qsbaq/btlet.com](https://github.com/qsbaq/btlet.com) - DHT磁力引擎
-
-*   [bimohxh/jsonon](https://github.com/bimohxh/jsonon) - A json online view
-
-*   [listen1/listen1\_chrome\_extension](https://github.com/listen1/listen1_chrome_extension) - one for all free music in china (chrome extension, also works for firefox)
-
-*   [hotoo/pinyin](https://github.com/hotoo/pinyin) - :cn: 汉字拼音 ➜ hàn zì pīn yīn
-
-*   [mayswind/AriaNg](https://github.com/mayswind/AriaNg) - AriaNg, a modern web frontend making aria2 easier to use.
-
-*   [dccxi/trust-zh-CN](https://github.com/dccxi/trust-zh-CN) - 一个合作博弈论的互动讲解手册 An interactive guide to the game theory of cooperation
-
-*   [Kenshin/simpread](https://github.com/Kenshin/simpread) - 简悦 ( SimpRead ) - 让你瞬间进入沉浸式阅读的扩展
-
-*   [sechacking/sgk](https://github.com/sechacking/sgk) - 仿findmima的社工库代码，基于elasticsearch和PHP构建
-
-*   [lesspass/lesspass](https://github.com/lesspass/lesspass) - :key: stateless open source password manager
-
-*   [sqqihao/EPubBuilder](https://github.com/sqqihao/EPubBuilder) - 一款在线的epub格式书籍编辑器
-
-*   [nihey/nihey.github.io](https://github.com/nihey/nihey.github.io) - :star2: My homepage
-
-*   [javierbyte/docs2epub](https://github.com/javierbyte/docs2epub) - Doc scraper and ebook generator / library. \[unmaintained]
-
-*   [alanyang/dhtspider](https://github.com/alanyang/dhtspider) - Bittorrent dht network spider
-
-*   [HelloZeroNet/ZeroNet](https://github.com/HelloZeroNet/ZeroNet) - ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network
-
-*   [haroldtreen/epub-press-clients](https://github.com/haroldtreen/epub-press-clients) - 📦 Clients for building books with EpubPress.
-
-*   [speed/newcrawler](https://github.com/speed/newcrawler) - Free Web Scraping Tool with Java
-
-*   [rptec/rpvideo](https://github.com/rptec/rpvideo) - （注：重心转移，这个我已经停更4年多了，发现还有人star...）v.rpsofts.com源码，国内视频网站解析，会员破解（部分站点近期更新解析算法，已不支持youku等会员视频），去广告。。你可以利用api自己做视频站，，同时api也可以适用于各主流电影cms站。
-
-*   [breakwa11/gfw\_whitelist](https://github.com/breakwa11/gfw_whitelist) - gfw\_whitelist
-
-*   [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
-
 ## TypeScript
 
 *   [frostming/fxzhihu](https://github.com/frostming/fxzhihu) - 为知乎生成可分享的卡片及 Instant View
@@ -1506,6 +1506,8 @@
 
 *   [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
 
+*   [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) - Build your own AI friend
+
 *   [niedev/RTranslator](https://github.com/niedev/RTranslator) - Open source real-time translation app for Android that runs locally
 
 *   [frostwire/frostwire-jlibtorrent](https://github.com/frostwire/frostwire-jlibtorrent) - A swig Java interface for libtorrent by the makers of FrostWire.  Develop libtorrent based apps with the joy of coding in Java.
@@ -1579,8 +1581,6 @@
 *   [maxmind/libmaxminddb](https://github.com/maxmind/libmaxminddb) - C library for the MaxMind DB file format
 
 *   [nicbarker/clay](https://github.com/nicbarker/clay) - High performance UI layout library in C.
-
-*   [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) - Build your own AI friend
 
 *   [cashapp/zipline](https://github.com/cashapp/zipline) - Run Kotlin/JS libraries in Kotlin/JVM and Kotlin/Native programs
 
