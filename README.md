@@ -622,7 +622,7 @@
 
 ## Vue
 
-*   [NitroRCr/AIaW](https://github.com/NitroRCr/AIaW) - AI as Workspace - 精心设计的 AI (LLM) 客户端。 全功能，轻量级；支持多工作区、插件系统、跨平台、本地优先+实时云同步
+*   [NitroRCr/AIaW](https://github.com/NitroRCr/AIaW) - AI as Workspace - 精心设计的 AI (LLM) 客户端。 全功能，轻量级；支持多工作区、插件系统、跨平台、本地优先+实时云同步、Artifacts
 
 *   [Technicalflight/Gptm](https://github.com/Technicalflight/Gptm) - 一个基于 Electron + Vue3 + TypeScript 开发的现代化 AI 聊天客户端🤖A modern AI chat client based on Electron + Vue3 + TypeScript.
 
