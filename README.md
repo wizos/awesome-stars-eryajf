@@ -64,6 +64,8 @@
 
 ## JavaScript
 
+*   [yeahhe365/LLM-Web-UI](https://github.com/yeahhe365/LLM-Web-UI) -
+
 *   [Hackl0us/SS-Rule-Snippet](https://github.com/Hackl0us/SS-Rule-Snippet) - 搜集、整理、维护 Surge / Quantumult (X) / Shadowrocket / Surfboard / clash (Premium) 实用规则。
 
 *   [prateek-chaubey/YTPro](https://github.com/prateek-chaubey/YTPro) - All in one YouTube App with downloader , background player and many more features.
@@ -1477,8 +1479,6 @@
 *   [wordpress-mobile/WordPress-Android](https://github.com/wordpress-mobile/WordPress-Android) - WordPress for Android
 
 *   [shadowsocks/shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android) - A shadowsocks client for Android
-
-*   [FredJul/Flym](https://github.com/FredJul/Flym) - Flym News Reader is a light Android feed reader (RSS/Atom)
 
 ## Rust
 
