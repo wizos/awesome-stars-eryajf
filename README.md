@@ -64,6 +64,10 @@
 
 ## JavaScript
 
+*   [fatwang2/search2ai](https://github.com/fatwang2/search2ai) - Help your LLMs online
+
+*   [bepass-org/bepass-worker](https://github.com/bepass-org/bepass-worker) - An easy to deploy worker for bepass proxy
+
 *   [yeahhe365/LLM-Web-UI](https://github.com/yeahhe365/LLM-Web-UI) -
 
 *   [Hackl0us/SS-Rule-Snippet](https://github.com/Hackl0us/SS-Rule-Snippet) - 搜集、整理、维护 Surge / Quantumult (X) / Shadowrocket / Surfboard / clash (Premium) 实用规则。
@@ -84,7 +88,7 @@
 
 *   [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 
-*   [gildas-lormeau/mhtml-to-html](https://github.com/gildas-lormeau/mhtml-to-html) - Convert MHTML to HTML
+*   [gildas-lormeau/mhtml-to-html](https://github.com/gildas-lormeau/mhtml-to-html) - Converts MHTML to HTML (single file)
 
 *   [sqeven/siteproxy](https://github.com/sqeven/siteproxy) - site proxy
 
@@ -1072,10 +1076,6 @@
 
 *   [jinguangyue/AddwordLib](https://github.com/jinguangyue/AddwordLib) - Android Textview横竖排切换(文字方向不变)  Android TextView add text , vertical discharge switching (the direction of the font is no change!)
 
-*   [Athou/commafeed](https://github.com/Athou/commafeed) - Google Reader inspired self-hosted personal RSS reader.
-
-*   [noinnion/newsplus](https://github.com/noinnion/newsplus) - News+ is a simple, fast and intuitive feed/rss reader for Android, featuring beautiful themes, podcast support and full offline support.
-
 ## miscellaneous
 
 *   [HqWu-HITCS/Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM) - 整理开源的中文大语言模型，以规模较小、可私有化部署、训练成本较低的模型为主，包括底座模型，垂直领域微调及应用，数据集与教程等。
@@ -1232,7 +1232,7 @@
 
 *   [twofas/2fas-android](https://github.com/twofas/2fas-android) - Source code for 2FAS Android app
 
-*   [dyhkwong/Exclave](https://github.com/dyhkwong/Exclave) - A fork of SagerNet powered by a custom version of v2ray-core
+*   [dyhkwong/Exclave](https://github.com/dyhkwong/Exclave) - A proxy client derived from SagerNet and powered by a hard fork of v2ray-core.
 
 *   [android/socialite](https://github.com/android/socialite) -
 
