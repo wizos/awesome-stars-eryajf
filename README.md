@@ -64,6 +64,10 @@
 
 ## TypeScript
 
+*   [a-ghorbani/pocketpal-ai](https://github.com/a-ghorbani/pocketpal-ai) - An app that brings language models directly to your phone.
+
+*   [tianzhentech/NeatChat](https://github.com/tianzhentech/NeatChat) - NeatChat分支：精简优化版NextChat
+
 *   [yzfly/pocketpal-ai-zh](https://github.com/yzfly/pocketpal-ai-zh) - 口袋AI，将世界知识装进口袋。pocketpal-ai 中文版
 
 *   [joschi/blueskyfeedbot](https://github.com/joschi/blueskyfeedbot) -  A bot that posts RSS feeds to Bluesky via GitHub Actions
@@ -628,8 +632,6 @@
 
 *   [Wox-launcher/Wox](https://github.com/Wox-launcher/Wox) - A cross-platform launcher that simply works
 
-*   [mmcdole/gofeed](https://github.com/mmcdole/gofeed) - Parse RSS, Atom and JSON feeds in Go
-
 ## Vue
 
 *   [NitroRCr/AIaW](https://github.com/NitroRCr/AIaW) - AI as Workspace - 精心设计的 AI (LLM) 客户端。 全功能，轻量级；支持多工作区、插件系统、跨平台、本地优先+实时云同步、Artifacts
@@ -1075,8 +1077,6 @@
 *   [wangdan/AisenWeiBo](https://github.com/wangdan/AisenWeiBo) - 新浪微博第三方Android客户端
 
 *   [lytsing/weibo](https://github.com/lytsing/weibo) - Android client for weibo
-
-*   [jinguangyue/AddwordLib](https://github.com/jinguangyue/AddwordLib) - Android Textview横竖排切换(文字方向不变)  Android TextView add text , vertical discharge switching (the direction of the font is no change!)
 
 ## miscellaneous
 
@@ -1534,7 +1534,7 @@
 
 *   [lollipopkit/flutter\_gpt\_box](https://github.com/lollipopkit/flutter_gpt_box) - GPTBox - a third-party client for OpenAI API.
 
-*   [Anxcye/anx-reader](https://github.com/Anxcye/anx-reader) - An e-book reader written using Flutter. 使用Flutter编写的电子书阅读器，支持多种格式
+*   [Anxcye/anx-reader](https://github.com/Anxcye/anx-reader) - An open source, free, ad-free modern e-book reading method powered by AI. AI助力的开源、免费、无广告的现代化电子书阅读方式。
 
 *   [QuackerApp/Quacker](https://github.com/QuackerApp/Quacker) - The continuation of fritter with feeds
 
@@ -1584,7 +1584,7 @@
 
 *   [DanielZhangyc/RLLM](https://github.com/DanielZhangyc/RLLM) - LLM powered RSS reader
 
-*   [bin64/Clash-Dash](https://github.com/bin64/Clash-Dash) - 原生 SwiftUI 开发的 OpenClash/MihomoTProxy 管理工具
+*   [bin64/Clash-Dash](https://github.com/bin64/Clash-Dash) - 原生 SwiftUI 开发的 OpenClash/Nikki(MihomoTProxy) 管理工具
 
 *   [robertying/shadowsocks-macos](https://github.com/robertying/shadowsocks-macos) - Shadowsocks client for macOS, with support for Apple Silicon (arm64) and Intel (x86\_64)
 
