@@ -1622,7 +1622,7 @@
 
 *   [strato-emu/strato](https://github.com/strato-emu/strato) - Run Nintendo Switch homebrew & games on your Android device!
 
-*   [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp) - LLM inference in C/C++
+*   [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
 
 *   [KDE/alligator](https://github.com/KDE/alligator) - Kirigami-based RSS reader
 
