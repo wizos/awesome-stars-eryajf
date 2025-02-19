@@ -64,6 +64,8 @@
 
 ## Kotlin
 
+*   [vinceglb/ComposeAI](https://github.com/vinceglb/ComposeAI) - An Android & iOS application ChatGPT like made with Compose Multiplatform
+
 *   [aivanovski/keepassvault](https://github.com/aivanovski/keepassvault) - KeePass client app for Android
 
 *   [Kunzisoft/KeePassDX](https://github.com/Kunzisoft/KeePassDX) - Lightweight vault and password manager for Android, KeePassDX allows editing encrypted data in a single file in KeePass format and fill in the forms in a secure way.
@@ -311,8 +313,6 @@
 *   [MixinNetwork/android-app](https://github.com/MixinNetwork/android-app) - 📱 Android private messenger, crypto wallet and light node to Mixin Network
 
 *   [xdtianyu/CallerInfo](https://github.com/xdtianyu/CallerInfo) - 来电信息 - 一个获取号码归属地和其他信息（诈骗、骚扰等）的开源 Android 应用
-
-*   [afollestad/material-dialogs](https://github.com/afollestad/material-dialogs) - 😍 A beautiful, fluid, and extensible dialogs API for Kotlin & Android.
 
 ## Dart
 
