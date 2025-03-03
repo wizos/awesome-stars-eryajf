@@ -1122,7 +1122,7 @@
 
 *   [Piasy/BigImageViewer](https://github.com/Piasy/BigImageViewer) - Big image viewer supporting pan and zoom, with very little memory usage and full featured image loading choices. Powered by Subsampling Scale Image View, Fresco, Glide, and Picasso. Even with gif and webp support! 🍻
 
-*   [HChenX/ClipboardList](https://github.com/HChenX/ClipboardList) - 解除小米"剪贴板和常用语"限制。Remove restrictions on Xiaomi's clipboard and common phrases.
+*   [HChenX/ClipboardList](https://github.com/HChenX/ClipboardList) - 解除小米"剪贴板和常用语"限制 | Remove restrictions on Xiaomi's clipboard and common phrases
 
 *   [ZCShou/GoGoGo](https://github.com/ZCShou/GoGoGo) - 一个基于 Android 调试 API + 百度地图实现的虚拟定位工具，并且同时实现了一个可以自由移动的摇杆
 
