@@ -985,7 +985,7 @@
 
 *   [davidche1116/Sms](https://github.com/davidche1116/Sms) - 短信清理工具
 
-*   [openwebf/webf](https://github.com/openwebf/webf) - The HTML/CSS Render of WebF Enterprise
+*   [openwebf/webf](https://github.com/openwebf/webf) - Build flutter apps with HTML/CSS and JavaScript
 
 *   [ZhuJHua/moodiary](https://github.com/ZhuJHua/moodiary) - A fully open source cross-platform diary app written by flutter and rust.
 
