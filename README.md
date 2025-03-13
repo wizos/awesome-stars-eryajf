@@ -1427,7 +1427,7 @@
 
 *   [a-ghorbani/pocketpal-ai](https://github.com/a-ghorbani/pocketpal-ai) - An app that brings language models directly to your phone.
 
-*   [tianzhentech/NeatChat](https://github.com/tianzhentech/NeatChat) - NeatChat分支：精简优化版NextChat
+*   [tianzhentech/NeatChat](https://github.com/tianzhentech/NeatChat) - 基于 NextChat 深度重构，一个更优雅、更强大的 AI 对话解决方案
 
 *   [yzfly/pocketpal-ai-zh](https://github.com/yzfly/pocketpal-ai-zh) - 口袋AI，将世界知识装进口袋。pocketpal-ai 中文版
 
