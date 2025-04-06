@@ -851,6 +851,8 @@
 
 *   [gildas-lormeau/mhtml-to-html](https://github.com/gildas-lormeau/mhtml-to-html) - Convert MHTML to HTML
 
+*   [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers. Support deepseek-r1
+
 *   [sqeven/siteproxy](https://github.com/sqeven/siteproxy) - site proxy
 
 *   [CrazyCreativeDream/mpl.js](https://github.com/CrazyCreativeDream/mpl.js) - JavaScript Multi Plaform Launcher | 跨Node/WebWorker的JS启动器,支持多个无服务器平台
@@ -1166,8 +1168,6 @@
 *   [mikeccroberts/Gemini-Search](https://github.com/mikeccroberts/Gemini-Search) - Perplexity style AI Search engine clone built with Gemini 2.0 Flash and Grounding
 
 *   [ammaarreshi/Gemini-Search](https://github.com/ammaarreshi/Gemini-Search) - Perplexity style AI Search engine clone built with Gemini 2.0 Flash and Grounding
-
-*   [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers. Support deepseek-r1
 
 *   [tldraw/tldraw](https://github.com/tldraw/tldraw) - whiteboard SDK / infinite canvas SDK
 
