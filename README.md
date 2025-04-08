@@ -563,7 +563,7 @@
 
 *   [twofas/2fas-android](https://github.com/twofas/2fas-android) - Source code for 2FAS Android app
 
-*   [dyhkwong/Exclave](https://github.com/dyhkwong/Exclave) - A proxy client derived from SagerNet and powered by a hard fork of v2ray-core.
+*   [dyhkwong/Exclave](https://github.com/dyhkwong/Exclave) - A proxy client derived from SagerNet and powered by a custom fork of v2ray-core.
 
 *   [android/socialite](https://github.com/android/socialite) -
 
@@ -791,7 +791,7 @@
 
 *   [ChuckerTeam/chucker](https://github.com/ChuckerTeam/chucker) - 🔎 An HTTP inspector for Android & OkHTTP (like Charles but on device)
 
-*   [eycorsican/kitsunebi-android](https://github.com/eycorsican/kitsunebi-android) -  A fully-featured V2Ray client for Android.
+*   [yamada95/kitsunebi-android](https://github.com/yamada95/kitsunebi-android) -  A fully-featured V2Ray client for Android.
 
 *   [thunderbird/thunderbird-android](https://github.com/thunderbird/thunderbird-android) - Thunderbird for Android – Open Source Email App for Android (fka K-9 Mail)
 
@@ -851,7 +851,7 @@
 
 *   [gildas-lormeau/mhtml-to-html](https://github.com/gildas-lormeau/mhtml-to-html) - Convert MHTML to HTML
 
-*   [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers. Support deepseek-r1
+*   [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers.
 
 *   [sqeven/siteproxy](https://github.com/sqeven/siteproxy) - site proxy
 
