@@ -341,7 +341,7 @@
 
 ## Kotlin
 
-*   [succlz123/DeepCo](https://github.com/succlz123/DeepCo) - A Chat Client for LLM, written in Compose Multiplatform.
+*   [succlz123/DeepCo](https://github.com/succlz123/DeepCo) - A Chat Client for LLMs, written in Compose Multiplatform.
 
 *   [h4ckm310n/S5W2C](https://github.com/h4ckm310n/S5W2C) - An Android Socks5 proxy server, receiving packets through WiFi and forwarding through mobile data
 
