@@ -18,8 +18,8 @@
 
 ## Table of Contents
 
-*   [Vue](#vue)
 *   [Dart](#dart)
+*   [Vue](#vue)
 *   [TypeScript](#typescript)
 *   [Go](#go)
 *   [Rust](#rust)
@@ -63,31 +63,9 @@
 *   [Scheme](#scheme)
 *   [Thanks](#thanks)
 
-## Vue
-
-*   [Zephyruso/zashboard](https://github.com/Zephyruso/zashboard) - A Dashboard Using Clash API
-
-*   [NitroRCr/AIaW](https://github.com/NitroRCr/AIaW) - AI as Workspace - A better AI (LLM) client. Full-featured, lightweight. Support multiple workspaces, plugin system, cross-platform, local first + real-time cloud sync, Artifacts, MCP | 更好的 AI 客户端
-
-*   [Technicalflight/Gptm](https://github.com/Technicalflight/Gptm) - 一个基于 Electron + Vue3 + TypeScript 开发的现代化 AI 聊天客户端🤖A modern AI chat client based on Electron + Vue3 + TypeScript.
-
-*   [weekend-project-space/webfollow-app](https://github.com/weekend-project-space/webfollow-app) - webfollow-app
-
-*   [haxzie/snipp.in](https://github.com/haxzie/snipp.in) - Fast, Light-weight, Notes, Snippet manager and code editor directly inside your browser
-
-*   [imsyy/SPlayer](https://github.com/imsyy/SPlayer) - 🎉 一个简约的音乐播放器，支持逐字歌词，下载歌曲，展示评论区，音乐云盘及歌单管理，音乐频谱，移动端基础适配 | 网易云音乐 | A minimalist music player
-
-*   [GUI-for-Cores/GUI.for.Clash](https://github.com/GUI-for-Cores/GUI.for.Clash) - A GUI program developed by vue3 + wails.
-
-*   [GUI-for-Cores/GUI.for.SingBox](https://github.com/GUI-for-Cores/GUI.for.SingBox) - GUI for SingBox
-
-*   [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) - The best IP Toolbox. Easy to check what's your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR test, check website availability, whois search and more! || 🇨🇳 可能是最好用的IP工具箱。轻松检查你的 IP，IP 地理位置，检查DNS泄漏，检查 WebRTC 连接，速度测试，ping 测试，MTR测试，检查网站可用性，查询 Whois 信息等等。
-
-*   [ZyqGitHub1/h-player-v2](https://github.com/ZyqGitHub1/h-player-v2) - 资源采集站在线播放
-
-*   [wuhaoworld/torrent2magnet](https://github.com/wuhaoworld/torrent2magnet) - 种子转磁力链工具
-
 ## Dart
+
+*   [TigerEyeLabs/duckdb-dart](https://github.com/TigerEyeLabs/duckdb-dart) - DuckDB Dart bindings.
 
 *   [KaringX/clashmi](https://github.com/KaringX/clashmi) - Clash Mihomo for iOS/Android
 
@@ -146,6 +124,30 @@
 *   [yang991178/fluent-reader-lite](https://github.com/yang991178/fluent-reader-lite) - Simplistic mobile RSS client built with Flutter
 
 *   [tsacdop/tsacdop](https://github.com/tsacdop/tsacdop) - Enjoy podcasts with Tsacdop!  A podcast player built with flutter.
+
+## Vue
+
+*   [Zephyruso/zashboard](https://github.com/Zephyruso/zashboard) - A Dashboard Using Clash API
+
+*   [NitroRCr/AIaW](https://github.com/NitroRCr/AIaW) - AI as Workspace - A better AI (LLM) client. Full-featured, lightweight. Support multiple workspaces, plugin system, cross-platform, local first + real-time cloud sync, Artifacts, MCP | 更好的 AI 客户端
+
+*   [Technicalflight/Gptm](https://github.com/Technicalflight/Gptm) - 一个基于 Electron + Vue3 + TypeScript 开发的现代化 AI 聊天客户端🤖A modern AI chat client based on Electron + Vue3 + TypeScript.
+
+*   [weekend-project-space/webfollow-app](https://github.com/weekend-project-space/webfollow-app) - webfollow-app
+
+*   [haxzie/snipp.in](https://github.com/haxzie/snipp.in) - Fast, Light-weight, Notes, Snippet manager and code editor directly inside your browser
+
+*   [imsyy/SPlayer](https://github.com/imsyy/SPlayer) - 🎉 一个简约的音乐播放器，支持逐字歌词，下载歌曲，展示评论区，音乐云盘及歌单管理，音乐频谱，移动端基础适配 | 网易云音乐 | A minimalist music player
+
+*   [GUI-for-Cores/GUI.for.Clash](https://github.com/GUI-for-Cores/GUI.for.Clash) - A GUI program developed by vue3 + wails.
+
+*   [GUI-for-Cores/GUI.for.SingBox](https://github.com/GUI-for-Cores/GUI.for.SingBox) - GUI for SingBox
+
+*   [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) - The best IP Toolbox. Easy to check what's your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR test, check website availability, whois search and more! || 🇨🇳 可能是最好用的IP工具箱。轻松检查你的 IP，IP 地理位置，检查DNS泄漏，检查 WebRTC 连接，速度测试，ping 测试，MTR测试，检查网站可用性，查询 Whois 信息等等。
+
+*   [ZyqGitHub1/h-player-v2](https://github.com/ZyqGitHub1/h-player-v2) - 资源采集站在线播放
+
+*   [wuhaoworld/torrent2magnet](https://github.com/wuhaoworld/torrent2magnet) - 种子转磁力链工具
 
 ## TypeScript
 
@@ -1356,8 +1358,6 @@
 *   [shadowsocks/shadowsocks-android](https://github.com/shadowsocks/shadowsocks-android) - A shadowsocks client for Android
 
 *   [FredJul/Flym](https://github.com/FredJul/Flym) - Flym News Reader is a light Android feed reader (RSS/Atom)
-
-*   [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android) - AnkiDroid: Anki flashcards on Android. Your secret trick to achieve superhuman information retention.
 
 ## miscellaneous
 
