@@ -38,7 +38,6 @@
 *   [Swift](#swift)
 *   [PHP](#php)
 *   [CSS](#css)
-*   [CoffeeScript](#coffeescript)
 *   [Svelte](#svelte)
 *   [Astro](#astro)
 *   [Jupyter Notebook](#jupyter-notebook)
@@ -64,6 +63,8 @@
 *   [Thanks](#thanks)
 
 ## Dart
+
+*   [theachoem/storypad](https://github.com/theachoem/storypad) - Minimalist app to write stories, notes, diary with 80k+ downloads. 🪴 Designed with simplicity in mind, both in its UI and codebase. Built with Flutter!
 
 *   [mitesh77/Best-Flutter-UI-Templates](https://github.com/mitesh77/Best-Flutter-UI-Templates) - completely free for everyone. Its build-in Flutter Dart.
 
@@ -515,7 +516,7 @@
 
 *   [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers.
 
-*   [tldraw/tldraw](https://github.com/tldraw/tldraw) - whiteboard SDK / infinite canvas SDK
+*   [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard SDK / infinite canvas SDK
 
 *   [mihomo-party-org/mihomo-party](https://github.com/mihomo-party-org/mihomo-party) - :electron: Another Mihomo GUI.
 
@@ -1237,6 +1238,8 @@
 
 *   [gildas-lormeau/mhtml-to-html](https://github.com/gildas-lormeau/mhtml-to-html) - Convert MHTML to HTML
 
+*   [zero-peak/ZeroOmega](https://github.com/zero-peak/ZeroOmega) - Manage and switch between multiple proxies quickly & easily.
+
 *   [sqeven/siteproxy](https://github.com/sqeven/siteproxy) - site proxy
 
 *   [CrazyCreativeDream/mpl.js](https://github.com/CrazyCreativeDream/mpl.js) - JavaScript Multi Plaform Launcher | 跨Node/WebWorker的JS启动器,支持多个无服务器平台
@@ -1364,8 +1367,6 @@
 *   [breakwa11/gfw\_whitelist](https://github.com/breakwa11/gfw_whitelist) - gfw\_whitelist
 
 *   [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
-
-*   [dylang/node-rss](https://github.com/dylang/node-rss) - RSS feed generator for Node.
 
 ## miscellaneous
 
@@ -1978,10 +1979,6 @@
 *   [naeramarth7/clean-greader](https://github.com/naeramarth7/clean-greader) - clean-greader is a tiny tiny rss theme based on the latest Google Reader and inspired by other Google Services.
 
 *   [FreeCodeCampChina/freecodecamp.cn](https://github.com/FreeCodeCampChina/freecodecamp.cn) - FCC China open source codebase and curriculum. Learn to code and help nonprofits.
-
-## CoffeeScript
-
-*   [zero-peak/ZeroOmega](https://github.com/zero-peak/ZeroOmega) - Manage and switch between multiple proxies quickly & easily.
 
 ## Svelte
 
