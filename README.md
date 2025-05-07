@@ -966,7 +966,7 @@
 
 *   [SheepYang1993/OnlyLive](https://github.com/SheepYang1993/OnlyLive) - 仿手游《混》、《买房记》，练手项目欢迎指点
 
-*   [objectbox/objectbox-java](https://github.com/objectbox/objectbox-java) - Android Database - first and fast, lightweight on-device vector database
+*   [objectbox/objectbox-java](https://github.com/objectbox/objectbox-java) - Database for Android and JVM - first and fast, lightweight on-device vector database
 
 *   [Meituan-Dianping/walle](https://github.com/Meituan-Dianping/walle) - Android Signature V2 Scheme签名下的新一代渠道包打包神器
 
