@@ -18,6 +18,7 @@
 
 ## Table of Contents
 
+*   [CMake](#cmake)
 *   [Kotlin](#kotlin)
 *   [Dart](#dart)
 *   [Vue](#vue)
@@ -61,6 +62,10 @@
 *   [AppleScript](#applescript)
 *   [Scheme](#scheme)
 *   [Thanks](#thanks)
+
+## CMake
+
+*   [zhaozg/luajit-cmake](https://github.com/zhaozg/luajit-cmake) - cmake build for LuaJIT,  macOS, Linux, Windows, MingW, iOS, Android
 
 ## Kotlin
 
@@ -1156,8 +1161,6 @@
 
 *   [MummyDing/Leisure](https://github.com/MummyDing/Leisure) - Leisure is an Android App containing Zhihu Daily,Guokr Scientific,XinhuaNet News and Douban Books
 
-*   [DrKLO/Telegram](https://github.com/DrKLO/Telegram) - Telegram for Android source
-
 ## HTML
 
 *   [vxiaozhi/vocabulary-book-by-deepseek](https://github.com/vxiaozhi/vocabulary-book-by-deepseek) - vocabulary-book-by-deepseek｜使用 DeepSeek 开发实现的四六级、考研、托福单词词汇库， 提供单词的词义、词根、例句、辅助记忆、助记图像等信息|小智晖的AI单词库。
@@ -1200,7 +1203,7 @@
 
 *   [bestZwei/LibreTranslator](https://github.com/bestZwei/LibreTranslator) - 基于 DeepLx 可Cloudflare Pages部署的翻译界面。
 
-*   [bestZwei/ciallo-tts](https://github.com/bestZwei/ciallo-tts) - TTS-文本转语音/文本转语音
+*   [LibreSpark/LibreTTS](https://github.com/LibreSpark/LibreTTS) - TTS-文本转语音/文本转语音前端，兼容OpenAI、EdgeTTS等接口
 
 *   [serverless-dns/serverless-dns](https://github.com/serverless-dns/serverless-dns) - The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, Fastly, and Fly.io
 
