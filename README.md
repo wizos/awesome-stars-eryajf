@@ -1639,7 +1639,7 @@
 
 *   [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm) - Universal LLM Deployment Engine with ML Compilation
 
-*   [8680/GOODBYEADS](https://github.com/8680/GOODBYEADS) - 适用于AdGuard、Qx的去广告规则，合并优质上游规则并去重整理排列。
+*   [8680/GOODBYEADS](https://github.com/8680/GOODBYEADS) - 适用于AdGuard、Quantumult X、SmartDNS的去广告规则，合并优质上游规则并去重整理排列。
 
 *   [panxingfeng/agent\_chat\_wechat](https://github.com/panxingfeng/agent_chat_wechat) - 使用langchain/Ollama开发智能体agent聊天机器人框架，基于VChat框架支持微信的群聊和个人用户聊天，实现飞书机器人的接入，也可接入使用react进行前端UI(支持二次开发)开发框架的AI支持。
 
