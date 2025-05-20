@@ -260,8 +260,6 @@
 
 *   [xiaojia21190/Deno-Augment2Api](https://github.com/xiaojia21190/Deno-Augment2Api) - Deno-Augment2Api
 
-*   [meethuhu/gemini-party](https://github.com/meethuhu/gemini-party) - Gemini Party 是一个基于 Hono 的轻量级 Gemini API 代理服务，支持轮询负载均衡 ，同时支持 Gemini API 格式和 OpenAI 兼容格式的 API 调用。
-
 *   [satnaing/shadcn-admin](https://github.com/satnaing/shadcn-admin) - Admin Dashboard UI built with Shadcn and Vite.
 
 *   [bansal/folder](https://github.com/bansal/folder) - Folder – An open-source Google Drive alternative, powered by Cloudflare. 🚀
@@ -766,6 +764,8 @@
 
 *   [mxn21/FlowingDrawer](https://github.com/mxn21/FlowingDrawer) - swipe display drawer with flowing & bouncing effects.
 
+*   [maoruibin/TranslateApp](https://github.com/maoruibin/TranslateApp) - :memo: A translations app without interruptions, copy words and translate directly, show result by top view.
+
 ## Kotlin
 
 *   [shubham0204/Simple\_Document\_Scanner\_Android](https://github.com/shubham0204/Simple_Document_Scanner_Android) - A simple document scanner app for Android available in two options - API-based and on-device inference
@@ -796,7 +796,7 @@
 
 *   [kmod-midori/CatShare](https://github.com/kmod-midori/CatShare) - 类原生 & 海外设备，现已加入互传联盟。
 
-*   [HdShare/WAuxiliary\_Public](https://github.com/HdShare/WAuxiliary_Public) - WAuxiliary Hook Source
+*   [HdShare/WAuxiliary\_Public](https://github.com/HdShare/WAuxiliary_Public) - WeChat Auxiliary Source
 
 *   [Young-Lord/hideRecent](https://github.com/Young-Lord/hideRecent) - \[Xposed] Hide app from Recent task list / 让某些应用不出现在“最近任务”中
 
@@ -907,6 +907,8 @@
 *   [XilinJia/Podcini](https://github.com/XilinJia/Podcini) - Open source podcast instrument for Android supporting contents from YouTube and YT Music as well as normal podcasts.
 
 *   [xfhy/MLCChat](https://github.com/xfhy/MLCChat) - 部署大模型到Android设备
+
+*   [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 
 *   [Mingyueyixi/MaskWechat](https://github.com/Mingyueyixi/MaskWechat) - 这是一个微信 Xposed 模块，她可以隐藏特定用户的聊天记录，防止私密的聊天被第三人偷看
 
@@ -1100,8 +1102,6 @@
 
 *   [Akylas/OSS-DocumentScanner](https://github.com/Akylas/OSS-DocumentScanner) - Android document document scanning app
 
-*   [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
-
 *   [kihlh/WxDatViewerAutoExportRust](https://github.com/kihlh/WxDatViewerAutoExportRust) - (WxAutoExIm) 自动备份wx聊天图片到指定位置
 
 *   [PetoiCamp/OpenCat](https://github.com/PetoiCamp/OpenCat) - An open source quadruped robot pet framework for developing Boston Dynamics-style four-legged robots that are perfect for STEM, coding & robotics education, IoT robotics applications, AI-enhanced robotics application services, research, and DIY robotics kit development.
@@ -1242,7 +1242,7 @@
 
 *   [Zephyruso/zashboard](https://github.com/Zephyruso/zashboard) - A Dashboard Using Clash API
 
-*   [NitroRCr/AIaW](https://github.com/NitroRCr/AIaW) - AI as Workspace - A better AI (LLM) client. Full-featured, lightweight. Support multiple workspaces, plugin system, cross-platform, local first + real-time cloud sync, Artifacts, MCP | 更好的 AI 客户端
+*   [NitroRCr/AIaW](https://github.com/NitroRCr/AIaW) - AI as Workspace - An elegant AI chat client. Full-featured, lightweight. Support multiple workspaces, plugin system, cross-platform, local first + real-time cloud sync, Artifacts, MCP | 更好的 AI 客户端
 
 *   [Technicalflight/Gptm](https://github.com/Technicalflight/Gptm) - 一个基于 Electron + Vue3 + TypeScript 开发的现代化 AI 聊天客户端🤖A modern AI chat client based on Electron + Vue3 + TypeScript.
 
