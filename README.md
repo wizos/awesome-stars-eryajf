@@ -1316,7 +1316,7 @@
 
 *   [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
 
-*   [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) - Build your own AI friend
+*   [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) - A MCP based chatbot
 
 *   [niedev/RTranslator](https://github.com/niedev/RTranslator) - Open source real-time translation app for Android that runs locally
 
