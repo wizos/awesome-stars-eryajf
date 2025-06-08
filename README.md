@@ -1681,7 +1681,7 @@
 
 *   [russdill/tunsocks](https://github.com/russdill/tunsocks) - User-level IP forwarding, SOCKS proxy, and HTTP proxy for VPNs that provide tun-like interface
 
-*   [netdata/netdata](https://github.com/netdata/netdata) - X-Ray Vision for your infrastructure!
+*   [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
 
 *   [skywind3000/kcp](https://github.com/skywind3000/kcp) - :zap: KCP - A Fast and Reliable ARQ Protocol
 
