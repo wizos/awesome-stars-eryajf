@@ -1049,7 +1049,7 @@
 
 *   [Robert-Stackflow/CloudOTP](https://github.com/Robert-Stackflow/CloudOTP) - An awesome two-factor authenticator based on Flutter, supports Android, Windows and Linux platforms, and supports multiple cloud backup methods such as Onedrive, Dropbox, WebDAV, S3Cloud, etc.基于 Flutter 的双因素验证器，支持Android、Windows和Linux平台，支持Onedrive、Dropbox、WebDAV、S3Cloud等多种云备份方式。
 
-*   [theachoem/storypad](https://github.com/theachoem/storypad) - Minimalist app to write stories, notes, diary with 80k+ downloads. 🪴 Designed with simplicity in mind, both in its UI and codebase. Built with Flutter!
+*   [theachoem/storypad](https://github.com/theachoem/storypad) - An open source diary & journal app with over 90,000 downloads 🪴
 
 *   [mitesh77/Best-Flutter-UI-Templates](https://github.com/mitesh77/Best-Flutter-UI-Templates) - completely free for everyone. Its build-in Flutter Dart.
 
@@ -1241,7 +1241,7 @@
 
 *   [msasikanth/twine](https://github.com/msasikanth/twine) - Twine: A multiplatform RSS reader built using Kotlin and Compose
 
-*   [Darkempire78/OpenCalc](https://github.com/Darkempire78/OpenCalc) - A simple and beautiful calculator for Android
+*   [clementwzk/OpenCalc](https://github.com/clementwzk/OpenCalc) - A simple and beautiful calculator for Android
 
 *   [deniscerri/ytdlnis](https://github.com/deniscerri/ytdlnis) - Full Featured Video/Audio Downloader for Android using yt-dlp
 
