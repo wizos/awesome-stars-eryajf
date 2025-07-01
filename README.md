@@ -575,8 +575,6 @@
 
 *   [orgzly-revived/orgzly-android-revived](https://github.com/orgzly-revived/orgzly-android-revived) - Outliner for taking notes and managing to-do lists
 
-*   [greatfire/envoy](https://github.com/greatfire/envoy) - C and Java Library derived from Chromium Cronet which can be used to make Android apps resistant to censorship
-
 *   [danilkinkin/buckwheat](https://github.com/danilkinkin/buckwheat) - App that helps you spend money wisely for Android made with Jetpack Compose
 
 *   [KotatsuApp/Kotatsu](https://github.com/KotatsuApp/Kotatsu) - Manga reader for Android
@@ -1990,6 +1988,8 @@
 *   [robertying/shadowsocks-macos](https://github.com/robertying/shadowsocks-macos) - Shadowsocks client for macOS, with support for Apple Silicon (arm64) and Intel (x86\_64)
 
 *   [coteditor/CotEditor](https://github.com/coteditor/CotEditor) - Lightweight Plain-Text Editor for macOS
+
+*   [greatfire/envoy](https://github.com/greatfire/envoy) - C and Java Library derived from Chromium Cronet which can be used to make Android apps resistant to censorship
 
 *   [nmdias/FeedKit](https://github.com/nmdias/FeedKit) - FeedKit is a Swift library for Reading and Generating RSS, Atom, and JSON feeds.
 
