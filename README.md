@@ -18,6 +18,7 @@
 
 ## Table of Contents
 
+*   [Dart](#dart)
 *   [Kotlin](#kotlin)
 *   [JavaScript](#javascript)
 *   [Go](#go)
@@ -28,7 +29,6 @@
 *   [Python](#python)
 *   [Java](#java)
 *   [AutoHotkey](#autohotkey)
-*   [Dart](#dart)
 *   [MDX](#mdx)
 *   [CMake](#cmake)
 *   [Vue](#vue)
@@ -62,8 +62,81 @@
 *   [Less](#less)
 *   [Lex](#lex)
 *   [AppleScript](#applescript)
-*   [Scheme](#scheme)
 *   [Thanks](#thanks)
+
+## Dart
+
+*   [bggRGjQaUbCoE/PiliPlus](https://github.com/bggRGjQaUbCoE/PiliPlus) - PiliPlus
+
+*   [sun-jiao/flut-renamer](https://github.com/sun-jiao/flut-renamer) - Flut Renamer - A bulk file renamer written in flutter (dart). Available on Linux, Windows, Android, iOS and macOS.
+
+*   [bipark/my\_ollama\_app](https://github.com/bipark/my_ollama_app) - MyOllama: Ollama-based LLM mobile client
+
+*   [Robert-Stackflow/CloudOTP](https://github.com/Robert-Stackflow/CloudOTP) - An awesome two-factor authenticator based on Flutter, supports Android, Windows and Linux platforms, and supports multiple cloud backup methods such as Onedrive, Dropbox, WebDAV, S3Cloud, etc.基于 Flutter 的双因素验证器，支持Android、Windows和Linux平台，支持Onedrive、Dropbox、WebDAV、S3Cloud等多种云备份方式。
+
+*   [theachoem/storypad](https://github.com/theachoem/storypad) - An open source diary & journal app with over 90,000 downloads 🪴
+
+*   [mitesh77/Best-Flutter-UI-Templates](https://github.com/mitesh77/Best-Flutter-UI-Templates) - completely free for everyone. Its build-in Flutter Dart.
+
+*   [TigerEyeLabs/duckdb-dart](https://github.com/TigerEyeLabs/duckdb-dart) - DuckDB Dart bindings.
+
+*   [KaringX/clashmi](https://github.com/KaringX/clashmi) - Clash Mihomo for iOS/Android
+
+*   [Notsfsssf/pixez-flutter](https://github.com/Notsfsssf/pixez-flutter) - 一个支持免代理直连及查看动图的第三方Pixiv flutter客户端
+
+*   [dart-lang/dart-pad](https://github.com/dart-lang/dart-pad) - An online Dart editor with support for console, web, and Flutter apps.
+
+*   [davidche1116/Sms](https://github.com/davidche1116/Sms) - 短信清理工具
+
+*   [openwebf/webf](https://github.com/openwebf/webf) - Connect Web, Flutter, and Rust development into one platform.
+
+*   [ZhuJHua/moodiary](https://github.com/ZhuJHua/moodiary) - A fully open source cross-platform diary app written by flutter and rust.
+
+*   [fanenr/flutter-chatbot](https://github.com/fanenr/flutter-chatbot) -
+
+*   [JHubi1/ollama-app](https://github.com/JHubi1/ollama-app) - A modern and easy-to-use client for Ollama
+
+*   [mumu-lhl/Ciyue](https://github.com/mumu-lhl/Ciyue) - A simple mdict dictionary with Android/Windows/Linux support
+
+*   [j-fbriere/squawker](https://github.com/j-fbriere/squawker) - An open-source privacy oriented Twitter/X client
+
+*   [ys1231/appproxy](https://github.com/ys1231/appproxy) - 基于flutter的Android vpn代理工具 Android VPN Proxy Tool Based on Flutter
+
+*   [Predidit/Kazumi](https://github.com/Predidit/Kazumi) - 基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。
+
+*   [Sanmeet007/logger](https://github.com/Sanmeet007/logger) - Logger is a Flutter-based Android app that enables you to view and export call logs in CSV or JSON format and perform lightweight on-device analysis.
+
+*   [chen08209/FlClash](https://github.com/chen08209/FlClash) - A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
+
+*   [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
+
+*   [lollipopkit/flutter\_gpt\_box](https://github.com/lollipopkit/flutter_gpt_box) - GPTBox - a third-party client for OpenAI API.
+
+*   [Anxcye/anx-reader](https://github.com/Anxcye/anx-reader) - Featuring powerful AI capabilities and supporting various e-book formats, it makes reading smarter and more focused.
+
+*   [TheHCJ/Quacker](https://github.com/TheHCJ/Quacker) - Privacy respecting, fritter fork with feeds
+
+*   [KaringX/karing](https://github.com/KaringX/karing) - Simple & Powerful proxy utility, Support routing rules for clash/sing-box
+
+*   [hiddify/hiddify-app](https://github.com/hiddify/hiddify-app) - Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.
+
+*   [Kaiteki-Fedi/Kaiteki](https://github.com/Kaiteki-Fedi/Kaiteki) - The comfy SNS client for everything, everywhere
+
+*   [miru-project/miru-app](https://github.com/miru-project/miru-app) - 🎉 A versatile application that is free, open-source, and supports extension sources for videos, comics, and novels, available on Android, Windows, and Web platforms.
+
+*   [mabDc/eso](https://github.com/mabDc/eso) - 亦搜，亦看，亦闻  manga\&novel reader, audio\&video player in one app developed by flutter
+
+*   [wanghongenpin/proxypin](https://github.com/wanghongenpin/proxypin) - Open source free capture HTTP(S) traffic  software ProxyPin, supporting full platform systems
+
+*   [gvenusleo/MeRead](https://github.com/gvenusleo/MeRead) - A RSS reader built with Flutter and designed with Material You. 简洁、易用的 RSS 阅读器，使用 Flutter 构建和 Material You 设计
+
+*   [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
+
+*   [marchellodev/sharik](https://github.com/marchellodev/sharik) - Sharik is an open-source, cross-platform solution for sharing files via Wi-Fi or Mobile Hotspot
+
+*   [yang991178/fluent-reader-lite](https://github.com/yang991178/fluent-reader-lite) - Simplistic mobile RSS client built with Flutter
+
+*   [tsacdop/tsacdop](https://github.com/tsacdop/tsacdop) - Enjoy podcasts with Tsacdop!  A podcast player built with flutter.
 
 ## Kotlin
 
@@ -1151,7 +1224,7 @@
 
 *   [TheD0ubleC/NeoAI](https://github.com/TheD0ubleC/NeoAI) - NeoAI: 无需编写代码，只需会打字！让 AI 用简单的自然语言指令接管你的电脑！ NeoAI 是一款开源工具，重新定义了 AI 的交互方式——支持文件管理、任务自动化、定时操作和跨平台设备控制，并内置安全保护。 NeoAI: No Coding Required, Just Typing! Manage files, automate tasks, schedule operations, and control devices with built-in security. NeoAI = 真正的人工智能 + 系统交互！ NeoAI, The Real AI.
 
-*   [XiaoYouChR/Ghost-Downloader-3](https://github.com/XiaoYouChR/Ghost-Downloader-3) - A cross-platform fluent-design AI-boost multi-threaded downloader built with Python.
+*   [XiaoYouChR/Ghost-Downloader-3](https://github.com/XiaoYouChR/Ghost-Downloader-3) - A cross-platform QUIC fluent-design AI-boost multi-threaded downloader built with Python.
 
 *   [senshinya/singbox\_ruleset](https://github.com/senshinya/singbox_ruleset) -
 
@@ -1657,78 +1730,6 @@
 
 *   [zhugecaomao/ALTRun](https://github.com/zhugecaomao/ALTRun) - 一款轻量、高效、功能强大的启动工具
 
-## Dart
-
-*   [sun-jiao/flut-renamer](https://github.com/sun-jiao/flut-renamer) - Flut Renamer - A bulk file renamer written in flutter (dart). Available on Linux, Windows, Android, iOS and macOS.
-
-*   [bipark/my\_ollama\_app](https://github.com/bipark/my_ollama_app) - MyOllama: Ollama-based LLM mobile client
-
-*   [Robert-Stackflow/CloudOTP](https://github.com/Robert-Stackflow/CloudOTP) - An awesome two-factor authenticator based on Flutter, supports Android, Windows and Linux platforms, and supports multiple cloud backup methods such as Onedrive, Dropbox, WebDAV, S3Cloud, etc.基于 Flutter 的双因素验证器，支持Android、Windows和Linux平台，支持Onedrive、Dropbox、WebDAV、S3Cloud等多种云备份方式。
-
-*   [theachoem/storypad](https://github.com/theachoem/storypad) - An open source diary & journal app with over 90,000 downloads 🪴
-
-*   [mitesh77/Best-Flutter-UI-Templates](https://github.com/mitesh77/Best-Flutter-UI-Templates) - completely free for everyone. Its build-in Flutter Dart.
-
-*   [TigerEyeLabs/duckdb-dart](https://github.com/TigerEyeLabs/duckdb-dart) - DuckDB Dart bindings.
-
-*   [KaringX/clashmi](https://github.com/KaringX/clashmi) - Clash Mihomo for iOS/Android
-
-*   [Notsfsssf/pixez-flutter](https://github.com/Notsfsssf/pixez-flutter) - 一个支持免代理直连及查看动图的第三方Pixiv flutter客户端
-
-*   [dart-lang/dart-pad](https://github.com/dart-lang/dart-pad) - An online Dart editor with support for console, web, and Flutter apps.
-
-*   [davidche1116/Sms](https://github.com/davidche1116/Sms) - 短信清理工具
-
-*   [openwebf/webf](https://github.com/openwebf/webf) - Connect Web, Flutter, and Rust development into one platform.
-
-*   [ZhuJHua/moodiary](https://github.com/ZhuJHua/moodiary) - A fully open source cross-platform diary app written by flutter and rust.
-
-*   [fanenr/flutter-chatbot](https://github.com/fanenr/flutter-chatbot) -
-
-*   [JHubi1/ollama-app](https://github.com/JHubi1/ollama-app) - A modern and easy-to-use client for Ollama
-
-*   [mumu-lhl/Ciyue](https://github.com/mumu-lhl/Ciyue) - A simple mdict dictionary with Android/Windows/Linux support
-
-*   [j-fbriere/squawker](https://github.com/j-fbriere/squawker) - An open-source privacy oriented Twitter/X client
-
-*   [ys1231/appproxy](https://github.com/ys1231/appproxy) - 基于flutter的Android vpn代理工具 Android VPN Proxy Tool Based on Flutter
-
-*   [Predidit/Kazumi](https://github.com/Predidit/Kazumi) - 基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。
-
-*   [Sanmeet007/logger](https://github.com/Sanmeet007/logger) - Logger is a Flutter-based Android app that enables you to view and export call logs in CSV or JSON format and perform lightweight on-device analysis.
-
-*   [chen08209/FlClash](https://github.com/chen08209/FlClash) - A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
-
-*   [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
-
-*   [lollipopkit/flutter\_gpt\_box](https://github.com/lollipopkit/flutter_gpt_box) - GPTBox - a third-party client for OpenAI API.
-
-*   [Anxcye/anx-reader](https://github.com/Anxcye/anx-reader) - Featuring powerful AI capabilities and supporting various e-book formats, it makes reading smarter and more focused.
-
-*   [TheHCJ/Quacker](https://github.com/TheHCJ/Quacker) - Privacy respecting, fritter fork with feeds
-
-*   [KaringX/karing](https://github.com/KaringX/karing) - Simple & Powerful proxy utility, Support routing rules for clash/sing-box
-
-*   [hiddify/hiddify-app](https://github.com/hiddify/hiddify-app) - Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.
-
-*   [Kaiteki-Fedi/Kaiteki](https://github.com/Kaiteki-Fedi/Kaiteki) - The comfy SNS client for everything, everywhere
-
-*   [miru-project/miru-app](https://github.com/miru-project/miru-app) - 🎉 A versatile application that is free, open-source, and supports extension sources for videos, comics, and novels, available on Android, Windows, and Web platforms.
-
-*   [mabDc/eso](https://github.com/mabDc/eso) - 亦搜，亦看，亦闻  manga\&novel reader, audio\&video player in one app developed by flutter
-
-*   [wanghongenpin/proxypin](https://github.com/wanghongenpin/proxypin) - Open source free capture HTTP(S) traffic  software ProxyPin, supporting full platform systems
-
-*   [gvenusleo/MeRead](https://github.com/gvenusleo/MeRead) - A RSS reader built with Flutter and designed with Material You. 简洁、易用的 RSS 阅读器，使用 Flutter 构建和 Material You 设计
-
-*   [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
-
-*   [marchellodev/sharik](https://github.com/marchellodev/sharik) - Sharik is an open-source, cross-platform solution for sharing files via Wi-Fi or Mobile Hotspot
-
-*   [yang991178/fluent-reader-lite](https://github.com/yang991178/fluent-reader-lite) - Simplistic mobile RSS client built with Flutter
-
-*   [tsacdop/tsacdop](https://github.com/tsacdop/tsacdop) - Enjoy podcasts with Tsacdop!  A podcast player built with flutter.
-
 ## MDX
 
 *   [weijunext/gapis.money](https://github.com/weijunext/gapis.money) - Knowledge is power, Gap is money! 「信息差——独立开发者出海周刊」是一个帮助独立开发者缩小信息差的技术周刊。
@@ -2150,10 +2151,6 @@
 ## AppleScript
 
 *   [amoblin/gitman](https://github.com/amoblin/gitman) - GitMan：基于Git的网盘式文件同步工具
-
-## Scheme
-
-*   [cisco/ChezScheme](https://github.com/cisco/ChezScheme) - Chez Scheme
 
 ## Thanks
 
