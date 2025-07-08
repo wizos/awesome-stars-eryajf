@@ -18,11 +18,11 @@
 
 ## Table of Contents
 
+*   [TypeScript](#typescript)
 *   [Dart](#dart)
 *   [Kotlin](#kotlin)
 *   [JavaScript](#javascript)
 *   [Go](#go)
-*   [TypeScript](#typescript)
 *   [Rust](#rust)
 *   [miscellaneous](#miscellaneous)
 *   [C++](#c)
@@ -63,6 +63,158 @@
 *   [Lex](#lex)
 *   [AppleScript](#applescript)
 *   [Thanks](#thanks)
+
+## TypeScript
+
+*   [mnixry/direct-android-ruleset](https://github.com/mnixry/direct-android-ruleset) - 帮 Android 手机绕开国产 App 的包名合集。规则基于多个应用市场榜单自动抓取包名生成，每天自动更新🍃
+
+*   [pwh-pwh/DenoProxy](https://github.com/pwh-pwh/DenoProxy) - 利用Deno提供的服务进行代理中转
+
+*   [OneOhCloud/OneBox](https://github.com/OneOhCloud/OneBox) - OneBox is a cross-platform GUI client based on the sing-box kernel. \n Onebox 是一个基于sing-box 内核的跨平台图形客户端
+
+*   [doayapp/doay](https://github.com/doayapp/doay) - 基于 Rust + TypeScript 开发的跨平台 Xray GUI 客户端，采用现代化架构设计，现已支持 MacOS、Windows 和 Linux，未来计划移植至 iOS 和 Android 平台
+
+*   [cooderl/wewe-rss](https://github.com/cooderl/wewe-rss) - 🤗更优雅的微信公众号订阅方式，支持私有化部署、微信公众号RSS生成（基于微信读书）
+
+*   [MoYuM/notion2rss](https://github.com/MoYuM/notion2rss) - Convert your Notion database into an RSS feed using Cloudflare Workers
+
+*   [mg-chao/snow-shot](https://github.com/mg-chao/snow-shot) - 简单优雅的工具软件
+
+*   [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java, Dart). Use what you love ❤️ Angular, React, Solid, Svelte, Vue with: iOS (UIKit, SwiftUI), Android (View, Jetpack Compose), Dart (Flutter) and you name it compatible.
+
+*   [mattf96s/QuackDB](https://github.com/mattf96s/QuackDB) - Open-source in-browser DuckDB SQL editor
+
+*   [xiaojia21190/Deno-Augment2Api](https://github.com/xiaojia21190/Deno-Augment2Api) - Deno-Augment2Api
+
+*   [satnaing/shadcn-admin](https://github.com/satnaing/shadcn-admin) - Admin Dashboard UI built with Shadcn and Vite.
+
+*   [bansal/folder](https://github.com/bansal/folder) - Folder – An open-source Google Drive alternative
+
+*   [kunkunsh/kunkun](https://github.com/kunkunsh/kunkun) - An open source, cross-platform, extensible app launcher.
+
+*   [readest/readest](https://github.com/readest/readest) - Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading experience.
+
+*   [HiveNexus/HiveChat](https://github.com/HiveNexus/HiveChat) - An AI chat bot for small and medium-sized teams, supporting models such as Deepseek, Open AI, Claude, and Gemini. 专为中小团队设计的 AI 聊天应用，支持 Deepseek、Open AI、Claude、Gemini 等模型。
+
+*   [fmaclen/hollama](https://github.com/fmaclen/hollama) - A minimal LLM chat app that runs entirely in your browser
+
+*   [ztjhz/BetterChatGPT](https://github.com/ztjhz/BetterChatGPT) - An amazing UI for OpenAI's ChatGPT (Website + Windows + MacOS + Linux)
+
+*   [a-ghorbani/pocketpal-ai](https://github.com/a-ghorbani/pocketpal-ai) - An app that brings language models directly to your phone.
+
+*   [NeatChat/NeatChat](https://github.com/NeatChat/NeatChat) - 基于 NextChat 深度重构，一个更优雅、更强大的 AI 对话解决方案
+
+*   [yzfly/pocketpal-ai-zh](https://github.com/yzfly/pocketpal-ai-zh) - 口袋AI，将世界知识装进口袋。pocketpal-ai 中文版
+
+*   [joschi/blueskyfeedbot](https://github.com/joschi/blueskyfeedbot) -  A bot that posts RSS feeds to Bluesky via GitHub Actions
+
+*   [coaidev/coai](https://github.com/coaidev/coai) - 🚀 Next Generation AI One-Stop Internationalization Solution. 🚀 下一代 AI 一站式 B/C 端解决方案，支持 OpenAI，Midjourney，Claude，讯飞星火，Stable Diffusion，DALL·E，ChatGLM，通义千问，腾讯混元，360 智脑，百川 AI，火山方舟，新必应，Gemini，Moonshot 等模型，支持对话分享，自定义预设，云端同步，模型市场，支持弹性计费和订阅计划模式，支持图片解析，支持联网搜索，支持模型缓存，丰富美观的后台管理与仪表盘数据统计。
+
+*   [frostming/fxzhihu](https://github.com/frostming/fxzhihu) - 为知乎生成可分享的卡片及 Instant View
+
+*   [codexu/note-gen](https://github.com/codexu/note-gen) - A cross-platform Markdown note-taking application dedicated to using AI to bridge recording and writing, organizing fragmented knowledge into a readable note.
+
+*   [wizardAEI/Gomoon](https://github.com/wizardAEI/Gomoon) - Gomoon 基于大模型的桌面端效率工具
+
+*   [modstart-lib/linkandroid](https://github.com/modstart-lib/linkandroid) - Link Android and PC easily! 全能手机连接助手！
+
+*   [snakeying/GPT-Telegram-Worker](https://github.com/snakeying/GPT-Telegram-Worker) - A multi-model AI Telegram bot powered by Cloudflare Workers, supporting various APIs including OpenAI, Claude, and Azure. Developed in TypeScript with a modular design for easy expansion.基于 Cloudflare Workers 的多模型 AI Telegram 机器人，支持 OpenAI、Claude、Azure 等多个 API，采用 TypeScript 开发，模块化设计便于扩展。
+
+*   [zaidmukaddam/scira](https://github.com/zaidmukaddam/scira) - Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet and cites it too. Powered by Vercel AI SDK! Search with models like xAI's Grok 3.
+
+*   [mikeccroberts/Gemini-Search](https://github.com/mikeccroberts/Gemini-Search) - Perplexity style AI Search engine clone built with Gemini 2.0 Flash and Grounding
+
+*   [ammaarreshi/Gemini-Search](https://github.com/ammaarreshi/Gemini-Search) - Perplexity style AI Search engine clone built with Gemini 2.0 Flash and Grounding
+
+*   [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers.
+
+*   [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard SDK / infinite canvas SDK
+
+*   [mihomo-party-org/mihomo-party](https://github.com/mihomo-party-org/mihomo-party) - :electron: Another Mihomo GUI.
+
+*   [SukkaW/Surge](https://github.com/SukkaW/Surge) - Rule Snippet & Rule Set for Surge / Mihomo (Clash.Meta) / Clash Premium (Dreamacro) / sing-box / Surfboard for Android / Stash
+
+*   [aigem/CFr2-webdav](https://github.com/aigem/CFr2-webdav) - 使用 Cloudflare Workers 和 R2 实现了一个兼容 WebDAV 的服务器
+
+*   [abersheeran/r2-webdav](https://github.com/abersheeran/r2-webdav) - Use Cloudflare Workers to provide a WebDav interface for Cloudflare R2.
+
+*   [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern design AI chat framework. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modal (Plugins / Artifacts / MCP) and thinking. One-click FREE deployment of your private ChatGPT/ Claude / DeepSeek application.
+
+*   [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
+
+*   [LLM-Red-Team/kimi-free-api](https://github.com/LLM-Red-Team/kimi-free-api) - 🚀 KIMI AI 长文本大模型逆向API【特长：长文本解读整理】，支持高速流式输出、智能体对话、联网搜索、探索版、K1思考模型、长文档解读、图像解析、多轮对话，零配置部署，多路token支持，自动清理会话痕迹，仅供测试，如需商用请前往官方开放平台。
+
+*   [caorushizi/mediago](https://github.com/caorushizi/mediago) - 跨平台视频提取工具：支持流媒体下载、视频下载、m3u8 下载及 B站视频下载，提供 Windows 和 Mac 桌面客户端。Cross-platform video extraction tool: Supports streaming download, video download, m3u8 download, and Bilibili video download, with desktop clients for Windows and Mac.
+
+*   [lisonge/vite-plugin-monkey](https://github.com/lisonge/vite-plugin-monkey) - A vite plugin server and build your.user.js for userscript engine like Tampermonkey, Violentmonkey, Greasemonkey, ScriptCat
+
+*   [1653756334/claude-imitate](https://github.com/1653756334/claude-imitate) - 模仿 claude 界面的一个网站，对claude进行仿写
+
+*   [idootop/mi-gpt](https://github.com/idootop/mi-gpt) - 🏠 将小爱音箱接入 ChatGPT 和豆包，改造成你的专属语音助手。
+
+*   [AIsouler/GKD\_subscription](https://github.com/AIsouler/GKD_subscription) - GKD 第三方订阅规则
+
+*   [zuisong/gemini-openai-proxy](https://github.com/zuisong/gemini-openai-proxy) - OpenAI to Google Gemini         https://gemini-openai-proxy.deno.dev
+
+*   [Jazee6/cloudflare-ai-web](https://github.com/Jazee6/cloudflare-ai-web) - 支持Gemini Pro / Cloudflare Workers AI / ChatGPT的融合Web平台
+
+*   [ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english) - 人人都能用英语
+
+*   [smol-ai/GodMode](https://github.com/smol-ai/GodMode) - AI Chat Browser: Fast, Full webapp access to ChatGPT / Claude / Bard / Bing / Llama2! I use this 20 times a day.
+
+*   [AdguardTeam/ExtendedCss](https://github.com/AdguardTeam/ExtendedCss) - A TypeScript library for non-standard element selecting — :contains(), :matches-css(), etc., and applying CSS styles with extended properties.
+
+*   [noghartt/youtube-rss](https://github.com/noghartt/youtube-rss) - A simple web tool to get the RSS feed link from a YouTube channel
+
+*   [zzzgydi/clash-verge](https://github.com/zzzgydi/clash-verge) - A Clash GUI based on tauri. Supports Windows, macOS and Linux.
+
+*   [justjavac/zhihu-trending-hot-questions](https://github.com/justjavac/zhihu-trending-hot-questions) - 知乎热门话题，记录从 2020-11-24 日开始的知乎热门话题。每小时抓取一次数据，按天归档。
+
+*   [justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search) - 知乎热搜榜，记录从 2020-11-24 日开始的知乎热搜榜单。每小时抓取一次数据，按天归档。
+
+*   [jehna/mastofeeder](https://github.com/jehna/mastofeeder) - RSS to ActivityPub bridge
+
+*   [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
+
+*   [codebdy/rxdrag](https://github.com/codebdy/rxdrag) - Design anything based on HTML, 可视化编辑， 带逻辑引擎的低代码前端。
+
+*   [ourongxing/chatgpt-vercel](https://github.com/ourongxing/chatgpt-vercel) - Elegant and Powerfull. Powered by OpenAI and Vercel.
+
+*   [zu1k/bs-core](https://github.com/zu1k/bs-core) - Easy and blazing-fast book searcher, create and search your private library.
+
+*   [VideoRoll/VideoRoll](https://github.com/VideoRoll/VideoRoll) - 📺All-in-One browser extension to enhance your video watching experience.
+
+*   [visiky/resume](https://github.com/visiky/resume) - 🚀 在线简历生成器
+
+*   [alexdevero/rss-finder-web-app](https://github.com/alexdevero/rss-finder-web-app) - Web app to help you find URLs for existing RSS feeds from website URLs.
+
+*   [nojsja/shadowsocks-electron](https://github.com/nojsja/shadowsocks-electron) - Shadowsocks GUI application made for Ubuntu / Mac / Win users and powered by Electron.
+
+*   [Tencent/vConsole](https://github.com/Tencent/vConsole) - A lightweight, extendable front-end developer tool for mobile web page.
+
+*   [haishanh/feedo](https://github.com/haishanh/feedo) - A Next.js app that provides RSS feeds for some sites that I enjoyed
+
+*   [hewenguang/circle](https://github.com/hewenguang/circle) - 让网页赏心悦目、让阅读回归初心。Circle 阅读模式提供更隐私、更轻松、更舒适的网页阅读体验
+
+*   [actionsflow/actionsflow](https://github.com/actionsflow/actionsflow) - The free Zapier/IFTTT alternative for developers to automate your workflows based on Github actions
+
+*   [damoeb/rss-proxy](https://github.com/damoeb/rss-proxy) - RSS-proxy allows you to do create an RSS or ATOM feed of almost any website, just by analyzing just the static HTML structure.
+
+*   [wenyan-lang/wenyan](https://github.com/wenyan-lang/wenyan) - 文言文編程語言 A programming language for the ancient Chinese.
+
+*   [FirefoxBar/HeaderEditor](https://github.com/FirefoxBar/HeaderEditor) - Manage browser's requests, include modify the request headers and response headers, redirect requests, cancel requests
+
+*   [loadchange/gwm](https://github.com/loadchange/gwm) - 🍭gwm.js Generate Watermark  用于生成网页水印，警示信息安全与责任追踪。
+
+*   [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
+
+*   [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket:A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder
+
+*   [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
+
+*   [zgq354/weibo-rss](https://github.com/zgq354/weibo-rss) - 🍰 把某人最近的微博转为 RSS 订阅源
+
+*   [lesspass/lesspass](https://github.com/lesspass/lesspass) - :key: stateless open source password manager
 
 ## Dart
 
@@ -758,156 +910,6 @@
 
 *   [Wox-launcher/Wox](https://github.com/Wox-launcher/Wox) - A cross-platform launcher that simply works
 
-## TypeScript
-
-*   [pwh-pwh/DenoProxy](https://github.com/pwh-pwh/DenoProxy) - 利用Deno提供的服务进行代理中转
-
-*   [OneOhCloud/OneBox](https://github.com/OneOhCloud/OneBox) - OneBox is a cross-platform GUI client based on the sing-box kernel. \n Onebox 是一个基于sing-box 内核的跨平台图形客户端
-
-*   [doayapp/doay](https://github.com/doayapp/doay) - 基于 Rust + TypeScript 开发的跨平台 Xray GUI 客户端，采用现代化架构设计，现已支持 MacOS、Windows 和 Linux，未来计划移植至 iOS 和 Android 平台
-
-*   [cooderl/wewe-rss](https://github.com/cooderl/wewe-rss) - 🤗更优雅的微信公众号订阅方式，支持私有化部署、微信公众号RSS生成（基于微信读书）
-
-*   [MoYuM/notion2rss](https://github.com/MoYuM/notion2rss) - Convert your Notion database into an RSS feed using Cloudflare Workers
-
-*   [mg-chao/snow-shot](https://github.com/mg-chao/snow-shot) - 简单优雅的工具软件
-
-*   [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java, Dart). Use what you love ❤️ Angular, React, Solid, Svelte, Vue with: iOS (UIKit, SwiftUI), Android (View, Jetpack Compose), Dart (Flutter) and you name it compatible.
-
-*   [mattf96s/QuackDB](https://github.com/mattf96s/QuackDB) - Open-source in-browser DuckDB SQL editor
-
-*   [xiaojia21190/Deno-Augment2Api](https://github.com/xiaojia21190/Deno-Augment2Api) - Deno-Augment2Api
-
-*   [satnaing/shadcn-admin](https://github.com/satnaing/shadcn-admin) - Admin Dashboard UI built with Shadcn and Vite.
-
-*   [bansal/folder](https://github.com/bansal/folder) - Folder – An open-source Google Drive alternative
-
-*   [kunkunsh/kunkun](https://github.com/kunkunsh/kunkun) - An open source, cross-platform, extensible app launcher.
-
-*   [readest/readest](https://github.com/readest/readest) - Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading experience.
-
-*   [HiveNexus/HiveChat](https://github.com/HiveNexus/HiveChat) - An AI chat bot for small and medium-sized teams, supporting models such as Deepseek, Open AI, Claude, and Gemini. 专为中小团队设计的 AI 聊天应用，支持 Deepseek、Open AI、Claude、Gemini 等模型。
-
-*   [fmaclen/hollama](https://github.com/fmaclen/hollama) - A minimal LLM chat app that runs entirely in your browser
-
-*   [ztjhz/BetterChatGPT](https://github.com/ztjhz/BetterChatGPT) - An amazing UI for OpenAI's ChatGPT (Website + Windows + MacOS + Linux)
-
-*   [a-ghorbani/pocketpal-ai](https://github.com/a-ghorbani/pocketpal-ai) - An app that brings language models directly to your phone.
-
-*   [NeatChat/NeatChat](https://github.com/NeatChat/NeatChat) - 基于 NextChat 深度重构，一个更优雅、更强大的 AI 对话解决方案
-
-*   [yzfly/pocketpal-ai-zh](https://github.com/yzfly/pocketpal-ai-zh) - 口袋AI，将世界知识装进口袋。pocketpal-ai 中文版
-
-*   [joschi/blueskyfeedbot](https://github.com/joschi/blueskyfeedbot) -  A bot that posts RSS feeds to Bluesky via GitHub Actions
-
-*   [coaidev/coai](https://github.com/coaidev/coai) - 🚀 Next Generation AI One-Stop Internationalization Solution. 🚀 下一代 AI 一站式 B/C 端解决方案，支持 OpenAI，Midjourney，Claude，讯飞星火，Stable Diffusion，DALL·E，ChatGLM，通义千问，腾讯混元，360 智脑，百川 AI，火山方舟，新必应，Gemini，Moonshot 等模型，支持对话分享，自定义预设，云端同步，模型市场，支持弹性计费和订阅计划模式，支持图片解析，支持联网搜索，支持模型缓存，丰富美观的后台管理与仪表盘数据统计。
-
-*   [frostming/fxzhihu](https://github.com/frostming/fxzhihu) - 为知乎生成可分享的卡片及 Instant View
-
-*   [codexu/note-gen](https://github.com/codexu/note-gen) - A cross-platform Markdown note-taking application dedicated to using AI to bridge recording and writing, organizing fragmented knowledge into a readable note.
-
-*   [wizardAEI/Gomoon](https://github.com/wizardAEI/Gomoon) - Gomoon 基于大模型的桌面端效率工具
-
-*   [modstart-lib/linkandroid](https://github.com/modstart-lib/linkandroid) - Link Android and PC easily! 全能手机连接助手！
-
-*   [snakeying/GPT-Telegram-Worker](https://github.com/snakeying/GPT-Telegram-Worker) - A multi-model AI Telegram bot powered by Cloudflare Workers, supporting various APIs including OpenAI, Claude, and Azure. Developed in TypeScript with a modular design for easy expansion.基于 Cloudflare Workers 的多模型 AI Telegram 机器人，支持 OpenAI、Claude、Azure 等多个 API，采用 TypeScript 开发，模块化设计便于扩展。
-
-*   [zaidmukaddam/scira](https://github.com/zaidmukaddam/scira) - Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet and cites it too. Powered by Vercel AI SDK! Search with models like xAI's Grok 3.
-
-*   [mikeccroberts/Gemini-Search](https://github.com/mikeccroberts/Gemini-Search) - Perplexity style AI Search engine clone built with Gemini 2.0 Flash and Grounding
-
-*   [ammaarreshi/Gemini-Search](https://github.com/ammaarreshi/Gemini-Search) - Perplexity style AI Search engine clone built with Gemini 2.0 Flash and Grounding
-
-*   [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers.
-
-*   [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard SDK / infinite canvas SDK
-
-*   [mihomo-party-org/mihomo-party](https://github.com/mihomo-party-org/mihomo-party) - :electron: Another Mihomo GUI.
-
-*   [SukkaW/Surge](https://github.com/SukkaW/Surge) - Rule Snippet & Rule Set for Surge / Mihomo (Clash.Meta) / Clash Premium (Dreamacro) / sing-box / Surfboard for Android / Stash
-
-*   [aigem/CFr2-webdav](https://github.com/aigem/CFr2-webdav) - 使用 Cloudflare Workers 和 R2 实现了一个兼容 WebDAV 的服务器
-
-*   [abersheeran/r2-webdav](https://github.com/abersheeran/r2-webdav) - Use Cloudflare Workers to provide a WebDav interface for Cloudflare R2.
-
-*   [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern design AI chat framework. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modal (Plugins / Artifacts / MCP) and thinking. One-click FREE deployment of your private ChatGPT/ Claude / DeepSeek application.
-
-*   [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
-
-*   [LLM-Red-Team/kimi-free-api](https://github.com/LLM-Red-Team/kimi-free-api) - 🚀 KIMI AI 长文本大模型逆向API【特长：长文本解读整理】，支持高速流式输出、智能体对话、联网搜索、探索版、K1思考模型、长文档解读、图像解析、多轮对话，零配置部署，多路token支持，自动清理会话痕迹，仅供测试，如需商用请前往官方开放平台。
-
-*   [caorushizi/mediago](https://github.com/caorushizi/mediago) - 跨平台视频提取工具：支持流媒体下载、视频下载、m3u8 下载及 B站视频下载，提供 Windows 和 Mac 桌面客户端。Cross-platform video extraction tool: Supports streaming download, video download, m3u8 download, and Bilibili video download, with desktop clients for Windows and Mac.
-
-*   [lisonge/vite-plugin-monkey](https://github.com/lisonge/vite-plugin-monkey) - A vite plugin server and build your.user.js for userscript engine like Tampermonkey, Violentmonkey, Greasemonkey, ScriptCat
-
-*   [1653756334/claude-imitate](https://github.com/1653756334/claude-imitate) - 模仿 claude 界面的一个网站，对claude进行仿写
-
-*   [idootop/mi-gpt](https://github.com/idootop/mi-gpt) - 🏠 将小爱音箱接入 ChatGPT 和豆包，改造成你的专属语音助手。
-
-*   [AIsouler/GKD\_subscription](https://github.com/AIsouler/GKD_subscription) - GKD 第三方订阅规则
-
-*   [zuisong/gemini-openai-proxy](https://github.com/zuisong/gemini-openai-proxy) - OpenAI to Google Gemini         https://gemini-openai-proxy.deno.dev
-
-*   [Jazee6/cloudflare-ai-web](https://github.com/Jazee6/cloudflare-ai-web) - 支持Gemini Pro / Cloudflare Workers AI / ChatGPT的融合Web平台
-
-*   [ZuodaoTech/everyone-can-use-english](https://github.com/ZuodaoTech/everyone-can-use-english) - 人人都能用英语
-
-*   [smol-ai/GodMode](https://github.com/smol-ai/GodMode) - AI Chat Browser: Fast, Full webapp access to ChatGPT / Claude / Bard / Bing / Llama2! I use this 20 times a day.
-
-*   [AdguardTeam/ExtendedCss](https://github.com/AdguardTeam/ExtendedCss) - A TypeScript library for non-standard element selecting — :contains(), :matches-css(), etc., and applying CSS styles with extended properties.
-
-*   [noghartt/youtube-rss](https://github.com/noghartt/youtube-rss) - A simple web tool to get the RSS feed link from a YouTube channel
-
-*   [zzzgydi/clash-verge](https://github.com/zzzgydi/clash-verge) - A Clash GUI based on tauri. Supports Windows, macOS and Linux.
-
-*   [justjavac/zhihu-trending-hot-questions](https://github.com/justjavac/zhihu-trending-hot-questions) - 知乎热门话题，记录从 2020-11-24 日开始的知乎热门话题。每小时抓取一次数据，按天归档。
-
-*   [justjavac/zhihu-trending-top-search](https://github.com/justjavac/zhihu-trending-top-search) - 知乎热搜榜，记录从 2020-11-24 日开始的知乎热搜榜单。每小时抓取一次数据，按天归档。
-
-*   [jehna/mastofeeder](https://github.com/jehna/mastofeeder) - RSS to ActivityPub bridge
-
-*   [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Light and Fast AI Assistant. Support: Web | iOS | MacOS | Android |  Linux | Windows
-
-*   [codebdy/rxdrag](https://github.com/codebdy/rxdrag) - Design anything based on HTML, 可视化编辑， 带逻辑引擎的低代码前端。
-
-*   [ourongxing/chatgpt-vercel](https://github.com/ourongxing/chatgpt-vercel) - Elegant and Powerfull. Powered by OpenAI and Vercel.
-
-*   [zu1k/bs-core](https://github.com/zu1k/bs-core) - Easy and blazing-fast book searcher, create and search your private library.
-
-*   [VideoRoll/VideoRoll](https://github.com/VideoRoll/VideoRoll) - 📺All-in-One browser extension to enhance your video watching experience.
-
-*   [visiky/resume](https://github.com/visiky/resume) - 🚀 在线简历生成器
-
-*   [alexdevero/rss-finder-web-app](https://github.com/alexdevero/rss-finder-web-app) - Web app to help you find URLs for existing RSS feeds from website URLs.
-
-*   [nojsja/shadowsocks-electron](https://github.com/nojsja/shadowsocks-electron) - Shadowsocks GUI application made for Ubuntu / Mac / Win users and powered by Electron.
-
-*   [Tencent/vConsole](https://github.com/Tencent/vConsole) - A lightweight, extendable front-end developer tool for mobile web page.
-
-*   [haishanh/feedo](https://github.com/haishanh/feedo) - A Next.js app that provides RSS feeds for some sites that I enjoyed
-
-*   [hewenguang/circle](https://github.com/hewenguang/circle) - 让网页赏心悦目、让阅读回归初心。Circle 阅读模式提供更隐私、更轻松、更舒适的网页阅读体验
-
-*   [actionsflow/actionsflow](https://github.com/actionsflow/actionsflow) - The free Zapier/IFTTT alternative for developers to automate your workflows based on Github actions
-
-*   [damoeb/rss-proxy](https://github.com/damoeb/rss-proxy) - RSS-proxy allows you to do create an RSS or ATOM feed of almost any website, just by analyzing just the static HTML structure.
-
-*   [wenyan-lang/wenyan](https://github.com/wenyan-lang/wenyan) - 文言文編程語言 A programming language for the ancient Chinese.
-
-*   [FirefoxBar/HeaderEditor](https://github.com/FirefoxBar/HeaderEditor) - Manage browser's requests, include modify the request headers and response headers, redirect requests, cancel requests
-
-*   [loadchange/gwm](https://github.com/loadchange/gwm) - 🍭gwm.js Generate Watermark  用于生成网页水印，警示信息安全与责任追踪。
-
-*   [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
-
-*   [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket:A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder
-
-*   [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
-
-*   [zgq354/weibo-rss](https://github.com/zgq354/weibo-rss) - 🍰 把某人最近的微博转为 RSS 订阅源
-
-*   [lesspass/lesspass](https://github.com/lesspass/lesspass) - :key: stateless open source password manager
-
 ## Rust
 
 *   [meh/rust-tun](https://github.com/meh/rust-tun) - TUN device creation and handling.
@@ -1408,7 +1410,7 @@
 
 *   [PhilippC/keepass2android](https://github.com/PhilippC/keepass2android) - Password manager app for Android
 
-*   [qaiu/netdisk-fast-download](https://github.com/qaiu/netdisk-fast-download) - 各类网盘直链解析服务, 已支持蓝奏云/蓝奏优享/小飞机盘/123云盘/移动联通/天翼云等. 体验地址: https://lz.qaiu.top
+*   [qaiu/netdisk-fast-download](https://github.com/qaiu/netdisk-fast-download) - 各类网盘直链解析服务, 已支持蓝奏云/蓝奏优享/小飞机盘/123云盘/移动联通/天翼云等. 支持部分云盘文件夹分享解析. 体验地址: https://lz.qaiu.top
 
 *   [CzBiX/peanut-link](https://github.com/CzBiX/peanut-link) - 第三方花生地铁 WiFi Android 客户端，逆向其 Android 客户端 v2.0.21 得出协议格式。
 
@@ -1723,8 +1725,6 @@
 *   [Zehao/sogouSCEL](https://github.com/Zehao/sogouSCEL) - 搜狗输入法细胞词库解析
 
 *   [NLPchina/ansj\_seg](https://github.com/NLPchina/ansj_seg) - ansj分词.ict的真正java实现.分词效果速度都超过开源版的ict. 中文分词,人名识别,词性标注,用户自定义词典
-
-*   [CNSRE/HTTPDNSLib](https://github.com/CNSRE/HTTPDNSLib) -
 
 ## AutoHotkey
 
