@@ -138,7 +138,7 @@
 
 *   [abersheeran/r2-webdav](https://github.com/abersheeran/r2-webdav) - Use Cloudflare Workers to provide a WebDav interface for Cloudflare R2.
 
-*   [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern design AI chat framework. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modal (Plugins / Artifacts / MCP) and thinking. One-click FREE deployment of your private ChatGPT/ Claude / DeepSeek application.
+*   [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern design AI chat framework. Supports multiple AI providers (OpenAI / Claude 4 / Gemini / DeepSeek / Ollama / Qwen), Knowledge Base (file upload / RAG ), one click install MCP Marketplace and Artifacts / Thinking. One-click FREE deployment of your private AI Agent application.
 
 *   [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 
@@ -221,6 +221,8 @@
 *   [bggRGjQaUbCoE/PiliPlus](https://github.com/bggRGjQaUbCoE/PiliPlus) - PiliPlus
 
 *   [sun-jiao/flut-renamer](https://github.com/sun-jiao/flut-renamer) - Flut Renamer - A bulk file renamer written in flutter (dart). Available on Linux, Windows, Android, iOS and macOS.
+
+*   [VPNclient/VPNclient-engine-flutter](https://github.com/VPNclient/VPNclient-engine-flutter) - Flutter wrapper for VPN Client Engine: Xray(VMESS, VLESS, REALITY) + WireGuard
 
 *   [bipark/my\_ollama\_app](https://github.com/bipark/my_ollama_app) - MyOllama: Ollama-based LLM mobile client
 
@@ -1117,8 +1119,6 @@
 *   [alibaba/MNN](https://github.com/alibaba/MNN) - MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba. Full multimodal LLM Android App:[MNN-LLM-Android](./apps/Android/MnnLlmChat/README.md). MNN TaoAvatar Android - Local 3D Avatar Intelligence: apps/Android/Mnn3dAvatar/README.md
 
 *   [leanflutter/contextual\_menu](https://github.com/leanflutter/contextual_menu) - This plugin allows Flutter desktop apps to create native context menus.
-
-*   [VPNclient/VPNclient-engine-flutter](https://github.com/VPNclient/VPNclient-engine-flutter) - Flutter wrapper for VPN Client Engine: Xray(VMESS, VLESS, REALITY) + WireGuard
 
 *   [Onion99/MineGPT](https://github.com/Onion99/MineGPT) - MineGPT 是一个基于Kotlin Multiplatform 开发的本地小型语言模型(SLM)对话应用; MineGPT is a lightweight local SLM (Small Language Model) chat application built with Kotlin Multiplatform. It aims to provide a cross-platform and user-friendly AI assistant experience.
 
