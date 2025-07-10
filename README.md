@@ -18,13 +18,13 @@
 
 ## Table of Contents
 
+*   [miscellaneous](#miscellaneous)
 *   [TypeScript](#typescript)
 *   [Dart](#dart)
 *   [Kotlin](#kotlin)
 *   [JavaScript](#javascript)
 *   [Go](#go)
 *   [Rust](#rust)
-*   [miscellaneous](#miscellaneous)
 *   [C++](#c)
 *   [Python](#python)
 *   [Java](#java)
@@ -63,6 +63,168 @@
 *   [Lex](#lex)
 *   [AppleScript](#applescript)
 *   [Thanks](#thanks)
+
+## miscellaneous
+
+*   [HW-whistleblower/True-Story-of-Pangu](https://github.com/HW-whistleblower/True-Story-of-Pangu) - 诺亚盘古大模型研发背后的真正的心酸与黑暗的故事。
+
+*   [GtxFury/FlyClash-Android](https://github.com/GtxFury/FlyClash-Android) - FlyClash客户端安卓版本
+
+*   [Jsnzkpg/Jsnzkpg](https://github.com/Jsnzkpg/Jsnzkpg) - 已持续维护4年多，每天都会检测可用性，全网质量最高的公益订阅，魔鬼式筛选出高质量的免费节点，shadowrocket丨stash丨singbox丨clash丨karing丨hiddify丨mihomo丨clashmi丨ClashMeta丨FIClash丨Surfboard
+
+*   [xiaobaigroup/ClashBox](https://github.com/xiaobaigroup/ClashBox) - HarmonyOS NEXT的代理软件
+
+*   [golangboy/wxocr](https://github.com/golangboy/wxocr) - nothing
+
+*   [SpaceTimee/Fusion-JetBrainsMapleMono](https://github.com/SpaceTimee/Fusion-JetBrainsMapleMono) - JetBrains Maple Mono: The free and open-source font fused with JetBrains Mono & Maple Mono
+
+*   [Xposed-Modules-Repo/me.hd.wauxv](https://github.com/Xposed-Modules-Repo/me.hd.wauxv) - WAuxiliary
+
+*   [HqWu-HITCS/Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM) - 整理开源的中文大语言模型，以规模较小、可私有化部署、训练成本较低的模型为主，包括底座模型，垂直领域微调及应用，数据集与教程等。
+
+*   [obgnail/chinese-internet-is-dead](https://github.com/obgnail/chinese-internet-is-dead) - the website blocklist I am maintaining
+
+*   [wbetrue/somesnull](https://github.com/wbetrue/somesnull) - 好奇熊规则
+
+*   [mlc-ai/binary-mlc-llm-libs](https://github.com/mlc-ai/binary-mlc-llm-libs) -
+
+*   [woohong666/win-xray](https://github.com/woohong666/win-xray) - V2Ray、Xray、Shadowsocks、Trojan、SSR、SSRoT、NaïveProxy、SOCKS、HTTP(S) 全能通用客户端（Windows），可自动发现最快服务器，连接异常自动切换 - 速度快如闪电，提供一键自动部署服务端工具，绿色便携版免安装仅6MB、使用轻量语言 aardio 开发不需要任何外部运行库
+
+*   [zhxqian3/rule](https://github.com/zhxqian3/rule) -
+
+*   [chumoew/Close-Plus](https://github.com/chumoew/Close-Plus) - 一款基于Close的免Root去广告模块/A Close-based Root-free advertising module
+
+*   [TG-Twilight/AWAvenue-Ads-Rule](https://github.com/TG-Twilight/AWAvenue-Ads-Rule) - 众多优秀广告规则的上游、开源社区中最棒的广告过滤器列表之一。适配AdGuard/Home/DNS、AdAway、hosts、Mosdns、ClashMeta、QuantumultX等主流广告拦截工具/代理工具。
+
+*   [popjane/free\_chatgpt\_api](https://github.com/popjane/free_chatgpt_api) - 🔥 公益免费的ChatGPT API，Free ChatGPT API，GPT4 API，可直连，无需代理，使用标准 OpenAI APIKEY 格式访问 ChatGPT，可搭配ChatGPT-next-web、ChatGPT-Midjourney、Lobe-chat、Botgem、FastGPT、沉浸式翻译等项目使用
+
+*   [chika0801/sing-box-examples](https://github.com/chika0801/sing-box-examples) - sing-box 配置示例
+
+*   [8Mi-Tech/LSPatch-ApkFactory](https://github.com/8Mi-Tech/LSPatch-ApkFactory) - 一个基于LSPatch的打包工具，自动为常见应用打LSPatch补丁的仓库，包括 OPatch(ONPatch) / NPatch
+
+*   [hua1995116/indiehackers-steps](https://github.com/hua1995116/indiehackers-steps) - 《独立开发者的艺术》打造最全的独立开发者指南，一人公司。
+
+*   [jiji262/tianya-docs](https://github.com/jiji262/tianya-docs) - 精心收集的天涯神贴，不带水印，方便阅读
+
+*   [zhuima/awesome-cloudflare](https://github.com/zhuima/awesome-cloudflare) - ⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。/ ⛅️ A curated list of Cloudflare tools, open source projects, guides, blogs and other resources.
+
+*   [jsrgjcy/geoLibChina](https://github.com/jsrgjcy/geoLibChina) - 经纬度转省市区县乡镇离线包，采用空间查询算法，速度快(单线程5w次/s)，省市区县100%准确率。
+
+*   [xiaohucode/yidaRule](https://github.com/xiaohucode/yidaRule) - 益达规则仓库
+
+*   [xlucn/oh-my-foss-android](https://github.com/xlucn/oh-my-foss-android) - 个人收集的实用、良心开源安卓软件
+
+*   [bleedline/aimoneyhunter](https://github.com/bleedline/aimoneyhunter) - ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益。The Ultimate Guide to Making Money with AI Side Hustles: Learn how to leverage AI for some cool side gigs and rake in some extra cash. Check out the English version for more insights.
+
+*   [timschneeb/awesome-shizuku](https://github.com/timschneeb/awesome-shizuku) - Curated list of awesome Android apps making use of Shizuku
+
+*   [wgwang/awesome-LLMs-In-China](https://github.com/wgwang/awesome-LLMs-In-China) - 中国大模型
+
+*   [Archmage83/tvapk](https://github.com/Archmage83/tvapk) - 收集各大AndroidTV的apk应用，可免费看vip和国外电影电视。如大家有也可以贡献一下。
+
+*   [LC044/WeChatMsg](https://github.com/LC044/WeChatMsg) -
+
+*   [Robin-jiangyufeng/LazyCacheForAndroid](https://github.com/Robin-jiangyufeng/LazyCacheForAndroid) - android缓存库,具有二级缓存功能,可以自己定实现三级缓存;可扩展性高
+
+*   [wizos/webview-gm](https://github.com/wizos/webview-gm) - Android library for Greasemonkey-compatible user script support
+
+*   [glovebx/moco-ai-client](https://github.com/glovebx/moco-ai-client) - Concurrently chat with free GPT3.5 nodes & Google Gemini on Android Phone
+
+*   [gaboolic/vercel-reverse-fast](https://github.com/gaboolic/vercel-reverse-fast) - vercel加速OpenAI/ChatGPT
+
+*   [sharmajv/vpn](https://github.com/sharmajv/vpn) - VPN软件（小三VPN），完全免费，不注册，不限速，不限流，不看广告不流氓
+
+*   [o0HalfLife0o/TVBoxOSC](https://github.com/o0HalfLife0o/TVBoxOSC) -
+
+*   [The-Run-Philosophy-Organization/run](https://github.com/The-Run-Philosophy-Organization/run) - 润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。
+
+*   [buhe/build-your-own-x-zh](https://github.com/buhe/build-your-own-x-zh) - 🤓 Build your own (insert technology here) simplified chinese  version
+
+*   [getActivity/AndroidVersionAdapter](https://github.com/getActivity/AndroidVersionAdapter) - 安卓版本适配全套指南
+
+*   [zhangzhichaolove/91porn-android](https://github.com/zhangzhichaolove/91porn-android) - android 91 app(91porn安卓客户端).
+
+*   [Vinnl/feeds](https://github.com/Vinnl/feeds) -   Example repository for creating your own RSS feeds using Feed me up, Scotty!
+
+*   [clearw5/Auto.js](https://github.com/clearw5/Auto.js) - Automation\&Workflow JavaScript IDE on Android(安卓平台上的JavaScript编程IDE)
+
+*   [emma-oc/podcast-host](https://github.com/emma-oc/podcast-host) - Listen and subscribe to our podcast "杠上开花A Bouquet of Arguments"! This is the repo for files and RSS feed.
+
+*   [yuuwill/1024app-android](https://github.com/yuuwill/1024app-android) - 草榴官方客户端，小草客户端，Android
+
+*   [shengcaishizhan/kkndme\_tianya](https://github.com/shengcaishizhan/kkndme_tianya) - 天涯 kkndme 神贴聊房价
+
+*   [ayuer/shanghai\_house\_knowledge](https://github.com/ayuer/shanghai_house_knowledge) - 2020年11月在上海买房经历总结出来的买房购房做的一些功课分享给大家，技术人帮助技术人，希望对大家有所帮助。
+
+*   [maskedeken/gost-plugin-android](https://github.com/maskedeken/gost-plugin-android) - gost-plugin for shadowsocks-android
+
+*   [YooooEX/Feeder](https://github.com/YooooEX/Feeder) - Feeder archive files
+
+*   [coder2gwy/coder2gwy](https://github.com/coder2gwy/coder2gwy) - 互联网首份程序员考公指南，由3位已经进入体制内的前大厂程序员联合献上。
+
+*   [TheMRLL/WinXray](https://github.com/TheMRLL/WinXray) - 支持Xray / V2Ray（vmess / vless），Shadowsocks，SSR，Trojan，NaïveProxy，Trojan-go通用客户端（Windows）！默认基于xray核心！本程序采用aardio设计与开发！
+
+*   [justjavac/github-actions-youtube-dl](https://github.com/justjavac/github-actions-youtube-dl) - 使用 GitHub Actions 下载 YouTube 视频
+
+*   [KyleBing/sslist](https://github.com/KyleBing/sslist) - 优化访问速度的小型 gfw (Great Fire Wall) 规则列表 gfwlist
+
+*   [ZhangLang001/HttpCanary](https://github.com/ZhangLang001/HttpCanary) - 【Android】 Android开发工具之http请求日志打印
+
+*   [datawhalechina/pumpkin-book](https://github.com/datawhalechina/pumpkin-book) - 《机器学习》（西瓜书）公式详解
+
+*   [iloeng/Password-Dictionaries](https://github.com/iloeng/Password-Dictionaries) - 收集的压缩包解压密码，包括：自己遇到的、网络采集的等
+
+*   [Loyalsoldier/v2ray-rules-dat](https://github.com/Loyalsoldier/v2ray-rules-dat) - 🦄 🎃 👻 V2Ray 路由规则文件加强版，可代替 V2Ray 官方 geoip.dat 和 geosite.dat，适用于 V2Ray、Xray-core、mihomo(Clash-Meta)、hysteria、Trojan-Go 和 leaf。Enhanced edition of V2Ray rules dat files, applicable to V2Ray, Xray-core, mihomo(Clash-Meta), hysteria, Trojan-Go and leaf.
+
+*   [zealotCE/America-Against-America](https://github.com/zealotCE/America-Against-America) - 《美国反对美国》是王沪宁先生在上世纪80年代末赴美观察写作的。我们知道在那个年代中国对西方特别是美国的追捧有多高，所以突然看到一个学者在80年代就有如此清楚的认识，十分钦佩。由于网上只有效果很差的PDF扫描版，所以我想利用OCR技术和肉眼（人体OCR）来转成现代化的文本格式。目前已经全部完成。
+
+*   [googlehosts/hosts](https://github.com/googlehosts/hosts) - 镜像：https://scaffrey.coding.net/p/hosts/git / https://git.qvq.network/googlehosts/hosts
+
+*   [MLNLP-World/MIT-Linear-Algebra-Notes](https://github.com/MLNLP-World/MIT-Linear-Algebra-Notes) - MLNLP: Notes for MIT-Linear-Algebra
+
+*   [wll8/aardio\_doc](https://github.com/wll8/aardio_doc) - aardio 文档 markdown 版本。
+
+*   [ghostery/browser-android](https://github.com/ghostery/browser-android) - Legacy Ghostery Browser for Android
+
+*   [meetocean/webnovel](https://github.com/meetocean/webnovel) -
+
+*   [hapiman/fin-circle](https://github.com/hapiman/fin-circle) - 探讨技术、金融、赚钱的小圈子！
+
+*   [yanue/V2rayU](https://github.com/yanue/V2rayU) - V2rayU,基于v2ray核心的mac版客户端,用于科学上网,使用swift编写,支持trojan,vmess,shadowsocks,socks5等服务协议,支持订阅, 支持二维码,剪贴板导入,手动配置,二维码分享等
+
+*   [ttpianobirds/RenZhengfei](https://github.com/ttpianobirds/RenZhengfei) - 任正非思想
+
+*   [wasabeef/awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) - A curated list of awesome Android UI/UX libraries
+
+*   [justjavac/free-programming-books-zh\_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
+
+*   [996icu/996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
+
+*   [garychowcmu/daizhigev20](https://github.com/garychowcmu/daizhigev20) - 殆知阁古代文献
+
+*   [gnijuohz/get-out](https://github.com/gnijuohz/get-out) - A guide
+
+*   [erguotou520/bye](https://github.com/erguotou520/bye) - bye to yesterday and do yourself
+
+*   [javayhu/poetry](https://github.com/javayhu/poetry) - 📚 China ancient poetry project data
+
+*   [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
+
+*   [marboo/CCBooks](https://github.com/marboo/CCBooks) - 开源著作列表
+
+*   [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
+
+*   [ipfs/ipfs](https://github.com/ipfs/ipfs) - Peer-to-peer hypermedia protocol
+
+*   [greatfire/wiki](https://github.com/greatfire/wiki) -
+
+*   [ngosang/trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
+
+*   [missdeer/avege](https://github.com/missdeer/avege) - Yet Another Redsocks Golang Fork
+
+*   [SmartisanTech/android](https://github.com/SmartisanTech/android) - Smartisan open source code for full build.(repo manifest xml)
+
+*   [kakuilan/china\_area\_mysql](https://github.com/kakuilan/china_area_mysql) - 中国5级行政区域mysql库
 
 ## TypeScript
 
@@ -946,173 +1108,13 @@
 
 *   [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 
-*   [Chaoses-Ib/IbPinyinLib](https://github.com/Chaoses-Ib/IbPinyinLib) - 一个高性能 Rust 拼音匹配库，支持 C、AHK2
+*   [Chaoses-Ib/ib-matcher](https://github.com/Chaoses-Ib/ib-matcher) - 一个高性能 Rust 拼音匹配库，支持 C、AHK2
 
 *   [YtFlow/YtFlowCore](https://github.com/YtFlow/YtFlowCore) - A modern proxy framework, core of YtFlow.
 
 *   [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
 
 *   [eycorsican/leaf](https://github.com/eycorsican/leaf) - A versatile and efficient proxy framework with nice features suitable for various use cases.
-
-## miscellaneous
-
-*   [GtxFury/FlyClash-Android](https://github.com/GtxFury/FlyClash-Android) - FlyClash客户端安卓版本
-
-*   [Jsnzkpg/Jsnzkpg](https://github.com/Jsnzkpg/Jsnzkpg) - 已持续维护4年多，每天都会检测可用性，全网质量最高的公益订阅，魔鬼式筛选出高质量的免费节点，shadowrocket丨stash丨singbox丨clash丨karing丨hiddify丨mihomo丨clashmi丨ClashMeta丨FIClash丨Surfboard
-
-*   [xiaobaigroup/ClashBox](https://github.com/xiaobaigroup/ClashBox) - HarmonyOS NEXT的代理软件
-
-*   [golangboy/wxocr](https://github.com/golangboy/wxocr) - nothing
-
-*   [SpaceTimee/Fusion-JetBrainsMapleMono](https://github.com/SpaceTimee/Fusion-JetBrainsMapleMono) - JetBrains Maple Mono: The free and open-source font fused with JetBrains Mono & Maple Mono
-
-*   [Xposed-Modules-Repo/me.hd.wauxv](https://github.com/Xposed-Modules-Repo/me.hd.wauxv) - WAuxiliary
-
-*   [HqWu-HITCS/Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM) - 整理开源的中文大语言模型，以规模较小、可私有化部署、训练成本较低的模型为主，包括底座模型，垂直领域微调及应用，数据集与教程等。
-
-*   [obgnail/chinese-internet-is-dead](https://github.com/obgnail/chinese-internet-is-dead) - the website blocklist I am maintaining
-
-*   [wbetrue/somesnull](https://github.com/wbetrue/somesnull) - 好奇熊规则
-
-*   [mlc-ai/binary-mlc-llm-libs](https://github.com/mlc-ai/binary-mlc-llm-libs) -
-
-*   [woohong666/win-xray](https://github.com/woohong666/win-xray) - V2Ray、Xray、Shadowsocks、Trojan、SSR、SSRoT、NaïveProxy、SOCKS、HTTP(S) 全能通用客户端（Windows），可自动发现最快服务器，连接异常自动切换 - 速度快如闪电，提供一键自动部署服务端工具，绿色便携版免安装仅6MB、使用轻量语言 aardio 开发不需要任何外部运行库
-
-*   [zhxqian3/rule](https://github.com/zhxqian3/rule) -
-
-*   [chumoew/Close-Plus](https://github.com/chumoew/Close-Plus) - 一款基于Close的免Root去广告模块/A Close-based Root-free advertising module
-
-*   [TG-Twilight/AWAvenue-Ads-Rule](https://github.com/TG-Twilight/AWAvenue-Ads-Rule) - 众多优秀广告规则的上游、开源社区中最棒的广告过滤器列表之一。适配AdGuard/Home/DNS、AdAway、hosts、Mosdns、ClashMeta、QuantumultX等主流广告拦截工具/代理工具。
-
-*   [popjane/free\_chatgpt\_api](https://github.com/popjane/free_chatgpt_api) - 🔥 公益免费的ChatGPT API，Free ChatGPT API，GPT4 API，可直连，无需代理，使用标准 OpenAI APIKEY 格式访问 ChatGPT，可搭配ChatGPT-next-web、ChatGPT-Midjourney、Lobe-chat、Botgem、FastGPT、沉浸式翻译等项目使用
-
-*   [chika0801/sing-box-examples](https://github.com/chika0801/sing-box-examples) - sing-box 配置示例
-
-*   [8Mi-Tech/LSPatch-ApkFactory](https://github.com/8Mi-Tech/LSPatch-ApkFactory) - 一个基于LSPatch的打包工具，自动为常见应用打LSPatch补丁的仓库，包括 OPatch(ONPatch) / NPatch
-
-*   [hua1995116/indiehackers-steps](https://github.com/hua1995116/indiehackers-steps) - 《独立开发者的艺术》打造最全的独立开发者指南，一人公司。
-
-*   [jiji262/tianya-docs](https://github.com/jiji262/tianya-docs) - 精心收集的天涯神贴，不带水印，方便阅读
-
-*   [zhuima/awesome-cloudflare](https://github.com/zhuima/awesome-cloudflare) - ⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。/ ⛅️ A curated list of Cloudflare tools, open source projects, guides, blogs and other resources.
-
-*   [jsrgjcy/geoLibChina](https://github.com/jsrgjcy/geoLibChina) - 经纬度转省市区县乡镇离线包，采用空间查询算法，速度快(单线程5w次/s)，省市区县100%准确率。
-
-*   [xiaohucode/yidaRule](https://github.com/xiaohucode/yidaRule) - 益达规则仓库
-
-*   [xlucn/oh-my-foss-android](https://github.com/xlucn/oh-my-foss-android) - 个人收集的实用、良心开源安卓软件
-
-*   [bleedline/aimoneyhunter](https://github.com/bleedline/aimoneyhunter) - ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益。The Ultimate Guide to Making Money with AI Side Hustles: Learn how to leverage AI for some cool side gigs and rake in some extra cash. Check out the English version for more insights.
-
-*   [timschneeb/awesome-shizuku](https://github.com/timschneeb/awesome-shizuku) - Curated list of awesome Android apps making use of Shizuku
-
-*   [wgwang/awesome-LLMs-In-China](https://github.com/wgwang/awesome-LLMs-In-China) - 中国大模型
-
-*   [Archmage83/tvapk](https://github.com/Archmage83/tvapk) - 收集各大AndroidTV的apk应用，可免费看vip和国外电影电视。如大家有也可以贡献一下。
-
-*   [LC044/WeChatMsg](https://github.com/LC044/WeChatMsg) -
-
-*   [Robin-jiangyufeng/LazyCacheForAndroid](https://github.com/Robin-jiangyufeng/LazyCacheForAndroid) - android缓存库,具有二级缓存功能,可以自己定实现三级缓存;可扩展性高
-
-*   [wizos/webview-gm](https://github.com/wizos/webview-gm) - Android library for Greasemonkey-compatible user script support
-
-*   [glovebx/moco-ai-client](https://github.com/glovebx/moco-ai-client) - Concurrently chat with free GPT3.5 nodes & Google Gemini on Android Phone
-
-*   [gaboolic/vercel-reverse-fast](https://github.com/gaboolic/vercel-reverse-fast) - vercel加速OpenAI/ChatGPT
-
-*   [sharmajv/vpn](https://github.com/sharmajv/vpn) - VPN软件（小三VPN），完全免费，不注册，不限速，不限流，不看广告不流氓
-
-*   [o0HalfLife0o/TVBoxOSC](https://github.com/o0HalfLife0o/TVBoxOSC) -
-
-*   [The-Run-Philosophy-Organization/run](https://github.com/The-Run-Philosophy-Organization/run) - 润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。
-
-*   [buhe/build-your-own-x-zh](https://github.com/buhe/build-your-own-x-zh) - 🤓 Build your own (insert technology here) simplified chinese  version
-
-*   [getActivity/AndroidVersionAdapter](https://github.com/getActivity/AndroidVersionAdapter) - 安卓版本适配全套指南
-
-*   [zhangzhichaolove/91porn-android](https://github.com/zhangzhichaolove/91porn-android) - android 91 app(91porn安卓客户端).
-
-*   [Vinnl/feeds](https://github.com/Vinnl/feeds) -   Example repository for creating your own RSS feeds using Feed me up, Scotty!
-
-*   [clearw5/Auto.js](https://github.com/clearw5/Auto.js) - Automation\&Workflow JavaScript IDE on Android(安卓平台上的JavaScript编程IDE)
-
-*   [emma-oc/podcast-host](https://github.com/emma-oc/podcast-host) - Listen and subscribe to our podcast "杠上开花A Bouquet of Arguments"! This is the repo for files and RSS feed.
-
-*   [yuuwill/1024app-android](https://github.com/yuuwill/1024app-android) - 草榴官方客户端，小草客户端，Android
-
-*   [shengcaishizhan/kkndme\_tianya](https://github.com/shengcaishizhan/kkndme_tianya) - 天涯 kkndme 神贴聊房价
-
-*   [ayuer/shanghai\_house\_knowledge](https://github.com/ayuer/shanghai_house_knowledge) - 2020年11月在上海买房经历总结出来的买房购房做的一些功课分享给大家，技术人帮助技术人，希望对大家有所帮助。
-
-*   [maskedeken/gost-plugin-android](https://github.com/maskedeken/gost-plugin-android) - gost-plugin for shadowsocks-android
-
-*   [YooooEX/Feeder](https://github.com/YooooEX/Feeder) - Feeder archive files
-
-*   [coder2gwy/coder2gwy](https://github.com/coder2gwy/coder2gwy) - 互联网首份程序员考公指南，由3位已经进入体制内的前大厂程序员联合献上。
-
-*   [TheMRLL/WinXray](https://github.com/TheMRLL/WinXray) - 支持Xray / V2Ray（vmess / vless），Shadowsocks，SSR，Trojan，NaïveProxy，Trojan-go通用客户端（Windows）！默认基于xray核心！本程序采用aardio设计与开发！
-
-*   [justjavac/github-actions-youtube-dl](https://github.com/justjavac/github-actions-youtube-dl) - 使用 GitHub Actions 下载 YouTube 视频
-
-*   [KyleBing/sslist](https://github.com/KyleBing/sslist) - 优化访问速度的小型 gfw (Great Fire Wall) 规则列表 gfwlist
-
-*   [ZhangLang001/HttpCanary](https://github.com/ZhangLang001/HttpCanary) - 【Android】 Android开发工具之http请求日志打印
-
-*   [datawhalechina/pumpkin-book](https://github.com/datawhalechina/pumpkin-book) - 《机器学习》（西瓜书）公式详解
-
-*   [iloeng/Password-Dictionaries](https://github.com/iloeng/Password-Dictionaries) - 收集的压缩包解压密码，包括：自己遇到的、网络采集的等
-
-*   [Loyalsoldier/v2ray-rules-dat](https://github.com/Loyalsoldier/v2ray-rules-dat) - 🦄 🎃 👻 V2Ray 路由规则文件加强版，可代替 V2Ray 官方 geoip.dat 和 geosite.dat，适用于 V2Ray、Xray-core、mihomo(Clash-Meta)、hysteria、Trojan-Go 和 leaf。Enhanced edition of V2Ray rules dat files, applicable to V2Ray, Xray-core, mihomo(Clash-Meta), hysteria, Trojan-Go and leaf.
-
-*   [zealotCE/America-Against-America](https://github.com/zealotCE/America-Against-America) - 《美国反对美国》是王沪宁先生在上世纪80年代末赴美观察写作的。我们知道在那个年代中国对西方特别是美国的追捧有多高，所以突然看到一个学者在80年代就有如此清楚的认识，十分钦佩。由于网上只有效果很差的PDF扫描版，所以我想利用OCR技术和肉眼（人体OCR）来转成现代化的文本格式。目前已经全部完成。
-
-*   [googlehosts/hosts](https://github.com/googlehosts/hosts) - 镜像：https://scaffrey.coding.net/p/hosts/git / https://git.qvq.network/googlehosts/hosts
-
-*   [MLNLP-World/MIT-Linear-Algebra-Notes](https://github.com/MLNLP-World/MIT-Linear-Algebra-Notes) - MLNLP: Notes for MIT-Linear-Algebra
-
-*   [wll8/aardio\_doc](https://github.com/wll8/aardio_doc) - aardio 文档 markdown 版本。
-
-*   [ghostery/browser-android](https://github.com/ghostery/browser-android) - Legacy Ghostery Browser for Android
-
-*   [meetocean/webnovel](https://github.com/meetocean/webnovel) -
-
-*   [hapiman/fin-circle](https://github.com/hapiman/fin-circle) - 探讨技术、金融、赚钱的小圈子！
-
-*   [yanue/V2rayU](https://github.com/yanue/V2rayU) - V2rayU,基于v2ray核心的mac版客户端,用于科学上网,使用swift编写,支持trojan,vmess,shadowsocks,socks5等服务协议,支持订阅, 支持二维码,剪贴板导入,手动配置,二维码分享等
-
-*   [ttpianobirds/RenZhengfei](https://github.com/ttpianobirds/RenZhengfei) - 任正非思想
-
-*   [wasabeef/awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) - A curated list of awesome Android UI/UX libraries
-
-*   [justjavac/free-programming-books-zh\_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
-
-*   [996icu/996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
-
-*   [garychowcmu/daizhigev20](https://github.com/garychowcmu/daizhigev20) - 殆知阁古代文献
-
-*   [gnijuohz/get-out](https://github.com/gnijuohz/get-out) - A guide
-
-*   [erguotou520/bye](https://github.com/erguotou520/bye) - bye to yesterday and do yourself
-
-*   [javayhu/poetry](https://github.com/javayhu/poetry) - 📚 China ancient poetry project data
-
-*   [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
-
-*   [marboo/CCBooks](https://github.com/marboo/CCBooks) - 开源著作列表
-
-*   [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
-
-*   [ipfs/ipfs](https://github.com/ipfs/ipfs) - Peer-to-peer hypermedia protocol
-
-*   [greatfire/wiki](https://github.com/greatfire/wiki) -
-
-*   [ngosang/trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
-
-*   [missdeer/avege](https://github.com/missdeer/avege) - Yet Another Redsocks Golang Fork
-
-*   [SmartisanTech/android](https://github.com/SmartisanTech/android) - Smartisan open source code for full build.(repo manifest xml)
-
-*   [kakuilan/china\_area\_mysql](https://github.com/kakuilan/china_area_mysql) - 中国5级行政区域mysql库
 
 ## C++
 
@@ -1863,8 +1865,6 @@
 *   [skywind3000/kcp](https://github.com/skywind3000/kcp) - :zap: KCP - A Fast and Reliable ARQ Protocol
 
 *   [meyerd/n2n](https://github.com/meyerd/n2n) - A development branch of the n2n p2p vpn software
-
-*   [dosgo/ngrok-c](https://github.com/dosgo/ngrok-c) - ngrok client for c language,Due to the use of GO ngrok language development, porting to embedded devices some inconvenience, such as openwrt, so use C language rewrite a client. Very mini, the need to support polarssl library.
 
 ## Objective-C
 
