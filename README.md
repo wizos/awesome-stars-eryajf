@@ -1109,7 +1109,7 @@
 
 *   [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 
-*   [Chaoses-Ib/ib-matcher](https://github.com/Chaoses-Ib/ib-matcher) - 一个高性能 Rust 拼音匹配库，支持 C、AHK2
+*   [Chaoses-Ib/ib-matcher](https://github.com/Chaoses-Ib/ib-matcher) - A multilingual and fast string matcher, supports 拼音匹配 and ローマ字検索
 
 *   [YtFlow/YtFlowCore](https://github.com/YtFlow/YtFlowCore) - A modern proxy framework, core of YtFlow.
 
@@ -2069,7 +2069,7 @@
 
 *   [stratumauth/app](https://github.com/stratumauth/app) - 📱 Two-Factor Authentication (2FA) client for Android + Wear OS
 
-*   [Kyome22/RunCat\_for\_windows](https://github.com/Kyome22/RunCat_for_windows) - A cute running cat animation on your windows taskbar.
+*   [Kyome22/RunCat365](https://github.com/Kyome22/RunCat365) - A cute running cat animation on your windows taskbar.
 
 *   [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
 
