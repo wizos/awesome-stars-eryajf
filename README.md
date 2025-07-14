@@ -1413,7 +1413,7 @@
 
 *   [PhilippC/keepass2android](https://github.com/PhilippC/keepass2android) - Password manager app for Android
 
-*   [qaiu/netdisk-fast-download](https://github.com/qaiu/netdisk-fast-download) - 各类网盘直链解析服务, 已支持蓝奏云/蓝奏优享/小飞机盘/123云盘/移动联通/天翼云等. 支持部分云盘文件夹分享解析. 体验地址: https://lz.qaiu.top
+*   [qaiu/netdisk-fast-download](https://github.com/qaiu/netdisk-fast-download) - 各类网盘直链解析服务, 已支持蓝奏云/蓝奏优享/小飞机盘/123云盘/移动联通/天翼云等. 支持文件夹分享解析. 体验地址: https://lz.qaiu.top    http://www.722shop.top:6401
 
 *   [CzBiX/peanut-link](https://github.com/CzBiX/peanut-link) - 第三方花生地铁 WiFi Android 客户端，逆向其 Android 客户端 v2.0.21 得出协议格式。
 
