@@ -50,6 +50,7 @@
 *   [C#](#c-2)
 *   [Julia](#julia)
 *   [Groovy](#groovy)
+*   [Haskell](#haskell)
 *   [Scala](#scala)
 *   [EJS](#ejs)
 *   [SCSS](#scss)
@@ -676,8 +677,6 @@
 *   [xxfast/NYTimes-KMP](https://github.com/xxfast/NYTimes-KMP) - A KMP template of the New York Times App using Compose multiplatform for Android, Desktop, iOS and Web
 
 *   [SkyD666/Rays-Android](https://github.com/SkyD666/Rays-Android) - 🥰 A tool to record, search and manage stickers / meme on your phone. ⭐️ Star to support our work!
-
-*   [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
 
 *   [onebone/compose-collapsing-toolbar](https://github.com/onebone/compose-collapsing-toolbar) - A simple implementation of collapsing toolbar for Jetpack Compose
 
@@ -2098,6 +2097,10 @@
 ## Groovy
 
 *   [kezong/fat-aar-android](https://github.com/kezong/fat-aar-android) - A gradle plugin that merge dependencies into the final aar file works with AGP 3.+
+
+## Haskell
+
+*   [simplex-chat/simplex-chat](https://github.com/simplex-chat/simplex-chat) - SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!
 
 ## Scala
 
