@@ -18,6 +18,7 @@
 
 ## Table of Contents
 
+*   [Rust](#rust)
 *   [Dart](#dart)
 *   [Java](#java)
 *   [Go](#go)
@@ -26,7 +27,6 @@
 *   [TypeScript](#typescript)
 *   [Python](#python)
 *   [Kotlin](#kotlin)
-*   [Rust](#rust)
 *   [C++](#c)
 *   [AutoHotkey](#autohotkey)
 *   [MDX](#mdx)
@@ -41,6 +41,7 @@
 *   [PHP](#php)
 *   [CSS](#css)
 *   [Swift](#swift)
+*   [CoffeeScript](#coffeescript)
 *   [Svelte](#svelte)
 *   [Astro](#astro)
 *   [Jupyter Notebook](#jupyter-notebook)
@@ -64,6 +65,50 @@
 *   [Lex](#lex)
 *   [AppleScript](#applescript)
 *   [Thanks](#thanks)
+
+## Rust
+
+*   [zhu327/workers-tunnel](https://github.com/zhu327/workers-tunnel) - Edge network tunnel implemented using Cloudflare Workers.
+
+*   [meh/rust-tun](https://github.com/meh/rust-tun) - TUN device creation and handling.
+
+*   [Buer-Nahida/akasha-subscriber](https://github.com/Buer-Nahida/akasha-subscriber) - 一个可以运行在 Cloudflare Workers 上的节点订阅器，可以生成 Base64 和 Mihomo 格式的订阅
+
+*   [deft-ui/deft](https://github.com/deft-ui/deft) - Build cross-platform applications with Rust and JavaScript
+
+*   [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
+
+*   [ghost-him/ZeroLaunch-rs](https://github.com/ghost-him/ZeroLaunch-rs) - 🚀 Lightning-fast, accurate, lightweight & pure Windows application launcher! Featuring Pinyin fuzzy matching + instant response, built with Rust + Tauri + Vue.js!🚀极速精准、轻量纯粹的 Windows 应用程序启动器！拼音模糊匹配 + 急速响应，基于 Rust + Tauri + Vue.js 构建！
+
+*   [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
+
+*   [Kr328/typed-jni-rs](https://github.com/Kr328/typed-jni-rs) - Type-Safe JNI access for Rust.
+
+*   [brave/adblock-rust](https://github.com/brave/adblock-rust) - Brave's Rust-based adblock engine
+
+*   [libnyanpasu/clash-nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu) - Clash Nyanpasu～(∠・ω< )⌒☆​
+
+*   [Watfaq/clash-rs](https://github.com/Watfaq/clash-rs) - custom protocol network proxy
+
+*   [messense/aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
+
+*   [sigoden/proxyfor](https://github.com/sigoden/proxyfor) - A powerful and flexible proxy CLI for capturing and inspecting HTTP(S) and WS(S) traffic, with TUI and WebUI.
+
+*   [0xlane/wechat-dump-rs](https://github.com/0xlane/wechat-dump-rs) - 该工具用于导出正在运行中的微信进程的 key 并自动解密所有微信数据库文件以及导出 key 后数据库文件离线解密。
+
+*   [shadowsocks/shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust) - A Rust port of shadowsocks
+
+*   [e1732a364fed/ruci](https://github.com/e1732a364fed/ruci) - a flexible proxy framework written in rust
+
+*   [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
+
+*   [Chaoses-Ib/ib-matcher](https://github.com/Chaoses-Ib/ib-matcher) - A multilingual and fast string matcher, supports 拼音匹配 and ローマ字検索
+
+*   [YtFlow/YtFlowCore](https://github.com/YtFlow/YtFlowCore) - A modern proxy framework, core of YtFlow.
+
+*   [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
+
+*   [eycorsican/leaf](https://github.com/eycorsican/leaf) - A versatile and efficient proxy framework with nice features suitable for various use cases.
 
 ## Dart
 
@@ -481,8 +526,6 @@
 
 *   [Skarafaz/mercury](https://github.com/Skarafaz/mercury) - Simple Android app that sends pre-configured commands to remote servers via SSH.
 
-*   [wenmingvs/AndroidProcess](https://github.com/wenmingvs/AndroidProcess) - 判断App位于前台或者后台的6种方法
-
 ## Go
 
 *   [novohool/doh4](https://github.com/novohool/doh4) - transform DNS over HTTPS (DoH) requests into HTTP proxy requests
@@ -840,8 +883,6 @@
 *   [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 
 *   [gildas-lormeau/mhtml-to-html](https://github.com/gildas-lormeau/mhtml-to-html) - Convert MHTML to HTML
-
-*   [zero-peak/ZeroOmega](https://github.com/zero-peak/ZeroOmega) - Manage and switch between multiple proxies quickly & easily.
 
 *   [sqeven/siteproxy](https://github.com/sqeven/siteproxy) - site proxy
 
@@ -1603,48 +1644,6 @@
 
 *   [xdtianyu/CallerInfo](https://github.com/xdtianyu/CallerInfo) - 来电信息 - 一个获取号码归属地和其他信息（诈骗、骚扰等）的开源 Android 应用
 
-## Rust
-
-*   [meh/rust-tun](https://github.com/meh/rust-tun) - TUN device creation and handling.
-
-*   [Buer-Nahida/akasha-subscriber](https://github.com/Buer-Nahida/akasha-subscriber) - 一个可以运行在 Cloudflare Workers 上的节点订阅器，可以生成 Base64 和 Mihomo 格式的订阅
-
-*   [deft-ui/deft](https://github.com/deft-ui/deft) - Build cross-platform applications with Rust and JavaScript
-
-*   [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
-
-*   [ghost-him/ZeroLaunch-rs](https://github.com/ghost-him/ZeroLaunch-rs) - 🚀 Lightning-fast, accurate, lightweight & pure Windows application launcher! Featuring Pinyin fuzzy matching + instant response, built with Rust + Tauri + Vue.js!🚀极速精准、轻量纯粹的 Windows 应用程序启动器！拼音模糊匹配 + 急速响应，基于 Rust + Tauri + Vue.js 构建！
-
-*   [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
-
-*   [Kr328/typed-jni-rs](https://github.com/Kr328/typed-jni-rs) - Type-Safe JNI access for Rust.
-
-*   [brave/adblock-rust](https://github.com/brave/adblock-rust) - Brave's Rust-based adblock engine
-
-*   [libnyanpasu/clash-nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu) - Clash Nyanpasu～(∠・ω< )⌒☆​
-
-*   [Watfaq/clash-rs](https://github.com/Watfaq/clash-rs) - custom protocol network proxy
-
-*   [messense/aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
-
-*   [sigoden/proxyfor](https://github.com/sigoden/proxyfor) - A powerful and flexible proxy CLI for capturing and inspecting HTTP(S) and WS(S) traffic, with TUI and WebUI.
-
-*   [0xlane/wechat-dump-rs](https://github.com/0xlane/wechat-dump-rs) - 该工具用于导出正在运行中的微信进程的 key 并自动解密所有微信数据库文件以及导出 key 后数据库文件离线解密。
-
-*   [shadowsocks/shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust) - A Rust port of shadowsocks
-
-*   [e1732a364fed/ruci](https://github.com/e1732a364fed/ruci) - a flexible proxy framework written in rust
-
-*   [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
-
-*   [Chaoses-Ib/ib-matcher](https://github.com/Chaoses-Ib/ib-matcher) - A multilingual and fast string matcher, supports 拼音匹配 and ローマ字検索
-
-*   [YtFlow/YtFlowCore](https://github.com/YtFlow/YtFlowCore) - A modern proxy framework, core of YtFlow.
-
-*   [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
-
-*   [eycorsican/leaf](https://github.com/eycorsican/leaf) - A versatile and efficient proxy framework with nice features suitable for various use cases.
-
 ## C++
 
 *   [alibaba/MNN](https://github.com/alibaba/MNN) - MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba. Full multimodal LLM Android App:[MNN-LLM-Android](./apps/Android/MnnLlmChat/README.md). MNN TaoAvatar Android - Local 3D Avatar Intelligence: apps/Android/Mnn3dAvatar/README.md
@@ -1994,6 +1993,10 @@
 *   [nmdias/FeedKit](https://github.com/nmdias/FeedKit) - FeedKit is a Swift library for Reading and Generating RSS, Atom, and JSON feeds.
 
 *   [liruqi/Mume-iOS](https://github.com/liruqi/Mume-iOS) -
+
+## CoffeeScript
+
+*   [zero-peak/ZeroOmega](https://github.com/zero-peak/ZeroOmega) - Manage and switch between multiple proxies quickly & easily.
 
 ## Svelte
 
