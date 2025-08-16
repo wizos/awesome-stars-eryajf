@@ -235,7 +235,7 @@
 
 *   [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 
-*   [zgq354/weibo-rss](https://github.com/zgq354/weibo-rss) - 🍰 把某人最近的微博转为 RSS 订阅源
+*   [zgq354/weibo-rss](https://github.com/zgq354/weibo-rss) - 🍰 把喜欢的微博转为 RSS 订阅源
 
 *   [lesspass/lesspass](https://github.com/lesspass/lesspass) - :key: stateless open source password manager
 
