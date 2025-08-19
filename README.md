@@ -1741,7 +1741,7 @@
 
 *   [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 
-*   [Chaoses-Ib/ib-matcher](https://github.com/Chaoses-Ib/ib-matcher) - A multilingual, flexible and fast string and regex matcher, supports 拼音匹配 and ローマ字検索
+*   [Chaoses-Ib/ib-matcher](https://github.com/Chaoses-Ib/ib-matcher) - A multilingual, flexible and fast string, glob and regex matcher. Support 拼音匹配 and ローマ字検索.
 
 *   [YtFlow/YtFlowCore](https://github.com/YtFlow/YtFlowCore) - A modern proxy framework, core of YtFlow.
 
