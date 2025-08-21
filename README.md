@@ -69,6 +69,8 @@
 
 ## Kotlin
 
+*   [darkryh/Cloudflare-Bypass](https://github.com/darkryh/Cloudflare-Bypass) - Cloudflare-Bypass is an Android library that allows developers to seamlessly bypass Cloudflare's anti-bot protection using a custom WebViewClient. It enables websites protected by Cloudflare's challenge to load automatically without user intervention, offering easy integration with minimal setup.
+
 *   [lhear/SimpleXray](https://github.com/lhear/SimpleXray) - Stable and efficient Android proxy client based on Xray-core
 
 *   [trinadhthatakula/Thor](https://github.com/trinadhthatakula/Thor) - Thor - Android App Manager and App Installer utility
@@ -1703,8 +1705,6 @@
 
 *   [meixuesong/rss2epub](https://github.com/meixuesong/rss2epub) - RSS2EPUB将您的RSS订阅转换成EPUB电子书，并每天定时推送至您的邮箱。让您轻松在Kindle、多看等EPUB阅读器上享受阅读的乐趣。
 
-*   [Trinea/android-open-project](https://github.com/Trinea/android-open-project) - A categorized collection of Android Open Source Projects,  More powerful web version:
-
 ## Rust
 
 *   [zhu327/workers-tunnel](https://github.com/zhu327/workers-tunnel) - Edge network tunnel implemented using Cloudflare Workers.
@@ -1777,7 +1777,7 @@
 
 *   [davidche1116/Sms](https://github.com/davidche1116/Sms) - 短信清理工具
 
-*   [openwebf/webf](https://github.com/openwebf/webf) - Connect Web, Flutter, and Rust development into one platform.
+*   [openwebf/webf](https://github.com/openwebf/webf) - Glue everything between Web, Flutter and Native
 
 *   [ZhuJHua/moodiary](https://github.com/ZhuJHua/moodiary) - A fully open source cross-platform diary app written by flutter and rust.
 
