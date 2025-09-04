@@ -1941,7 +1941,7 @@
 
 *   [Technicalflight/Gptm](https://github.com/Technicalflight/Gptm) - 一个基于 Electron + Vue3 + TypeScript 开发的现代化 AI 聊天客户端🤖A modern AI chat client based on Electron + Vue3 + TypeScript.
 
-*   [weekend-project-space/webfollow-app](https://github.com/weekend-project-space/webfollow-app) - webfollow-app
+*   [weekend-project-space/webfollow-app](https://github.com/weekend-project-space/webfollow-app) - ifeed
 
 *   [haxzie/snipp.in](https://github.com/haxzie/snipp.in) - Fast, Light-weight, Notes, Snippet manager and code editor directly inside your browser
 
