@@ -2223,7 +2223,7 @@
 
 ## Jupyter Notebook
 
-*   [OpenBMB/MiniCPM](https://github.com/OpenBMB/MiniCPM) - MiniCPM4: Ultra-Efficient LLMs on End Devices, achieving 5+ speedup on typical end-side chips
+*   [OpenBMB/MiniCPM](https://github.com/OpenBMB/MiniCPM) - MiniCPM4 & MiniCPM4.1: Ultra-Efficient LLMs on End Devices, achieving 3+ generation speedup on reasoning tasks
 
 *   [e1roy/12306spy](https://github.com/e1roy/12306spy) - 12306查票, 找到一张能上车的票
 
