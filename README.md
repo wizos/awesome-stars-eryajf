@@ -18,8 +18,8 @@
 
 ## Table of Contents
 
-*   [Swift](#swift)
 *   [Kotlin](#kotlin)
+*   [Swift](#swift)
 *   [Python](#python)
 *   [TypeScript](#typescript)
 *   [Dart](#dart)
@@ -67,25 +67,9 @@
 *   [Scheme](#scheme)
 *   [Thanks](#thanks)
 
-## Swift
-
-*   [dinoki-ai/osaurus](https://github.com/dinoki-ai/osaurus) - Native, Apple Silicon–only local LLM server. Similar to Ollama, but built on Apple's MLX for maximum performance on M‑series chips. SwiftUI app + SwiftNIO server with OpenAI‑compatible endpoints.
-
-*   [DanielZhangyc/RLLM](https://github.com/DanielZhangyc/RLLM) - LLM powered RSS reader
-
-*   [bin64/Clash-Dash](https://github.com/bin64/Clash-Dash) - 原生 SwiftUI 开发的 OpenClash/Nikki(MihomoTProxy) 管理工具
-
-*   [robertying/shadowsocks-macos](https://github.com/robertying/shadowsocks-macos) - Shadowsocks client for macOS, with support for Apple Silicon (arm64) and Intel (x86\_64)
-
-*   [coteditor/CotEditor](https://github.com/coteditor/CotEditor) - Lightweight Plain-Text Editor for macOS
-
-*   [greatfire/envoy](https://github.com/greatfire/envoy) - C and Java Library derived from Chromium Cronet which can be used to make Android apps resistant to censorship
-
-*   [nmdias/FeedKit](https://github.com/nmdias/FeedKit) - FeedKit is a Swift library for Reading and Generating RSS, Atom, and JSON feeds.
-
-*   [liruqi/Mume-iOS](https://github.com/liruqi/Mume-iOS) -
-
 ## Kotlin
+
+*   [LibChecker/LibChecker](https://github.com/LibChecker/LibChecker) - An app to view libraries used in apps in your device.
 
 *   [voize-gmbh/flutter-kmp](https://github.com/voize-gmbh/flutter-kmp) - Combine Flutter with Kotlin Multiplatform (KMP)
 
@@ -171,7 +155,7 @@
 
 *   [twofas/2fas-android](https://github.com/twofas/2fas-android) - Source code for 2FAS Auth Android app
 
-*   [dyhkwong/Exclave](https://github.com/dyhkwong/Exclave) - A proxy client derived from SagerNet and powered by a custom fork of v2ray-core.
+*   [dyhkwong/Exclave](https://github.com/dyhkwong/Exclave) - Proxy client.
 
 *   [android/socialite](https://github.com/android/socialite) -
 
@@ -414,6 +398,24 @@
 *   [FredJul/Flym](https://github.com/FredJul/Flym) - Flym News Reader is a light Android feed reader (RSS/Atom)
 
 *   [ankidroid/Anki-Android](https://github.com/ankidroid/Anki-Android) - AnkiDroid: Anki flashcards on Android. Your secret trick to achieve superhuman information retention.
+
+## Swift
+
+*   [dinoki-ai/osaurus](https://github.com/dinoki-ai/osaurus) - Native, Apple Silicon–only local LLM server. Similar to Ollama, but built on Apple's MLX for maximum performance on M‑series chips. SwiftUI app + SwiftNIO server with OpenAI‑compatible endpoints.
+
+*   [DanielZhangyc/RLLM](https://github.com/DanielZhangyc/RLLM) - LLM powered RSS reader
+
+*   [bin64/Clash-Dash](https://github.com/bin64/Clash-Dash) - 原生 SwiftUI 开发的 OpenClash/Nikki(MihomoTProxy) 管理工具
+
+*   [robertying/shadowsocks-macos](https://github.com/robertying/shadowsocks-macos) - Shadowsocks client for macOS, with support for Apple Silicon (arm64) and Intel (x86\_64)
+
+*   [coteditor/CotEditor](https://github.com/coteditor/CotEditor) - Lightweight Plain-Text Editor for macOS
+
+*   [greatfire/envoy](https://github.com/greatfire/envoy) - C and Java Library derived from Chromium Cronet which can be used to make Android apps resistant to censorship
+
+*   [nmdias/FeedKit](https://github.com/nmdias/FeedKit) - FeedKit is a Swift library for Reading and Generating RSS, Atom, and JSON feeds.
+
+*   [liruqi/Mume-iOS](https://github.com/liruqi/Mume-iOS) -
 
 ## Python
 
@@ -2010,8 +2012,6 @@
 *   [fossar/selfoss](https://github.com/fossar/selfoss) - multipurpose rss reader, live stream, mashup, aggregation web application
 
 *   [DIYgod/Resume](https://github.com/DIYgod/Resume) - :cake: Simple resume
-
-*   [L3au/colorful-qrcode](https://github.com/L3au/colorful-qrcode) - Simple & colorful QR code generator with chrome extension
 
 ## Makefile
 
