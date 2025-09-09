@@ -155,7 +155,7 @@
 
 *   [twofas/2fas-android](https://github.com/twofas/2fas-android) - Source code for 2FAS Auth Android app
 
-*   [dyhkwong/Exclave](https://github.com/dyhkwong/Exclave) - Proxy client.
+*   [dyhkwong/Exclave](https://github.com/dyhkwong/Exclave) - Proxy client
 
 *   [android/socialite](https://github.com/android/socialite) -
 
@@ -1301,7 +1301,7 @@
 
 *   [ipipdotnet/ipdb-go](https://github.com/ipipdotnet/ipdb-go) - IPIP.net officially supported IP database ipdb format parsing library
 
-*   [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region (2.0 - xdb) is a offline IP address manager framework and locator, support billions of data segments, ten microsecond searching performance. xdb engine implementation for many programming languages
+*   [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region is an offline IP address manager framework and locator with both IPv4 and IPv6 supported, supporting billions of data segments, ten microsecond searching performance, xdb search implementation for many programming languages
 
 *   [deanxv/go-geoip](https://github.com/deanxv/go-geoip) - 基于MaxMind的GeoIP库的IP信息查询服务
 
