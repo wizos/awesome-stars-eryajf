@@ -377,8 +377,6 @@
 
 *   [xfhy/MLCChat](https://github.com/xfhy/MLCChat) - 部署大模型到Android设备
 
-*   [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
-
 *   [Mingyueyixi/MaskWechat](https://github.com/Mingyueyixi/MaskWechat) - 这是一个微信 Xposed 模块，她可以隐藏特定用户的聊天记录，防止私密的聊天被第三人偷看
 
 *   [hiddify/HiddifyNG](https://github.com/hiddify/HiddifyNG) - A V2Ray client for Android, support Xray core and v2fly core
@@ -1846,6 +1844,8 @@
 *   [0xlane/wechat-dump-rs](https://github.com/0xlane/wechat-dump-rs) - 该工具用于导出正在运行中的微信进程的 key 并自动解密所有微信数据库文件以及导出 key 后数据库文件离线解密。
 
 *   [shadowsocks/shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust) - A Rust port of shadowsocks
+
+*   [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 
 *   [e1732a364fed/ruci](https://github.com/e1732a364fed/ruci) - a flexible proxy framework written in rust
 
