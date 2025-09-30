@@ -347,7 +347,7 @@
 
 *   [snakeying/GPT-Telegram-Worker](https://github.com/snakeying/GPT-Telegram-Worker) - A multi-model AI Telegram bot powered by Cloudflare Workers, supporting various APIs including OpenAI, Claude, and Azure. Developed in TypeScript with a modular design for easy expansion.基于 Cloudflare Workers 的多模型 AI Telegram 机器人，支持 OpenAI、Claude、Azure 等多个 API，采用 TypeScript 开发，模块化设计便于扩展。
 
-*   [zaidmukaddam/scira](https://github.com/zaidmukaddam/scira) - Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet and cites it too. Powered by Vercel AI SDK! Search with models like xAI's Grok 4.
+*   [zaidmukaddam/scira](https://github.com/zaidmukaddam/scira) - Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet and cites it too. Powered by Vercel AI SDK! Open Source perplexity alternative.
 
 *   [mikeccroberts/Gemini-Search](https://github.com/mikeccroberts/Gemini-Search) - Perplexity style AI Search engine clone built with Gemini 2.0 Flash and Grounding
 
