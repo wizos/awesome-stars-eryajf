@@ -2089,9 +2089,9 @@
 
 *   [gojue/ecapture](https://github.com/gojue/ecapture) - Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels for amd64/arm64.
 
-*   [heiher/hev-socks5-server](https://github.com/heiher/hev-socks5-server) - A socks5 server (Linux/Android/BSD/macOS/iOS/Windows)
+*   [heiher/hev-socks5-server](https://github.com/heiher/hev-socks5-server) - A lightweight, fast and reliable socks5 server
 
-*   [heiher/hev-socks5-tunnel](https://github.com/heiher/hev-socks5-tunnel) - Tun2Socks (Linux/Android/BSD/macOS/iOS/Windows) (IPv4/IPv6/TCP/UDP)
+*   [heiher/hev-socks5-tunnel](https://github.com/heiher/hev-socks5-tunnel) - A lightweight, fast and reliable tun2socks
 
 *   [AnonymousAAArdvark/qi](https://github.com/AnonymousAAArdvark/qi) - Lightweight and fast programming language designed to be written in Chinese.
 
