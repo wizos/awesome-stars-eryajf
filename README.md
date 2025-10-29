@@ -19,17 +19,18 @@
 ## Table of Contents
 
 *   [Kotlin](#kotlin)
+*   [miscellaneous](#miscellaneous)
+*   [C](#c)
+*   [C#](#c-1)
+*   [Swift](#swift)
 *   [Python](#python)
 *   [Dart](#dart)
-*   [miscellaneous](#miscellaneous)
 *   [JavaScript](#javascript)
 *   [TypeScript](#typescript)
 *   [Go](#go)
 *   [Java](#java)
-*   [C++](#c)
+*   [C++](#c-2)
 *   [Shell](#shell)
-*   [C#](#c-1)
-*   [Swift](#swift)
 *   [Rust](#rust)
 *   [AutoHotkey](#autohotkey)
 *   [HTML](#html)
@@ -37,7 +38,6 @@
 *   [CMake](#cmake)
 *   [Vue](#vue)
 *   [Makefile](#makefile)
-*   [C](#c-2)
 *   [Objective-C](#objective-c)
 *   [Elixir](#elixir)
 *   [Zig](#zig)
@@ -68,6 +68,8 @@
 *   [Thanks](#thanks)
 
 ## Kotlin
+
+*   [MetaCubeX/ClashMetaForAndroid](https://github.com/MetaCubeX/ClashMetaForAndroid) - A rule-based tunnel for Android.
 
 *   [DimensionDev/Flare](https://github.com/DimensionDev/Flare) - All your Mastodon, Bluesky, Misskey, X, RSS feeds, in one APP.
 
@@ -409,6 +411,306 @@
 
 *   [afollestad/material-dialogs](https://github.com/afollestad/material-dialogs) - 😍 A beautiful, fluid, and extensible dialogs API for Kotlin & Android.
 
+## miscellaneous
+
+*   [byJoey/cfnew](https://github.com/byJoey/cfnew) -
+
+*   [dongchengjie/airport](https://github.com/dongchengjie/airport) - Clash Meta 免费节点
+
+*   [ymyuuu/IPDB](https://github.com/ymyuuu/IPDB) - Cloudflare反代优选IP库
+
+*   [P3TERX/GeoLite.mmdb](https://github.com/P3TERX/GeoLite.mmdb) - MaxMind's GeoIP2 GeoLite2 Country, City, and ASN databases
+
+*   [Zhou-Li-Bin/Tvbox-QingNing](https://github.com/Zhou-Li-Bin/Tvbox-QingNing) - 永久免费更新/搜集分享/TVBox接口和直播源/影视仓接口和直播源/直播接口/电视接口含配置接口线路/单仓和多仓/优质的数据源/配置线路/影视源/TV源/tv线路/电视直播软件分享/电视盒子软件分享/国外线路/影视软件/IPTV
+
+*   [misakaio/chnroutes2](https://github.com/misakaio/chnroutes2) - Better aggregated chnroutes
+
+*   [17mon/china\_ip\_list](https://github.com/17mon/china_ip_list) -
+
+*   [AXFOX/DisplayMyHEIC](https://github.com/AXFOX/DisplayMyHEIC) - 在任何网页上显示你贴出的HEIF/HEIC图片。 Display your posted HEIF/HEIC images on any web page.
+
+*   [Xposed-Modules-Repo/me.plusne](https://github.com/Xposed-Modules-Repo/me.plusne) - PlusNE 7+
+
+*   [xixu-me/META](https://github.com/xixu-me/META) - Comprehensive configuration generator for network traffic management, providing intelligent routing rules and proxy configurations for various online services across different geographical locations
+
+*   [Tintac-CN/denoVlessProxy](https://github.com/Tintac-CN/denoVlessProxy) - Running Vless Proxy inside edge functions
+
+*   [HW-whistleblower/True-Story-of-Pangu](https://github.com/HW-whistleblower/True-Story-of-Pangu) - 诺亚盘古大模型研发背后的真正的心酸与黑暗的故事。
+
+*   [GtxFury/FlyClash-Android](https://github.com/GtxFury/FlyClash-Android) - FlyClash Android
+
+*   [xiaobaigroup/ClashBox](https://github.com/xiaobaigroup/ClashBox) - HarmonyOS NEXT的代理软件
+
+*   [golangboy/wxocr](https://github.com/golangboy/wxocr) - nothing
+
+*   [sjzar/chatlog](https://github.com/sjzar/chatlog) - chat log tool, easily use your own chat data. 聊天记录工具，轻松使用自己的聊天数据
+
+*   [SpaceTimee/Fusion-JetBrainsMapleMono](https://github.com/SpaceTimee/Fusion-JetBrainsMapleMono) - JetBrains Maple Mono: The free and open-source font fused with JetBrains Mono & Maple Mono
+
+*   [Xposed-Modules-Repo/me.hd.wauxv](https://github.com/Xposed-Modules-Repo/me.hd.wauxv) - WAuxiliary
+
+*   [HqWu-HITCS/Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM) - 整理开源的中文大语言模型，以规模较小、可私有化部署、训练成本较低的模型为主，包括底座模型，垂直领域微调及应用，数据集与教程等。
+
+*   [obgnail/chinese-internet-is-dead](https://github.com/obgnail/chinese-internet-is-dead) - Manually maintained website blocklist
+
+*   [wbetrue/somesnull](https://github.com/wbetrue/somesnull) - 好奇熊规则
+
+*   [woohong666/win-xray](https://github.com/woohong666/win-xray) - V2Ray、Xray、Shadowsocks、Trojan、SSR、SSRoT、NaïveProxy、SOCKS、HTTP(S) 全能通用客户端（Windows），可自动发现最快服务器，连接异常自动切换 - 速度快如闪电，提供一键自动部署服务端工具，绿色便携版免安装仅6MB、使用轻量语言 aardio 开发不需要任何外部运行库
+
+*   [chumoew/Close-Plus](https://github.com/chumoew/Close-Plus) - 一款基于Close的免Root去广告模块/A Close-based Root-free advertising module
+
+*   [popjane/free\_chatgpt\_api](https://github.com/popjane/free_chatgpt_api) - 🔥 公益免费的ChatGPT API，Free ChatGPT API，GPT4 API，可直连，无需代理，使用标准 OpenAI APIKEY 格式访问 ChatGPT，可搭配ChatGPT-next-web、ChatGPT-Midjourney、Lobe-chat、Botgem、FastGPT、沉浸式翻译等项目使用
+
+*   [chika0801/sing-box-examples](https://github.com/chika0801/sing-box-examples) - sing-box 配置示例
+
+*   [8Mi-Tech/LSPatch-ApkFactory](https://github.com/8Mi-Tech/LSPatch-ApkFactory) - 一个基于LSPatch的打包工具，自动为常见应用打LSPatch补丁的仓库，包括 OPatch / ONPatch / NPatch
+
+*   [hua1995116/indiehackers-steps](https://github.com/hua1995116/indiehackers-steps) - 《独立开发者的艺术》打造最全的独立开发者指南，一人公司。
+
+*   [jiji262/tianya-docs](https://github.com/jiji262/tianya-docs) - 精心收集的天涯神贴，不带水印，方便阅读
+
+*   [zhuima/awesome-cloudflare](https://github.com/zhuima/awesome-cloudflare) - ⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。/ ⛅️ A curated list of Cloudflare tools, open source projects, guides, blogs and other resources.
+
+*   [jsrgjcy/geoLibChina](https://github.com/jsrgjcy/geoLibChina) - 经纬度转省市区县乡镇离线包，采用空间查询算法，速度快(单线程5w次/s)，省市区县100%准确率。
+
+*   [xiaohucode/yidaRule](https://github.com/xiaohucode/yidaRule) - 益达规则仓库
+
+*   [xlucn/oh-my-foss-android](https://github.com/xlucn/oh-my-foss-android) - 个人收集的实用、良心开源安卓软件
+
+*   [bleedline/aimoneyhunter](https://github.com/bleedline/aimoneyhunter) - ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益。The Ultimate Guide to Making Money with AI Side Hustles: Learn how to leverage AI for some cool side gigs and rake in some extra cash. Check out the English version for more insights.
+
+*   [timschneeb/awesome-shizuku](https://github.com/timschneeb/awesome-shizuku) - Curated list of awesome Android apps making use of Shizuku
+
+*   [wgwang/awesome-LLMs-In-China](https://github.com/wgwang/awesome-LLMs-In-China) - 中国大模型
+
+*   [Archmage83/tvapk](https://github.com/Archmage83/tvapk) - 收集各大AndroidTV的apk应用，可免费看vip和国外电影电视。如大家有也可以贡献一下。
+
+*   [LC044/WeChatMsg](https://github.com/LC044/WeChatMsg) -
+
+*   [Robin-jiangyufeng/LazyCacheForAndroid](https://github.com/Robin-jiangyufeng/LazyCacheForAndroid) - android缓存库,具有二级缓存功能,可以自己定实现三级缓存;可扩展性高
+
+*   [wizos/webview-gm](https://github.com/wizos/webview-gm) - Android library for Greasemonkey-compatible user script support
+
+*   [glovebx/moco-ai-client](https://github.com/glovebx/moco-ai-client) - Concurrently chat with free GPT3.5 nodes & Google Gemini on Android Phone
+
+*   [gaboolic/vercel-reverse-fast](https://github.com/gaboolic/vercel-reverse-fast) - vercel加速OpenAI/ChatGPT
+
+*   [sharmajv/vpn](https://github.com/sharmajv/vpn) - VPN软件（小三VPN），完全免费，不注册，不限速，不限流，不看广告不流氓
+
+*   [o0HalfLife0o/TVBoxOSC](https://github.com/o0HalfLife0o/TVBoxOSC) -
+
+*   [The-Run-Philosophy-Organization/run](https://github.com/The-Run-Philosophy-Organization/run) - 润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。
+
+*   [buhe/build-your-own-x-zh](https://github.com/buhe/build-your-own-x-zh) - 🤓 Build your own (insert technology here) simplified chinese  version
+
+*   [getActivity/AndroidVersionAdapter](https://github.com/getActivity/AndroidVersionAdapter) - Android 版本适配全套指南
+
+*   [zhangzhichaolove/91porn-android](https://github.com/zhangzhichaolove/91porn-android) - android 91 app(91porn安卓客户端).
+
+*   [Vinnl/feeds](https://github.com/Vinnl/feeds) -   Example repository for creating your own RSS feeds using Feed me up, Scotty!
+
+*   [clearw5/Auto.js](https://github.com/clearw5/Auto.js) - Automation\&Workflow JavaScript IDE on Android(安卓平台上的JavaScript编程IDE)
+
+*   [emma-oc/podcast-host](https://github.com/emma-oc/podcast-host) - Listen and subscribe to our podcast "杠上开花A Bouquet of Arguments"! This is the repo for files and RSS feed.
+
+*   [yuuwill/1024app-android](https://github.com/yuuwill/1024app-android) - 草榴官方客户端，小草客户端，Android
+
+*   [shengcaishizhan/kkndme\_tianya](https://github.com/shengcaishizhan/kkndme_tianya) - 天涯 kkndme 神贴聊房价
+
+*   [ayuer/shanghai\_house\_knowledge](https://github.com/ayuer/shanghai_house_knowledge) - 2020年11月在上海买房经历总结出来的买房购房做的一些功课分享给大家，技术人帮助技术人，希望对大家有所帮助。
+
+*   [maskedeken/gost-plugin-android](https://github.com/maskedeken/gost-plugin-android) - gost-plugin for shadowsocks-android
+
+*   [YooooEX/Feeder](https://github.com/YooooEX/Feeder) - Feeder archive files
+
+*   [coder2gwy/coder2gwy](https://github.com/coder2gwy/coder2gwy) - 互联网首份程序员考公指南，由3位已经进入体制内的前大厂程序员联合献上。
+
+*   [TheMRLL/WinXray](https://github.com/TheMRLL/WinXray) - 支持Xray / V2Ray（vmess / vless），Shadowsocks，SSR，Trojan，NaïveProxy，Trojan-go通用客户端（Windows）！默认基于xray核心！本程序采用aardio设计与开发！
+
+*   [justjavac/github-actions-youtube-dl](https://github.com/justjavac/github-actions-youtube-dl) - 使用 GitHub Actions 下载 YouTube 视频
+
+*   [KyleBing/sslist](https://github.com/KyleBing/sslist) - 优化访问速度的小型 gfw (Great Fire Wall) 规则列表 gfwlist
+
+*   [ZhangLang001/HttpCanary](https://github.com/ZhangLang001/HttpCanary) - 【Android】 Android开发工具之http请求日志打印
+
+*   [datawhalechina/pumpkin-book](https://github.com/datawhalechina/pumpkin-book) - 《机器学习》（西瓜书）公式详解
+
+*   [iloeng/Password-Dictionaries](https://github.com/iloeng/Password-Dictionaries) - 收集的压缩包解压密码，包括：自己遇到的、网络采集的等
+
+*   [Loyalsoldier/v2ray-rules-dat](https://github.com/Loyalsoldier/v2ray-rules-dat) - 🦄 🎃 👻 V2Ray 路由规则文件加强版，可代替 V2Ray 官方 geoip.dat 和 geosite.dat，适用于 V2Ray、Xray-core、mihomo(Clash-Meta)、hysteria、Trojan-Go 和 leaf。Enhanced edition of V2Ray rules dat files, applicable to V2Ray, Xray-core, mihomo(Clash-Meta), hysteria, Trojan-Go and leaf.
+
+*   [zealotCE/America-Against-America](https://github.com/zealotCE/America-Against-America) - 《美国反对美国》是王沪宁先生在上世纪80年代末赴美观察写作的。我们知道在那个年代中国对西方特别是美国的追捧有多高，所以突然看到一个学者在80年代就有如此清楚的认识，十分钦佩。由于网上只有效果很差的PDF扫描版，所以我想利用OCR技术和肉眼（人体OCR）来转成现代化的文本格式。目前已经全部完成。
+
+*   [googlehosts/hosts](https://github.com/googlehosts/hosts) - 镜像：https://scaffrey.coding.net/p/hosts/git / https://git.qvq.network/googlehosts/hosts
+
+*   [MLNLP-World/MIT-Linear-Algebra-Notes](https://github.com/MLNLP-World/MIT-Linear-Algebra-Notes) - MLNLP: Notes for MIT-Linear-Algebra
+
+*   [wll8/aardio\_doc](https://github.com/wll8/aardio_doc) - aardio 文档 markdown 版本。
+
+*   [ghostery/browser-android](https://github.com/ghostery/browser-android) - Legacy Ghostery Browser for Android
+
+*   [meetocean/webnovel](https://github.com/meetocean/webnovel) -
+
+*   [hapiman/fin-circle](https://github.com/hapiman/fin-circle) - 探讨技术、金融、赚钱的小圈子！
+
+*   [yanue/V2rayU](https://github.com/yanue/V2rayU) - V2rayU,基于v2ray核心的mac版客户端,用于科学上网,使用swift编写,支持trojan,vmess,shadowsocks,socks5等服务协议,支持订阅, 支持二维码,剪贴板导入,手动配置,二维码分享等
+
+*   [ttpianobirds/RenZhengfei](https://github.com/ttpianobirds/RenZhengfei) - 任正非思想
+
+*   [wasabeef/awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) - A curated list of awesome Android UI/UX libraries
+
+*   [justjavac/free-programming-books-zh\_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
+
+*   [996icu/996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
+
+*   [garychowcmu/daizhigev20](https://github.com/garychowcmu/daizhigev20) - 殆知阁古代文献
+
+*   [gnijuohz/get-out](https://github.com/gnijuohz/get-out) - A guide
+
+*   [erguotou520/bye](https://github.com/erguotou520/bye) - bye to yesterday and do yourself
+
+*   [javayhu/poetry](https://github.com/javayhu/poetry) - 📚 China ancient poetry project data
+
+*   [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
+
+*   [marboo/CCBooks](https://github.com/marboo/CCBooks) - 开源著作列表
+
+*   [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
+
+*   [ipfs/ipfs](https://github.com/ipfs/ipfs) - Peer-to-peer hypermedia protocol
+
+*   [greatfire/wiki](https://github.com/greatfire/wiki) -
+
+*   [ngosang/trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
+
+*   [missdeer/avege](https://github.com/missdeer/avege) - Yet Another Redsocks Golang Fork
+
+*   [SmartisanTech/android](https://github.com/SmartisanTech/android) - Smartisan open source code for full build.(repo manifest xml)
+
+*   [kakuilan/china\_area\_mysql](https://github.com/kakuilan/china_area_mysql) - 中国5级行政区域mysql库
+
+## C
+
+*   [RfidResearchGroup/ChameleonUltra](https://github.com/RfidResearchGroup/ChameleonUltra) - The new generation chameleon based on NRF52840 makes the performance of card emulation more stable. And gave the chameleon the ability to read, write, and decrypt cards.
+
+*   [i-p-tel/sipdroid](https://github.com/i-p-tel/sipdroid) - Free SIP/VoIP client for Android
+
+*   [karpathy/llama2.c](https://github.com/karpathy/llama2.c) - Inference Llama 2 in one file of pure C
+
+*   [maxmind/libmaxminddb](https://github.com/maxmind/libmaxminddb) - C library for the MaxMind DB file format
+
+*   [nicbarker/clay](https://github.com/nicbarker/clay) - High performance UI layout library in C.
+
+*   [cashapp/zipline](https://github.com/cashapp/zipline) - Run Kotlin/JS libraries in Kotlin/JVM and Kotlin/Native programs
+
+*   [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
+
+*   [brunodev85/winlator](https://github.com/brunodev85/winlator) - Android application for running Windows applications with Wine and Box86/Box64
+
+*   [BillyWei01/FastAES](https://github.com/BillyWei01/FastAES) - 比SDK快10倍的AES加解密实现。
+
+*   [schwabe/ics-openvpn](https://github.com/schwabe/ics-openvpn) - OpenVPN for Android
+
+*   [gojue/ecapture](https://github.com/gojue/ecapture) - Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels for amd64/arm64.
+
+*   [heiher/hev-socks5-server](https://github.com/heiher/hev-socks5-server) - A lightweight, fast and reliable socks5 server
+
+*   [heiher/hev-socks5-tunnel](https://github.com/heiher/hev-socks5-tunnel) - A lightweight, fast and reliable tun2socks
+
+*   [AnonymousAAArdvark/qi](https://github.com/AnonymousAAArdvark/qi) - Lightweight and fast programming language designed to be written in Chinese.
+
+*   [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake's main development repository
+
+*   [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - This project aims to enhance the working environment on Windows
+
+*   [Awesome-HarmonyOS/HarmonyOS](https://github.com/Awesome-HarmonyOS/HarmonyOS) - A curated list of awesome things related to HarmonyOS. 华为鸿蒙操作系统。
+
+*   [AdAway/AdAway](https://github.com/AdAway/AdAway) - AdAway is a free and open source ad blocker for Android.
+
+*   [wudicgi/SpleeterMsvcExe](https://github.com/wudicgi/SpleeterMsvcExe) - Windows command line program for Spleeter, pure C, no Python. GUI: https://github.com/wudicgi/SpleeterGui | Spleeter 的 Windows 命令行程序，纯 C 语言编写，无需 Python.
+
+*   [XTLS/badvpn](https://github.com/XTLS/badvpn) - NCD scripting language, tun2socks proxifier, P2P VPN
+
+*   [bndeff/socksdroid](https://github.com/bndeff/socksdroid) -
+
+*   [pymumu/smartdns](https://github.com/pymumu/smartdns) - A local DNS server to obtain the fastest website IP for the best Internet experience, support DoT, DoH, DoQ. 一个本地DNS服务器，获取最快的网站IP，获得最佳上网体验，支持DoH，DoT，DoQ。
+
+*   [spirytusz/AndroidLua](https://github.com/spirytusz/AndroidLua) - Lua script supported on Android platform
+
+*   [SherlockGougou/BigImageViewPager](https://github.com/SherlockGougou/BigImageViewPager) - 🔥🔥🔥 BigImage ImageView ViewPager 一个图片/视频浏览器库，支持超大图、超长图、动图、视频，支持手势，支持查看原图、下载、加载百分比进度显示。采用区块复用加载，优化内存占用，有效避免OOM。
+
+*   [liudf0716/xkcptun](https://github.com/liudf0716/xkcptun) - xkcptun is kcp tunnel for OpenWRT\&LEDE, implemented in c language
+
+*   [russdill/tunsocks](https://github.com/russdill/tunsocks) - User-level IP forwarding, SOCKS proxy, and HTTP proxy for VPNs that provide tun-like interface
+
+*   [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
+
+*   [skywind3000/kcp](https://github.com/skywind3000/kcp) - :zap: KCP - A Fast and Reliable ARQ Protocol
+
+*   [meyerd/n2n](https://github.com/meyerd/n2n) - A development branch of the n2n p2p vpn software
+
+*   [dosgo/ngrok-c](https://github.com/dosgo/ngrok-c) - ngrok client for c language,Due to the use of GO ngrok language development, porting to embedded devices some inconvenience, such as openwrt, so use C language rewrite a client. Very mini, the need to support polarssl library.
+
+## C\#
+
+*   [ahpxex/Aictionary](https://github.com/ahpxex/Aictionary) - 一个桌面词典：快速、简洁，并且真的让你学会英语
+
+*   [nikenidage/DailyMoney](https://github.com/nikenidage/DailyMoney) -
+
+*   [PhilippC/keepass2android](https://github.com/PhilippC/keepass2android) - Password manager app for Android
+
+*   [LagrangeDev/Lagrange.Core](https://github.com/LagrangeDev/Lagrange.Core) - An Implementation of NTQQ Protocol, with Pure C#, Derived from Konata.Core
+
+*   [Jackett/Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers
+
+*   [vpnhood/VpnHood](https://github.com/vpnhood/VpnHood) - Undetectable Fast Portable VPN
+
+*   [Clean-Reader/CleanReader.Desktop](https://github.com/Clean-Reader/CleanReader.Desktop) - 使用 Windows App SDK 构建的桌面版干净阅读
+
+*   [stratumauth/app](https://github.com/stratumauth/app) - 📱 Two-Factor Authentication (2FA) client for Android + Wear OS
+
+*   [Kyome22/RunCat365](https://github.com/Kyome22/RunCat365) - A cute running cat animation on your windows taskbar.
+
+*   [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
+
+*   [BluePointLilac/ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager) - 🖱️ 纯粹的Windows右键菜单管理程序
+
+*   [huiyadanli/RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher) - :trollface: A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）
+
+*   [magicdmer/M3U8-Downloader](https://github.com/magicdmer/M3U8-Downloader) - m3u8 downloader
+
+*   [netchx/netch](https://github.com/netchx/netch) - A simple proxy client
+
+*   [bitbeans/SimpleDnsCrypt](https://github.com/bitbeans/SimpleDnsCrypt) - A simple management tool for dnscrypt-proxy
+
+*   [stanzhai/Html2Article](https://github.com/stanzhai/Html2Article) - Html网页正文提取
+
+*   [GangZhuo/kcptun-gui-windows](https://github.com/GangZhuo/kcptun-gui-windows) - GUI for kcptun (https://github.com/xtaci/kcptun). (Need .NET framework 4.5)
+
+*   [shadowsocks/shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) - A C# port of shadowsocks
+
+*   [kenvix/USBCopyer](https://github.com/kenvix/USBCopyer) - 😉 用于在插上U盘后自动按需复制该U盘的文件。”备份&偷U盘文件的神器”（写作USBCopyer，读作USBCopier）
+
+## Swift
+
+*   [spacefarers/Dropp](https://github.com/spacefarers/Dropp) -
+
+*   [dinoki-ai/osaurus](https://github.com/dinoki-ai/osaurus) - Native Apple Silicon LLM server on MLX with chat UI, menu bar app, and CLI. OpenAI & Ollama compatible. Supports Apple Foundation Models.
+
+*   [DanielZhangyc/RLLM](https://github.com/DanielZhangyc/RLLM) - LLM powered RSS reader
+
+*   [bin64/Clash-Dash](https://github.com/bin64/Clash-Dash) - 原生 SwiftUI 开发的 OpenClash/Nikki(MihomoTProxy) 管理工具
+
+*   [robertying/shadowsocks-macos](https://github.com/robertying/shadowsocks-macos) - Shadowsocks client for macOS, with support for Apple Silicon (arm64) and Intel (x86\_64)
+
+*   [coteditor/CotEditor](https://github.com/coteditor/CotEditor) - Lightweight Plain-Text Editor for macOS
+
+*   [greatfire/envoy](https://github.com/greatfire/envoy) - C and Java Library derived from Chromium Cronet which can be used to make Android apps resistant to censorship
+
+*   [nmdias/FeedKit](https://github.com/nmdias/FeedKit) - FeedKit is a Swift library for Reading and Generating RSS, Atom, and JSON feeds.
+
+*   [liruqi/Mume-iOS](https://github.com/liruqi/Mume-iOS) -
+
 ## Python
 
 *   [xinliu9451/smart\_voice\_assistant](https://github.com/xinliu9451/smart_voice_assistant) - 一个基于本地模型的中文语音智能助手，支持关键词唤醒、语音识别、大模型对话和语音合成。
@@ -701,182 +1003,6 @@
 
 *   [tsacdop/tsacdop](https://github.com/tsacdop/tsacdop) - Enjoy podcasts with Tsacdop!  A podcast player built with flutter.
 
-## miscellaneous
-
-*   [dongchengjie/airport](https://github.com/dongchengjie/airport) - Clash Meta 免费节点
-
-*   [ymyuuu/IPDB](https://github.com/ymyuuu/IPDB) - Cloudflare反代优选IP库
-
-*   [P3TERX/GeoLite.mmdb](https://github.com/P3TERX/GeoLite.mmdb) - MaxMind's GeoIP2 GeoLite2 Country, City, and ASN databases
-
-*   [Zhou-Li-Bin/Tvbox-QingNing](https://github.com/Zhou-Li-Bin/Tvbox-QingNing) - 永久免费更新/搜集分享/TVBox接口和直播源/影视仓接口和直播源/直播接口/电视接口含配置接口线路/单仓和多仓/优质的数据源/配置线路/影视源/TV源/tv线路/电视直播软件分享/电视盒子软件分享/国外线路/影视软件/IPTV
-
-*   [misakaio/chnroutes2](https://github.com/misakaio/chnroutes2) - Better aggregated chnroutes
-
-*   [17mon/china\_ip\_list](https://github.com/17mon/china_ip_list) -
-
-*   [AXFOX/DisplayMyHEIC](https://github.com/AXFOX/DisplayMyHEIC) - 在任何网页上显示你贴出的HEIF/HEIC图片。 Display your posted HEIF/HEIC images on any web page.
-
-*   [Xposed-Modules-Repo/me.plusne](https://github.com/Xposed-Modules-Repo/me.plusne) - PlusNE 7+
-
-*   [xixu-me/META](https://github.com/xixu-me/META) - Comprehensive configuration generator for network traffic management, providing intelligent routing rules and proxy configurations for various online services across different geographical locations
-
-*   [Tintac-CN/denoVlessProxy](https://github.com/Tintac-CN/denoVlessProxy) - Running Vless Proxy inside edge functions
-
-*   [HW-whistleblower/True-Story-of-Pangu](https://github.com/HW-whistleblower/True-Story-of-Pangu) - 诺亚盘古大模型研发背后的真正的心酸与黑暗的故事。
-
-*   [GtxFury/FlyClash-Android](https://github.com/GtxFury/FlyClash-Android) - FlyClash Android
-
-*   [xiaobaigroup/ClashBox](https://github.com/xiaobaigroup/ClashBox) - HarmonyOS NEXT的代理软件
-
-*   [golangboy/wxocr](https://github.com/golangboy/wxocr) - nothing
-
-*   [sjzar/chatlog](https://github.com/sjzar/chatlog) - chat log tool, easily use your own chat data. 聊天记录工具，轻松使用自己的聊天数据
-
-*   [SpaceTimee/Fusion-JetBrainsMapleMono](https://github.com/SpaceTimee/Fusion-JetBrainsMapleMono) - JetBrains Maple Mono: The free and open-source font fused with JetBrains Mono & Maple Mono
-
-*   [Xposed-Modules-Repo/me.hd.wauxv](https://github.com/Xposed-Modules-Repo/me.hd.wauxv) - WAuxiliary
-
-*   [HqWu-HITCS/Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM) - 整理开源的中文大语言模型，以规模较小、可私有化部署、训练成本较低的模型为主，包括底座模型，垂直领域微调及应用，数据集与教程等。
-
-*   [obgnail/chinese-internet-is-dead](https://github.com/obgnail/chinese-internet-is-dead) - Manually maintained website blocklist
-
-*   [wbetrue/somesnull](https://github.com/wbetrue/somesnull) - 好奇熊规则
-
-*   [woohong666/win-xray](https://github.com/woohong666/win-xray) - V2Ray、Xray、Shadowsocks、Trojan、SSR、SSRoT、NaïveProxy、SOCKS、HTTP(S) 全能通用客户端（Windows），可自动发现最快服务器，连接异常自动切换 - 速度快如闪电，提供一键自动部署服务端工具，绿色便携版免安装仅6MB、使用轻量语言 aardio 开发不需要任何外部运行库
-
-*   [chumoew/Close-Plus](https://github.com/chumoew/Close-Plus) - 一款基于Close的免Root去广告模块/A Close-based Root-free advertising module
-
-*   [popjane/free\_chatgpt\_api](https://github.com/popjane/free_chatgpt_api) - 🔥 公益免费的ChatGPT API，Free ChatGPT API，GPT4 API，可直连，无需代理，使用标准 OpenAI APIKEY 格式访问 ChatGPT，可搭配ChatGPT-next-web、ChatGPT-Midjourney、Lobe-chat、Botgem、FastGPT、沉浸式翻译等项目使用
-
-*   [chika0801/sing-box-examples](https://github.com/chika0801/sing-box-examples) - sing-box 配置示例
-
-*   [8Mi-Tech/LSPatch-ApkFactory](https://github.com/8Mi-Tech/LSPatch-ApkFactory) - 一个基于LSPatch的打包工具，自动为常见应用打LSPatch补丁的仓库，包括 OPatch / ONPatch / NPatch
-
-*   [hua1995116/indiehackers-steps](https://github.com/hua1995116/indiehackers-steps) - 《独立开发者的艺术》打造最全的独立开发者指南，一人公司。
-
-*   [jiji262/tianya-docs](https://github.com/jiji262/tianya-docs) - 精心收集的天涯神贴，不带水印，方便阅读
-
-*   [zhuima/awesome-cloudflare](https://github.com/zhuima/awesome-cloudflare) - ⛅️ 精选的 Cloudflare 工具、开源项目、指南、博客和其他资源列表。/ ⛅️ A curated list of Cloudflare tools, open source projects, guides, blogs and other resources.
-
-*   [jsrgjcy/geoLibChina](https://github.com/jsrgjcy/geoLibChina) - 经纬度转省市区县乡镇离线包，采用空间查询算法，速度快(单线程5w次/s)，省市区县100%准确率。
-
-*   [xiaohucode/yidaRule](https://github.com/xiaohucode/yidaRule) - 益达规则仓库
-
-*   [xlucn/oh-my-foss-android](https://github.com/xlucn/oh-my-foss-android) - 个人收集的实用、良心开源安卓软件
-
-*   [bleedline/aimoneyhunter](https://github.com/bleedline/aimoneyhunter) - ai副业赚钱大集合，教你如何利用ai做一些副业项目，赚取更多额外收益。The Ultimate Guide to Making Money with AI Side Hustles: Learn how to leverage AI for some cool side gigs and rake in some extra cash. Check out the English version for more insights.
-
-*   [timschneeb/awesome-shizuku](https://github.com/timschneeb/awesome-shizuku) - Curated list of awesome Android apps making use of Shizuku
-
-*   [wgwang/awesome-LLMs-In-China](https://github.com/wgwang/awesome-LLMs-In-China) - 中国大模型
-
-*   [Archmage83/tvapk](https://github.com/Archmage83/tvapk) - 收集各大AndroidTV的apk应用，可免费看vip和国外电影电视。如大家有也可以贡献一下。
-
-*   [LC044/WeChatMsg](https://github.com/LC044/WeChatMsg) -
-
-*   [Robin-jiangyufeng/LazyCacheForAndroid](https://github.com/Robin-jiangyufeng/LazyCacheForAndroid) - android缓存库,具有二级缓存功能,可以自己定实现三级缓存;可扩展性高
-
-*   [wizos/webview-gm](https://github.com/wizos/webview-gm) - Android library for Greasemonkey-compatible user script support
-
-*   [glovebx/moco-ai-client](https://github.com/glovebx/moco-ai-client) - Concurrently chat with free GPT3.5 nodes & Google Gemini on Android Phone
-
-*   [gaboolic/vercel-reverse-fast](https://github.com/gaboolic/vercel-reverse-fast) - vercel加速OpenAI/ChatGPT
-
-*   [sharmajv/vpn](https://github.com/sharmajv/vpn) - VPN软件（小三VPN），完全免费，不注册，不限速，不限流，不看广告不流氓
-
-*   [o0HalfLife0o/TVBoxOSC](https://github.com/o0HalfLife0o/TVBoxOSC) -
-
-*   [The-Run-Philosophy-Organization/run](https://github.com/The-Run-Philosophy-Organization/run) - 润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。
-
-*   [buhe/build-your-own-x-zh](https://github.com/buhe/build-your-own-x-zh) - 🤓 Build your own (insert technology here) simplified chinese  version
-
-*   [getActivity/AndroidVersionAdapter](https://github.com/getActivity/AndroidVersionAdapter) - Android 版本适配全套指南
-
-*   [zhangzhichaolove/91porn-android](https://github.com/zhangzhichaolove/91porn-android) - android 91 app(91porn安卓客户端).
-
-*   [Vinnl/feeds](https://github.com/Vinnl/feeds) -   Example repository for creating your own RSS feeds using Feed me up, Scotty!
-
-*   [clearw5/Auto.js](https://github.com/clearw5/Auto.js) - Automation\&Workflow JavaScript IDE on Android(安卓平台上的JavaScript编程IDE)
-
-*   [emma-oc/podcast-host](https://github.com/emma-oc/podcast-host) - Listen and subscribe to our podcast "杠上开花A Bouquet of Arguments"! This is the repo for files and RSS feed.
-
-*   [yuuwill/1024app-android](https://github.com/yuuwill/1024app-android) - 草榴官方客户端，小草客户端，Android
-
-*   [shengcaishizhan/kkndme\_tianya](https://github.com/shengcaishizhan/kkndme_tianya) - 天涯 kkndme 神贴聊房价
-
-*   [ayuer/shanghai\_house\_knowledge](https://github.com/ayuer/shanghai_house_knowledge) - 2020年11月在上海买房经历总结出来的买房购房做的一些功课分享给大家，技术人帮助技术人，希望对大家有所帮助。
-
-*   [maskedeken/gost-plugin-android](https://github.com/maskedeken/gost-plugin-android) - gost-plugin for shadowsocks-android
-
-*   [YooooEX/Feeder](https://github.com/YooooEX/Feeder) - Feeder archive files
-
-*   [coder2gwy/coder2gwy](https://github.com/coder2gwy/coder2gwy) - 互联网首份程序员考公指南，由3位已经进入体制内的前大厂程序员联合献上。
-
-*   [TheMRLL/WinXray](https://github.com/TheMRLL/WinXray) - 支持Xray / V2Ray（vmess / vless），Shadowsocks，SSR，Trojan，NaïveProxy，Trojan-go通用客户端（Windows）！默认基于xray核心！本程序采用aardio设计与开发！
-
-*   [justjavac/github-actions-youtube-dl](https://github.com/justjavac/github-actions-youtube-dl) - 使用 GitHub Actions 下载 YouTube 视频
-
-*   [KyleBing/sslist](https://github.com/KyleBing/sslist) - 优化访问速度的小型 gfw (Great Fire Wall) 规则列表 gfwlist
-
-*   [ZhangLang001/HttpCanary](https://github.com/ZhangLang001/HttpCanary) - 【Android】 Android开发工具之http请求日志打印
-
-*   [datawhalechina/pumpkin-book](https://github.com/datawhalechina/pumpkin-book) - 《机器学习》（西瓜书）公式详解
-
-*   [iloeng/Password-Dictionaries](https://github.com/iloeng/Password-Dictionaries) - 收集的压缩包解压密码，包括：自己遇到的、网络采集的等
-
-*   [Loyalsoldier/v2ray-rules-dat](https://github.com/Loyalsoldier/v2ray-rules-dat) - 🦄 🎃 👻 V2Ray 路由规则文件加强版，可代替 V2Ray 官方 geoip.dat 和 geosite.dat，适用于 V2Ray、Xray-core、mihomo(Clash-Meta)、hysteria、Trojan-Go 和 leaf。Enhanced edition of V2Ray rules dat files, applicable to V2Ray, Xray-core, mihomo(Clash-Meta), hysteria, Trojan-Go and leaf.
-
-*   [zealotCE/America-Against-America](https://github.com/zealotCE/America-Against-America) - 《美国反对美国》是王沪宁先生在上世纪80年代末赴美观察写作的。我们知道在那个年代中国对西方特别是美国的追捧有多高，所以突然看到一个学者在80年代就有如此清楚的认识，十分钦佩。由于网上只有效果很差的PDF扫描版，所以我想利用OCR技术和肉眼（人体OCR）来转成现代化的文本格式。目前已经全部完成。
-
-*   [googlehosts/hosts](https://github.com/googlehosts/hosts) - 镜像：https://scaffrey.coding.net/p/hosts/git / https://git.qvq.network/googlehosts/hosts
-
-*   [MLNLP-World/MIT-Linear-Algebra-Notes](https://github.com/MLNLP-World/MIT-Linear-Algebra-Notes) - MLNLP: Notes for MIT-Linear-Algebra
-
-*   [wll8/aardio\_doc](https://github.com/wll8/aardio_doc) - aardio 文档 markdown 版本。
-
-*   [ghostery/browser-android](https://github.com/ghostery/browser-android) - Legacy Ghostery Browser for Android
-
-*   [meetocean/webnovel](https://github.com/meetocean/webnovel) -
-
-*   [hapiman/fin-circle](https://github.com/hapiman/fin-circle) - 探讨技术、金融、赚钱的小圈子！
-
-*   [yanue/V2rayU](https://github.com/yanue/V2rayU) - V2rayU,基于v2ray核心的mac版客户端,用于科学上网,使用swift编写,支持trojan,vmess,shadowsocks,socks5等服务协议,支持订阅, 支持二维码,剪贴板导入,手动配置,二维码分享等
-
-*   [ttpianobirds/RenZhengfei](https://github.com/ttpianobirds/RenZhengfei) - 任正非思想
-
-*   [wasabeef/awesome-android-ui](https://github.com/wasabeef/awesome-android-ui) - A curated list of awesome Android UI/UX libraries
-
-*   [justjavac/free-programming-books-zh\_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
-
-*   [996icu/996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
-
-*   [garychowcmu/daizhigev20](https://github.com/garychowcmu/daizhigev20) - 殆知阁古代文献
-
-*   [gnijuohz/get-out](https://github.com/gnijuohz/get-out) - A guide
-
-*   [erguotou520/bye](https://github.com/erguotou520/bye) - bye to yesterday and do yourself
-
-*   [javayhu/poetry](https://github.com/javayhu/poetry) - 📚 China ancient poetry project data
-
-*   [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
-
-*   [marboo/CCBooks](https://github.com/marboo/CCBooks) - 开源著作列表
-
-*   [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
-
-*   [ipfs/ipfs](https://github.com/ipfs/ipfs) - Peer-to-peer hypermedia protocol
-
-*   [greatfire/wiki](https://github.com/greatfire/wiki) -
-
-*   [ngosang/trackerslist](https://github.com/ngosang/trackerslist) - Updated list of public BitTorrent trackers
-
-*   [missdeer/avege](https://github.com/missdeer/avege) - Yet Another Redsocks Golang Fork
-
-*   [SmartisanTech/android](https://github.com/SmartisanTech/android) - Smartisan open source code for full build.(repo manifest xml)
-
-*   [kakuilan/china\_area\_mysql](https://github.com/kakuilan/china_area_mysql) - 中国5级行政区域mysql库
-
 ## JavaScript
 
 *   [amclubs/am-cf-tunnel-sub](https://github.com/amclubs/am-cf-tunnel-sub) - 基于Vercel、Cloudflare 部署该脚本，你可以方便地将Cloudflare Workers 和 Pages的 VLESS、Trojan 配置信息使用在线配置转换到 Clash、 Singbox 、Quantumult X等工具中订阅使用。Cloudflare Workers 和 Pages 生成VLESS、Trojan节点,实现一键订阅节点。
@@ -1119,7 +1245,7 @@
 
 *   [MoYuM/notion2rss](https://github.com/MoYuM/notion2rss) - Convert your Notion database into an RSS feed using Cloudflare Workers
 
-*   [mg-chao/snow-shot](https://github.com/mg-chao/snow-shot) - 简单优雅的工具软件
+*   [mg-chao/snow-shot](https://github.com/mg-chao/snow-shot) - 超好用的截图工具
 
 *   [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java, Dart). Use what you love ❤️ Angular, React, Solid, Svelte, Vue with: iOS (UIKit, SwiftUI), Android (View, Jetpack Compose), Dart (Flutter) and you name it compatible.
 
@@ -1769,14 +1895,6 @@
 
 *   [westlinkin/AndroidLocalizationer](https://github.com/westlinkin/AndroidLocalizationer) - This is a Android Studio/ IntelliJ IDEA plugin to localize your Android app, translate your string resources automactically.
 
-*   [kyleduo/SwitchButton](https://github.com/kyleduo/SwitchButton) - A cute widget of Switch Button for  you to create beautiful and friendly UI.
-
-*   [zcweng/ToggleButton](https://github.com/zcweng/ToggleButton) - ToggleButton Widget For Android Dev
-
-*   [google/gson](https://github.com/google/gson) - A Java serialization/deserialization library to convert Java Objects into JSON and back
-
-*   [wangdan/AisenWeiBo](https://github.com/wangdan/AisenWeiBo) - 新浪微博第三方Android客户端
-
 ## C++
 
 *   [gonzazoid/Ultimatum](https://github.com/gonzazoid/Ultimatum) - Ultimatum is a chromium fork with webextensions support on Android, anti-detect browser capabilities, web3.0 support and much more
@@ -1890,62 +2008,6 @@
 *   [shengxinjing/programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist) - :see\_no\_evil:程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞
 
 *   [mba811/gitdisk](https://github.com/mba811/gitdisk) - GitDisk：基于Git的网盘式文件同步软件
-
-## C\#
-
-*   [nikenidage/DailyMoney](https://github.com/nikenidage/DailyMoney) -
-
-*   [PhilippC/keepass2android](https://github.com/PhilippC/keepass2android) - Password manager app for Android
-
-*   [LagrangeDev/Lagrange.Core](https://github.com/LagrangeDev/Lagrange.Core) - An Implementation of NTQQ Protocol, with Pure C#, Derived from Konata.Core
-
-*   [Jackett/Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers
-
-*   [vpnhood/VpnHood](https://github.com/vpnhood/VpnHood) - Undetectable Fast Portable VPN
-
-*   [Clean-Reader/CleanReader.Desktop](https://github.com/Clean-Reader/CleanReader.Desktop) - 使用 Windows App SDK 构建的桌面版干净阅读
-
-*   [stratumauth/app](https://github.com/stratumauth/app) - 📱 Two-Factor Authentication (2FA) client for Android + Wear OS
-
-*   [Kyome22/RunCat365](https://github.com/Kyome22/RunCat365) - A cute running cat animation on your windows taskbar.
-
-*   [files-community/Files](https://github.com/files-community/Files) - A modern file manager that helps users organize their files and folders.
-
-*   [BluePointLilac/ContextMenuManager](https://github.com/BluePointLilac/ContextMenuManager) - 🖱️ 纯粹的Windows右键菜单管理程序
-
-*   [huiyadanli/RevokeMsgPatcher](https://github.com/huiyadanli/RevokeMsgPatcher) - :trollface: A hex editor for WeChat/QQ/TIM - PC版微信/QQ/TIM防撤回补丁（我已经看到了，撤回也没用了）
-
-*   [magicdmer/M3U8-Downloader](https://github.com/magicdmer/M3U8-Downloader) - m3u8 downloader
-
-*   [netchx/netch](https://github.com/netchx/netch) - A simple proxy client
-
-*   [bitbeans/SimpleDnsCrypt](https://github.com/bitbeans/SimpleDnsCrypt) - A simple management tool for dnscrypt-proxy
-
-*   [stanzhai/Html2Article](https://github.com/stanzhai/Html2Article) - Html网页正文提取
-
-*   [GangZhuo/kcptun-gui-windows](https://github.com/GangZhuo/kcptun-gui-windows) - GUI for kcptun (https://github.com/xtaci/kcptun). (Need .NET framework 4.5)
-
-*   [shadowsocks/shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) - A C# port of shadowsocks
-
-*   [kenvix/USBCopyer](https://github.com/kenvix/USBCopyer) - 😉 用于在插上U盘后自动按需复制该U盘的文件。”备份&偷U盘文件的神器”（写作USBCopyer，读作USBCopier）
-
-## Swift
-
-*   [dinoki-ai/osaurus](https://github.com/dinoki-ai/osaurus) - Native Apple Silicon LLM server on MLX with menu bar UI + CLI. OpenAI & Ollama compatible. Supports Apple Foundation Models (Apple Intelligence on macOS 26).
-
-*   [DanielZhangyc/RLLM](https://github.com/DanielZhangyc/RLLM) - LLM powered RSS reader
-
-*   [bin64/Clash-Dash](https://github.com/bin64/Clash-Dash) - 原生 SwiftUI 开发的 OpenClash/Nikki(MihomoTProxy) 管理工具
-
-*   [robertying/shadowsocks-macos](https://github.com/robertying/shadowsocks-macos) - Shadowsocks client for macOS, with support for Apple Silicon (arm64) and Intel (x86\_64)
-
-*   [coteditor/CotEditor](https://github.com/coteditor/CotEditor) - Lightweight Plain-Text Editor for macOS
-
-*   [greatfire/envoy](https://github.com/greatfire/envoy) - C and Java Library derived from Chromium Cronet which can be used to make Android apps resistant to censorship
-
-*   [nmdias/FeedKit](https://github.com/nmdias/FeedKit) - FeedKit is a Swift library for Reading and Generating RSS, Atom, and JSON feeds.
-
-*   [liruqi/Mume-iOS](https://github.com/liruqi/Mume-iOS) -
 
 ## Rust
 
@@ -2076,68 +2138,6 @@
 ## Makefile
 
 *   [baresip/baresip-android](https://github.com/baresip/baresip-android) - Baresip for Android
-
-## C
-
-*   [i-p-tel/sipdroid](https://github.com/i-p-tel/sipdroid) - Free SIP/VoIP client for Android
-
-*   [karpathy/llama2.c](https://github.com/karpathy/llama2.c) - Inference Llama 2 in one file of pure C
-
-*   [maxmind/libmaxminddb](https://github.com/maxmind/libmaxminddb) - C library for the MaxMind DB file format
-
-*   [nicbarker/clay](https://github.com/nicbarker/clay) - High performance UI layout library in C.
-
-*   [cashapp/zipline](https://github.com/cashapp/zipline) - Run Kotlin/JS libraries in Kotlin/JVM and Kotlin/Native programs
-
-*   [jart/cosmopolitan](https://github.com/jart/cosmopolitan) - build-once run-anywhere c library
-
-*   [brunodev85/winlator](https://github.com/brunodev85/winlator) - Android application for running Windows applications with Wine and Box86/Box64
-
-*   [BillyWei01/FastAES](https://github.com/BillyWei01/FastAES) - 比SDK快10倍的AES加解密实现。
-
-*   [schwabe/ics-openvpn](https://github.com/schwabe/ics-openvpn) - OpenVPN for Android
-
-*   [gojue/ecapture](https://github.com/gojue/ecapture) - Capturing SSL/TLS plaintext without a CA certificate using eBPF. Supported on Linux/Android kernels for amd64/arm64.
-
-*   [heiher/hev-socks5-server](https://github.com/heiher/hev-socks5-server) - A lightweight, fast and reliable socks5 server
-
-*   [heiher/hev-socks5-tunnel](https://github.com/heiher/hev-socks5-tunnel) - A lightweight, fast and reliable tun2socks
-
-*   [AnonymousAAArdvark/qi](https://github.com/AnonymousAAArdvark/qi) - Lightweight and fast programming language designed to be written in Chinese.
-
-*   [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake) - HandBrake's main development repository
-
-*   [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - This project aims to enhance the working environment on Windows
-
-*   [Awesome-HarmonyOS/HarmonyOS](https://github.com/Awesome-HarmonyOS/HarmonyOS) - A curated list of awesome things related to HarmonyOS. 华为鸿蒙操作系统。
-
-*   [AdAway/AdAway](https://github.com/AdAway/AdAway) - AdAway is a free and open source ad blocker for Android.
-
-*   [wudicgi/SpleeterMsvcExe](https://github.com/wudicgi/SpleeterMsvcExe) - Windows command line program for Spleeter, pure C, no Python. GUI: https://github.com/wudicgi/SpleeterGui | Spleeter 的 Windows 命令行程序，纯 C 语言编写，无需 Python.
-
-*   [XTLS/badvpn](https://github.com/XTLS/badvpn) - NCD scripting language, tun2socks proxifier, P2P VPN
-
-*   [bndeff/socksdroid](https://github.com/bndeff/socksdroid) -
-
-*   [pymumu/smartdns](https://github.com/pymumu/smartdns) - A local DNS server to obtain the fastest website IP for the best Internet experience, support DoT, DoH, DoQ. 一个本地DNS服务器，获取最快的网站IP，获得最佳上网体验，支持DoH，DoT，DoQ。
-
-*   [spirytusz/AndroidLua](https://github.com/spirytusz/AndroidLua) - Lua script supported on Android platform
-
-*   [SherlockGougou/BigImageViewPager](https://github.com/SherlockGougou/BigImageViewPager) - 🔥🔥🔥 BigImage ImageView ViewPager 一个图片/视频浏览器库，支持超大图、超长图、动图、视频，支持手势，支持查看原图、下载、加载百分比进度显示。采用区块复用加载，优化内存占用，有效避免OOM。
-
-*   [liudf0716/xkcptun](https://github.com/liudf0716/xkcptun) - xkcptun is kcp tunnel for OpenWRT\&LEDE, implemented in c language
-
-*   [russdill/tunsocks](https://github.com/russdill/tunsocks) - User-level IP forwarding, SOCKS proxy, and HTTP proxy for VPNs that provide tun-like interface
-
-*   [netdata/netdata](https://github.com/netdata/netdata) - The fastest path to AI-powered full stack observability, even for lean teams.
-
-*   [skywind3000/kcp](https://github.com/skywind3000/kcp) - :zap: KCP - A Fast and Reliable ARQ Protocol
-
-*   [meyerd/n2n](https://github.com/meyerd/n2n) - A development branch of the n2n p2p vpn software
-
-*   [dosgo/ngrok-c](https://github.com/dosgo/ngrok-c) - ngrok client for c language,Due to the use of GO ngrok language development, porting to embedded devices some inconvenience, such as openwrt, so use C language rewrite a client. Very mini, the need to support polarssl library.
-
-*   [begeekmyfriend/yasea](https://github.com/begeekmyfriend/yasea) - RTMP live streaming client for Android
 
 ## Objective-C
 
