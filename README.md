@@ -18,6 +18,7 @@
 
 ## Table of Contents
 
+*   [Shell](#shell)
 *   [JavaScript](#javascript)
 *   [miscellaneous](#miscellaneous)
 *   [Rust](#rust)
@@ -32,7 +33,6 @@
 *   [Java](#java)
 *   [TypeScript](#typescript)
 *   [C++](#c-2)
-*   [Shell](#shell)
 *   [AutoHotkey](#autohotkey)
 *   [MDX](#mdx)
 *   [CMake](#cmake)
@@ -65,6 +65,38 @@
 *   [Lex](#lex)
 *   [AppleScript](#applescript)
 *   [Thanks](#thanks)
+
+## Shell
+
+*   [shuaidaoya/FreeNodes](https://github.com/shuaidaoya/FreeNodes) - 每小时自动更新🤖，支持v2ray、clash等各种代理软件，利用SubsCheck-Win-GUI自动从节点池爬取免费节点分享
+
+*   [MohamedElashri/doh-list](https://github.com/MohamedElashri/doh-list) - List of public DoH providers
+
+*   [boxproxy/box](https://github.com/boxproxy/box) - 安卓代理模块，使用方法看wiki
+
+*   [MetaCubeX/meta-rules-dat](https://github.com/MetaCubeX/meta-rules-dat) - rules-dat for mihomo
+
+*   [damengzhu/banad](https://github.com/damengzhu/banad) - 轻量广告拦截规则
+
+*   [wanghongenpin/Magisk-ProxyPinCA](https://github.com/wanghongenpin/Magisk-ProxyPinCA) - Magisk模块ProxyPin系统证书
+
+*   [bclswl0827/v2ray-heroku](https://github.com/bclswl0827/v2ray-heroku) - 用于在 Heroku 上部署 V2Ray WebSocket。
+
+*   [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An unprofessional open-source Chinese font derived from Fontworks' Klee One. 一款非专业的开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。
+
+*   [EtherDream/jsproxy](https://github.com/EtherDream/jsproxy) - An online proxy based on ServiceWorker
+
+*   [lmc999/auto-add-routes](https://github.com/lmc999/auto-add-routes) - China Route for VPN
+
+*   [sandae/epubFreq](https://github.com/sandae/epubFreq) - 为epub电子书添加词频标记和注释（词典释义）
+
+*   [neoFelhz/neohosts](https://github.com/neoFelhz/neohosts) - 自由·负责·克制 去广告 Hosts 项目
+
+*   [shadowsocks/kcptun-android](https://github.com/shadowsocks/kcptun-android) - kcptun for Android.
+
+*   [shengxinjing/programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist) - :see\_no\_evil:程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞
+
+*   [mba811/gitdisk](https://github.com/mba811/gitdisk) - GitDisk：基于Git的网盘式文件同步软件
 
 ## JavaScript
 
@@ -1792,8 +1824,6 @@
 
 *   [nekocode/Badge](https://github.com/nekocode/Badge) - :octocat: Drawable of badge.
 
-*   [Zehao/sogouSCEL](https://github.com/Zehao/sogouSCEL) - 搜狗输入法细胞词库解析
-
 ## TypeScript
 
 *   [xianshenglu/cloudflare-ip-tester-app](https://github.com/xianshenglu/cloudflare-ip-tester-app) -
@@ -2061,36 +2091,6 @@
 *   [sqlitebrowser/sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:
 
 *   [Mapaler/FastCopy-M](https://github.com/Mapaler/FastCopy-M) - FastCopy-Multilanguage，FastCopy完整支持多国语言版
-
-## Shell
-
-*   [MohamedElashri/doh-list](https://github.com/MohamedElashri/doh-list) - List of public DoH providers
-
-*   [boxproxy/box](https://github.com/boxproxy/box) - 安卓代理模块，使用方法看wiki
-
-*   [MetaCubeX/meta-rules-dat](https://github.com/MetaCubeX/meta-rules-dat) - rules-dat for mihomo
-
-*   [damengzhu/banad](https://github.com/damengzhu/banad) - 轻量广告拦截规则
-
-*   [wanghongenpin/Magisk-ProxyPinCA](https://github.com/wanghongenpin/Magisk-ProxyPinCA) - Magisk模块ProxyPin系统证书
-
-*   [bclswl0827/v2ray-heroku](https://github.com/bclswl0827/v2ray-heroku) - 用于在 Heroku 上部署 V2Ray WebSocket。
-
-*   [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An unprofessional open-source Chinese font derived from Fontworks' Klee One. 一款非专业的开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。
-
-*   [EtherDream/jsproxy](https://github.com/EtherDream/jsproxy) - An online proxy based on ServiceWorker
-
-*   [lmc999/auto-add-routes](https://github.com/lmc999/auto-add-routes) - China Route for VPN
-
-*   [sandae/epubFreq](https://github.com/sandae/epubFreq) - 为epub电子书添加词频标记和注释（词典释义）
-
-*   [neoFelhz/neohosts](https://github.com/neoFelhz/neohosts) - 自由·负责·克制 去广告 Hosts 项目
-
-*   [shadowsocks/kcptun-android](https://github.com/shadowsocks/kcptun-android) - kcptun for Android.
-
-*   [shengxinjing/programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist) - :see\_no\_evil:程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞
-
-*   [mba811/gitdisk](https://github.com/mba811/gitdisk) - GitDisk：基于Git的网盘式文件同步软件
 
 ## AutoHotkey
 
