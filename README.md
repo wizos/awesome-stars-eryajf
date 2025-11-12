@@ -282,7 +282,7 @@
 
 *   [lijy91-archives-repos/contextual\_menu](https://github.com/lijy91-archives-repos/contextual_menu) - This plugin allows Flutter desktop apps to create native context menus.
 
-*   [Onion99/MineGPT](https://github.com/Onion99/MineGPT) - MineGPT 是一个基于Kotlin Multiplatform 开发的本地小型语言模型(SLM)对话应用; MineGPT is a lightweight local SLM (Small Language Model) chat application built with Kotlin Multiplatform. It aims to provide a cross-platform and user-friendly AI assistant experience.
+*   [Onion99/KMP-MineGPT](https://github.com/Onion99/KMP-MineGPT) - MineGPT 是一个基于Kotlin Multiplatform 开发的本地小型语言模型(SLM)对话应用; MineGPT is a lightweight local SLM (Small Language Model) chat application built with Kotlin Multiplatform. It aims to provide a cross-platform and user-friendly AI assistant experience.
 
 *   [snake-4/Zygisk-Assistant](https://github.com/snake-4/Zygisk-Assistant) - A Zygisk module to hide root for KernelSU, Magisk and APatch, designed to work on Android 5.0 and above.
 
