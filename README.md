@@ -108,8 +108,6 @@
 
 *   [lopinx/serverless-api-proxy](https://github.com/lopinx/serverless-api-proxy) - Multi-API Proxy Gateway Based on Vercel Routes, Cloudflare Workers, and Netlify Redirects
 
-*   [zuoban/tts](https://github.com/zuoban/tts) - tts 服务
-
 *   [Ten-o/api\_gateway\_worker](https://github.com/Ten-o/api_gateway_worker) - Workers 反代
 
 *   [bestZwei/LibreTranslator](https://github.com/bestZwei/LibreTranslator) - 基于 DeepLx 可Cloudflare Pages部署的翻译界面。
@@ -174,7 +172,7 @@
 
 *   [yllhwa/RSSWorker](https://github.com/yllhwa/RSSWorker) - 运行在Cloudflare Worker上的RSS订阅生成器
 
-*   [cmliu/edgetunnel](https://github.com/cmliu/edgetunnel) - 在原版的基础上修改了显示 VLESS 配置信息转换为订阅内容。使用该脚本，你可以方便地将 VLESS 配置信息使用在线配置转换到 Clash 或 Singbox 等工具中。
+*   [cmliu/edgetunnel](https://github.com/cmliu/edgetunnel) - edgetunnel 2.0 VLESS/Trojan 多功能面板
 
 *   [barretlee/cloudflare-proxy](https://github.com/barretlee/cloudflare-proxy) - Cloudflare Worker 代理请求 ChatGPT API，支持 Stream 流式输出
 
@@ -1955,6 +1953,8 @@
 *   [NativeScript/NativeScript](https://github.com/NativeScript/NativeScript) - ⚡ Empowering JavaScript with native platform APIs. ✨ Best of all worlds (TypeScript, Swift, Objective C, Kotlin, Java, Dart). Use what you love ❤️ Angular, React, Solid, Svelte, Vue with: iOS (UIKit, SwiftUI), Android (View, Jetpack Compose), Flutter and you name it compatible.
 
 *   [mattf96s/QuackDB](https://github.com/mattf96s/QuackDB) - Open-source in-browser DuckDB SQL editor
+
+*   [zuoban/tts](https://github.com/zuoban/tts) - tts 服务
 
 *   [xiaojia21190/Deno-Augment2Api](https://github.com/xiaojia21190/Deno-Augment2Api) - Deno-Augment2Api
 
