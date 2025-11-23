@@ -110,8 +110,6 @@
 
 *   [tysak/shadowfetch](https://github.com/tysak/shadowfetch) - Shadowfetch is a lightweight fetcher built with native TCP Sockets, for Cloudflare Workers.
 
-*   [YiXuanZX/rules](https://github.com/YiXuanZX/rules) -
-
 *   [DocumindHQ/documind](https://github.com/DocumindHQ/documind) - Open-source platform for extracting structured data from documents using AI.
 
 *   [lopinx/serverless-api-proxy](https://github.com/lopinx/serverless-api-proxy) - Multi-API Proxy Gateway Based on Vercel Routes, Cloudflare Workers, and Netlify Redirects
@@ -2057,6 +2055,8 @@
 *   [zhangxiaoyang/WechatImageDecoder](https://github.com/zhangxiaoyang/WechatImageDecoder) - :ghost:微信图片解密、找回撤回的图片
 
 *   [pictuga/morss](https://github.com/pictuga/morss) - Get full text RSS feeds
+
+*   [lkiesow/python-feedgen](https://github.com/lkiesow/python-feedgen) - Python module to generate ATOM feeds, RSS feeds and Podcasts.
 
 ## C\#
 
