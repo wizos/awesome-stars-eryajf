@@ -18,6 +18,7 @@
 
 ## Table of Contents
 
+*   [HTML](#html)
 *   [miscellaneous](#miscellaneous)
 *   [Kotlin](#kotlin)
 *   [C](#c)
@@ -29,7 +30,6 @@
 *   [JavaScript](#javascript)
 *   [Just](#just)
 *   [Rust](#rust)
-*   [HTML](#html)
 *   [Swift](#swift)
 *   [Python](#python)
 *   [Shell](#shell)
@@ -68,7 +68,55 @@
 *   [Scheme](#scheme)
 *   [Thanks](#thanks)
 
+## HTML
+
+*   [justlagom/koyebne](https://github.com/justlagom/koyebne) - 这是一个部署在koyeb上的ENC-Xhttp-Vision-TLS代理节点镜像，含token登录保活项目worker.js可部署至cf
+
+*   [rango886/FreeBili](https://github.com/rango886/FreeBili) - 自由哔站是一个高性能、使用方便的影视聚合搜索和播放工具
+
+*   [Jsnzkpg/Jsnzkpg](https://github.com/Jsnzkpg/Jsnzkpg) - 已持续维护4年多，每天都会检测可用性，全网质量最高的免费节点订阅，魔鬼式筛选出高质量的免费节点，shadowrocket丨stash丨singbox丨clash丨karing丨hiddify丨mihomo丨clashmi丨ClashMeta丨FIClash丨Surfboard
+
+*   [vxiaozhi/vocabulary-book-by-deepseek](https://github.com/vxiaozhi/vocabulary-book-by-deepseek) - vocabulary-book-by-deepseek｜使用 DeepSeek 开发实现的四六级、考研、托福单词词汇库， 提供单词的词义、词根、例句、辅助记忆、助记图像等信息|小智晖的AI单词库。
+
+*   [iOS17/Jailbreak](https://github.com/iOS17/Jailbreak) - iOS 26.1 - 26.1 beta 4, 17 - 17.7.1  & iOS 18 - 18.7.2 Jailbreak Tools, Cydia/Sileo/Zebra Tweaks & Jailbreak News Updates ||  AI Jailbreak Finder 👇
+
+*   [manymore13/report](https://github.com/manymore13/report) - 研报，行业研报，研究报告，每天定时更新
+
+*   [antonmedv/finder](https://github.com/antonmedv/finder) - CSS Selector Generator 🗺
+
+*   [dupontjoy/Customization](https://github.com/dupontjoy/Customization) -
+
+*   [damoeb/feedless](https://github.com/damoeb/feedless) - Middleware to create RSS feeds, filter existing feeds and transform them (e.g.  fulltext)
+
+*   [glovebx/moco-ai-client](https://github.com/glovebx/moco-ai-client) - Concurrently chat with free GPT3.5 nodes & Google Gemini on Android Phone
+
+*   [xqdoo00o/chatgpt-web](https://github.com/xqdoo00o/chatgpt-web) - Pure Javascript ChatGPT demo based on OpenAI API
+
+*   [atelier-anchor/smiley-sans](https://github.com/atelier-anchor/smiley-sans) - 得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体
+
+*   [WeNeedHome/SummaryOfLoanSuspension](https://github.com/WeNeedHome/SummaryOfLoanSuspension) - 全国各省市停贷通知汇总
+
+*   [zhegexiaohuozi/JsoupXpath](https://github.com/zhegexiaohuozi/JsoupXpath) - 纯Java实现的支持W3C Xpath 1.0标准语法的HTML解析器。A html parser with xpath base on Jsoup and Antlr4. Maybe it is the best in java.Just try it.
+
+*   [nndl/nndl.github.io](https://github.com/nndl/nndl.github.io) - 《神经网络与深度学习》 邱锡鹏著 Neural Network and Deep Learning
+
+*   [dankito/Readability4J](https://github.com/dankito/Readability4J) - A Kotlin port of Mozilla‘s Readability. It extracts a website‘s relevant content and removes all clutter from it.
+
+*   [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English which might benefit you a lot 🎉 .  离谱的英语学习指南/英语学习教程。
+
+*   [andreskrey/readability.php](https://github.com/andreskrey/readability.php) - PHP port of Mozilla's Readability.js
+
+*   [sofish/typo.css](https://github.com/sofish/typo.css) - 中文网页重设与排版：一致化浏览器排版效果，构建最适合中文阅读的网页排版
+
+*   [fossar/selfoss](https://github.com/fossar/selfoss) - multipurpose rss reader, live stream, mashup, aggregation web application
+
+*   [DIYgod/Resume](https://github.com/DIYgod/Resume) - :cake: Simple resume
+
+*   [L3au/colorful-qrcode](https://github.com/L3au/colorful-qrcode) - Simple & colorful QR code generator with chrome extension
+
 ## miscellaneous
+
+*   [Naxavor/five-worker](https://github.com/Naxavor/five-worker) -
 
 *   [666OS/ClashMac](https://github.com/666OS/ClashMac) - 基于 Clash (mihomo) 内核的轻量级 macOS 菜单栏客户端
 
@@ -98,7 +146,7 @@
 
 *   [Xposed-Modules-Repo/me.plusne](https://github.com/Xposed-Modules-Repo/me.plusne) - PlusNE 7+
 
-*   [xixu-me/META](https://github.com/xixu-me/META) - Comprehensive configuration generator for network traffic management, providing intelligent routing rules and proxy configurations for various online services across different geographical locations
+*   [xixu-me/META](https://github.com/xixu-me/META) - Comprehensive configuration generator for network traffic management
 
 *   [Tintac-CN/denoVlessProxy](https://github.com/Tintac-CN/denoVlessProxy) - Running Vless Proxy inside edge functions
 
@@ -258,8 +306,6 @@
 
 *   [meixuesong/rss2epub](https://github.com/meixuesong/rss2epub) - RSS2EPUB将您的RSS订阅转换成EPUB电子书，并每天定时推送至您的邮箱。让您轻松在Kindle、多看等EPUB阅读器上享受阅读的乐趣。
 
-*   [Trinea/android-open-project](https://github.com/Trinea/android-open-project) - A categorized collection of Android Open Source Projects,  More powerful web version:
-
 ## Kotlin
 
 *   [Past-da-king/MemGallery](https://github.com/Past-da-king/MemGallery) -
@@ -316,7 +362,7 @@
 
 *   [JunkFood02/Seal](https://github.com/JunkFood02/Seal) - 🦭 Video/Audio Downloader for Android, based on yt-dlp
 
-*   [Kyant0/AndroidLiquidGlass](https://github.com/Kyant0/AndroidLiquidGlass) - Jetpack Compose blur and Liquid Glass effects
+*   [Kyant0/AndroidLiquidGlass](https://github.com/Kyant0/AndroidLiquidGlass) - Jetpack Compose Liquid Glass effect
 
 *   [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) - A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
 
@@ -1284,7 +1330,7 @@
 
 *   [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 
-*   [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket:A simple & beautiful tool for pictures uploading built by vue-cli-electron-builder
+*   [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket:A powerful & simple image uploader for Markdown creators.  Supports Obsidian, Typora, VS Code etc. and 10+ image hosting services  (S3, GitHub, Cloudflare R2, Imgur, Aliyun OSS...). Paste, upload, done.
 
 *   [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 
@@ -1922,52 +1968,6 @@
 
 *   [eycorsican/leaf](https://github.com/eycorsican/leaf) - A versatile and efficient proxy framework with nice features suitable for various use cases.
 
-## HTML
-
-*   [rango886/FreeBili](https://github.com/rango886/FreeBili) - 自由哔站是一个高性能、使用方便的影视聚合搜索和播放工具
-
-*   [Jsnzkpg/Jsnzkpg](https://github.com/Jsnzkpg/Jsnzkpg) - 已持续维护4年多，每天都会检测可用性，全网质量最高的免费节点订阅，魔鬼式筛选出高质量的免费节点，shadowrocket丨stash丨singbox丨clash丨karing丨hiddify丨mihomo丨clashmi丨ClashMeta丨FIClash丨Surfboard
-
-*   [vxiaozhi/vocabulary-book-by-deepseek](https://github.com/vxiaozhi/vocabulary-book-by-deepseek) - vocabulary-book-by-deepseek｜使用 DeepSeek 开发实现的四六级、考研、托福单词词汇库， 提供单词的词义、词根、例句、辅助记忆、助记图像等信息|小智晖的AI单词库。
-
-*   [iOS17/Jailbreak](https://github.com/iOS17/Jailbreak) - iOS 26.1 - 26.1 beta 4, 17 - 17.7.1  & iOS 18 - 18.7.2 Jailbreak Tools, Cydia/Sileo/Zebra Tweaks & Jailbreak News Updates ||  AI Jailbreak Finder 👇
-
-*   [manymore13/report](https://github.com/manymore13/report) - 研报，行业研报，研究报告，每天定时更新
-
-*   [antonmedv/finder](https://github.com/antonmedv/finder) - CSS Selector Generator 🗺
-
-*   [dupontjoy/Customization](https://github.com/dupontjoy/Customization) -
-
-*   [damoeb/feedless](https://github.com/damoeb/feedless) - Middleware to create RSS feeds, filter existing feeds and transform them (e.g.  fulltext)
-
-*   [glovebx/moco-ai-client](https://github.com/glovebx/moco-ai-client) - Concurrently chat with free GPT3.5 nodes & Google Gemini on Android Phone
-
-*   [xqdoo00o/chatgpt-web](https://github.com/xqdoo00o/chatgpt-web) - Pure Javascript ChatGPT demo based on OpenAI API
-
-*   [atelier-anchor/smiley-sans](https://github.com/atelier-anchor/smiley-sans) - 得意黑 Smiley Sans：一款在人文观感和几何特征中寻找平衡的中文黑体
-
-*   [WeNeedHome/SummaryOfLoanSuspension](https://github.com/WeNeedHome/SummaryOfLoanSuspension) - 全国各省市停贷通知汇总
-
-*   [zhegexiaohuozi/JsoupXpath](https://github.com/zhegexiaohuozi/JsoupXpath) - 纯Java实现的支持W3C Xpath 1.0标准语法的HTML解析器。A html parser with xpath base on Jsoup and Antlr4. Maybe it is the best in java.Just try it.
-
-*   [nndl/nndl.github.io](https://github.com/nndl/nndl.github.io) - 《神经网络与深度学习》 邱锡鹏著 Neural Network and Deep Learning
-
-*   [dankito/Readability4J](https://github.com/dankito/Readability4J) - A Kotlin port of Mozilla‘s Readability. It extracts a website‘s relevant content and removes all clutter from it.
-
-*   [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English which might benefit you a lot 🎉 .  离谱的英语学习指南/英语学习教程。
-
-*   [andreskrey/readability.php](https://github.com/andreskrey/readability.php) - PHP port of Mozilla's Readability.js
-
-*   [sofish/typo.css](https://github.com/sofish/typo.css) - 中文网页重设与排版：一致化浏览器排版效果，构建最适合中文阅读的网页排版
-
-*   [fossar/selfoss](https://github.com/fossar/selfoss) - multipurpose rss reader, live stream, mashup, aggregation web application
-
-*   [DIYgod/Resume](https://github.com/DIYgod/Resume) - :cake: Simple resume
-
-*   [L3au/colorful-qrcode](https://github.com/L3au/colorful-qrcode) - Simple & colorful QR code generator with chrome extension
-
-*   [codelucas/newspaper](https://github.com/codelucas/newspaper) - newspaper3k is a news, full-text, and article metadata extraction in Python 3. Advanced docs:
-
 ## Swift
 
 *   [spacefarers/Dropp](https://github.com/spacefarers/Dropp) -
@@ -2004,7 +2004,7 @@
 
 *   [opendatalab/magic-html](https://github.com/opendatalab/magic-html) -
 
-*   [xixu-me/RFM](https://github.com/xixu-me/RFM) - Comprehensive collection of optimized rulesets, maintained with a focus on reliability, frequent updates, and efficient performance. These rulesets are specifically designed to work seamlessly with META ↓
+*   [xixu-me/RFM](https://github.com/xixu-me/RFM) - Comprehensive collection of optimized rulesets for META ↓
 
 *   [HKoon/ChatTTS-OpenVoice](https://github.com/HKoon/ChatTTS-OpenVoice) - Fuse ChatTTS with OpenVoice, upload a 10-second audio clip, and clone your personalized ChatTTS voice.
 
