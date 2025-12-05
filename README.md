@@ -18,16 +18,16 @@
 
 ## Table of Contents
 
+*   [Dart](#dart)
 *   [HTML](#html)
+*   [JavaScript](#javascript)
 *   [miscellaneous](#miscellaneous)
 *   [Kotlin](#kotlin)
 *   [C](#c)
 *   [Java](#java)
 *   [TypeScript](#typescript)
-*   [Dart](#dart)
 *   [C++](#c-1)
 *   [Go](#go)
-*   [JavaScript](#javascript)
 *   [Just](#just)
 *   [Rust](#rust)
 *   [Swift](#swift)
@@ -67,6 +67,106 @@
 *   [AppleScript](#applescript)
 *   [Scheme](#scheme)
 *   [Thanks](#thanks)
+
+## Dart
+
+*   [944095635/dm-music-flutter](https://github.com/944095635/dm-music-flutter) - Flutter Music App
+
+*   [G-Ray/pikatorrent](https://github.com/G-Ray/pikatorrent) - Pick a Torrent, stream and download on all your devices
+
+*   [wsurge404/wsurge](https://github.com/wsurge404/wsurge) - A windows proxy client based on Singbox, simple and easy to use, open-source and ad-free.
+
+*   [Predidit/KazumiRules](https://github.com/Predidit/KazumiRules) - Kazumi的规则托管仓库，欢迎贡献 ^•ﻌ•^
+
+*   [naaammme/pilipro](https://github.com/naaammme/pilipro) - 使用Flutter开发的BiliBili第三方客户端，对piliplus做了最小化修改，增加一些自用功能——自动记录评论和弹幕，应用内小窗等等。小字：pro是PeRsOnal的缩写，非professional
+
+*   [SageMik/sqlite3\_simple](https://github.com/SageMik/sqlite3_simple) - 基于 Simple (支持中文和拼音的 SQLite fts5 全文搜索扩展) 和 sqlite3.dart 的 Flutter 库，用于 SQLite 中文和拼音全文搜索 | A Flutter plugin for Full-Text Search of Chinese & PinYin in SQLite, based on Simple (A SQLite3 fts5 tokenizer which supports Chinese & PinYin) and sqlite3.dart
+
+*   [JustLookAtNow/pt\_mate](https://github.com/JustLookAtNow/pt_mate) - 基于 Flutter（Material Design 3）开发的私有种子站点客户端，支持多种PT站点的种子浏览、搜索和下载管理。目前支持M-Team和NexusPHP类型的站点。
+
+*   [yjm2657/FlutterMagneticLinkSearch](https://github.com/yjm2657/FlutterMagneticLinkSearch) - Flutter磁链接搜索
+
+*   [SnowRikka/FlClash-Enhanced](https://github.com/SnowRikka/FlClash-Enhanced) - FlClash-Enhanced 是原版 FlClash 的功能增强版本，剪贴板自动识别节点链接，免转换协议导入，自动测速并切换最快节点(可禁用)，支持多链接批量导入、导入历史记录、剪贴板防重复，适配更多链接格式
+
+*   [MCDFsteve/NipaPlay-Reload](https://github.com/MCDFsteve/NipaPlay-Reload) - NipaPlay-Reload 是一个现代化的跨平台本地视频播放器，支持 Windows、macOS、Linux、Android 和 iOS。集成了弹幕显示、多格式字幕支持、多音频轨道切换，新番查看等功能，支持挂载Emby/Jellyfin媒体库。采用 Flutter 开发，提供统一的用户体验。
+
+*   [Chevey339/kelivo](https://github.com/Chevey339/kelivo) - A Flutter LLM Chat Client. Support Android & iOS & Harmony Next.
+
+*   [gokadzev/Musify](https://github.com/gokadzev/Musify) - Unlock the full potential of music: Stream effortlessly with one app!
+
+*   [bggRGjQaUbCoE/PiliPlus](https://github.com/bggRGjQaUbCoE/PiliPlus) - PiliPlus
+
+*   [sun-jiao/flut-renamer](https://github.com/sun-jiao/flut-renamer) - Flut Renamer - A bulk file renamer written in flutter (dart). Available on Linux, Windows, Android, iOS and macOS.
+
+*   [VPNclient/VPNclient-engine-flutter](https://github.com/VPNclient/VPNclient-engine-flutter) - Flutter wrapper for VPN Client Engine: Xray(VMESS, VLESS, REALITY) + WireGuard
+
+*   [bipark/my\_ollama\_app](https://github.com/bipark/my_ollama_app) - MyOllama: Ollama-based LLM mobile client
+
+*   [Robert-Stackflow/CloudOTP](https://github.com/Robert-Stackflow/CloudOTP) - An awesome two-factor authenticator based on Flutter, supports Android, Windows and Linux platforms, and supports multiple cloud backup methods such as Onedrive, Dropbox, WebDAV, S3Cloud, etc.基于 Flutter 的双因素验证器，支持Android、Windows和Linux平台，支持Onedrive、Dropbox、WebDAV、S3Cloud等多种云备份方式。
+
+*   [theachoem/storypad](https://github.com/theachoem/storypad) - An open source diary & journal app with over 100k downloads 🪴
+
+*   [mitesh77/Best-Flutter-UI-Templates](https://github.com/mitesh77/Best-Flutter-UI-Templates) - completely free for everyone. Its build-in Flutter Dart.
+
+*   [TigerEyeLabs/duckdb-dart](https://github.com/TigerEyeLabs/duckdb-dart) - DuckDB Dart bindings.
+
+*   [KaringX/clashmi](https://github.com/KaringX/clashmi) - Clash Mihomo for iOS/Android
+
+*   [Notsfsssf/pixez-flutter](https://github.com/Notsfsssf/pixez-flutter) - 一个支持免代理直连及查看动图的第三方Pixiv flutter客户端
+
+*   [dart-lang/dart-pad](https://github.com/dart-lang/dart-pad) - An online Dart editor with support for console, web, and Flutter apps.
+
+*   [davidche1116/Sms](https://github.com/davidche1116/Sms) - 短信清理工具
+
+*   [openwebf/webf](https://github.com/openwebf/webf) - Glue everything between Web, Flutter and Native
+
+*   [ZhuJHua/moodiary](https://github.com/ZhuJHua/moodiary) - A fully open source cross-platform diary app written by flutter and rust.
+
+*   [fanenr/chatbot](https://github.com/fanenr/chatbot) -
+
+*   [JHubi1/ollama-app](https://github.com/JHubi1/ollama-app) - A modern and easy-to-use client for Ollama
+
+*   [mumu-lhl/Ciyue](https://github.com/mumu-lhl/Ciyue) - A simple mdict dictionary with Android/Windows/Linux support
+
+*   [j-fbriere/squawker](https://github.com/j-fbriere/squawker) - An open-source privacy oriented Twitter/X client
+
+*   [ys1231/appproxy](https://github.com/ys1231/appproxy) - 基于flutter的Android vpn代理工具 Android VPN Proxy Tool Based on Flutter
+
+*   [Predidit/Kazumi](https://github.com/Predidit/Kazumi) - 基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。
+
+*   [Sanmeet007/logger](https://github.com/Sanmeet007/logger) - Logger is a Flutter-based Android app that enables you to view and export call logs in CSV or JSON format and perform lightweight on-device analysis.
+
+*   [chen08209/FlClash](https://github.com/chen08209/FlClash) - A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
+
+*   [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
+
+*   [lollipopkit/flutter\_gpt\_box](https://github.com/lollipopkit/flutter_gpt_box) - GPTBox - a third-party client for OpenAI API.
+
+*   [Anxcye/anx-reader](https://github.com/Anxcye/anx-reader) - Featuring powerful AI capabilities and supporting various e-book formats, it makes reading smarter and more focused.
+
+*   [SendPatches/Quacker](https://github.com/SendPatches/Quacker) - Privacy respecting, fritter fork with feeds
+
+*   [KaringX/karing](https://github.com/KaringX/karing) - Simple & Powerful proxy utility, Support routing rules for clash/sing-box
+
+*   [hiddify/hiddify-app](https://github.com/hiddify/hiddify-app) - Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.
+
+*   [Kaiteki-Fedi/Kaiteki](https://github.com/Kaiteki-Fedi/Kaiteki) - The comfy SNS client for everything, everywhere
+
+*   [miru-project/miru-app](https://github.com/miru-project/miru-app) - 🎉 A versatile application that is free, open-source, and supports extension sources for videos, comics, and novels, available on Android, Windows, and Web platforms.
+
+*   [mabDc/eso](https://github.com/mabDc/eso) - 亦搜，亦看，亦闻  manga\&novel reader, audio\&video player in one app developed by flutter
+
+*   [wanghongenpin/proxypin](https://github.com/wanghongenpin/proxypin) - Open source free capture HTTP(S) traffic  software ProxyPin, supporting full platform systems
+
+*   [gvenusleo/MeRead](https://github.com/gvenusleo/MeRead) - A RSS reader built with Flutter and designed with Material You. 简洁、易用的 RSS 阅读器，使用 Flutter 构建和 Material You 设计
+
+*   [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
+
+*   [marchellodev/sharik](https://github.com/marchellodev/sharik) - Sharik is an open-source, cross-platform solution for sharing files via Wi-Fi or Mobile Hotspot
+
+*   [yang991178/fluent-reader-lite](https://github.com/yang991178/fluent-reader-lite) - Simplistic mobile RSS client built with Flutter
+
+*   [tsacdop/tsacdop](https://github.com/tsacdop/tsacdop) - Enjoy podcasts with Tsacdop!  A podcast player built with flutter.
 
 ## HTML
 
@@ -114,9 +214,241 @@
 
 *   [L3au/colorful-qrcode](https://github.com/L3au/colorful-qrcode) - Simple & colorful QR code generator with chrome extension
 
-## miscellaneous
+## JavaScript
 
 *   [Naxavor/five-worker](https://github.com/Naxavor/five-worker) -
+
+*   [lza6/tldrly-2api-cfwork](https://github.com/lza6/tldrly-2api-cfwork) - 内置轻量级爬虫 (非无头浏览器) 、无需 Cookie 、高级请求伪装 (模拟浏览器环境与反检测) 、动态 SHA-256 签名算法、原生 OpenAI 流式 API 转换、Cloudflare Worker 单文件 Serverless 部署、内置 Web UI 开发者面板
+
+*   [TyrantG/hikerViewRules](https://github.com/TyrantG/hikerViewRules) - 海阔视界规则源码集合
+
+*   [RemotePinee/AudioVisual](https://github.com/RemotePinee/AudioVisual) - 解锁所有国内媒体流的钥匙
+
+*   [metowolf/iplist](https://github.com/metowolf/iplist) - IP CIDRs List / IP 地址列表
+
+*   [zhiyi7/gfw-pac](https://github.com/zhiyi7/gfw-pac) - 科学上网 PAC 成品文件以及生成器。可自定义代理域名和直连域名。不在自定义名单里的域名再按IP匹配，CNIP走直连，其他走代理，支持IPv6
+
+*   [Kwisma/cf-worker-mihomo](https://github.com/Kwisma/cf-worker-mihomo) - 快速生成mihomo（clash  meta）配置文件,  适用于软路由 mihomo 内核，clash meta 客户端等
+
+*   [crow1874/CF-DNS-Clone](https://github.com/crow1874/CF-DNS-Clone) - 想拥有别人的优选域名吗？CF-DNS-Clon 让“白嫖”变得简单！只需通过 Cloudflare Workers 便捷部署，即可轻松克隆心仪的域名。同时，它还会化身勤劳的“搬运工”，自动搜罗各大优选 IP 网站，将最新鲜的 IP 资源整理好，直接送到你的 GitHub 仓库中。
+
+*   [readdig/readdig](https://github.com/readdig/readdig) - A RSS and podcast reader. https://readdig.com
+
+*   [amclubs/am-cf-tunnel-sub](https://github.com/amclubs/am-cf-tunnel-sub) - 基于Vercel、Cloudflare 部署该脚本，你可以方便地将Cloudflare Workers 和 Pages的 VLESS、Trojan 配置信息使用在线配置转换到 Clash、 Singbox 、Quantumult X等工具中订阅使用。Cloudflare Workers 和 Pages 生成VLESS、Trojan节点,实现一键订阅节点。
+
+*   [eooce/Cloudflare-proxy](https://github.com/eooce/Cloudflare-proxy) - Running VLESS + trojan + shadowsocks on cloudflare workers and snippets..........在workers或snippets上部署vless/trojan/shadowsocks代理节点，主流客户端一键订阅
+
+*   [ymyuuu/workers-vless](https://github.com/ymyuuu/workers-vless) - 自用轻量版
+
+*   [cmliu/CF-Workers-BPSUB](https://github.com/cmliu/CF-Workers-BPSUB) - Snipaste 节点订阅生成器
+
+*   [neibcn/snippets-vless-reverse-proxy](https://github.com/neibcn/snippets-vless-reverse-proxy) -
+
+*   [xmdhs/clash2sfa](https://github.com/xmdhs/clash2sfa) - 将 Clash.Meta 格式 / 原始格式的订阅链接转换为 sing-box 格式的订阅，用于 SFA
+
+*   [akudamatata/Solara](https://github.com/akudamatata/Solara) - 一个极简风格的基于免费API的音乐播放器
+
+*   [4evergr8/WorkerRSS](https://github.com/4evergr8/WorkerRSS) - 利用CFworker实现RSSHub
+
+*   [Solaina888/openweb](https://github.com/Solaina888/openweb) - 一个免费且开源的网页代理，帮助您安全匿名地访问互联网。
+
+*   [dogchild/api-cf](https://github.com/dogchild/api-cf) - 简易cloudflare反代大陆无法直连的大模型api
+
+*   [serverless-proxy/serverless-proxy](https://github.com/serverless-proxy/serverless-proxy) - HTTP to TCP proxy that deploys to Cloudflare Workers and Deno Deploy
+
+*   [XyzenSun/SpectreProxy](https://github.com/XyzenSun/SpectreProxy) - 支持HTTP，Websocket，DoH/DoT协议，支持AI API代理，支持流式传输，使用原生 TCP Socket 解决 fetch API 的隐私泄露问题并提供灵活的回退策略解决TCP Socket 目前无法连接到 Cloudflare 自身的 IP 段的问题的Cloudflare Worker代理程序。
+
+*   [bropines/Deeplx-vercel](https://github.com/bropines/Deeplx-vercel) - Serverless DeepLX on vercel implementation
+
+*   [zizifn/edgetunnel](https://github.com/zizifn/edgetunnel) - Running V2ray inside edge/serverless runtime
+
+*   [tysak/shadowfetch](https://github.com/tysak/shadowfetch) - Shadowfetch is a lightweight fetcher built with native TCP Sockets, for Cloudflare Workers.
+
+*   [DocumindHQ/documind](https://github.com/DocumindHQ/documind) - Open-source platform for extracting structured data from documents using AI.
+
+*   [lopinx/serverless-api-proxy](https://github.com/lopinx/serverless-api-proxy) - Multi-API Proxy Gateway Based on Vercel Routes, Cloudflare Workers, and Netlify Redirects
+
+*   [Ten-o/api\_gateway\_worker](https://github.com/Ten-o/api_gateway_worker) - Workers 反代
+
+*   [bestZwei/LibreTranslator](https://github.com/bestZwei/LibreTranslator) - 基于 DeepLx 可Cloudflare Pages部署的翻译界面。
+
+*   [LibreSpark/LibreTTS](https://github.com/LibreSpark/LibreTTS) - TTS-文本转语音/文本转语音前端，兼容OpenAI、EdgeTTS等接口
+
+*   [serverless-dns/serverless-dns](https://github.com/serverless-dns/serverless-dns) - The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, Fastly, and Fly.io
+
+*   [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
+
+*   [ecomfe/fontmin](https://github.com/ecomfe/fontmin) - Minify font seamlessly
+
+*   [liriliri/eruda](https://github.com/liriliri/eruda) - Console for mobile browsers
+
+*   [JinJiangHuang/Chat2Api](https://github.com/JinJiangHuang/Chat2Api) - qwenlm.ai转api
+
+*   [leafmoes/DDG-Chat](https://github.com/leafmoes/DDG-Chat) -
+
+*   [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.
+
+*   [fatwang2/search2ai](https://github.com/fatwang2/search2ai) - Help your LLMs online
+
+*   [bepass-org/bepass-worker](https://github.com/bepass-org/bepass-worker) - An easy to deploy worker for bepass proxy
+
+*   [yeahhe365/LLM-Web-UI](https://github.com/yeahhe365/LLM-Web-UI) -
+
+*   [Hackl0us/SS-Rule-Snippet](https://github.com/Hackl0us/SS-Rule-Snippet) - 搜集、整理、维护 Surge / Quantumult (X) / Shadowrocket / Surfboard / clash (Premium) 实用规则。
+
+*   [prateek-chaubey/YTPro](https://github.com/prateek-chaubey/YTPro) - Youtube client with older Android version support, background player, Google Gemini ✨ and many more features.
+
+*   [YuenSzeHong/gemini-playground](https://github.com/YuenSzeHong/gemini-playground) - Deploy a Gemini multimodal chat website in 10 seconds, Severless!         只需准备一个Gemini API Key，10秒即可部署一个Gemini多模态对话的网站。
+
+*   [tech-shrimp/gemini-proxy](https://github.com/tech-shrimp/gemini-proxy) - 使用Cloudflare Worker代理Gemini 多模态 API
+
+*   [PublicAffairs/openai-gemini](https://github.com/PublicAffairs/openai-gemini) - Gemini ➜ OpenAI API proxy. Serverless!
+
+*   [justjavac/proxy-www](https://github.com/justjavac/proxy-www) - 学会 Proxy 就可以为所欲为吗？对，学会 Proxy 就可以为所欲为！
+
+*   [tina-hello/doh-cf-workers](https://github.com/tina-hello/doh-cf-workers) - DNS-over-HTTPS proxy on Cloudflare Workers
+
+*   [gildas-lormeau/mhtml-to-html](https://github.com/gildas-lormeau/mhtml-to-html) - Convert MHTML to HTML
+
+*   [sqeven/siteproxy](https://github.com/sqeven/siteproxy) - site proxy
+
+*   [CrazyCreativeDream/mpl.js](https://github.com/CrazyCreativeDream/mpl.js) - JavaScript Multi Plaform Launcher | 跨Node/WebWorker的JS启动器,支持多个无服务器平台
+
+*   [kska32/ebooks](https://github.com/kska32/ebooks) - 收藏的一些经典的历史、政治、心理、哲学、数学、计算机方面电子书(约10万本）
+
+*   [seadfeng/cloudflare-proxy-sites](https://github.com/seadfeng/cloudflare-proxy-sites) -
+
+*   [yonggekkk/Cloudflare-vless-trojan](https://github.com/yonggekkk/Cloudflare-vless-trojan) - CF-workers/pages代理脚本【Vless与Trojan】：支持nat64自动生成proxyip，一键自建proxyip与CF反代IP，CF优选官方IP三地区应用脚本，自动输出美、亚、欧最佳优选IP
+
+*   [7Sageer/sublink-worker](https://github.com/7Sageer/sublink-worker) - One Worker, All Subscriptions
+
+*   [MapleEve/cohere-tunnel](https://github.com/MapleEve/cohere-tunnel) - 使用 CloudFlare Worker 运行的 Cohere AI 代理 tunnel
+
+*   [fabiospampinato/cash](https://github.com/fabiospampinato/cash) - An absurdly small jQuery alternative for modern browsers.
+
+*   [smallfawn/decode\_action](https://github.com/smallfawn/decode_action) - 世界上本来不存在加密，加密的人多了，也便成就了解密
+
+*   [yllhwa/RSSWorker](https://github.com/yllhwa/RSSWorker) - 运行在Cloudflare Worker上的RSS订阅生成器
+
+*   [cmliu/edgetunnel](https://github.com/cmliu/edgetunnel) - edgetunnel 2.0 VLESS/Trojan 多功能面板
+
+*   [barretlee/cloudflare-proxy](https://github.com/barretlee/cloudflare-proxy) - Cloudflare Worker 代理请求 ChatGPT API，支持 Stream 流式输出
+
+*   [wozulong/gemini-proxy](https://github.com/wozulong/gemini-proxy) - Gemini Pro Proxy
+
+*   [extractus/article-extractor](https://github.com/extractus/article-extractor) - To extract main article from given URL with Node.js
+
+*   [fishjar/kiss-translator](https://github.com/fishjar/kiss-translator) - A simple, open source bilingual translation extension & Greasemonkey script (一个简约、开源的 双语对照翻译扩展 & 油猴脚本)
+
+*   [Edsuns/AdblockAndroid](https://github.com/Edsuns/AdblockAndroid) - A adblock engine (ad filter) library for Android WebView
+
+*   [100apps/MOSS](https://github.com/100apps/MOSS) - ChatGPT web browser extension
+
+*   [yaohaixiao/outline.js](https://github.com/yaohaixiao/outline.js) - outline.js - 自动生成文章导读（Table of Contents）导航的 JavaScript 工具。会自动分析文章中的标题（ h1~h6 ）标签，并生成文章段落层次结构的导读导航菜单。
+
+*   [lyricat/code-knack](https://github.com/lyricat/code-knack) - A code evaluator on your web page. Support both client implements and server implements.
+
+*   [AkaraChen/nashi](https://github.com/AkaraChen/nashi) - 🍐 The modern jQuery alternative.
+
+*   [admbtlr/reams](https://github.com/admbtlr/reams) - Reams is a serious, joyful and open reading app, written in React Native / Expo
+
+*   [farshed/SoundSpice-mobile](https://github.com/farshed/SoundSpice-mobile) - A minimalist and light-weight music player for Android
+
+*   [simov/grant](https://github.com/simov/grant) - OAuth Proxy
+
+*   [jaywcjlove/translater.js](https://github.com/jaywcjlove/translater.js) - ♣︎ This is a use of HTML comments page translation solution. For a small amount of static pages, this solution is more simple. it has no dependents, Compression only (4KB)
+
+*   [zenorocha/clipboard.js](https://github.com/zenorocha/clipboard.js) - :scissors: Modern copy to clipboard. No Flash. Just 3kb gzipped :clipboard:
+
+*   [mozilla/readability](https://github.com/mozilla/readability) - A standalone version of the readability lib
+
+*   [rahiel/archiveror](https://github.com/rahiel/archiveror) - Archiveror will help you preserve the webpages you love. 💾
+
+*   [sampotts/plyr](https://github.com/sampotts/plyr) - A simple HTML5, YouTube and Vimeo player
+
+*   [Momo707577045/m3u8-downloader](https://github.com/Momo707577045/m3u8-downloader) - m3u8 视频在线提取工具
+
+*   [JAVClub/core](https://github.com/JAVClub/core) - 🔞 JAVClub - 让你的大姐姐不再走丢
+
+*   [andrewchilds/jQuery.DomOutline](https://github.com/andrewchilds/jQuery.DomOutline) - Firebug/Dev Tools-like DOM outline implementation using jQuery.
+
+*   [alexhua/Aria2-Explorer](https://github.com/alexhua/Aria2-Explorer) - An aria2 download task management extension for chromium based browser
+
+*   [xiandanin/magnetW](https://github.com/xiandanin/magnetW) - \[已失效，不再维护]
+
+*   [jaruba/PowderPlayer](https://github.com/jaruba/PowderPlayer) - Hybrid between a Torrent Client and a Player (torrent streaming) -
+
+*   [oevery/Source](https://github.com/oevery/Source) - 阅读书源，海阔阅览器搜索源、插件。
+
+*   [mozilla/rhino](https://github.com/mozilla/rhino) - Rhino is an open-source implementation of JavaScript written entirely in Java
+
+*   [mabDc/cartoon-rule](https://github.com/mabDc/cartoon-rule) - 异次元规则支持说明
+
+*   [bilibili/flv.js](https://github.com/bilibili/flv.js) - HTML5 FLV Player
+
+*   [postlight/parser](https://github.com/postlight/parser) - 📜 Extract meaningful content from the chaos of a web page
+
+*   [mika-cn/maoxian-web-clipper](https://github.com/mika-cn/maoxian-web-clipper) - A web extension to clip information from web page. Save it to your local machine to avoid information invalidation. Not bored registration, Not charged.
+
+*   [lihongxun945/gobang](https://github.com/lihongxun945/gobang) - javascript gobang AI，JS五子棋AI，源码+教程，基于Alpha-Beta剪枝算法（不是神经网络）
+
+*   [webtorrent/webtorrent-desktop](https://github.com/webtorrent/webtorrent-desktop) - ❤️ Streaming torrent app for Mac, Windows, and Linux
+
+*   [rNeomy/reader-view](https://github.com/rNeomy/reader-view) - Access Firefox's built in reader view from right click context menu
+
+*   [EnlighterJS/EnlighterJS](https://github.com/EnlighterJS/EnlighterJS) - :high\_brightness: an open source syntax highlighter written in pure javascript
+
+*   [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。
+
+*   [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️ Streaming torrent client for the web
+
+*   [qsbaq/btlet.com](https://github.com/qsbaq/btlet.com) - DHT磁力引擎
+
+*   [bimohxh/jsonon](https://github.com/bimohxh/jsonon) - A json online view
+
+*   [listen1/listen1\_chrome\_extension](https://github.com/listen1/listen1_chrome_extension) - one for all free music in china (chrome extension, also works for firefox)
+
+*   [hotoo/pinyin](https://github.com/hotoo/pinyin) - :cn: 汉字拼音 ➜ hàn zì pīn yīn
+
+*   [mayswind/AriaNg](https://github.com/mayswind/AriaNg) - AriaNg, a modern web frontend making aria2 easier to use.
+
+*   [dccxi/trust-zh-CN](https://github.com/dccxi/trust-zh-CN) - 一个合作博弈论的互动讲解手册 An interactive guide to the game theory of cooperation
+
+*   [Kenshin/simpread](https://github.com/Kenshin/simpread) - 简悦 ( SimpRead ) - 让你瞬间进入沉浸式阅读的扩展
+
+*   [sechacking/sgk](https://github.com/sechacking/sgk) - 仿findmima的社工库代码，基于elasticsearch和PHP构建
+
+*   [sqqihao/EPubBuilder](https://github.com/sqqihao/EPubBuilder) - 一款在线的epub格式书籍编辑器
+
+*   [nihey/nihey.github.io](https://github.com/nihey/nihey.github.io) - :star2: My homepage
+
+*   [javierbyte/docs2epub](https://github.com/javierbyte/docs2epub) - Doc scraper and ebook generator / library. \[unmaintained]
+
+*   [alanyang/dhtspider](https://github.com/alanyang/dhtspider) - Bittorrent dht network spider
+
+*   [HelloZeroNet/ZeroNet](https://github.com/HelloZeroNet/ZeroNet) - ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network
+
+*   [haroldtreen/epub-press-clients](https://github.com/haroldtreen/epub-press-clients) - 📦 Clients for building books with EpubPress.
+
+*   [speed/newcrawler](https://github.com/speed/newcrawler) - Free Web Scraping Tool with Java
+
+*   [breakwa11/gfw\_whitelist](https://github.com/breakwa11/gfw_whitelist) - gfw\_whitelist
+
+*   [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
+
+*   [dylang/node-rss](https://github.com/dylang/node-rss) - RSS feed generator for Node.
+
+*   [impress/impress.js](https://github.com/impress/impress.js) - It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com.
+
+*   [binux/qiandao](https://github.com/binux/qiandao) - 签到
+
+*   [chengjun/iching](https://github.com/chengjun/iching) - A python package of I Ching 《易经》蓍草卦的Python版本
+
+*   [acgotaku/ShanBayHelper](https://github.com/acgotaku/ShanBayHelper) - 标注文章中已学单词并且可以点击发音和释义
+
+*   [78/ssbc](https://github.com/78/ssbc) - 手撕包菜网站
+
+## miscellaneous
 
 *   [666OS/ClashMac](https://github.com/666OS/ClashMac) - 基于 Clash (mihomo) 内核的轻量级 macOS 菜单栏客户端
 
@@ -146,7 +478,7 @@
 
 *   [Xposed-Modules-Repo/me.plusne](https://github.com/Xposed-Modules-Repo/me.plusne) - PlusNE 7+
 
-*   [xixu-me/META](https://github.com/xixu-me/META) - Comprehensive configuration generator for network traffic management
+*   [xixu-me/meta](https://github.com/xixu-me/meta) - Comprehensive configuration generator for network traffic management
 
 *   [Tintac-CN/denoVlessProxy](https://github.com/Tintac-CN/denoVlessProxy) - Running Vless Proxy inside edge functions
 
@@ -1176,7 +1508,7 @@
 
 *   [image-js/fast-png](https://github.com/image-js/fast-png) - PNG image decoder and encoder written entirely in JavaScript
 
-*   [xixu-me/DeepLX](https://github.com/xixu-me/DeepLX) - Best serverless implementation of DeepLX
+*   [xixu-me/deeplx](https://github.com/xixu-me/deeplx) - Best serverless implementation of DeepLX
 
 *   [lete114/deeplx-serverless](https://github.com/lete114/deeplx-serverless) - DeepLX Free Deployment Translation API
 
@@ -1330,7 +1662,7 @@
 
 *   [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
 
-*   [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket:A powerful & simple image uploader for Markdown creators.  Supports Obsidian, Typora, VS Code etc. and 10+ image hosting services  (S3, GitHub, Cloudflare R2, Imgur, Aliyun OSS...). Paste, upload, done.
+*   [Molunerfinn/PicGo](https://github.com/Molunerfinn/PicGo) - :rocket:A powerful & simple image uploader for creators.  Supports Obsidian, Typora, VS Code etc. and 10+ image hosting services  (S3, GitHub, Cloudflare R2, Imgur, Aliyun OSS...). Paste, upload, done.
 
 *   [DIYgod/RSSHub](https://github.com/DIYgod/RSSHub) - 🧡 Everything is RSSible
 
@@ -1341,104 +1673,6 @@
 *   [jpmonette/feed](https://github.com/jpmonette/feed) - A RSS, Atom and JSON Feed generator for Node.js, making content syndication simple and intuitive! 🚀
 
 *   [laobubu/MarkdownIME](https://github.com/laobubu/MarkdownIME) - A fresh way to write well-formatted text, by typing markdownized stuff on web.
-
-## Dart
-
-*   [G-Ray/pikatorrent](https://github.com/G-Ray/pikatorrent) - Pick a Torrent, stream and download on all your devices
-
-*   [wsurge404/wsurge](https://github.com/wsurge404/wsurge) - A windows proxy client based on Singbox, simple and easy to use, open-source and ad-free.
-
-*   [Predidit/KazumiRules](https://github.com/Predidit/KazumiRules) - Kazumi的规则托管仓库，欢迎贡献 ^•ﻌ•^
-
-*   [naaammme/pilipro](https://github.com/naaammme/pilipro) - 使用Flutter开发的BiliBili第三方客户端，对piliplus做了最小化修改，增加一些自用功能——自动记录评论和弹幕，应用内小窗等等。小字：pro是PeRsOnal的缩写，非professional
-
-*   [SageMik/sqlite3\_simple](https://github.com/SageMik/sqlite3_simple) - 基于 Simple (支持中文和拼音的 SQLite fts5 全文搜索扩展) 和 sqlite3.dart 的 Flutter 库，用于 SQLite 中文和拼音全文搜索 | A Flutter plugin for Full-Text Search of Chinese & PinYin in SQLite, based on Simple (A SQLite3 fts5 tokenizer which supports Chinese & PinYin) and sqlite3.dart
-
-*   [JustLookAtNow/pt\_mate](https://github.com/JustLookAtNow/pt_mate) - 基于 Flutter（Material Design 3）开发的私有种子站点客户端，支持多种PT站点的种子浏览、搜索和下载管理。目前支持M-Team和NexusPHP类型的站点。
-
-*   [yjm2657/FlutterMagneticLinkSearch](https://github.com/yjm2657/FlutterMagneticLinkSearch) - Flutter磁链接搜索
-
-*   [SnowRikka/FlClash-Enhanced](https://github.com/SnowRikka/FlClash-Enhanced) - FlClash-Enhanced 是原版 FlClash 的功能增强版本，剪贴板自动识别节点链接，免转换协议导入，自动测速并切换最快节点(可禁用)，支持多链接批量导入、导入历史记录、剪贴板防重复，适配更多链接格式
-
-*   [MCDFsteve/NipaPlay-Reload](https://github.com/MCDFsteve/NipaPlay-Reload) - NipaPlay-Reload 是一个现代化的跨平台本地视频播放器，支持 Windows、macOS、Linux、Android 和 iOS。集成了弹幕显示、多格式字幕支持、多音频轨道切换，新番查看等功能，支持挂载Emby/Jellyfin媒体库。采用 Flutter 开发，提供统一的用户体验。
-
-*   [Chevey339/kelivo](https://github.com/Chevey339/kelivo) - A Flutter LLM Chat Client. Support Android & iOS & Harmony Next.
-
-*   [gokadzev/Musify](https://github.com/gokadzev/Musify) - Unlock the full potential of music: Stream effortlessly with one app!
-
-*   [bggRGjQaUbCoE/PiliPlus](https://github.com/bggRGjQaUbCoE/PiliPlus) - PiliPlus
-
-*   [sun-jiao/flut-renamer](https://github.com/sun-jiao/flut-renamer) - Flut Renamer - A bulk file renamer written in flutter (dart). Available on Linux, Windows, Android, iOS and macOS.
-
-*   [VPNclient/VPNclient-engine-flutter](https://github.com/VPNclient/VPNclient-engine-flutter) - Flutter wrapper for VPN Client Engine: Xray(VMESS, VLESS, REALITY) + WireGuard
-
-*   [bipark/my\_ollama\_app](https://github.com/bipark/my_ollama_app) - MyOllama: Ollama-based LLM mobile client
-
-*   [Robert-Stackflow/CloudOTP](https://github.com/Robert-Stackflow/CloudOTP) - An awesome two-factor authenticator based on Flutter, supports Android, Windows and Linux platforms, and supports multiple cloud backup methods such as Onedrive, Dropbox, WebDAV, S3Cloud, etc.基于 Flutter 的双因素验证器，支持Android、Windows和Linux平台，支持Onedrive、Dropbox、WebDAV、S3Cloud等多种云备份方式。
-
-*   [theachoem/storypad](https://github.com/theachoem/storypad) - An open source diary & journal app with over 100k downloads 🪴
-
-*   [mitesh77/Best-Flutter-UI-Templates](https://github.com/mitesh77/Best-Flutter-UI-Templates) - completely free for everyone. Its build-in Flutter Dart.
-
-*   [TigerEyeLabs/duckdb-dart](https://github.com/TigerEyeLabs/duckdb-dart) - DuckDB Dart bindings.
-
-*   [KaringX/clashmi](https://github.com/KaringX/clashmi) - Clash Mihomo for iOS/Android
-
-*   [Notsfsssf/pixez-flutter](https://github.com/Notsfsssf/pixez-flutter) - 一个支持免代理直连及查看动图的第三方Pixiv flutter客户端
-
-*   [dart-lang/dart-pad](https://github.com/dart-lang/dart-pad) - An online Dart editor with support for console, web, and Flutter apps.
-
-*   [davidche1116/Sms](https://github.com/davidche1116/Sms) - 短信清理工具
-
-*   [openwebf/webf](https://github.com/openwebf/webf) - Glue everything between Web, Flutter and Native
-
-*   [ZhuJHua/moodiary](https://github.com/ZhuJHua/moodiary) - A fully open source cross-platform diary app written by flutter and rust.
-
-*   [fanenr/chatbot](https://github.com/fanenr/chatbot) -
-
-*   [JHubi1/ollama-app](https://github.com/JHubi1/ollama-app) - A modern and easy-to-use client for Ollama
-
-*   [mumu-lhl/Ciyue](https://github.com/mumu-lhl/Ciyue) - A simple mdict dictionary with Android/Windows/Linux support
-
-*   [j-fbriere/squawker](https://github.com/j-fbriere/squawker) - An open-source privacy oriented Twitter/X client
-
-*   [ys1231/appproxy](https://github.com/ys1231/appproxy) - 基于flutter的Android vpn代理工具 Android VPN Proxy Tool Based on Flutter
-
-*   [Predidit/Kazumi](https://github.com/Predidit/Kazumi) - 基于自定义规则的番剧采集APP，支持流媒体在线观看，支持弹幕，支持实时超分辨率。
-
-*   [Sanmeet007/logger](https://github.com/Sanmeet007/logger) - Logger is a Flutter-based Android app that enables you to view and export call logs in CSV or JSON format and perform lightweight on-device analysis.
-
-*   [chen08209/FlClash](https://github.com/chen08209/FlClash) - A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.
-
-*   [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
-
-*   [lollipopkit/flutter\_gpt\_box](https://github.com/lollipopkit/flutter_gpt_box) - GPTBox - a third-party client for OpenAI API.
-
-*   [Anxcye/anx-reader](https://github.com/Anxcye/anx-reader) - Featuring powerful AI capabilities and supporting various e-book formats, it makes reading smarter and more focused.
-
-*   [SendPatches/Quacker](https://github.com/SendPatches/Quacker) - Privacy respecting, fritter fork with feeds
-
-*   [KaringX/karing](https://github.com/KaringX/karing) - Simple & Powerful proxy utility, Support routing rules for clash/sing-box
-
-*   [hiddify/hiddify-app](https://github.com/hiddify/hiddify-app) - Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.
-
-*   [Kaiteki-Fedi/Kaiteki](https://github.com/Kaiteki-Fedi/Kaiteki) - The comfy SNS client for everything, everywhere
-
-*   [miru-project/miru-app](https://github.com/miru-project/miru-app) - 🎉 A versatile application that is free, open-source, and supports extension sources for videos, comics, and novels, available on Android, Windows, and Web platforms.
-
-*   [mabDc/eso](https://github.com/mabDc/eso) - 亦搜，亦看，亦闻  manga\&novel reader, audio\&video player in one app developed by flutter
-
-*   [wanghongenpin/proxypin](https://github.com/wanghongenpin/proxypin) - Open source free capture HTTP(S) traffic  software ProxyPin, supporting full platform systems
-
-*   [gvenusleo/MeRead](https://github.com/gvenusleo/MeRead) - A RSS reader built with Flutter and designed with Material You. 简洁、易用的 RSS 阅读器，使用 Flutter 构建和 Material You 设计
-
-*   [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
-
-*   [marchellodev/sharik](https://github.com/marchellodev/sharik) - Sharik is an open-source, cross-platform solution for sharing files via Wi-Fi or Mobile Hotspot
-
-*   [yang991178/fluent-reader-lite](https://github.com/yang991178/fluent-reader-lite) - Simplistic mobile RSS client built with Flutter
-
-*   [tsacdop/tsacdop](https://github.com/tsacdop/tsacdop) - Enjoy podcasts with Tsacdop!  A podcast player built with flutter.
 
 ## C++
 
@@ -1592,7 +1826,7 @@
 
 *   [echosoar/news](https://github.com/echosoar/news) - 基于SimHash算法聚合相似全网内容，根据来源数量进行排序，并对一些内容进行过滤
 
-*   [piqoni/matcha](https://github.com/piqoni/matcha) - Daily Digest Reader
+*   [piqoni/matcha](https://github.com/piqoni/matcha) - Daily Digest Reader - for markdown readers or terminals
 
 *   [SagerNet/sing-box](https://github.com/SagerNet/sing-box) - The universal proxy platform
 
@@ -1682,240 +1916,6 @@
 
 *   [fanpei91/torsniff](https://github.com/fanpei91/torsniff) - torsniff - a sniffer that sniffs torrents from BitTorrent network
 
-## JavaScript
-
-*   [lza6/tldrly-2api-cfwork](https://github.com/lza6/tldrly-2api-cfwork) - 内置轻量级爬虫 (非无头浏览器) 、无需 Cookie 、高级请求伪装 (模拟浏览器环境与反检测) 、动态 SHA-256 签名算法、原生 OpenAI 流式 API 转换、Cloudflare Worker 单文件 Serverless 部署、内置 Web UI 开发者面板
-
-*   [TyrantG/hikerViewRules](https://github.com/TyrantG/hikerViewRules) - 海阔视界规则源码集合
-
-*   [RemotePinee/AudioVisual](https://github.com/RemotePinee/AudioVisual) - 解锁所有国内媒体流的钥匙
-
-*   [metowolf/iplist](https://github.com/metowolf/iplist) - IP CIDRs List / IP 地址列表
-
-*   [zhiyi7/gfw-pac](https://github.com/zhiyi7/gfw-pac) - 科学上网 PAC 成品文件以及生成器。可自定义代理域名和直连域名。不在自定义名单里的域名再按IP匹配，CNIP走直连，其他走代理，支持IPv6
-
-*   [Kwisma/cf-worker-mihomo](https://github.com/Kwisma/cf-worker-mihomo) - 快速生成mihomo（clash  meta）配置文件,  适用于软路由 mihomo 内核，clash meta 客户端等
-
-*   [crow1874/CF-DNS-Clone](https://github.com/crow1874/CF-DNS-Clone) - 想拥有别人的优选域名吗？CF-DNS-Clon 让“白嫖”变得简单！只需通过 Cloudflare Workers 便捷部署，即可轻松克隆心仪的域名。同时，它还会化身勤劳的“搬运工”，自动搜罗各大优选 IP 网站，将最新鲜的 IP 资源整理好，直接送到你的 GitHub 仓库中。
-
-*   [readdig/readdig](https://github.com/readdig/readdig) - A RSS and podcast reader. https://readdig.com
-
-*   [amclubs/am-cf-tunnel-sub](https://github.com/amclubs/am-cf-tunnel-sub) - 基于Vercel、Cloudflare 部署该脚本，你可以方便地将Cloudflare Workers 和 Pages的 VLESS、Trojan 配置信息使用在线配置转换到 Clash、 Singbox 、Quantumult X等工具中订阅使用。Cloudflare Workers 和 Pages 生成VLESS、Trojan节点,实现一键订阅节点。
-
-*   [eooce/Cloudflare-proxy](https://github.com/eooce/Cloudflare-proxy) - Running VLESS + trojan + shadowsocks on cloudflare workers and snippets..........在workers或snippets上部署vless/trojan/shadowsocks代理节点，主流客户端一键订阅
-
-*   [ymyuuu/workers-vless](https://github.com/ymyuuu/workers-vless) - 自用轻量版
-
-*   [cmliu/CF-Workers-BPSUB](https://github.com/cmliu/CF-Workers-BPSUB) - Snipaste 节点订阅生成器
-
-*   [neibcn/snippets-vless-reverse-proxy](https://github.com/neibcn/snippets-vless-reverse-proxy) -
-
-*   [xmdhs/clash2sfa](https://github.com/xmdhs/clash2sfa) - 将 Clash.Meta 格式 / 原始格式的订阅链接转换为 sing-box 格式的订阅，用于 SFA
-
-*   [akudamatata/Solara](https://github.com/akudamatata/Solara) - 一个极简风格的基于免费API的音乐播放器
-
-*   [4evergr8/WorkerRSS](https://github.com/4evergr8/WorkerRSS) - 利用CFworker实现RSSHub
-
-*   [Solaina888/openweb](https://github.com/Solaina888/openweb) - 一个免费且开源的网页代理，帮助您安全匿名地访问互联网。
-
-*   [dogchild/api-cf](https://github.com/dogchild/api-cf) - 简易cloudflare反代大陆无法直连的大模型api
-
-*   [serverless-proxy/serverless-proxy](https://github.com/serverless-proxy/serverless-proxy) - HTTP to TCP proxy that deploys to Cloudflare Workers and Deno Deploy
-
-*   [XyzenSun/SpectreProxy](https://github.com/XyzenSun/SpectreProxy) - 支持HTTP，Websocket，DoH/DoT协议，支持AI API代理，支持流式传输，使用原生 TCP Socket 解决 fetch API 的隐私泄露问题并提供灵活的回退策略解决TCP Socket 目前无法连接到 Cloudflare 自身的 IP 段的问题的Cloudflare Worker代理程序。
-
-*   [bropines/Deeplx-vercel](https://github.com/bropines/Deeplx-vercel) - Serverless DeepLX on vercel implementation
-
-*   [zizifn/edgetunnel](https://github.com/zizifn/edgetunnel) - Running V2ray inside edge/serverless runtime
-
-*   [tysak/shadowfetch](https://github.com/tysak/shadowfetch) - Shadowfetch is a lightweight fetcher built with native TCP Sockets, for Cloudflare Workers.
-
-*   [DocumindHQ/documind](https://github.com/DocumindHQ/documind) - Open-source platform for extracting structured data from documents using AI.
-
-*   [lopinx/serverless-api-proxy](https://github.com/lopinx/serverless-api-proxy) - Multi-API Proxy Gateway Based on Vercel Routes, Cloudflare Workers, and Netlify Redirects
-
-*   [Ten-o/api\_gateway\_worker](https://github.com/Ten-o/api_gateway_worker) - Workers 反代
-
-*   [bestZwei/LibreTranslator](https://github.com/bestZwei/LibreTranslator) - 基于 DeepLx 可Cloudflare Pages部署的翻译界面。
-
-*   [LibreSpark/LibreTTS](https://github.com/LibreSpark/LibreTTS) - TTS-文本转语音/文本转语音前端，兼容OpenAI、EdgeTTS等接口
-
-*   [serverless-dns/serverless-dns](https://github.com/serverless-dns/serverless-dns) - The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, Fastly, and Fly.io
-
-*   [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
-
-*   [ecomfe/fontmin](https://github.com/ecomfe/fontmin) - Minify font seamlessly
-
-*   [liriliri/eruda](https://github.com/liriliri/eruda) - Console for mobile browsers
-
-*   [JinJiangHuang/Chat2Api](https://github.com/JinJiangHuang/Chat2Api) - qwenlm.ai转api
-
-*   [leafmoes/DDG-Chat](https://github.com/leafmoes/DDG-Chat) -
-
-*   [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key redistribution system, unifying multiple providers under a single API. Single binary, Docker-ready, with an English UI.
-
-*   [fatwang2/search2ai](https://github.com/fatwang2/search2ai) - Help your LLMs online
-
-*   [bepass-org/bepass-worker](https://github.com/bepass-org/bepass-worker) - An easy to deploy worker for bepass proxy
-
-*   [yeahhe365/LLM-Web-UI](https://github.com/yeahhe365/LLM-Web-UI) -
-
-*   [Hackl0us/SS-Rule-Snippet](https://github.com/Hackl0us/SS-Rule-Snippet) - 搜集、整理、维护 Surge / Quantumult (X) / Shadowrocket / Surfboard / clash (Premium) 实用规则。
-
-*   [prateek-chaubey/YTPro](https://github.com/prateek-chaubey/YTPro) - Youtube client with older Android version support, background player, Google Gemini ✨ and many more features.
-
-*   [YuenSzeHong/gemini-playground](https://github.com/YuenSzeHong/gemini-playground) - Deploy a Gemini multimodal chat website in 10 seconds, Severless!         只需准备一个Gemini API Key，10秒即可部署一个Gemini多模态对话的网站。
-
-*   [tech-shrimp/gemini-proxy](https://github.com/tech-shrimp/gemini-proxy) - 使用Cloudflare Worker代理Gemini 多模态 API
-
-*   [PublicAffairs/openai-gemini](https://github.com/PublicAffairs/openai-gemini) - Gemini ➜ OpenAI API proxy. Serverless!
-
-*   [justjavac/proxy-www](https://github.com/justjavac/proxy-www) - 学会 Proxy 就可以为所欲为吗？对，学会 Proxy 就可以为所欲为！
-
-*   [tina-hello/doh-cf-workers](https://github.com/tina-hello/doh-cf-workers) - DNS-over-HTTPS proxy on Cloudflare Workers
-
-*   [gildas-lormeau/mhtml-to-html](https://github.com/gildas-lormeau/mhtml-to-html) - Convert MHTML to HTML
-
-*   [sqeven/siteproxy](https://github.com/sqeven/siteproxy) - site proxy
-
-*   [CrazyCreativeDream/mpl.js](https://github.com/CrazyCreativeDream/mpl.js) - JavaScript Multi Plaform Launcher | 跨Node/WebWorker的JS启动器,支持多个无服务器平台
-
-*   [kska32/ebooks](https://github.com/kska32/ebooks) - 收藏的一些经典的历史、政治、心理、哲学、数学、计算机方面电子书(约10万本）
-
-*   [seadfeng/cloudflare-proxy-sites](https://github.com/seadfeng/cloudflare-proxy-sites) -
-
-*   [yonggekkk/Cloudflare-vless-trojan](https://github.com/yonggekkk/Cloudflare-vless-trojan) - CF-workers/pages代理脚本【Vless与Trojan】：支持nat64自动生成proxyip，一键自建proxyip与CF反代IP，CF优选官方IP三地区应用脚本，自动输出美、亚、欧最佳优选IP
-
-*   [7Sageer/sublink-worker](https://github.com/7Sageer/sublink-worker) - 无需服务器，一键部署，快速使用自建节点分享URL进行订阅转换，提供灵活的自定义选项，支持SingBox/Clash/V2Ray/Xray
-
-*   [MapleEve/cohere-tunnel](https://github.com/MapleEve/cohere-tunnel) - 使用 CloudFlare Worker 运行的 Cohere AI 代理 tunnel
-
-*   [fabiospampinato/cash](https://github.com/fabiospampinato/cash) - An absurdly small jQuery alternative for modern browsers.
-
-*   [smallfawn/decode\_action](https://github.com/smallfawn/decode_action) - 世界上本来不存在加密，加密的人多了，也便成就了解密
-
-*   [yllhwa/RSSWorker](https://github.com/yllhwa/RSSWorker) - 运行在Cloudflare Worker上的RSS订阅生成器
-
-*   [cmliu/edgetunnel](https://github.com/cmliu/edgetunnel) - edgetunnel 2.0 VLESS/Trojan 多功能面板
-
-*   [barretlee/cloudflare-proxy](https://github.com/barretlee/cloudflare-proxy) - Cloudflare Worker 代理请求 ChatGPT API，支持 Stream 流式输出
-
-*   [wozulong/gemini-proxy](https://github.com/wozulong/gemini-proxy) - Gemini Pro Proxy
-
-*   [extractus/article-extractor](https://github.com/extractus/article-extractor) - To extract main article from given URL with Node.js
-
-*   [fishjar/kiss-translator](https://github.com/fishjar/kiss-translator) - A simple, open source bilingual translation extension & Greasemonkey script (一个简约、开源的 双语对照翻译扩展 & 油猴脚本)
-
-*   [Edsuns/AdblockAndroid](https://github.com/Edsuns/AdblockAndroid) - A adblock engine (ad filter) library for Android WebView
-
-*   [100apps/MOSS](https://github.com/100apps/MOSS) - ChatGPT web browser extension
-
-*   [yaohaixiao/outline.js](https://github.com/yaohaixiao/outline.js) - outline.js - 自动生成文章导读（Table of Contents）导航的 JavaScript 工具。会自动分析文章中的标题（ h1~h6 ）标签，并生成文章段落层次结构的导读导航菜单。
-
-*   [lyricat/code-knack](https://github.com/lyricat/code-knack) - A code evaluator on your web page. Support both client implements and server implements.
-
-*   [AkaraChen/nashi](https://github.com/AkaraChen/nashi) - 🍐 The modern jQuery alternative.
-
-*   [admbtlr/reams](https://github.com/admbtlr/reams) - Reams is a serious, joyful and open reading app, written in React Native / Expo
-
-*   [farshed/SoundSpice-mobile](https://github.com/farshed/SoundSpice-mobile) - A minimalist and light-weight music player for Android
-
-*   [simov/grant](https://github.com/simov/grant) - OAuth Proxy
-
-*   [jaywcjlove/translater.js](https://github.com/jaywcjlove/translater.js) - ♣︎ This is a use of HTML comments page translation solution. For a small amount of static pages, this solution is more simple. it has no dependents, Compression only (4KB)
-
-*   [zenorocha/clipboard.js](https://github.com/zenorocha/clipboard.js) - :scissors: Modern copy to clipboard. No Flash. Just 3kb gzipped :clipboard:
-
-*   [mozilla/readability](https://github.com/mozilla/readability) - A standalone version of the readability lib
-
-*   [rahiel/archiveror](https://github.com/rahiel/archiveror) - Archiveror will help you preserve the webpages you love. 💾
-
-*   [sampotts/plyr](https://github.com/sampotts/plyr) - A simple HTML5, YouTube and Vimeo player
-
-*   [Momo707577045/m3u8-downloader](https://github.com/Momo707577045/m3u8-downloader) - m3u8 视频在线提取工具
-
-*   [JAVClub/core](https://github.com/JAVClub/core) - 🔞 JAVClub - 让你的大姐姐不再走丢
-
-*   [andrewchilds/jQuery.DomOutline](https://github.com/andrewchilds/jQuery.DomOutline) - Firebug/Dev Tools-like DOM outline implementation using jQuery.
-
-*   [alexhua/Aria2-Explorer](https://github.com/alexhua/Aria2-Explorer) - An aria2 download task management extension for chromium based browser
-
-*   [xiandanin/magnetW](https://github.com/xiandanin/magnetW) - \[已失效，不再维护]
-
-*   [jaruba/PowderPlayer](https://github.com/jaruba/PowderPlayer) - Hybrid between a Torrent Client and a Player (torrent streaming) -
-
-*   [oevery/Source](https://github.com/oevery/Source) - 阅读书源，海阔阅览器搜索源、插件。
-
-*   [mozilla/rhino](https://github.com/mozilla/rhino) - Rhino is an open-source implementation of JavaScript written entirely in Java
-
-*   [mabDc/cartoon-rule](https://github.com/mabDc/cartoon-rule) - 异次元规则支持说明
-
-*   [bilibili/flv.js](https://github.com/bilibili/flv.js) - HTML5 FLV Player
-
-*   [postlight/parser](https://github.com/postlight/parser) - 📜 Extract meaningful content from the chaos of a web page
-
-*   [mika-cn/maoxian-web-clipper](https://github.com/mika-cn/maoxian-web-clipper) - A web extension to clip information from web page. Save it to your local machine to avoid information invalidation. Not bored registration, Not charged.
-
-*   [lihongxun945/gobang](https://github.com/lihongxun945/gobang) - javascript gobang AI，JS五子棋AI，源码+教程，基于Alpha-Beta剪枝算法（不是神经网络）
-
-*   [webtorrent/webtorrent-desktop](https://github.com/webtorrent/webtorrent-desktop) - ❤️ Streaming torrent app for Mac, Windows, and Linux
-
-*   [rNeomy/reader-view](https://github.com/rNeomy/reader-view) - Access Firefox's built in reader view from right click context menu
-
-*   [EnlighterJS/EnlighterJS](https://github.com/EnlighterJS/EnlighterJS) - :high\_brightness: an open source syntax highlighter written in pure javascript
-
-*   [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry) - The most comprehensive database of Chinese poetry 🧶最全中华古诗词数据库,  唐宋两朝近一万四千古诗人,  接近5.5万首唐诗加26万宋诗.  两宋时期1564位词人，21050首词。
-
-*   [webtorrent/webtorrent](https://github.com/webtorrent/webtorrent) - ⚡️ Streaming torrent client for the web
-
-*   [qsbaq/btlet.com](https://github.com/qsbaq/btlet.com) - DHT磁力引擎
-
-*   [bimohxh/jsonon](https://github.com/bimohxh/jsonon) - A json online view
-
-*   [listen1/listen1\_chrome\_extension](https://github.com/listen1/listen1_chrome_extension) - one for all free music in china (chrome extension, also works for firefox)
-
-*   [hotoo/pinyin](https://github.com/hotoo/pinyin) - :cn: 汉字拼音 ➜ hàn zì pīn yīn
-
-*   [mayswind/AriaNg](https://github.com/mayswind/AriaNg) - AriaNg, a modern web frontend making aria2 easier to use.
-
-*   [dccxi/trust-zh-CN](https://github.com/dccxi/trust-zh-CN) - 一个合作博弈论的互动讲解手册 An interactive guide to the game theory of cooperation
-
-*   [Kenshin/simpread](https://github.com/Kenshin/simpread) - 简悦 ( SimpRead ) - 让你瞬间进入沉浸式阅读的扩展
-
-*   [sechacking/sgk](https://github.com/sechacking/sgk) - 仿findmima的社工库代码，基于elasticsearch和PHP构建
-
-*   [sqqihao/EPubBuilder](https://github.com/sqqihao/EPubBuilder) - 一款在线的epub格式书籍编辑器
-
-*   [nihey/nihey.github.io](https://github.com/nihey/nihey.github.io) - :star2: My homepage
-
-*   [javierbyte/docs2epub](https://github.com/javierbyte/docs2epub) - Doc scraper and ebook generator / library. \[unmaintained]
-
-*   [alanyang/dhtspider](https://github.com/alanyang/dhtspider) - Bittorrent dht network spider
-
-*   [HelloZeroNet/ZeroNet](https://github.com/HelloZeroNet/ZeroNet) - ZeroNet - Decentralized websites using Bitcoin crypto and BitTorrent network
-
-*   [haroldtreen/epub-press-clients](https://github.com/haroldtreen/epub-press-clients) - 📦 Clients for building books with EpubPress.
-
-*   [speed/newcrawler](https://github.com/speed/newcrawler) - Free Web Scraping Tool with Java
-
-*   [breakwa11/gfw\_whitelist](https://github.com/breakwa11/gfw_whitelist) - gfw\_whitelist
-
-*   [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
-
-*   [dylang/node-rss](https://github.com/dylang/node-rss) - RSS feed generator for Node.
-
-*   [impress/impress.js](https://github.com/impress/impress.js) - It's a presentation framework based on the power of CSS3 transforms and transitions in modern browsers and inspired by the idea behind prezi.com.
-
-*   [binux/qiandao](https://github.com/binux/qiandao) - 签到
-
-*   [chengjun/iching](https://github.com/chengjun/iching) - A python package of I Ching 《易经》蓍草卦的Python版本
-
-*   [acgotaku/ShanBayHelper](https://github.com/acgotaku/ShanBayHelper) - 标注文章中已学单词并且可以点击发音和释义
-
-*   [78/ssbc](https://github.com/78/ssbc) - 手撕包菜网站
-
-*   [xieren58/17qingsong](https://github.com/xieren58/17qingsong) - No longer maintained!
-
 ## Just
 
 *   [gaoyifan/china-operator-ip](https://github.com/gaoyifan/china-operator-ip) - 中国运营商IPv4/IPv6地址库-每日更新
@@ -2004,7 +2004,7 @@
 
 *   [opendatalab/magic-html](https://github.com/opendatalab/magic-html) -
 
-*   [xixu-me/RFM](https://github.com/xixu-me/RFM) - Comprehensive collection of optimized rulesets for META ↓
+*   [xixu-me/rfm](https://github.com/xixu-me/rfm) - Comprehensive collection of optimized rulesets for META ↓
 
 *   [HKoon/ChatTTS-OpenVoice](https://github.com/HKoon/ChatTTS-OpenVoice) - Fuse ChatTTS with OpenVoice, upload a 10-second audio clip, and clone your personalized ChatTTS voice.
 
