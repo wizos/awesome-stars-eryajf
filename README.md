@@ -70,6 +70,8 @@
 
 ## JavaScript
 
+*   [ZGQ-inc/source](https://github.com/ZGQ-inc/source) - :package:个人搜集 | 书源、图源、订阅源、规则、直播源、各种源 大型整合
+
 *   [mathjax/MathJax](https://github.com/mathjax/MathJax) - Beautiful and accessible math in all browsers
 
 *   [lza6/tldrly-2api-cfwork](https://github.com/lza6/tldrly-2api-cfwork) - 内置轻量级爬虫 (非无头浏览器) 、无需 Cookie 、高级请求伪装 (模拟浏览器环境与反检测) 、动态 SHA-256 签名算法、原生 OpenAI 流式 API 转换、Cloudflare Worker 单文件 Serverless 部署、内置 Web UI 开发者面板
@@ -297,8 +299,6 @@
 *   [binux/qiandao](https://github.com/binux/qiandao) - 签到
 
 *   [chengjun/iching](https://github.com/chengjun/iching) - A python package of I Ching 《易经》蓍草卦的Python版本
-
-*   [acgotaku/ShanBayHelper](https://github.com/acgotaku/ShanBayHelper) - 标注文章中已学单词并且可以点击发音和释义
 
 ## Kotlin
 
