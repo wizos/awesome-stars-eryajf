@@ -690,6 +690,8 @@
 
 *   [roseforyou/ZtoApi](https://github.com/roseforyou/ZtoApi) - ZtoApi 是一个高性能的 OpenAI 兼容 API 代理服务器，专为 Z.ai 的 GLM-4.5 和 GLM-4.5V 模型设计。使用 Deno 原生 HTTP API 实现，支持完整的流式和非流式响应，提供实时监控 Dashboard，让你能够无缝地将 Z.ai 的强大 AI 能力集成到现有的 OpenAI 客户端应用中。
 
+*   [rachelos/we-mp-rss](https://github.com/rachelos/we-mp-rss) - ✨符合阅读习惯的微信公众号助手、微信公众号转MarkDown、微信公众号转PDF、定时更新订阅公众号文章、生成微信公众号RSS订阅源、导出微信公众号订阅源、支持微信公众号Webhook/微信公众号API/AI Agent接入微信公众号微信公众号、订阅微信公众号、微信公众号助手 、微信公众号阅读、微信公众号接口、微信公众号爬虫、微信公众号监测、标签订阅微信公众号、微信公众号源、微信公众号读书、微信公众号文章、微信公众号框架、微信公众号管理、微信公众号源、微信公众号平台、微信公众号代码、微信公众号系统、微信公众号源码
+
 *   [eraycc/kimi-k2api](https://github.com/eraycc/kimi-k2api) - reverse kimi-k2 to openai api
 
 *   [LLM-Red-Team/minimax-free-api](https://github.com/LLM-Red-Team/minimax-free-api) - 🚀 MiniMax大模型海螺AI逆向API【特长：超自然语音】，支持MiniMax Text-01、MiniMax-VL-01模型，支持高速流式输出、语音合成、联网搜索、长文档解读、图像解析、多轮对话，零配置部署，多路token支持，自动清理会话痕迹，仅供测试，如需商用请前往官方开放平台。
@@ -876,7 +878,7 @@
 
 *   [spacefarers/Dropp](https://github.com/spacefarers/Dropp) -
 
-*   [dinoki-ai/osaurus](https://github.com/dinoki-ai/osaurus) - Native Apple Silicon LLM server with MCP support. OpenAI & Ollama compatible APIs, tool calling, menu bar chat UI, and a plugin ecosystem. Built on MLX. Supports Apple Foundation Models.
+*   [dinoki-ai/osaurus](https://github.com/dinoki-ai/osaurus) - The missing macOS LLM server. Run local or cloud models with one API. MCP server for Cursor & Claude Desktop, menu bar chat, plugins, and dev tools. Native Apple Silicon.
 
 *   [DanielZhangyc/RLLM](https://github.com/DanielZhangyc/RLLM) - LLM powered RSS reader
 
@@ -990,7 +992,7 @@
 
 ## HTML
 
-*   [justlagom/koyebne](https://github.com/justlagom/koyebne) - 这是一个可部署在koyeb平台上的(ENC+Vision-WS-ARGO)代理节点的镜像；保活项目worker.js可部署至cf worker,通过token登录实现账号保活
+*   [justlagom/koyebne](https://github.com/justlagom/koyebne) - 这是一个可部署在koyeb平台上的(ENC+Vision-Xhttp-ARGO)代理节点的镜像；保活项目worker.js可部署至cf worker,通过token登录实现账号保活
 
 *   [rango886/FreeBili](https://github.com/rango886/FreeBili) - 自由哔站是一个高性能、使用方便的影视聚合搜索和播放工具
 
@@ -1999,8 +2001,6 @@
 *   [liangdabiao/AI-generated-English-podcast-videos](https://github.com/liangdabiao/AI-generated-English-podcast-videos) - AI生成英语对话的播客视频！一键生成，下载视频，学英语，发抖音。 AI-generated English conversation podcast videos! Create with one click, download videos, learn English, and share on TikTok.
 
 *   [BlinkDL/ChatRWKV](https://github.com/BlinkDL/ChatRWKV) - ChatRWKV is like ChatGPT but powered by RWKV (100% RNN) language model, and open source.
-
-*   [rachelos/we-mp-rss](https://github.com/rachelos/we-mp-rss) - ✨符合阅读习惯的微信公众号助手、微信公众号转MarkDown、微信公众号转PDF、定时更新订阅公众号文章、生成微信公众号RSS订阅源、导出微信公众号订阅源、支持微信公众号Webhook/微信公众号API/AI Agent接入微信公众号微信公众号、订阅微信公众号、微信公众号助手 、微信公众号阅读、微信公众号接口、微信公众号爬虫、微信公众号监测、标签订阅微信公众号、微信公众号源、微信公众号读书、微信公众号文章、微信公众号框架、微信公众号管理、微信公众号源、微信公众号平台、微信公众号代码、微信公众号系统、微信公众号源码
 
 *   [opendatalab/magic-html](https://github.com/opendatalab/magic-html) -
 
