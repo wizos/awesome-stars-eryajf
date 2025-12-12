@@ -18,6 +18,7 @@
 
 ## Table of Contents
 
+*   [Rust](#rust)
 *   [JavaScript](#javascript)
 *   [Kotlin](#kotlin)
 *   [TypeScript](#typescript)
@@ -30,7 +31,6 @@
 *   [C++](#c-1)
 *   [Go](#go)
 *   [Just](#just)
-*   [Rust](#rust)
 *   [Python](#python)
 *   [Shell](#shell)
 *   [C#](#c-2)
@@ -67,6 +67,56 @@
 *   [AppleScript](#applescript)
 *   [Scheme](#scheme)
 *   [Thanks](#thanks)
+
+## Rust
+
+*   [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+
+*   [devlive-community/codeforge](https://github.com/devlive-community/codeforge) - CodeForge 是一款轻量级、高性能的桌面代码执行器，专为开发者、学生和编程爱好者设计。CodeRunner 的替代品。
+
+*   [zhu327/workers-tunnel](https://github.com/zhu327/workers-tunnel) - Edge network tunnel implemented using Cloudflare Workers.
+
+*   [meh/rust-tun](https://github.com/meh/rust-tun) - TUN device creation and handling.
+
+*   [Buer-Nahida/akasha-subscriber](https://github.com/Buer-Nahida/akasha-subscriber) - 一个可以运行在 Cloudflare Workers 上的节点订阅器，可以生成 Base64 和 Mihomo 格式的订阅
+
+*   [deft-ui/deft](https://github.com/deft-ui/deft) - Build cross-platform applications with Rust and JavaScript
+
+*   [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
+
+*   [ghost-him/ZeroLaunch-rs](https://github.com/ghost-him/ZeroLaunch-rs) - 🚀 A lightning‑fast, privacy‑first Windows smart launcher that excels at Pinyin and fuzzy matching. Optionally add on‑device AI semantic search for typo‑ and intent‑proof instant results. Built with Rust + Tauri + Vue! 🚀一款极速、隐私优先的 Windows 智能启动器，精通拼音与模糊匹配；可选本地 AI 语义检索，让错字与意图搜索也能秒速直达。基于 Rust + Tauri + Vue 构建！
+
+*   [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
+
+*   [Kr328/typed-jni-rs](https://github.com/Kr328/typed-jni-rs) - Type-Safe JNI access for Rust.
+
+*   [brave/adblock-rust](https://github.com/brave/adblock-rust) - Brave's Rust-based adblock engine
+
+*   [libnyanpasu/clash-nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu) - Clash Nyanpasu～(∠・ω< )⌒☆​
+
+*   [Watfaq/clash-rs](https://github.com/Watfaq/clash-rs) - custom protocol network proxy
+
+*   [messense/aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
+
+*   [sigoden/proxyfor](https://github.com/sigoden/proxyfor) - A powerful and flexible proxy CLI for capturing and inspecting HTTP(S) and WS(S) traffic, with TUI and WebUI.
+
+*   [0xlane/wechat-dump-rs](https://github.com/0xlane/wechat-dump-rs) - 该工具用于导出正在运行中的微信进程的 key 并自动解密所有微信数据库文件以及导出 key 后数据库文件离线解密。
+
+*   [shadowsocks/shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust) - A Rust port of shadowsocks
+
+*   [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
+
+*   [e1732a364fed/ruci](https://github.com/e1732a364fed/ruci) - a flexible proxy framework written in rust
+
+*   [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
+
+*   [Chaoses-Ib/ib-matcher](https://github.com/Chaoses-Ib/ib-matcher) - A multilingual, flexible and fast string, glob and regex matcher. Support 拼音匹配 and ローマ字検索.
+
+*   [YtFlow/YtFlowCore](https://github.com/YtFlow/YtFlowCore) - A modern proxy framework, core of YtFlow.
+
+*   [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
+
+*   [eycorsican/leaf](https://github.com/eycorsican/leaf) - A versatile and efficient proxy framework with nice features suitable for various use cases.
 
 ## JavaScript
 
@@ -992,7 +1042,7 @@
 
 ## HTML
 
-*   [justlagom/koyebne](https://github.com/justlagom/koyebne) - 这是一个可部署在koyeb平台上的(ENC+Vision-Xhttp-ARGO)代理节点的镜像；保活项目worker.js可部署至cf worker,通过token登录实现账号保活
+*   [justlagom/koyebne](https://github.com/justlagom/koyebne) - 这是一个可部署在koyeb平台上的(ENC+Vision-Xhttp-ARGO)代理节点的镜像；保活项目(\_worker.js)部署至cf worker平台,通过 API token方式登录，实现账号保活
 
 *   [rango886/FreeBili](https://github.com/rango886/FreeBili) - 自由哔站是一个高性能、使用方便的影视聚合搜索和播放工具
 
@@ -1788,7 +1838,7 @@
 
 ## Go
 
-*   [5VNetwork/vproxy](https://github.com/5VNetwork/vproxy) - 核心功能免费的全平台代理客户端
+*   [5VNetwork/VX](https://github.com/5VNetwork/VX) - 核心功能免费的全平台代理客户端
 
 *   [Loyalsoldier/geoip](https://github.com/Loyalsoldier/geoip) - 🌚 🌍 🌝 GeoIP 规则文件加强版，支持自行定制 V2Ray dat 格式文件 geoip.dat、MaxMind mmdb 格式文件、sing-box SRS 格式文件、mihomo MRS 格式文件、Clash ruleset、Surge ruleset 等。Enhanced edition of GeoIP files for V2Ray, Xray-core, sing-box, Clash, mihomo, Shadowrocket, Quantumult X, Surge, hysteria, Trojan-Go, Leaf, Nginx, etc.
 
@@ -1941,54 +1991,6 @@
 ## Just
 
 *   [gaoyifan/china-operator-ip](https://github.com/gaoyifan/china-operator-ip) - 中国运营商IPv4/IPv6地址库-每日更新
-
-## Rust
-
-*   [devlive-community/codeforge](https://github.com/devlive-community/codeforge) - CodeForge 是一款轻量级、高性能的桌面代码执行器，专为开发者、学生和编程爱好者设计。CodeRunner 的替代品。
-
-*   [zhu327/workers-tunnel](https://github.com/zhu327/workers-tunnel) - Edge network tunnel implemented using Cloudflare Workers.
-
-*   [meh/rust-tun](https://github.com/meh/rust-tun) - TUN device creation and handling.
-
-*   [Buer-Nahida/akasha-subscriber](https://github.com/Buer-Nahida/akasha-subscriber) - 一个可以运行在 Cloudflare Workers 上的节点订阅器，可以生成 Base64 和 Mihomo 格式的订阅
-
-*   [deft-ui/deft](https://github.com/deft-ui/deft) - Build cross-platform applications with Rust and JavaScript
-
-*   [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
-
-*   [ghost-him/ZeroLaunch-rs](https://github.com/ghost-him/ZeroLaunch-rs) - 🚀 A lightning‑fast, privacy‑first Windows smart launcher that excels at Pinyin and fuzzy matching. Optionally add on‑device AI semantic search for typo‑ and intent‑proof instant results. Built with Rust + Tauri + Vue! 🚀一款极速、隐私优先的 Windows 智能启动器，精通拼音与模糊匹配；可选本地 AI 语义检索，让错字与意图搜索也能秒速直达。基于 Rust + Tauri + Vue 构建！
-
-*   [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
-
-*   [Kr328/typed-jni-rs](https://github.com/Kr328/typed-jni-rs) - Type-Safe JNI access for Rust.
-
-*   [brave/adblock-rust](https://github.com/brave/adblock-rust) - Brave's Rust-based adblock engine
-
-*   [libnyanpasu/clash-nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu) - Clash Nyanpasu～(∠・ω< )⌒☆​
-
-*   [Watfaq/clash-rs](https://github.com/Watfaq/clash-rs) - custom protocol network proxy
-
-*   [messense/aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
-
-*   [sigoden/proxyfor](https://github.com/sigoden/proxyfor) - A powerful and flexible proxy CLI for capturing and inspecting HTTP(S) and WS(S) traffic, with TUI and WebUI.
-
-*   [0xlane/wechat-dump-rs](https://github.com/0xlane/wechat-dump-rs) - 该工具用于导出正在运行中的微信进程的 key 并自动解密所有微信数据库文件以及导出 key 后数据库文件离线解密。
-
-*   [shadowsocks/shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust) - A Rust port of shadowsocks
-
-*   [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
-
-*   [e1732a364fed/ruci](https://github.com/e1732a364fed/ruci) - a flexible proxy framework written in rust
-
-*   [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
-
-*   [Chaoses-Ib/ib-matcher](https://github.com/Chaoses-Ib/ib-matcher) - A multilingual, flexible and fast string, glob and regex matcher. Support 拼音匹配 and ローマ字検索.
-
-*   [YtFlow/YtFlowCore](https://github.com/YtFlow/YtFlowCore) - A modern proxy framework, core of YtFlow.
-
-*   [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
-
-*   [eycorsican/leaf](https://github.com/eycorsican/leaf) - A versatile and efficient proxy framework with nice features suitable for various use cases.
 
 ## Python
 
@@ -2421,8 +2423,6 @@
 *   [9IPHP/9IPHP](https://github.com/9IPHP/9IPHP) - 响应式WordPress主题
 
 *   [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable news aggregator…
-
-*   [timothytylee/full-text-rss](https://github.com/timothytylee/full-text-rss) - Fork of Full-Text RSS to improve handling of non UTF-8 sites
 
 ## Svelte
 
