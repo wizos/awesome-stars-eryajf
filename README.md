@@ -1092,7 +1092,7 @@
 
 *   [666OS/ClashMac](https://github.com/666OS/ClashMac) - 基于 Clash (mihomo) 内核的轻量级 macOS 菜单栏客户端。Lightweight macOS Clash (mihomo) menu bar client.
 
-*   [5VNetwork/VX](https://github.com/5VNetwork/VX) - Multi-platform Proxy Client 全平台代理客户端 Vproxy
+*   [5VNetwork/VX](https://github.com/5VNetwork/VX) - Multi-platform Proxy Client 全平台代理客户端 Vproxy VX代理客户端
 
 *   [shuaidaoya/FreeNodes](https://github.com/shuaidaoya/FreeNodes) - 每小时自动更新🤖，支持v2ray、clash等各种代理软件，利用SubsCheck-Win-GUI自动从节点池爬取免费节点分享
 
