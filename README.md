@@ -18,6 +18,8 @@
 
 ## Table of Contents
 
+*   [C++](#c)
+*   [PHP](#php)
 *   [TypeScript](#typescript)
 *   [Rust](#rust)
 *   [JavaScript](#javascript)
@@ -26,9 +28,8 @@
 *   [Dart](#dart)
 *   [HTML](#html)
 *   [miscellaneous](#miscellaneous)
-*   [C](#c)
+*   [C](#c-1)
 *   [Java](#java)
-*   [C++](#c-1)
 *   [Go](#go)
 *   [Just](#just)
 *   [Python](#python)
@@ -42,7 +43,6 @@
 *   [Objective-C](#objective-c)
 *   [Elixir](#elixir)
 *   [Zig](#zig)
-*   [PHP](#php)
 *   [Svelte](#svelte)
 *   [CSS](#css)
 *   [CoffeeScript](#coffeescript)
@@ -67,6 +67,184 @@
 *   [AppleScript](#applescript)
 *   [Scheme](#scheme)
 *   [Thanks](#thanks)
+
+## C++
+
+*   [weolar/miniblink132](https://github.com/weolar/miniblink132) - a lite browser kernel
+
+*   [iDescriptor/iDescriptor](https://github.com/iDescriptor/iDescriptor) - A free, open-source, and cross-platform iDevice management tool
+
+*   [Snapchat/Valdi](https://github.com/Snapchat/Valdi) - Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
+
+*   [gonzazoid/Ultimatum](https://github.com/gonzazoid/Ultimatum) - Ultimatum is a chromium fork with webextensions support on Android, anti-detect browser capabilities, web3.0 support and much more
+
+*   [throneproj/Throne](https://github.com/throneproj/Throne) - Cross-platform GUI proxy utility (Empowered by sing-box)
+
+*   [alibaba/MNN](https://github.com/alibaba/MNN) - MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba. Full multimodal LLM Android App:[MNN-LLM-Android](./apps/Android/MnnLlmChat/README.md). MNN TaoAvatar Android - Local 3D Avatar Intelligence: apps/Android/Mnn3dAvatar/README.md
+
+*   [lijy91-archives-repos/contextual\_menu](https://github.com/lijy91-archives-repos/contextual_menu) - This plugin allows Flutter desktop apps to create native context menus.
+
+*   [Onion99/KMP-MineGPT](https://github.com/Onion99/KMP-MineGPT) - MineGPT 是一个基于Kotlin Multiplatform 开发的本地小型语言模型(SLM)对话应用; MineGPT is a lightweight local SLM (Small Language Model) chat application built with Kotlin Multiplatform. It aims to provide a cross-platform and user-friendly AI assistant experience.
+
+*   [snake-4/Zygisk-Assistant](https://github.com/snake-4/Zygisk-Assistant) - A Zygisk module to hide root for KernelSU, Magisk and APatch, designed to work on Android 5.0 and above.
+
+*   [LSPosed/LSPlant](https://github.com/LSPosed/LSPlant) - A hook framework for Android Runtime (ART)
+
+*   [openwebf/webf](https://github.com/openwebf/webf) - Bring JavaScript and Web Dev to Flutter
+
+*   [yyds-zy/Llama.cpp-Android](https://github.com/yyds-zy/Llama.cpp-Android) - llama.cpp for android
+
+*   [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
+
+*   [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) - An MCP-based chatbot | 一个基于MCP的聊天机器人
+
+*   [niedev/RTranslator](https://github.com/niedev/RTranslator) - Open source real-time translation app for Android that runs locally
+
+*   [frostwire/frostwire-jlibtorrent](https://github.com/frostwire/frostwire-jlibtorrent) - A swig Java interface for libtorrent by the makers of FrostWire.  Develop libtorrent based apps with the joy of coding in Java.
+
+*   [aldenml/libtorrent4j](https://github.com/aldenml/libtorrent4j) - libtorrent for java, a swig Java interface for libtorrent
+
+*   [Akylas/OSS-DocumentScanner](https://github.com/Akylas/OSS-DocumentScanner) - Document scanning app
+
+*   [kihlh/WxDatViewerAutoExportRust](https://github.com/kihlh/WxDatViewerAutoExportRust) - (WxAutoExIm) 自动备份wx聊天图片到指定位置
+
+*   [PetoiCamp/OpenCat-Quadruped-Robot](https://github.com/PetoiCamp/OpenCat-Quadruped-Robot) - An open source quadruped robot pet framework for developing Boston Dynamics-style four-legged robots that are perfect for STEM, coding & robotics education, IoT robotics applications, AI-enhanced robotics application services, research, and DIY robotics kit development.
+
+*   [strato-emu/strato](https://github.com/strato-emu/strato) - Run Nintendo Switch homebrew & games on your Android device!
+
+*   [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
+
+*   [KDE/alligator](https://github.com/KDE/alligator) - Kirigami-based RSS reader
+
+*   [tumuyan/RealSR-NCNN-Android](https://github.com/tumuyan/RealSR-NCNN-Android) - An Android application for super-resolution & interpolation. Contains RealSR-NCNN, SRMD-NCNN, RealCUGAN-NCNN, Real-ESRGAN-NCNN, Waifu2x-NCNN, Anime4kcpp, nearest, bilinear, bicubic, AVIR...
+
+*   [Chaoses-Ib/IbEverythingExt](https://github.com/Chaoses-Ib/IbEverythingExt) - Everything 拼音搜索, ローマ字検索, wildcard, quick select extension
+
+*   [weolar/miniblink49](https://github.com/weolar/miniblink49) - a lighter, faster browser kernel of blink to integrate HTML UI in your app. 一个小巧、轻量的浏览器内核，用来取代wke和libcef
+
+*   [CodingGay/BlackDex](https://github.com/CodingGay/BlackDex) - BlackDex is an Android unpack(dexdump) tool, it supports Android 5.0~12 and need not rely to any environment. BlackDex can run on any Android mobile phone or emulator, you can unpack APK File in several seconds.
+
+*   [webview/webview](https://github.com/webview/webview) - Tiny cross-platform webview library for C/C++. Uses WebKit (GTK/Cocoa) and Edge WebView2 (Windows).
+
+*   [zhongyang219/MusicPlayer2](https://github.com/zhongyang219/MusicPlayer2) - 这是一款可以播放常见音频格式的音频播放器。支持歌词显示、歌词卡拉OK样式显示、歌词在线下载、歌词编辑、歌曲标签识别、Win10小娜搜索显示歌词、频谱分析、音效设置、任务栏缩略图按钮、主题颜色等功能。 播放内核为BASS音频库(V2.4)。
+
+*   [DayBreak-u/chineseocr\_lite](https://github.com/DayBreak-u/chineseocr_lite) - 超轻量级中文ocr，支持竖排文字识别, 支持ncnn、mnn、tnn推理 ( dbnet(1.8M) + crnn(2.5M) + anglenet(378KB)) 总模型仅4.7M
+
+*   [YukihoAA/waifu2x\_snowshell](https://github.com/YukihoAA/waifu2x_snowshell) - Multilingual waifu2x GUI shell for windows x64
+
+*   [Qv2ray/Qv2ray](https://github.com/Qv2ray/Qv2ray) - :star: Linux / Windows / macOS 跨平台 V2Ray 客户端 | 支持 VMess / VLESS / SSR / Trojan / Trojan-Go / NaiveProxy / HTTP / HTTPS / SOCKS5 | 使用 C++ / Qt 开发 | 可拓展插件式设计 :star:
+
+*   [DuroSoft/XJoy](https://github.com/DuroSoft/XJoy) - Use Nintendo Switch JoyCons as a virtual Xbox 360 controller in Windows
+
+*   [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Android real-time display control software
+
+*   [Tencent/MMKV](https://github.com/Tencent/MMKV) - An efficient, small mobile key-value storage framework developed by WeChat. Works on Android, iOS, macOS, Windows, POSIX, and OHOS.
+
+*   [XiaoMi/mace](https://github.com/XiaoMi/mace) - MACE is a deep learning inference framework optimized for mobile heterogeneous computing platforms.
+
+*   [itisyang/playerdemo](https://github.com/itisyang/playerdemo) - 一个视频播放器，开源版 potplayer ，用于总结播放器开发技术。
+
+*   [Tencent/ncnn](https://github.com/Tencent/ncnn) - ncnn is a high-performance neural network inference framework optimized for the mobile platform
+
+*   [apache/mxnet](https://github.com/apache/mxnet) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more
+
+*   [wangyu-/UDPspeeder](https://github.com/wangyu-/UDPspeeder) - A Tunnel which Improves your Network Quality on a High-latency Lossy Link by using Forward Error Correction, possible for All Traffics(TCP/UDP/ICMP)
+
+*   [Greedysky/TTKMusicPlayer](https://github.com/Greedysky/TTKMusicPlayer) - TTKMusicPlayer imitates Kugou UI, the music player uses of qmmp core library based on Qt for windows and linux.
+
+*   [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
+
+*   [BYVoid/OpenCC](https://github.com/BYVoid/OpenCC) - Conversion between Traditional and Simplified Chinese
+
+*   [sqlitebrowser/sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:
+
+*   [Mapaler/FastCopy-M](https://github.com/Mapaler/FastCopy-M) - FastCopy-Multilanguage，FastCopy完整支持多国语言版
+
+*   [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree
+
+## PHP
+
+*   [hustcc/placeholder.js](https://github.com/hustcc/placeholder.js) - :zap: < 1Kb library to generate image placeholders on client side
+
+*   [isber00/heck2api4php](https://github.com/isber00/heck2api4php) - heck2api for php
+
+*   [scrivo/highlight.php](https://github.com/scrivo/highlight.php) - A port of highlight.js by Ivan Sagalaev to PHP
+
+*   [beyondcode/writeout.ai](https://github.com/beyondcode/writeout.ai) - Transcribe and translate your audio files - for free
+
+*   [xtrime-ru/TelegramApiServer](https://github.com/xtrime-ru/TelegramApiServer) - Fast, simple, async php telegram api server: MadelineProto + Amp HTTP Server
+
+*   [contributte/vercel-examples](https://github.com/contributte/vercel-examples) - 📦 Example projects using Vercel platform. Using Node.js, PHP and others.
+
+*   [hasinhayder/wpsqlite](https://github.com/hasinhayder/wpsqlite) - Quickly provision a fully functional WordPress site with SQLite, with \*.wplocal.xyz domain support
+
+*   [easychen/howto-make-more-money](https://github.com/easychen/howto-make-more-money) - 程序员如何优雅的挣零花钱，2.0版，升级为小书了。Most of this not work outside China , so no English translate
+
+*   [wltb/ff\_feedcleaner](https://github.com/wltb/ff_feedcleaner) - Plugin for Tiny Tiny RSS
+
+*   [HenryQW/Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS) - 🐋 Awesome TTRSS, a powerful Dockerised all-in-one RSS solution.
+
+*   [Baiduio/7ghost](https://github.com/Baiduio/7ghost) - 7ghost是一款基于PHP的网站反向代理程序
+
+*   [guyueyingmu/avbook](https://github.com/guyueyingmu/avbook) - AV 电影管理系统， avmoo , javbus , javlibrary 爬虫，线上 AV 影片图书馆，AV 磁力链接数据库，Japanese Adult Video Library,Adult Video Magnet Links - Japanese Adult Video Database
+
+*   [mashirozx/sakura](https://github.com/mashirozx/sakura) - A Wonderful WordPress Theme: 樱花庄的白猫博客主题
+
+*   [ivopetkov/html5-dom-document-php](https://github.com/ivopetkov/html5-dom-document-php) - A better HTML5 parser for PHP.
+
+*   [flarum/flarum](https://github.com/flarum/flarum) - Simple forum software for building great communities.
+
+*   [erusev/parsedown](https://github.com/erusev/parsedown) - Better Markdown Parser in PHP
+
+*   [zorlan/skycaiji](https://github.com/zorlan/skycaiji) - 蓝天采集器是一款开源免费的爬虫系统，仅需点选编辑规则即可采集数据，可运行在本地、虚拟主机或云服务器中，几乎能采集所有类型的网页，无缝对接各类CMS建站程序，免登录实时发布数据，全自动无需人工干预！是网页大数据采集软件中完全跨平台的云端爬虫系统
+
+*   [LoeiFy/Diaspora](https://github.com/LoeiFy/Diaspora) - Diaspora - A WordPress theme
+
+*   [dartiss/code-embed](https://github.com/dartiss/code-embed) - WordPress plugin to make embedding of code in posts really, really easy
+
+*   [leproxy/leproxy](https://github.com/leproxy/leproxy) - LeProxy is the HTTP/SOCKS proxy server for everybody!
+
+*   [j0k3r/f43.me](https://github.com/j0k3r/f43.me) - A more readable & cleaner feed
+
+*   [jae-jae/QueryList](https://github.com/jae-jae/QueryList) - :spider: The progressive PHP crawler framework!  优雅的渐进式PHP采集框架。
+
+*   [finndychain/finndychain-node](https://github.com/finndychain/finndychain-node) - 发源地/发源链开源分布式”数据挖矿“引擎，致力于挖掘大数据矿山背后的价值！
+
+*   [alaouy/YouTube](https://github.com/alaouy/YouTube) - 🔥 Laravel PHP Facade/Wrapper for the Youtube Data API
+
+*   [kalcaddle/KodExplorer](https://github.com/kalcaddle/KodExplorer) - A web based file manager,web IDE / browser based code editor
+
+*   [koalabearguo/reverse-proxy-php](https://github.com/koalabearguo/reverse-proxy-php) - 在GAE php空间或者在国外apache php空间搭建反向代理
+
+*   [j0k3r/php-readability](https://github.com/j0k3r/php-readability) - A fork of https://bitbucket.org/fivefilters/php-readability
+
+*   [jieerf/wp-jief-videojj](https://github.com/jieerf/wp-jief-videojj) - WordPress云解析HTML5播放器Shortcode插件；支持所有主流CDN的资源类型：mp4、flv及m3u8；支持大型主流平台优酷、土豆、腾讯视频、芒果TV
+
+*   [stephanediondev/readerself](https://github.com/stephanediondev/readerself) - Replaced by a new version
+
+*   [ety001/url2io](https://github.com/ety001/url2io) - A SDK for URL2io
+
+*   [grt1st/wooyun\_search](https://github.com/grt1st/wooyun_search) - 乌云公开漏洞、知识库搜索 search from wooyun.org
+
+*   [sendya/shadowsocks-panel](https://github.com/sendya/shadowsocks-panel) - a new begin...
+
+*   [JJYing/Podcast-RSS-Editor](https://github.com/JJYing/Podcast-RSS-Editor) - A simple Podcast RSS editor in PHP
+
+*   [mingcheng/php-readability](https://github.com/mingcheng/php-readability) - Back the fun of reading -  PHP Port for Arc90′s Readability
+
+*   [lformella/rss-extender](https://github.com/lformella/rss-extender) - This PHP Script can extend short rss feeds by visiting the site, download all articles and merge them together to get an ultimative feed.
+
+*   [davelima/inoreader-php-client](https://github.com/davelima/inoreader-php-client) - PHP Client for the Inoreader Feed API
+
+*   [typecho/typecho](https://github.com/typecho/typecho) - A PHP Blogging Platform. Simple and Powerful.
+
+*   [top-think/think](https://github.com/top-think/think) - ThinkPHP Framework ——二十年匠心的高性能PHP框架
+
+*   [owner888/phpspider](https://github.com/owner888/phpspider) - 《我用爬虫一天时间“偷了”知乎一百万用户，只为证明PHP是世界上最好的语言 》所使用的程序
+
+*   [RSS-Bridge/rss-bridge](https://github.com/RSS-Bridge/rss-bridge) - The RSS feed for websites missing it
+
+*   [9IPHP/9IPHP](https://github.com/9IPHP/9IPHP) - 响应式WordPress主题
 
 ## TypeScript
 
@@ -153,8 +331,6 @@
 *   [a-ghorbani/pocketpal-ai](https://github.com/a-ghorbani/pocketpal-ai) - An app that brings language models directly to your phone.
 
 *   [NeatChat/NeatChat](https://github.com/NeatChat/NeatChat) - 基于 NextChat 深度重构，一个更优雅、更强大的 AI 对话解决方案
-
-*   [yzfly/pocketpal-ai-zh](https://github.com/yzfly/pocketpal-ai-zh) - 口袋AI，将世界知识装进口袋。pocketpal-ai 中文版
 
 *   [joschi/blueskyfeedbot](https://github.com/joschi/blueskyfeedbot) -  A bot that posts RSS feeds to Bluesky via GitHub Actions
 
@@ -430,7 +606,7 @@
 
 *   [seadfeng/cloudflare-proxy-sites](https://github.com/seadfeng/cloudflare-proxy-sites) -
 
-*   [yonggekkk/Cloudflare-vless-trojan](https://github.com/yonggekkk/Cloudflare-vless-trojan) - CF-workers/pages代理脚本【Vless与Trojan】：支持nat64自动生成proxyip，一键自建proxyip与CF反代IP，CF优选官方IP三地区应用脚本，自动输出美、亚、欧最佳优选IP
+*   [yonggekkk/Cloudflare-vless-trojan](https://github.com/yonggekkk/Cloudflare-vless-trojan) - CF-workers/pages代理脚本：支持Vless-ws(tls)、Trojan-ws(tls)、Socks5、http
 
 *   [7Sageer/sublink-worker](https://github.com/7Sageer/sublink-worker) - One Worker, All Subscriptions
 
@@ -1076,7 +1252,7 @@
 
 *   [dankito/Readability4J](https://github.com/dankito/Readability4J) - A Kotlin port of Mozilla‘s Readability. It extracts a website‘s relevant content and removes all clutter from it.
 
-*   [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English which might benefit you a lot 🎉 .  离谱的英语学习指南/英语学习教程。
+*   [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English which might benefit you a lot 🎉 .  离谱的英语学习指南/英语学习教程/英语学习
 
 *   [andreskrey/readability.php](https://github.com/andreskrey/readability.php) - PHP port of Mozilla's Readability.js
 
@@ -1746,98 +1922,6 @@
 
 *   [Nightonke/CoCoin](https://github.com/Nightonke/CoCoin) - CoCoin, Multi-view Accounting Application
 
-## C++
-
-*   [iDescriptor/iDescriptor](https://github.com/iDescriptor/iDescriptor) - A free, open-source, and cross-platform iDevice management tool
-
-*   [Snapchat/Valdi](https://github.com/Snapchat/Valdi) - Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
-
-*   [gonzazoid/Ultimatum](https://github.com/gonzazoid/Ultimatum) - Ultimatum is a chromium fork with webextensions support on Android, anti-detect browser capabilities, web3.0 support and much more
-
-*   [throneproj/Throne](https://github.com/throneproj/Throne) - Cross-platform GUI proxy utility (Empowered by sing-box)
-
-*   [alibaba/MNN](https://github.com/alibaba/MNN) - MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba. Full multimodal LLM Android App:[MNN-LLM-Android](./apps/Android/MnnLlmChat/README.md). MNN TaoAvatar Android - Local 3D Avatar Intelligence: apps/Android/Mnn3dAvatar/README.md
-
-*   [lijy91-archives-repos/contextual\_menu](https://github.com/lijy91-archives-repos/contextual_menu) - This plugin allows Flutter desktop apps to create native context menus.
-
-*   [Onion99/KMP-MineGPT](https://github.com/Onion99/KMP-MineGPT) - MineGPT 是一个基于Kotlin Multiplatform 开发的本地小型语言模型(SLM)对话应用; MineGPT is a lightweight local SLM (Small Language Model) chat application built with Kotlin Multiplatform. It aims to provide a cross-platform and user-friendly AI assistant experience.
-
-*   [snake-4/Zygisk-Assistant](https://github.com/snake-4/Zygisk-Assistant) - A Zygisk module to hide root for KernelSU, Magisk and APatch, designed to work on Android 5.0 and above.
-
-*   [LSPosed/LSPlant](https://github.com/LSPosed/LSPlant) - A hook framework for Android Runtime (ART)
-
-*   [openwebf/webf](https://github.com/openwebf/webf) - Bring JavaScript and Web Dev to Flutter
-
-*   [yyds-zy/Llama.cpp-Android](https://github.com/yyds-zy/Llama.cpp-Android) - llama.cpp for android
-
-*   [duckdb/duckdb](https://github.com/duckdb/duckdb) - DuckDB is an analytical in-process SQL database management system
-
-*   [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) - An MCP-based chatbot | 一个基于MCP的聊天机器人
-
-*   [niedev/RTranslator](https://github.com/niedev/RTranslator) - Open source real-time translation app for Android that runs locally
-
-*   [frostwire/frostwire-jlibtorrent](https://github.com/frostwire/frostwire-jlibtorrent) - A swig Java interface for libtorrent by the makers of FrostWire.  Develop libtorrent based apps with the joy of coding in Java.
-
-*   [aldenml/libtorrent4j](https://github.com/aldenml/libtorrent4j) - libtorrent for java, a swig Java interface for libtorrent
-
-*   [Akylas/OSS-DocumentScanner](https://github.com/Akylas/OSS-DocumentScanner) - Document scanning app
-
-*   [kihlh/WxDatViewerAutoExportRust](https://github.com/kihlh/WxDatViewerAutoExportRust) - (WxAutoExIm) 自动备份wx聊天图片到指定位置
-
-*   [PetoiCamp/OpenCat-Quadruped-Robot](https://github.com/PetoiCamp/OpenCat-Quadruped-Robot) - An open source quadruped robot pet framework for developing Boston Dynamics-style four-legged robots that are perfect for STEM, coding & robotics education, IoT robotics applications, AI-enhanced robotics application services, research, and DIY robotics kit development.
-
-*   [strato-emu/strato](https://github.com/strato-emu/strato) - Run Nintendo Switch homebrew & games on your Android device!
-
-*   [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) - LLM inference in C/C++
-
-*   [KDE/alligator](https://github.com/KDE/alligator) - Kirigami-based RSS reader
-
-*   [tumuyan/RealSR-NCNN-Android](https://github.com/tumuyan/RealSR-NCNN-Android) - An Android application for super-resolution & interpolation. Contains RealSR-NCNN, SRMD-NCNN, RealCUGAN-NCNN, Real-ESRGAN-NCNN, Waifu2x-NCNN, Anime4kcpp, nearest, bilinear, bicubic, AVIR...
-
-*   [Chaoses-Ib/IbEverythingExt](https://github.com/Chaoses-Ib/IbEverythingExt) - Everything 拼音搜索, ローマ字検索, wildcard, quick select extension
-
-*   [weolar/miniblink49](https://github.com/weolar/miniblink49) - a lighter, faster browser kernel of blink to integrate HTML UI in your app. 一个小巧、轻量的浏览器内核，用来取代wke和libcef
-
-*   [CodingGay/BlackDex](https://github.com/CodingGay/BlackDex) - BlackDex is an Android unpack(dexdump) tool, it supports Android 5.0~12 and need not rely to any environment. BlackDex can run on any Android mobile phone or emulator, you can unpack APK File in several seconds.
-
-*   [webview/webview](https://github.com/webview/webview) - Tiny cross-platform webview library for C/C++. Uses WebKit (GTK/Cocoa) and Edge WebView2 (Windows).
-
-*   [zhongyang219/MusicPlayer2](https://github.com/zhongyang219/MusicPlayer2) - 这是一款可以播放常见音频格式的音频播放器。支持歌词显示、歌词卡拉OK样式显示、歌词在线下载、歌词编辑、歌曲标签识别、Win10小娜搜索显示歌词、频谱分析、音效设置、任务栏缩略图按钮、主题颜色等功能。 播放内核为BASS音频库(V2.4)。
-
-*   [DayBreak-u/chineseocr\_lite](https://github.com/DayBreak-u/chineseocr_lite) - 超轻量级中文ocr，支持竖排文字识别, 支持ncnn、mnn、tnn推理 ( dbnet(1.8M) + crnn(2.5M) + anglenet(378KB)) 总模型仅4.7M
-
-*   [YukihoAA/waifu2x\_snowshell](https://github.com/YukihoAA/waifu2x_snowshell) - Multilingual waifu2x GUI shell for windows x64
-
-*   [Qv2ray/Qv2ray](https://github.com/Qv2ray/Qv2ray) - :star: Linux / Windows / macOS 跨平台 V2Ray 客户端 | 支持 VMess / VLESS / SSR / Trojan / Trojan-Go / NaiveProxy / HTTP / HTTPS / SOCKS5 | 使用 C++ / Qt 开发 | 可拓展插件式设计 :star:
-
-*   [DuroSoft/XJoy](https://github.com/DuroSoft/XJoy) - Use Nintendo Switch JoyCons as a virtual Xbox 360 controller in Windows
-
-*   [barry-ran/QtScrcpy](https://github.com/barry-ran/QtScrcpy) - Android real-time display control software
-
-*   [Tencent/MMKV](https://github.com/Tencent/MMKV) - An efficient, small mobile key-value storage framework developed by WeChat. Works on Android, iOS, macOS, Windows, POSIX, and OHOS.
-
-*   [XiaoMi/mace](https://github.com/XiaoMi/mace) - MACE is a deep learning inference framework optimized for mobile heterogeneous computing platforms.
-
-*   [itisyang/playerdemo](https://github.com/itisyang/playerdemo) - 一个视频播放器，开源版 potplayer ，用于总结播放器开发技术。
-
-*   [Tencent/ncnn](https://github.com/Tencent/ncnn) - ncnn is a high-performance neural network inference framework optimized for the mobile platform
-
-*   [apache/mxnet](https://github.com/apache/mxnet) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more
-
-*   [wangyu-/UDPspeeder](https://github.com/wangyu-/UDPspeeder) - A Tunnel which Improves your Network Quality on a High-latency Lossy Link by using Forward Error Correction, possible for All Traffics(TCP/UDP/ICMP)
-
-*   [Greedysky/TTKMusicPlayer](https://github.com/Greedysky/TTKMusicPlayer) - TTKMusicPlayer imitates Kugou UI, the music player uses of qmmp core library based on Qt for windows and linux.
-
-*   [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
-
-*   [BYVoid/OpenCC](https://github.com/BYVoid/OpenCC) - Conversion between Traditional and Simplified Chinese
-
-*   [sqlitebrowser/sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:
-
-*   [Mapaler/FastCopy-M](https://github.com/Mapaler/FastCopy-M) - FastCopy-Multilanguage，FastCopy完整支持多国语言版
-
-*   [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree
-
 ## Go
 
 *   [Loyalsoldier/geoip](https://github.com/Loyalsoldier/geoip) - 🌚 🌍 🌝 GeoIP 规则文件加强版，支持自行定制 V2Ray dat 格式文件 geoip.dat、MaxMind mmdb 格式文件、sing-box SRS 格式文件、mihomo MRS 格式文件、Clash ruleset、Surge ruleset 等。Enhanced edition of GeoIP files for V2Ray, Xray-core, sing-box, Clash, mihomo, Shadowrocket, Quantumult X, Surge, hysteria, Trojan-Go, Leaf, Nginx, etc.
@@ -2339,90 +2423,6 @@
 *   [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation
 
 *   [zfl9/chinadns-ng](https://github.com/zfl9/chinadns-ng) - chinadns 重构增强版，支持域名分流、ipset/nftset、UDP/TCP/DoT
-
-## PHP
-
-*   [isber00/heck2api4php](https://github.com/isber00/heck2api4php) - heck2api for php
-
-*   [scrivo/highlight.php](https://github.com/scrivo/highlight.php) - A port of highlight.js by Ivan Sagalaev to PHP
-
-*   [beyondcode/writeout.ai](https://github.com/beyondcode/writeout.ai) - Transcribe and translate your audio files - for free
-
-*   [xtrime-ru/TelegramApiServer](https://github.com/xtrime-ru/TelegramApiServer) - Fast, simple, async php telegram api server: MadelineProto + Amp HTTP Server
-
-*   [contributte/vercel-examples](https://github.com/contributte/vercel-examples) - 📦 Example projects using Vercel platform. Using Node.js, PHP and others.
-
-*   [hasinhayder/wpsqlite](https://github.com/hasinhayder/wpsqlite) - Quickly provision a fully functional WordPress site with SQLite, with \*.wplocal.xyz domain support
-
-*   [easychen/howto-make-more-money](https://github.com/easychen/howto-make-more-money) - 程序员如何优雅的挣零花钱，2.0版，升级为小书了。Most of this not work outside China , so no English translate
-
-*   [wltb/ff\_feedcleaner](https://github.com/wltb/ff_feedcleaner) - Plugin for Tiny Tiny RSS
-
-*   [HenryQW/Awesome-TTRSS](https://github.com/HenryQW/Awesome-TTRSS) - 🐋 Awesome TTRSS, a powerful Dockerised all-in-one RSS solution.
-
-*   [Baiduio/7ghost](https://github.com/Baiduio/7ghost) - 7ghost是一款基于PHP的网站反向代理程序
-
-*   [guyueyingmu/avbook](https://github.com/guyueyingmu/avbook) - AV 电影管理系统， avmoo , javbus , javlibrary 爬虫，线上 AV 影片图书馆，AV 磁力链接数据库，Japanese Adult Video Library,Adult Video Magnet Links - Japanese Adult Video Database
-
-*   [mashirozx/sakura](https://github.com/mashirozx/sakura) - A Wonderful WordPress Theme: 樱花庄的白猫博客主题
-
-*   [ivopetkov/html5-dom-document-php](https://github.com/ivopetkov/html5-dom-document-php) - A better HTML5 parser for PHP.
-
-*   [flarum/flarum](https://github.com/flarum/flarum) - Simple forum software for building great communities.
-
-*   [erusev/parsedown](https://github.com/erusev/parsedown) - Better Markdown Parser in PHP
-
-*   [zorlan/skycaiji](https://github.com/zorlan/skycaiji) - 蓝天采集器是一款开源免费的爬虫系统，仅需点选编辑规则即可采集数据，可运行在本地、虚拟主机或云服务器中，几乎能采集所有类型的网页，无缝对接各类CMS建站程序，免登录实时发布数据，全自动无需人工干预！是网页大数据采集软件中完全跨平台的云端爬虫系统
-
-*   [LoeiFy/Diaspora](https://github.com/LoeiFy/Diaspora) - Diaspora - A WordPress theme
-
-*   [dartiss/code-embed](https://github.com/dartiss/code-embed) - WordPress plugin to make embedding of code in posts really, really easy
-
-*   [leproxy/leproxy](https://github.com/leproxy/leproxy) - LeProxy is the HTTP/SOCKS proxy server for everybody!
-
-*   [j0k3r/f43.me](https://github.com/j0k3r/f43.me) - A more readable & cleaner feed
-
-*   [jae-jae/QueryList](https://github.com/jae-jae/QueryList) - :spider: The progressive PHP crawler framework!  优雅的渐进式PHP采集框架。
-
-*   [finndychain/finndychain-node](https://github.com/finndychain/finndychain-node) - 发源地/发源链开源分布式”数据挖矿“引擎，致力于挖掘大数据矿山背后的价值！
-
-*   [alaouy/YouTube](https://github.com/alaouy/YouTube) - 🔥 Laravel PHP Facade/Wrapper for the Youtube Data API
-
-*   [kalcaddle/KodExplorer](https://github.com/kalcaddle/KodExplorer) - A web based file manager,web IDE / browser based code editor
-
-*   [koalabearguo/reverse-proxy-php](https://github.com/koalabearguo/reverse-proxy-php) - 在GAE php空间或者在国外apache php空间搭建反向代理
-
-*   [j0k3r/php-readability](https://github.com/j0k3r/php-readability) - A fork of https://bitbucket.org/fivefilters/php-readability
-
-*   [jieerf/wp-jief-videojj](https://github.com/jieerf/wp-jief-videojj) - WordPress云解析HTML5播放器Shortcode插件；支持所有主流CDN的资源类型：mp4、flv及m3u8；支持大型主流平台优酷、土豆、腾讯视频、芒果TV
-
-*   [stephanediondev/readerself](https://github.com/stephanediondev/readerself) - Replaced by a new version
-
-*   [ety001/url2io](https://github.com/ety001/url2io) - A SDK for URL2io
-
-*   [grt1st/wooyun\_search](https://github.com/grt1st/wooyun_search) - 乌云公开漏洞、知识库搜索 search from wooyun.org
-
-*   [sendya/shadowsocks-panel](https://github.com/sendya/shadowsocks-panel) - a new begin...
-
-*   [JJYing/Podcast-RSS-Editor](https://github.com/JJYing/Podcast-RSS-Editor) - A simple Podcast RSS editor in PHP
-
-*   [mingcheng/php-readability](https://github.com/mingcheng/php-readability) - Back the fun of reading -  PHP Port for Arc90′s Readability
-
-*   [lformella/rss-extender](https://github.com/lformella/rss-extender) - This PHP Script can extend short rss feeds by visiting the site, download all articles and merge them together to get an ultimative feed.
-
-*   [davelima/inoreader-php-client](https://github.com/davelima/inoreader-php-client) - PHP Client for the Inoreader Feed API
-
-*   [typecho/typecho](https://github.com/typecho/typecho) - A PHP Blogging Platform. Simple and Powerful.
-
-*   [top-think/think](https://github.com/top-think/think) - ThinkPHP Framework ——二十年匠心的高性能PHP框架
-
-*   [owner888/phpspider](https://github.com/owner888/phpspider) - 《我用爬虫一天时间“偷了”知乎一百万用户，只为证明PHP是世界上最好的语言 》所使用的程序
-
-*   [RSS-Bridge/rss-bridge](https://github.com/RSS-Bridge/rss-bridge) - The RSS feed for websites missing it
-
-*   [9IPHP/9IPHP](https://github.com/9IPHP/9IPHP) - 响应式WordPress主题
-
-*   [FreshRSS/FreshRSS](https://github.com/FreshRSS/FreshRSS) - A free, self-hostable news aggregator…
 
 ## Svelte
 
