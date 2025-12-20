@@ -18,6 +18,7 @@
 
 ## Table of Contents
 
+*   [Vue](#vue)
 *   [Shell](#shell)
 *   [C++](#c)
 *   [PHP](#php)
@@ -38,7 +39,6 @@
 *   [AutoHotkey](#autohotkey)
 *   [MDX](#mdx)
 *   [CMake](#cmake)
-*   [Vue](#vue)
 *   [Makefile](#makefile)
 *   [Objective-C](#objective-c)
 *   [Elixir](#elixir)
@@ -67,6 +67,40 @@
 *   [AppleScript](#applescript)
 *   [Scheme](#scheme)
 *   [Thanks](#thanks)
+
+## Vue
+
+*   [keleus/BewlyCat](https://github.com/keleus/BewlyCat) - BewlyCat——基于BewlyBewly开发的Bilibili拓展
+
+*   [xhongc/PhotoZen](https://github.com/xhongc/PhotoZen) - NAS高性能的自托管照片和视频管理解决方案
+
+*   [Robert-Stackflow/Moment](https://github.com/Robert-Stackflow/Moment) - Modern photo album blog that supports self-hosting, developed based on Vue and Naive UI and FastAPI.支持自托管的现代化相册博客，基于Vue、Naive UI和FastAPI开发。
+
+*   [wsrh8888/beaver-mobile](https://github.com/wsrh8888/beaver-mobile) - 海狸 - 开源社交软件-基于go-zero的高性能IM(im)系统 | 微服务架构 | 支持万人群聊/消息已读回执 | 自托管替代企业微信
+
+*   [moshstudio/wuji-tauri](https://github.com/moshstudio/wuji-tauri) - 一款简洁的资源聚合软件，支持单个应用中轻松浏览图片、音乐、小说，漫画、影视等资源
+
+*   [Zephyruso/zashboard](https://github.com/Zephyruso/zashboard) - A Dashboard Using Clash API
+
+*   [Technicalflight/Gptm](https://github.com/Technicalflight/Gptm) - 一个基于 Electron + Vue3 + TypeScript 开发的现代化 AI 聊天客户端🤖A modern AI chat client based on Electron + Vue3 + TypeScript.
+
+*   [weekend-project-space/webfollow-app](https://github.com/weekend-project-space/webfollow-app) - rss reader , support fever api, llm
+
+*   [haxzie/snipp.in](https://github.com/haxzie/snipp.in) - Fast, Light-weight, Notes, Snippet manager and code editor directly inside your browser
+
+*   [imsyy/SPlayer](https://github.com/imsyy/SPlayer) - 🎉 一个简约的音乐播放器，支持逐字歌词，下载歌曲，展示评论区，音乐云盘及歌单管理，音乐频谱，移动端基础适配 | 网易云音乐 | A minimalist music player
+
+*   [GUI-for-Cores/GUI.for.Clash](https://github.com/GUI-for-Cores/GUI.for.Clash) - A GUI program developed by vue3 + wails.
+
+*   [GUI-for-Cores/GUI.for.SingBox](https://github.com/GUI-for-Cores/GUI.for.SingBox) - GUI for SingBox
+
+*   [snakem982/Pandora-Box](https://github.com/snakem982/Pandora-Box) - A Simple Mihomo GUI. 一个简易的 Mihomo 桌面客户端
+
+*   [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) - The best IP Toolbox. Easy to check what's your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR test, check website availability, whois search and more! || 🇨🇳 可能是最好用的IP工具箱。轻松检查你的 IP，IP 地理位置，检查DNS泄漏，检查 WebRTC 连接，速度测试，ping 测试，MTR测试，检查网站可用性，查询 Whois 信息等等。
+
+*   [ZyqGitHub1/h-player-v2](https://github.com/ZyqGitHub1/h-player-v2) - 资源采集站在线播放
+
+*   [wuhaoworld/torrent2magnet](https://github.com/wuhaoworld/torrent2magnet) - 种子转磁力链工具
 
 ## Shell
 
@@ -275,8 +309,6 @@
 *   [owner888/phpspider](https://github.com/owner888/phpspider) - 《我用爬虫一天时间“偷了”知乎一百万用户，只为证明PHP是世界上最好的语言 》所使用的程序
 
 *   [RSS-Bridge/rss-bridge](https://github.com/RSS-Bridge/rss-bridge) - The RSS feed for websites missing it
-
-*   [9IPHP/9IPHP](https://github.com/9IPHP/9IPHP) - 响应式WordPress主题
 
 ## TypeScript
 
@@ -2367,38 +2399,6 @@
 ## CMake
 
 *   [zhaozg/luajit-cmake](https://github.com/zhaozg/luajit-cmake) - cmake build for LuaJIT,  macOS, Linux, Windows, MingW, iOS, Android
-
-## Vue
-
-*   [xhongc/PhotoZen](https://github.com/xhongc/PhotoZen) - NAS高性能的自托管照片和视频管理解决方案
-
-*   [Robert-Stackflow/Moment](https://github.com/Robert-Stackflow/Moment) - Modern photo album blog that supports self-hosting, developed based on Vue and Naive UI and FastAPI.支持自托管的现代化相册博客，基于Vue、Naive UI和FastAPI开发。
-
-*   [wsrh8888/beaver-mobile](https://github.com/wsrh8888/beaver-mobile) - 海狸 - 开源社交软件-基于go-zero的高性能IM(im)系统 | 微服务架构 | 支持万人群聊/消息已读回执 | 自托管替代企业微信
-
-*   [moshstudio/wuji-tauri](https://github.com/moshstudio/wuji-tauri) - 一款简洁的资源聚合软件，支持单个应用中轻松浏览图片、音乐、小说，漫画、影视等资源
-
-*   [Zephyruso/zashboard](https://github.com/Zephyruso/zashboard) - A Dashboard Using Clash API
-
-*   [Technicalflight/Gptm](https://github.com/Technicalflight/Gptm) - 一个基于 Electron + Vue3 + TypeScript 开发的现代化 AI 聊天客户端🤖A modern AI chat client based on Electron + Vue3 + TypeScript.
-
-*   [weekend-project-space/webfollow-app](https://github.com/weekend-project-space/webfollow-app) - rss reader , support fever api, llm
-
-*   [haxzie/snipp.in](https://github.com/haxzie/snipp.in) - Fast, Light-weight, Notes, Snippet manager and code editor directly inside your browser
-
-*   [imsyy/SPlayer](https://github.com/imsyy/SPlayer) - 🎉 一个简约的音乐播放器，支持逐字歌词，下载歌曲，展示评论区，音乐云盘及歌单管理，音乐频谱，移动端基础适配 | 网易云音乐 | A minimalist music player
-
-*   [GUI-for-Cores/GUI.for.Clash](https://github.com/GUI-for-Cores/GUI.for.Clash) - A GUI program developed by vue3 + wails.
-
-*   [GUI-for-Cores/GUI.for.SingBox](https://github.com/GUI-for-Cores/GUI.for.SingBox) - GUI for SingBox
-
-*   [snakem982/Pandora-Box](https://github.com/snakem982/Pandora-Box) - A Simple Mihomo GUI. 一个简易的 Mihomo 桌面客户端
-
-*   [jason5ng32/MyIP](https://github.com/jason5ng32/MyIP) - The best IP Toolbox. Easy to check what's your IPs, IP geolocation, check for DNS leaks, examine WebRTC connections, speed test, ping test, MTR test, check website availability, whois search and more! || 🇨🇳 可能是最好用的IP工具箱。轻松检查你的 IP，IP 地理位置，检查DNS泄漏，检查 WebRTC 连接，速度测试，ping 测试，MTR测试，检查网站可用性，查询 Whois 信息等等。
-
-*   [ZyqGitHub1/h-player-v2](https://github.com/ZyqGitHub1/h-player-v2) - 资源采集站在线播放
-
-*   [wuhaoworld/torrent2magnet](https://github.com/wuhaoworld/torrent2magnet) - 种子转磁力链工具
 
 ## Makefile
 
