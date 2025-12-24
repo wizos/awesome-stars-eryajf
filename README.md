@@ -70,6 +70,10 @@
 
 ## Kotlin
 
+*   [PranshulGG/RecordMaster](https://github.com/PranshulGG/RecordMaster) - Material expressive Record app for android 🎤⏺️
+
+*   [rainxchzed/Github-Store](https://github.com/rainxchzed/Github-Store) - A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android & Desktop.
+
 *   [A-nony-mous/AutoMandroid](https://github.com/A-nony-mous/AutoMandroid) -
 
 *   [jay3-yy/BiliPai](https://github.com/jay3-yy/BiliPai) - 第三方B站客户端，BiliBili KanPai "( ゜- ゜)つロ 干杯~"）!
@@ -464,7 +468,7 @@
 
 *   [MCDFsteve/NipaPlay-Reload](https://github.com/MCDFsteve/NipaPlay-Reload) - NipaPlay-Reload 是一个现代化的跨平台本地视频播放器，支持 Windows、macOS、Linux、Android 和 iOS。集成了弹幕显示、多格式字幕支持、多音频轨道切换，新番查看等功能，支持挂载Emby/Jellyfin媒体库。采用 Flutter 开发，提供统一的用户体验。
 
-*   [Chevey339/kelivo](https://github.com/Chevey339/kelivo) - A Flutter LLM Chat Client. Support Android & iOS & Harmony Next.
+*   [Chevey339/kelivo](https://github.com/Chevey339/kelivo) - A Flutter LLM Chat Client. Support Mobile & Desktop.
 
 *   [gokadzev/Musify](https://github.com/gokadzev/Musify) - Unlock the full potential of music: Stream effortlessly with one app!
 
@@ -2454,8 +2458,6 @@
 
 *   [zero-peak/ZeroOmega](https://github.com/zero-peak/ZeroOmega) - Manage and switch between multiple proxies quickly & easily.
 
-*   [FelisCatus/SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega) - No longer maintained, see pinned issues
-
 ## Astro
 
 *   [miantiao-me/RSS.Beauty](https://github.com/miantiao-me/RSS.Beauty) - Make Your RSS Beautiful!
@@ -2489,8 +2491,6 @@
 *   [ywjno/burr](https://github.com/ywjno/burr) - 电子书制作工具（PDF, ePub, Mobi, HTML）
 
 *   [feedbin/feedbin](https://github.com/feedbin/feedbin) - A nice place to read on the web.
-
-*   [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 
 ## Adblock Filter List
 
