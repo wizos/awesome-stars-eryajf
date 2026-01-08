@@ -482,11 +482,11 @@
 
 *   [PranshulGG/RecordMaster](https://github.com/PranshulGG/RecordMaster) - Material expressive Record app for android 🎤⏺️
 
-*   [rainxchzed/Github-Store](https://github.com/rainxchzed/Github-Store) - A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android & Desktop.
+*   [rainxchzed/Github-Store](https://github.com/rainxchzed/Github-Store) - A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android & Desktop (Linux, MacOS, Windows).
 
 *   [A-nony-mous/AutoMandroid](https://github.com/A-nony-mous/AutoMandroid) -
 
-*   [jay3-yy/BiliPai](https://github.com/jay3-yy/BiliPai) - 第三方B站客户端，BiliBili KanPai "( ゜- ゜)つロ 干杯~"）!
+*   [jay3-yy/BiliPai](https://github.com/jay3-yy/BiliPai) - 原生、纯净、可扩展 —— 重新定义你的 B 站体验
 
 *   [Past-da-king/MemGallery](https://github.com/Past-da-king/MemGallery) -
 
@@ -1578,7 +1578,7 @@
 
 *   [ammaarreshi/Gemini-Search](https://github.com/ammaarreshi/Gemini-Search) - Perplexity style AI Search engine clone built with Gemini 2.0 Flash and Grounding
 
-*   [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - Cherry Studio boosts your productivity with unified AI access, Agent capabilities, and 300+ assistants in one desktop application.
+*   [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - AI Agent + Coding Agent + 300+ assistants: agentic AI desktop with autonomous coding, intelligent automation, and unified access to frontier LLMs.
 
 *   [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard infinite canvas SDK
 
