@@ -2016,7 +2016,7 @@
 
 *   [Naxavor/five-worker](https://github.com/Naxavor/five-worker) -
 
-*   [666OS/ClashMac](https://github.com/666OS/ClashMac) - 基于 Clash (mihomo) 内核的轻量级 macOS 菜单栏客户端。Lightweight macOS Clash (mihomo) menu bar client.
+*   [666OS/ClashMac](https://github.com/666OS/ClashMac) - 为 macOS 打造的原生代理体验 | Native Proxy Experience Built for macOS
 
 *   [shuaidaoya/FreeNodes](https://github.com/shuaidaoya/FreeNodes) - 每小时自动更新🤖，支持v2ray、clash等各种代理软件，利用SubsCheck-Win-GUI自动从节点池爬取免费节点分享
 
