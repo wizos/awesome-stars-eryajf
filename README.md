@@ -1864,7 +1864,7 @@
 
 *   [admbtlr/reams](https://github.com/admbtlr/reams) - Reams is a serious, joyful and open reading app, written in React Native / Expo
 
-*   [farshed/SoundSpice-mobile](https://github.com/farshed/SoundSpice-mobile) - A minimalist and light-weight music player for Android
+*   [farshed/SoundSpice-mobile](https://github.com/farshed/SoundSpice-mobile) - Minimalist and light-weight music player for Android
 
 *   [simov/grant](https://github.com/simov/grant) - OAuth Proxy
 
