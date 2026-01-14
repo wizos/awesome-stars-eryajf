@@ -18,6 +18,7 @@
 
 ## Table of Contents
 
+*   [Swift](#swift)
 *   [Java](#java)
 *   [Kotlin](#kotlin)
 *   [Python](#python)
@@ -30,7 +31,6 @@
 *   [TypeScript](#typescript)
 *   [Rust](#rust)
 *   [JavaScript](#javascript)
-*   [Swift](#swift)
 *   [HTML](#html)
 *   [miscellaneous](#miscellaneous)
 *   [Go](#go)
@@ -67,6 +67,30 @@
 *   [AppleScript](#applescript)
 *   [Scheme](#scheme)
 *   [Thanks](#thanks)
+
+## Swift
+
+*   [twotwoba/LaunchX](https://github.com/twotwoba/LaunchX) - 🚀 A modern,lightly and intelligent macOS launcher. 一个现代的、设计简洁且智能的 macOS 启动器
+
+*   [PGshen/mini-clipboard](https://github.com/PGshen/mini-clipboard) - Open-source. Focused on simple, beautiful, and smooth experience.
+
+*   [spacefarers/Dropp](https://github.com/spacefarers/Dropp) -
+
+*   [dinoki-ai/osaurus](https://github.com/dinoki-ai/osaurus) - AI edge infrastructure for macOS. Run local or cloud models, share tools across apps via MCP, and power AI workflows with a native, always-on runtime.
+
+*   [DanielZhangyc/RLLM](https://github.com/DanielZhangyc/RLLM) - LLM powered RSS reader
+
+*   [bin64/Clash-Dash](https://github.com/bin64/Clash-Dash) - 原生 SwiftUI 开发的 OpenClash/Nikki(MihomoTProxy) 管理工具
+
+*   [robertying/shadowsocks-macos](https://github.com/robertying/shadowsocks-macos) - Shadowsocks client for macOS, with support for Apple Silicon (arm64) and Intel (x86\_64)
+
+*   [coteditor/CotEditor](https://github.com/coteditor/CotEditor) - Lightweight Plain-Text Editor for macOS
+
+*   [greatfire/envoy](https://github.com/greatfire/envoy) - C and Java Library derived from Chromium Cronet which can be used to make Android apps resistant to censorship
+
+*   [nmdias/FeedKit](https://github.com/nmdias/FeedKit) - FeedKit is a Swift library for Reading and Generating RSS, Atom, and JSON feeds.
+
+*   [liruqi/Mume-iOS](https://github.com/liruqi/Mume-iOS) -
 
 ## Java
 
@@ -1148,7 +1172,7 @@
 
 *   [Predidit/KazumiRules](https://github.com/Predidit/KazumiRules) - Kazumi的规则托管仓库，欢迎贡献 ^•ﻌ•^
 
-*   [5VNetwork/VX](https://github.com/5VNetwork/VX) - Multi-platform Proxy Client 全平台代理客户端 Vproxy VX代理客户端
+*   [5VNetwork/VX](https://github.com/5VNetwork/VX) - Multi-platform Proxy Client
 
 *   [naaammme/pilipro](https://github.com/naaammme/pilipro) - 使用Flutter开发的BiliBili第三方客户端，对piliplus做了最小化修改，增加一些自用功能——自动记录评论和弹幕，应用内小窗等等。小字：pro是PeRsOnal的缩写，非professional
 
@@ -1672,8 +1696,6 @@
 
 *   [lesspass/lesspass](https://github.com/lesspass/lesspass) - :key: stateless open source password manager
 
-*   [jpmonette/feed](https://github.com/jpmonette/feed) - A RSS, Atom and JSON Feed generator for Node.js, making content syndication simple and intuitive! 🚀
-
 ## Rust
 
 *   [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
@@ -1949,28 +1971,6 @@
 *   [gorhill/uBlock](https://github.com/gorhill/uBlock) - uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
 
 *   [dylang/node-rss](https://github.com/dylang/node-rss) - RSS feed generator for Node.
-
-## Swift
-
-*   [PGshen/mini-clipboard](https://github.com/PGshen/mini-clipboard) - Open-source. Focused on simple, beautiful, and smooth experience.
-
-*   [spacefarers/Dropp](https://github.com/spacefarers/Dropp) -
-
-*   [dinoki-ai/osaurus](https://github.com/dinoki-ai/osaurus) - AI edge infrastructure for macOS. Run local or cloud models, share tools across apps via MCP, and power AI workflows with a native, always-on runtime.
-
-*   [DanielZhangyc/RLLM](https://github.com/DanielZhangyc/RLLM) - LLM powered RSS reader
-
-*   [bin64/Clash-Dash](https://github.com/bin64/Clash-Dash) - 原生 SwiftUI 开发的 OpenClash/Nikki(MihomoTProxy) 管理工具
-
-*   [robertying/shadowsocks-macos](https://github.com/robertying/shadowsocks-macos) - Shadowsocks client for macOS, with support for Apple Silicon (arm64) and Intel (x86\_64)
-
-*   [coteditor/CotEditor](https://github.com/coteditor/CotEditor) - Lightweight Plain-Text Editor for macOS
-
-*   [greatfire/envoy](https://github.com/greatfire/envoy) - C and Java Library derived from Chromium Cronet which can be used to make Android apps resistant to censorship
-
-*   [nmdias/FeedKit](https://github.com/nmdias/FeedKit) - FeedKit is a Swift library for Reading and Generating RSS, Atom, and JSON feeds.
-
-*   [liruqi/Mume-iOS](https://github.com/liruqi/Mume-iOS) -
 
 ## HTML
 
