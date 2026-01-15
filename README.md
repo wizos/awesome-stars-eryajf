@@ -512,7 +512,7 @@
 
 *   [jay3-yy/BiliPai](https://github.com/jay3-yy/BiliPai) - 原生、纯净、可扩展 —— 重新定义你的 B 站体验
 
-*   [Past-da-king/MemGallery](https://github.com/Past-da-king/MemGallery) -
+*   [Past-da-king/MemGallery](https://github.com/Past-da-king/MemGallery) - MemGallery: A smart memory bank to store all your memories from audio, images, text, and URLs. AI-indexed (local or provided), on-device, no cloud, and no sign-up required.
 
 *   [nsh07/Tomato](https://github.com/nsh07/Tomato) - Minimalist, data-oriented pomodoro timer for Android based on Material 3 Expressive
 
