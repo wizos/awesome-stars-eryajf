@@ -1278,7 +1278,7 @@
 
 *   [haxzie/snipp.in](https://github.com/haxzie/snipp.in) - Fast, Light-weight, Notes, Snippet manager and code editor directly inside your browser
 
-*   [imsyy/SPlayer](https://github.com/imsyy/SPlayer) - 🎉 一个简约的音乐播放器，支持逐字歌词，下载歌曲，展示评论区，音乐云盘及歌单管理，音乐频谱，移动端基础适配 | A minimalist music player
+*   [imsyy/SPlayer](https://github.com/imsyy/SPlayer) - 🎉 一个简约的音乐播放器，支持逐字歌词，下载歌曲，评论区，音乐云盘及本地音乐管理，流媒体 Jellyfin / Navidrome / OpenSubsonic 播放，音乐频谱，移动端适配 | A minimalist music player featuring word-by-word lyrics, song downloads, comments, music cloud storage, and local library management, streaming, audio spectrum visualization, and more
 
 *   [GUI-for-Cores/GUI.for.Clash](https://github.com/GUI-for-Cores/GUI.for.Clash) - A GUI program developed by vue3 + wails.
 
@@ -2016,7 +2016,7 @@
 
 *   [Naxavor/five-worker](https://github.com/Naxavor/five-worker) -
 
-*   [666OS/ClashMac](https://github.com/666OS/ClashMac) - 为 macOS 打造的原生代理体验 | Native Proxy Experience Built for macOS
+*   [666OS/ClashMac](https://github.com/666OS/ClashMac) - Native Proxy Experience Built for macOS
 
 *   [shuaidaoya/FreeNodes](https://github.com/shuaidaoya/FreeNodes) - 每4小时自动更新🤖，支持v2ray、clash等各种代理软件，利用SubsCheck-Win-GUI自动从节点池爬取免费节点分享
 
