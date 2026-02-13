@@ -1264,7 +1264,7 @@
 
 *   [ammaarreshi/Gemini-Search](https://github.com/ammaarreshi/Gemini-Search) - Perplexity style AI Search engine clone built with Gemini 2.0 Flash and Grounding
 
-*   [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - AI Agent + Coding Agent + 300+ assistants: agentic AI desktop with autonomous coding, intelligent automation, and unified access to frontier LLMs.
+*   [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs
 
 *   [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard infinite canvas SDK
 
@@ -1630,7 +1630,7 @@
 
 *   [leolin310148/ShortcutBadger](https://github.com/leolin310148/ShortcutBadger) - An Android library supports badge notification like iOS in Samsung, LG, Sony and HTC launchers.
 
-*   [uknownothingsnow/JsBridge](https://github.com/uknownothingsnow/JsBridge) - android java and javascript bridge, inspired by wechat webview jsbridge
+*   [happydog-intj/JsBridge](https://github.com/happydog-intj/JsBridge) - android java and javascript bridge, inspired by wechat webview jsbridge
 
 *   [ReactiveX/RxJava](https://github.com/ReactiveX/RxJava) - RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.
 
