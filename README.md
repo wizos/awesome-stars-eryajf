@@ -780,8 +780,6 @@
 
 *   [brave/adblock-rust](https://github.com/brave/adblock-rust) - Brave's Rust-based adblock engine
 
-*   [libnyanpasu/clash-nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu) - Clash Nyanpasu～(∠・ω< )⌒☆​
-
 *   [Watfaq/clash-rs](https://github.com/Watfaq/clash-rs) - custom protocol network proxy
 
 *   [messense/aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
@@ -1268,6 +1266,8 @@
 
 *   [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard infinite canvas SDK
 
+*   [libnyanpasu/clash-nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu) - Clash Nyanpasu～(∠・ω< )⌒☆​
+
 *   [mihomo-party-org/clash-party](https://github.com/mihomo-party-org/clash-party) - :electron: Another Mihomo GUI.
 
 *   [SukkaW/Surge](https://github.com/SukkaW/Surge) - Rule Snippet & Rule Set for Surge / Mihomo (Clash.Meta) / Clash Premium (Dreamacro) / sing-box / Surfboard for Android / Stash
@@ -1364,7 +1364,7 @@
 
 *   [PeterCxy/Shelter](https://github.com/PeterCxy/Shelter) - This repository is a mirror of https://gitea.angry.im/PeterCxy/Shelter. For bug reports, use https://lists.sr.ht/~petercxy/shelter
 
-*   [crimera/piko](https://github.com/crimera/piko) - revanced-patches for twitter
+*   [crimera/piko](https://github.com/crimera/piko) - morphe patches for twitter
 
 *   [V-E-O/biliSpeed](https://github.com/V-E-O/biliSpeed) - Bili默认播放速度调节
 
