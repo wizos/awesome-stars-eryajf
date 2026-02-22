@@ -944,7 +944,7 @@
 
 *   [Kwisma/cf-worker-mihomo](https://github.com/Kwisma/cf-worker-mihomo) - 快速生成mihomo（clash  meta）配置文件,  适用于软路由 mihomo 内核，clash meta 客户端等
 
-*   [crow1874/CF-DNS-Clone](https://github.com/crow1874/CF-DNS-Clone) - 想拥有别人的优选域名吗？CF-DNS-Clon 让“白嫖”变得简单！只需通过 Cloudflare Workers 便捷部署，即可轻松克隆心仪的域名。同时，它还会化身勤劳的“搬运工”，自动搜罗各大优选 IP 网站，将最新鲜的 IP 资源整理好，直接送到你的 GitHub 仓库中。
+*   [cfwuya1/CF-DNS-Clone](https://github.com/cfwuya1/CF-DNS-Clone) - 想拥有别人的优选域名吗？CF-DNS-Clon 让“白嫖”变得简单！只需通过 Cloudflare Workers 便捷部署，即可轻松克隆心仪的域名。同时，它还会化身勤劳的“搬运工”，自动搜罗各大优选 IP 网站，将最新鲜的 IP 资源整理好，直接送到你的 GitHub 仓库中。
 
 *   [readdig/readdig](https://github.com/readdig/readdig) - A RSS and podcast reader. https://readdig.com
 
