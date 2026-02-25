@@ -562,7 +562,7 @@
 
 *   [ruffle-rs/ruffle-android](https://github.com/ruffle-rs/ruffle-android) - An Android application for ruffle.rs
 
-*   [ChaoMixian/vFlow](https://github.com/ChaoMixian/vFlow) - vFlow 是一款为 Android 平台设计的、强大且高度可扩展的自动化工具。它允许你通过图形化界面，将一系列“动作模块”自由组合成强大的“工作流”，从而自动完成各种日常的、重复性的屏幕操作任务。
+*   [ChaoMixian/vFlow](https://github.com/ChaoMixian/vFlow) - vFlow is a powerful and highly extensible automation tool designed for the Android platform. It enables users to freely combine a series of “action modules” into powerful “workflows” through a graphical interface, allowing the automatic execution of various routine and repetitive on-screen tasks.
 
 *   [Latebrix/Tuketion-Parser](https://github.com/Latebrix/Tuketion-Parser) - TuketionParser: a powerful and flexible HTML parser for Kotlin, providing effective document handling, even with big and complex ones. It's built with support for CSS-like selectors, XPath queries, rendering of HTML templates, and extensibility through plugins.
 
