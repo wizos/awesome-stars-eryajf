@@ -516,7 +516,7 @@
 
 *   [Turbo1123/roubao](https://github.com/Turbo1123/roubao) - Android Automation Tool Based on Vision-Language Models
 
-*   [zly2006/zhihu-plus-plus](https://github.com/zly2006/zhihu-plus-plus) - 知乎++: 去广告、占用低、AI大模型powered的新时代知乎安卓端体验
+*   [zly2006/zhihu-plus-plus](https://github.com/zly2006/zhihu-plus-plus) - Zhihu++ | 知乎++: Ad-free, low cost, AI powered zhihu android 3rd-party client. 去广告、占用低、AI大模型的新时代知乎安卓端体验
 
 *   [loper7/miit-rule-checker](https://github.com/loper7/miit-rule-checker) - ⭐🎉虽迟但到，这是一个通过拦截Java方法调用用以检测应用是否合规的工具，如果你的APP正饱受监管部门或应用市场时不时下发整改通知的折磨，那么用它来检查你的代码以及引用的三方库是再好不过的选择了！
 
