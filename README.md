@@ -276,7 +276,7 @@
 
 *   [chika0801/sing-box-examples](https://github.com/chika0801/sing-box-examples) - sing-box 配置示例
 
-*   [8Mi-Tech/LSPatch-ApkFactory](https://github.com/8Mi-Tech/LSPatch-ApkFactory) - 一个基于LSPatch的打包工具，自动为常见应用打LSPatch补丁的仓库，包括 OPatch / ONPatch / NPatch
+*   [8Mi-Tech/LSPatch-ApkFactory](https://github.com/8Mi-Tech/LSPatch-ApkFactory) - 一个基于LSPatch的打包工具，自动为常见应用打LSPatch补丁的仓库，包括各类分支(详见readme)
 
 *   [hua1995116/indiehackers-steps](https://github.com/hua1995116/indiehackers-steps) - 《独立开发者的艺术》打造最全的独立开发者指南，一人公司。
 
