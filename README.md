@@ -1106,7 +1106,7 @@
 
 *   [akudamatata/Solara](https://github.com/akudamatata/Solara) - 一个极简风格的基于免费API的音乐播放器
 
-*   [4evergr8/WorkerRSS](https://github.com/4evergr8/WorkerRSS) - 利用CFworker实现RSSHub
+*   [4evergr8/WorkersRSS](https://github.com/4evergr8/WorkersRSS) - 基于 Cloudflare Workers 的轻量 RSS 生成工具
 
 *   [Solaina888/openweb](https://github.com/Solaina888/openweb) - 一个免费且开源的网页代理，帮助您安全匿名地访问互联网。
 
