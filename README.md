@@ -538,7 +538,7 @@
 
 *   [Past-da-king/MemGallery](https://github.com/Past-da-king/MemGallery) - MemGallery: A smart memory bank to store all your memories from audio, images, text, and URLs. AI-indexed (local or provided), on-device, no cloud, and no sign-up required.
 
-*   [nsh07/Tomato](https://github.com/nsh07/Tomato) - Minimalist, data-oriented pomodoro timer for Android based on Material 3 Expressive
+*   [nsh07/Tomato](https://github.com/nsh07/Tomato) - Minimalist, data-oriented pomodoro timer based on Material 3 Expressive
 
 *   [kavishdevar/librepods](https://github.com/kavishdevar/librepods) - AirPods liberated from Apple's ecosystem.
 
@@ -960,7 +960,7 @@
 
 *   [throneproj/Throne](https://github.com/throneproj/Throne) - Cross-platform GUI proxy utility (Empowered by sing-box)
 
-*   [alibaba/MNN](https://github.com/alibaba/MNN) - MNN is a blazing fast, lightweight deep learning framework, battle-tested by business-critical use cases in Alibaba. Full multimodal LLM Android App:[MNN-LLM-Android](./apps/Android/MnnLlmChat/README.md). MNN TaoAvatar Android - Local 3D Avatar Intelligence: apps/Android/Mnn3dAvatar/README.md
+*   [alibaba/MNN](https://github.com/alibaba/MNN) - MNN: A blazing-fast, lightweight inference engine battle-tested by Alibaba, powering high-performance on-device LLMs and Edge AI.
 
 *   [lijy91-archives-repos/contextual\_menu](https://github.com/lijy91-archives-repos/contextual_menu) - This plugin allows Flutter desktop apps to create native context menus.
 
