@@ -1550,7 +1550,7 @@
 
 *   [MiniDNS/minidns](https://github.com/MiniDNS/minidns) - DNS library for Android and Java SE
 
-*   [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region is an offline IP address manager framework and locator with both IPv4 and IPv6 supported, supporting billions of data segments, ten microsecond searching performance, xdb search client for many programming languages
+*   [lionsoul2014/ip2region](https://github.com/lionsoul2014/ip2region) - Ip2region is an offline IP-to-Region localization library and IP data management framework with both IPv4 and IPv6 supports, 10-microsecond level query efficiency, xdb search client for many programming languages
 
 *   [xieyang94/LogRocket](https://github.com/xieyang94/LogRocket) - 捕获Logcat日志，WebSocket快速发射可查看
 
