@@ -1052,7 +1052,7 @@
 
 *   [spacefarers/Dropp](https://github.com/spacefarers/Dropp) -
 
-*   [osaurus-ai/osaurus](https://github.com/osaurus-ai/osaurus) - AI edge infrastructure for macOS. Run local or cloud models, share tools across apps via MCP, and power AI workflows with a native, always-on runtime.
+*   [osaurus-ai/osaurus](https://github.com/osaurus-ai/osaurus) - Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cryptographic identity. Built in Swift. Fully offline. Open source.
 
 *   [DanielZhangyc/RLLM](https://github.com/DanielZhangyc/RLLM) - LLM powered RSS reader
 
