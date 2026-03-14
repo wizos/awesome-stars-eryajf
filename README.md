@@ -1998,7 +1998,7 @@
 
 *   [zhayujie/bot-on-anything](https://github.com/zhayujie/bot-on-anything) - A large model-based chatbot builder that can quickly integrate AI models (including ChatGPT, Claude, Gemini) into various software applications (such as Telegram, Gmail, Slack, and websites).
 
-*   [s0md3v/roop](https://github.com/s0md3v/roop) - one-click face swap
+*   [s0md3v/roop](https://github.com/s0md3v/roop) -
 
 *   [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - Best and simplest tool for website change detection, web page monitoring, and website change alerts. Perfect for tracking content changes, price drops, restock alerts, and website defacement monitoring—all for free or enjoy our SaaS plan!
 
