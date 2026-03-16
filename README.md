@@ -934,7 +934,7 @@
 
 *   [topjohnwu/Magisk](https://github.com/topjohnwu/Magisk) - The Magic Mask for Android
 
-*   [e1732a364fed/ruci](https://github.com/e1732a364fed/ruci) - a flexible proxy framework written in rust
+*   [jkshfanfbun/ruci](https://github.com/jkshfanfbun/ruci) - a flexible proxy framework written in rust
 
 *   [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 
