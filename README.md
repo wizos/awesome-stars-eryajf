@@ -18,6 +18,7 @@
 
 ## Table of Contents
 
+*   [Shell](#shell)
 *   [Go](#go)
 *   [miscellaneous](#miscellaneous)
 *   [Dart](#dart)
@@ -31,7 +32,6 @@
 *   [Python](#python)
 *   [C](#c-1)
 *   [Vue](#vue)
-*   [Shell](#shell)
 *   [PHP](#php)
 *   [HTML](#html)
 *   [Just](#just)
@@ -67,6 +67,40 @@
 *   [AppleScript](#applescript)
 *   [Scheme](#scheme)
 *   [Thanks](#thanks)
+
+## Shell
+
+*   [DustinWin/dustinwin.github.io](https://github.com/DustinWin/dustinwin.github.io) - mihomo 和 sing-box 教程合集——安装、配置、自定义规则、DNS 分流
+
+*   [rentianyu/Ad-set-hosts](https://github.com/rentianyu/Ad-set-hosts) - 集合多个去广告hosts并去重
+
+*   [MohamedElashri/doh-list](https://github.com/MohamedElashri/doh-list) - List of public DoH providers
+
+*   [boxproxy/box](https://github.com/boxproxy/box) - 安卓代理模块，使用方法看wiki
+
+*   [MetaCubeX/meta-rules-dat](https://github.com/MetaCubeX/meta-rules-dat) - rules-dat for mihomo
+
+*   [damengzhu/banad](https://github.com/damengzhu/banad) - 轻量广告拦截规则
+
+*   [wanghongenpin/Magisk-ProxyPinCA](https://github.com/wanghongenpin/Magisk-ProxyPinCA) - Magisk模块ProxyPin系统证书
+
+*   [bclswl0827/v2ray-heroku](https://github.com/bclswl0827/v2ray-heroku) - 用于在 Heroku 上部署 V2Ray WebSocket。
+
+*   [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An unprofessional open-source Chinese font derived from Fontworks' Klee One. 一款非专业的开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。
+
+*   [EtherDream/jsproxy](https://github.com/EtherDream/jsproxy) - An online proxy based on ServiceWorker
+
+*   [lmc999/auto-add-routes](https://github.com/lmc999/auto-add-routes) - China Route for VPN
+
+*   [sandae/epubFreq](https://github.com/sandae/epubFreq) - 为epub电子书添加词频标记和注释（词典释义）
+
+*   [neoFelhz/neohosts](https://github.com/neoFelhz/neohosts) - 自由·负责·克制 去广告 Hosts 项目
+
+*   [shadowsocks/kcptun-android](https://github.com/shadowsocks/kcptun-android) - kcptun for Android.
+
+*   [shengxinjing/programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist) - :see\_no\_evil:程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞
+
+*   [mba811/gitdisk](https://github.com/mba811/gitdisk) - GitDisk：基于Git的网盘式文件同步软件
 
 ## Go
 
@@ -520,7 +554,7 @@
 
 *   [loper7/miit-rule-checker](https://github.com/loper7/miit-rule-checker) - ⭐🎉虽迟但到，这是一个通过拦截Java方法调用用以检测应用是否合规的工具，如果你的APP正饱受监管部门或应用市场时不时下发整改通知的折磨，那么用它来检查你的代码以及引用的三方库是再好不过的选择了！
 
-*   [tmo1/sms-ie](https://github.com/tmo1/sms-ie) - SMS Import / Export is a simple Android app that imports and exports SMS and MMS messages, call logs, and contacts from and to JSON / NDJSON files.
+*   [tmo1/sms-ie](https://github.com/tmo1/sms-ie) - SMS Import / Export is a simple Android app that imports and exports SMS and MMS messages, call logs, contacts, and blocked numbers from and to JSON / NDJSON files.
 
 *   [darshanparajuli/LogcatReader](https://github.com/darshanparajuli/LogcatReader) - A simple app for viewing logcat logs on an android device.
 
@@ -1132,7 +1166,7 @@
 
 *   [serverless-dns/serverless-dns](https://github.com/serverless-dns/serverless-dns) - The RethinkDNS resolver that deploys to Cloudflare Workers, Deno Deploy, Fastly, and Fly.io
 
-*   [pedroslopez/whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
+*   [wwebjs/whatsapp-web.js](https://github.com/wwebjs/whatsapp-web.js) - A WhatsApp client library for NodeJS that connects through the WhatsApp Web browser app
 
 *   [ecomfe/fontmin](https://github.com/ecomfe/fontmin) - Minify font seamlessly
 
@@ -1894,8 +1928,6 @@
 
 *   [maoruibin/TranslateApp](https://github.com/maoruibin/TranslateApp) - :memo: A translations app without interruptions, copy words and translate directly, show result by top view.
 
-*   [greenrobot/EventBus](https://github.com/greenrobot/EventBus) - Event bus for Android and Java that simplifies communication between Activities, Fragments, Threads, Services, etc. Less code, better quality.
-
 ## Python
 
 *   [crimera/twitter-apk](https://github.com/crimera/twitter-apk) - Apk builds of piko patches
@@ -2209,38 +2241,6 @@
 *   [ZyqGitHub1/h-player-v2](https://github.com/ZyqGitHub1/h-player-v2) - 资源采集站在线播放
 
 *   [wuhaoworld/torrent2magnet](https://github.com/wuhaoworld/torrent2magnet) - 种子转磁力链工具
-
-## Shell
-
-*   [rentianyu/Ad-set-hosts](https://github.com/rentianyu/Ad-set-hosts) - 集合多个去广告hosts并去重
-
-*   [MohamedElashri/doh-list](https://github.com/MohamedElashri/doh-list) - List of public DoH providers
-
-*   [boxproxy/box](https://github.com/boxproxy/box) - 安卓代理模块，使用方法看wiki
-
-*   [MetaCubeX/meta-rules-dat](https://github.com/MetaCubeX/meta-rules-dat) - rules-dat for mihomo
-
-*   [damengzhu/banad](https://github.com/damengzhu/banad) - 轻量广告拦截规则
-
-*   [wanghongenpin/Magisk-ProxyPinCA](https://github.com/wanghongenpin/Magisk-ProxyPinCA) - Magisk模块ProxyPin系统证书
-
-*   [bclswl0827/v2ray-heroku](https://github.com/bclswl0827/v2ray-heroku) - 用于在 Heroku 上部署 V2Ray WebSocket。
-
-*   [lxgw/LxgwWenKai](https://github.com/lxgw/LxgwWenKai) - An unprofessional open-source Chinese font derived from Fontworks' Klee One. 一款非专业的开源中文字体，基于 FONTWORKS 出品字体 Klee One 衍生。
-
-*   [EtherDream/jsproxy](https://github.com/EtherDream/jsproxy) - An online proxy based on ServiceWorker
-
-*   [lmc999/auto-add-routes](https://github.com/lmc999/auto-add-routes) - China Route for VPN
-
-*   [sandae/epubFreq](https://github.com/sandae/epubFreq) - 为epub电子书添加词频标记和注释（词典释义）
-
-*   [neoFelhz/neohosts](https://github.com/neoFelhz/neohosts) - 自由·负责·克制 去广告 Hosts 项目
-
-*   [shadowsocks/kcptun-android](https://github.com/shadowsocks/kcptun-android) - kcptun for Android.
-
-*   [shengxinjing/programmer-job-blacklist](https://github.com/shengxinjing/programmer-job-blacklist) - :see\_no\_evil:程序员找工作黑名单，换工作和当技术合伙人需谨慎啊 更新有赞
-
-*   [mba811/gitdisk](https://github.com/mba811/gitdisk) - GitDisk：基于Git的网盘式文件同步软件
 
 ## PHP
 
