@@ -102,7 +102,7 @@
 
 *   [SnowRikka/FlClash-Enhanced](https://github.com/SnowRikka/FlClash-Enhanced) - FlClash-Enhanced 是原版 FlClash 的功能增强版本，剪贴板自动识别节点链接，免转换协议导入，自动测速并切换最快节点(可禁用)，支持多链接批量导入、导入历史记录、剪贴板防重复，适配更多链接格式
 
-*   [MCDFsteve/NipaPlay-Reload](https://github.com/MCDFsteve/NipaPlay-Reload) - NipaPlay-Reload 是一个现代化的跨平台本地视频播放器，支持 Windows、macOS、Linux、Android 和 iOS。集成了弹幕显示、多格式字幕支持、多音频轨道切换，新番查看等功能，支持挂载Emby/Jellyfin媒体库。采用 Flutter 开发，提供统一的用户体验。
+*   [AimesSoft/NipaPlay-Reload](https://github.com/AimesSoft/NipaPlay-Reload) - NipaPlay-Reload 是一个现代化的跨平台本地视频播放器，支持 Windows、macOS、Linux、Android 和 iOS。集成了弹幕显示、多格式字幕支持、多音频轨道切换，新番查看等功能，支持挂载Emby/Jellyfin媒体库。采用 Flutter 开发，提供统一的用户体验。
 
 *   [Chevey339/kelivo](https://github.com/Chevey339/kelivo) - A Flutter LLM Chat Client. Support Mobile & Desktop.
 
