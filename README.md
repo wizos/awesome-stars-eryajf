@@ -248,7 +248,7 @@
 
 *   [Hilaver/MockGPS](https://github.com/Hilaver/MockGPS) - Android application to fake GPS
 
-*   [JingMatrix/LSPosed](https://github.com/JingMatrix/LSPosed) - LSPosed Framework resuscitated
+*   [JingMatrix/LSPosed](https://github.com/JingMatrix/LSPosed) - Modern Xposed Framework
 
 *   [re-zero001/LSPosed-Irena](https://github.com/re-zero001/LSPosed-Irena) - Useless LSPosed Framework Fork
 
@@ -594,7 +594,7 @@
 
 *   [PranshulGG/RecordMaster](https://github.com/PranshulGG/RecordMaster) - Material expressive Record app for android 🎤⏺️
 
-*   [OpenHub-Store/GitHub-Store](https://github.com/OpenHub-Store/GitHub-Store) - A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android & Desktop (Linux, MacOS, Windows).
+*   [OpenHub-Store/GitHub-Store](https://github.com/OpenHub-Store/GitHub-Store) - 🩵 A free, open-source app store for GitHub releases — browse, discover, and install apps with one click. Powered by Kotlin and Compose Multiplatform for Android & Desktop (Linux, MacOS, Windows).
 
 *   [A-nony-mous/AutoMandroid](https://github.com/A-nony-mous/AutoMandroid) -
 
