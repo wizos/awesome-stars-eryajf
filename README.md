@@ -742,7 +742,7 @@
 
 *   [Hilaver/MockGPS](https://github.com/Hilaver/MockGPS) - Android application to fake GPS
 
-*   [JingMatrix/LSPosed](https://github.com/JingMatrix/LSPosed) - Modern Xposed Framework
+*   [JingMatrix/Vector](https://github.com/JingMatrix/Vector) - Modern Xposed Framework
 
 *   [re-zero001/LSPosed-Irena](https://github.com/re-zero001/LSPosed-Irena) - Useless LSPosed Framework Fork
 
