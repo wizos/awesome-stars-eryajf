@@ -1278,7 +1278,7 @@
 
 *   [Xposed-Modules-Repo/me.plusne](https://github.com/Xposed-Modules-Repo/me.plusne) - PlusNE 7+
 
-*   [xixu-me/meta](https://github.com/xixu-me/meta) - Comprehensive configuration generator for network traffic management
+*   [xixu-me/meta](https://github.com/xixu-me/meta) - The inputs stay modular, the generated output adds stronger routing structure on top, and the overall repository is organized as an architecture with clear roles for source, validation, and published artifacts
 
 *   [Tintac-CN/denoVlessProxy](https://github.com/Tintac-CN/denoVlessProxy) - Running Vless Proxy inside edge functions
 
@@ -1407,8 +1407,6 @@
 *   [gnijuohz/get-out](https://github.com/gnijuohz/get-out) - A guide
 
 *   [erguotou520/bye](https://github.com/erguotou520/bye) - bye to yesterday and do yourself
-
-*   [javayhu/poetry](https://github.com/javayhu/poetry) - 📚 China ancient poetry project data
 
 *   [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
 
@@ -1740,7 +1738,7 @@
 
 *   [maotoumao/MusicFree](https://github.com/maotoumao/MusicFree) - 插件化、定制化、无广告的免费音乐播放器
 
-*   [ahpxex/Aictionary](https://github.com/ahpxex/Aictionary) - 一个桌面词典：快速、简洁，并且真的让你学会英语
+*   [ahpxex/Aictionary](https://github.com/ahpxex/Aictionary) - Another desktop dictionary, but way more faster and definition-rich, which makes you truly understand language.
 
 *   [xianshenglu/cloudflare-ip-tester-app](https://github.com/xianshenglu/cloudflare-ip-tester-app) -
 
@@ -1758,7 +1756,7 @@
 
 *   [LLM-Red-Team/step-free-api](https://github.com/LLM-Red-Team/step-free-api) - 🚀 阶跃星辰跃问YueWen Step 多模态大模型逆向API【特长：超强多模态】，支持高速流式输出、联网搜索、长文档解读、图像解析、多轮对话，零配置部署，多路token支持，自动清理会话痕迹，仅供测试，如需商用请前往官方开放平台。
 
-*   [glidea/one-balance](https://github.com/glidea/one-balance) - Make ai KEY rotation SMARTER and more SECURE; Cloudflare Worker; Gemini Balance; gpt-load; GPT Load; Lightweight alternate; Free API; OpenRouter Key  \[网页监控工具-预定送会员：https://waitlist.dingding.glidea.app]
+*   [glidea/one-balance](https://github.com/glidea/one-balance) - Make ai KEY rotation SMARTER and more SECURE; Cloudflare Worker; Gemini Balance; gpt-load; GPT Load; Lightweight alternate; Free API; OpenRouter Key  【29元500次sonnet，下方wx扫码联系】
 
 *   [eggacheb/web-content-extractor](https://github.com/eggacheb/web-content-extractor) -
 
@@ -2493,6 +2491,8 @@
 *   [stefansundin/rssbox](https://github.com/stefansundin/rssbox) - :newspaper: I consume the world via RSS feeds, and this is my attempt to keep it that way.
 
 *   [ywjno/burr](https://github.com/ywjno/burr) - 电子书制作工具（PDF, ePub, Mobi, HTML）
+
+*   [feedbin/feedbin](https://github.com/feedbin/feedbin) - A nice place to read on the web.
 
 ## Adblock Filter List
 
