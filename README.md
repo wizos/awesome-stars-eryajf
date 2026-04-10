@@ -2387,7 +2387,7 @@
 
 *   [netchx/netch](https://github.com/netchx/netch) - A simple proxy client
 
-*   [bitbeans/SimpleDnsCrypt](https://github.com/bitbeans/SimpleDnsCrypt) - A simple management tool for dnscrypt-proxy
+*   [DNSCrypt/SimpleDnsCrypt](https://github.com/DNSCrypt/SimpleDnsCrypt) - A simple management tool for dnscrypt-proxy
 
 *   [stanzhai/Html2Article](https://github.com/stanzhai/Html2Article) - Html网页正文提取
 
