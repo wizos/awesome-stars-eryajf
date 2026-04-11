@@ -2325,6 +2325,8 @@
 
 *   [vxiaozhi/vocabulary-book-by-deepseek](https://github.com/vxiaozhi/vocabulary-book-by-deepseek) - vocabulary-book-by-deepseek｜使用 DeepSeek 开发实现的四六级、考研、托福单词词汇库， 提供单词的词义、词根、例句、辅助记忆、助记图像等信息|小智晖的AI单词库。
 
+*   [diffbot/rss-anything](https://github.com/diffbot/rss-anything) - Transform any old website with a list of links into an RSS Feed
+
 *   [iOS17/Jailbreak](https://github.com/iOS17/Jailbreak) - iOS 26.4 - 26, 17 - 17.7.5  & iOS 18 - 18.7.3 Jailbreak Tools, Cydia/Sileo/Zebra Tweaks & Jailbreak News Updates ||  AI Jailbreak Finder 👇
 
 *   [manymore13/report](https://github.com/manymore13/report) - 研报，行业研报，研究报告，每天定时更新
@@ -2436,8 +2438,6 @@
 ## CSS
 
 *   [ChatBot-All/chatbot-app](https://github.com/ChatBot-All/chatbot-app) - "ChatBot" AI application, supporting GPT,  Gemini Pro, Cohere & Ollama models
-
-*   [diffbot/rss-anything](https://github.com/diffbot/rss-anything) - Transform any old website with a list of links into an RSS Feed
 
 *   [necolas/normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
 
