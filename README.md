@@ -18,6 +18,7 @@
 
 ## Table of Contents
 
+*   [Rust](#rust)
 *   [JavaScript](#javascript)
 *   [Dart](#dart)
 *   [C](#c)
@@ -29,7 +30,6 @@
 *   [Java](#java)
 *   [Shell](#shell)
 *   [miscellaneous](#miscellaneous)
-*   [Rust](#rust)
 *   [Swift](#swift)
 *   [Vue](#vue)
 *   [PHP](#php)
@@ -68,6 +68,52 @@
 *   [AppleScript](#applescript)
 *   [Scheme](#scheme)
 *   [Thanks](#thanks)
+
+## Rust
+
+*   [pmatos/jsse](https://github.com/pmatos/jsse) - An agent-coded JS engine in Rust. I didn't touch a single line of code here. Not one. This repo is a write-only data store. I didn't even create this repo by hand -- my agent did that.
+
+*   [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm) - Algorithm powering the For You feed on X
+
+*   [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
+
+*   [devlive-community/codeforge](https://github.com/devlive-community/codeforge) - CodeForge 是一款轻量级、高性能的桌面代码执行器，专为开发者、学生和编程爱好者设计。CodeRunner 的替代品。
+
+*   [zhu327/workers-tunnel](https://github.com/zhu327/workers-tunnel) - Edge network tunnel implemented using Cloudflare Workers.
+
+*   [meh/rust-tun](https://github.com/meh/rust-tun) - TUN device creation and handling.
+
+*   [Buer-Nahida/akasha-subscriber](https://github.com/Buer-Nahida/akasha-subscriber) - 一个可以运行在 Cloudflare Workers 上的节点订阅器，可以生成 Base64 和 Mihomo 格式的订阅
+
+*   [deft-ui/deft](https://github.com/deft-ui/deft) - Build cross-platform applications with Rust and JavaScript
+
+*   [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
+
+*   [ghost-him/ZeroLaunch-rs](https://github.com/ghost-him/ZeroLaunch-rs) - 🚀 A lightning‑fast, privacy‑first Windows smart launcher that excels at Pinyin and fuzzy matching. Optionally add on‑device AI semantic search for typo‑ and intent‑proof instant results. Built with Rust + Tauri + Vue! 🚀一款极速、隐私优先的 Windows 智能启动器，精通拼音与模糊匹配；可选本地 AI 语义检索，让错字与意图搜索也能秒速直达。基于 Rust + Tauri + Vue 构建！
+
+*   [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
+
+*   [Kr328/typed-jni-rs](https://github.com/Kr328/typed-jni-rs) - Type-Safe JNI access for Rust.
+
+*   [brave/adblock-rust](https://github.com/brave/adblock-rust) - Brave's Rust-based adblock engine
+
+*   [Watfaq/clash-rs](https://github.com/Watfaq/clash-rs) - custom protocol network proxy
+
+*   [messense/aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
+
+*   [sigoden/proxyfor](https://github.com/sigoden/proxyfor) - A powerful and flexible proxy CLI for capturing and inspecting HTTP(S) and WS(S) traffic, with TUI and WebUI.
+
+*   [shadowsocks/shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust) - A Rust port of shadowsocks
+
+*   [jkshfanfbun/ruci](https://github.com/jkshfanfbun/ruci) - a flexible proxy framework written in rust
+
+*   [Chaoses-Ib/ib-matcher](https://github.com/Chaoses-Ib/ib-matcher) - A multilingual, flexible and fast string, glob and regex matcher. Support 拼音匹配 and ローマ字検索.
+
+*   [YtFlow/YtFlowCore](https://github.com/YtFlow/YtFlowCore) - A modern proxy framework, core of YtFlow.
+
+*   [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
+
+*   [eycorsican/leaf](https://github.com/eycorsican/leaf) - A versatile and efficient proxy framework.
 
 ## JavaScript
 
@@ -319,7 +365,7 @@
 
 *   [5VNetwork/VX](https://github.com/5VNetwork/VX) - Multi-platform Proxy Client 全平台代理客户端
 
-*   [naaammme/pilipro](https://github.com/naaammme/pilipro) - 使用Flutter开发的BiliBili第三方客户端，对piliplus做了最小化修改，增加一些自用功能——自动记录评论和弹幕，应用内小窗等等。小字：pro是PeRsOnal的缩写，非professional
+*   [naaammme/pilipro](https://github.com/naaammme/pilipro) - 此项目已经停止维护!!!! 请移步 https://github.com/naaammme/bbspace
 
 *   [SageMik/sqlite3\_simple](https://github.com/SageMik/sqlite3_simple) - 基于 Simple (支持中文和拼音的 SQLite fts5 全文搜索扩展) 和 sqlite3.dart 的 Flutter 库，用于 SQLite 中文和拼音全文搜索 | A Flutter plugin for Full-Text Search of Chinese & PinYin in SQLite, based on Simple (A SQLite3 fts5 tokenizer which supports Chinese & PinYin) and sqlite3.dart
 
@@ -1925,8 +1971,6 @@
 
 *   [lytsing/weibo](https://github.com/lytsing/weibo) - Android client for weibo
 
-*   [jinguangyue/AddwordLib](https://github.com/jinguangyue/AddwordLib) - Android Textview横竖排切换(文字方向不变)  Android TextView add text , vertical discharge switching (the direction of the font is no change!)
-
 ## Shell
 
 *   [DustinWin/dustinwin.github.io](https://github.com/DustinWin/dustinwin.github.io) - mihomo 和 sing-box 教程合集——安装、配置、自定义规则、DNS 分流
@@ -2146,50 +2190,6 @@
 *   [SmartisanTech/android](https://github.com/SmartisanTech/android) - Smartisan open source code for full build.(repo manifest xml)
 
 *   [kakuilan/china\_area\_mysql](https://github.com/kakuilan/china_area_mysql) - 中国5级行政区域mysql库
-
-## Rust
-
-*   [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm) - Algorithm powering the For You feed on X
-
-*   [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
-
-*   [devlive-community/codeforge](https://github.com/devlive-community/codeforge) - CodeForge 是一款轻量级、高性能的桌面代码执行器，专为开发者、学生和编程爱好者设计。CodeRunner 的替代品。
-
-*   [zhu327/workers-tunnel](https://github.com/zhu327/workers-tunnel) - Edge network tunnel implemented using Cloudflare Workers.
-
-*   [meh/rust-tun](https://github.com/meh/rust-tun) - TUN device creation and handling.
-
-*   [Buer-Nahida/akasha-subscriber](https://github.com/Buer-Nahida/akasha-subscriber) - 一个可以运行在 Cloudflare Workers 上的节点订阅器，可以生成 Base64 和 Mihomo 格式的订阅
-
-*   [deft-ui/deft](https://github.com/deft-ui/deft) - Build cross-platform applications with Rust and JavaScript
-
-*   [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
-
-*   [ghost-him/ZeroLaunch-rs](https://github.com/ghost-him/ZeroLaunch-rs) - 🚀 A lightning‑fast, privacy‑first Windows smart launcher that excels at Pinyin and fuzzy matching. Optionally add on‑device AI semantic search for typo‑ and intent‑proof instant results. Built with Rust + Tauri + Vue! 🚀一款极速、隐私优先的 Windows 智能启动器，精通拼音与模糊匹配；可选本地 AI 语义检索，让错字与意图搜索也能秒速直达。基于 Rust + Tauri + Vue 构建！
-
-*   [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
-
-*   [Kr328/typed-jni-rs](https://github.com/Kr328/typed-jni-rs) - Type-Safe JNI access for Rust.
-
-*   [brave/adblock-rust](https://github.com/brave/adblock-rust) - Brave's Rust-based adblock engine
-
-*   [Watfaq/clash-rs](https://github.com/Watfaq/clash-rs) - custom protocol network proxy
-
-*   [messense/aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
-
-*   [sigoden/proxyfor](https://github.com/sigoden/proxyfor) - A powerful and flexible proxy CLI for capturing and inspecting HTTP(S) and WS(S) traffic, with TUI and WebUI.
-
-*   [shadowsocks/shadowsocks-rust](https://github.com/shadowsocks/shadowsocks-rust) - A Rust port of shadowsocks
-
-*   [jkshfanfbun/ruci](https://github.com/jkshfanfbun/ruci) - a flexible proxy framework written in rust
-
-*   [Chaoses-Ib/ib-matcher](https://github.com/Chaoses-Ib/ib-matcher) - A multilingual, flexible and fast string, glob and regex matcher. Support 拼音匹配 and ローマ字検索.
-
-*   [YtFlow/YtFlowCore](https://github.com/YtFlow/YtFlowCore) - A modern proxy framework, core of YtFlow.
-
-*   [mgdm/htmlq](https://github.com/mgdm/htmlq) - Like jq, but for HTML.
-
-*   [eycorsican/leaf](https://github.com/eycorsican/leaf) - A versatile and efficient proxy framework.
 
 ## Swift
 
