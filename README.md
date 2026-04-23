@@ -43,6 +43,7 @@
 *   [Makefile](#makefile)
 *   [Objective-C](#objective-c)
 *   [Elixir](#elixir)
+*   [Zig](#zig)
 *   [CSS](#css)
 *   [CoffeeScript](#coffeescript)
 *   [Svelte](#svelte)
@@ -53,7 +54,6 @@
 *   [Adblock Filter List](#adblock-filter-list)
 *   [Julia](#julia)
 *   [Fluent](#fluent)
-*   [Zig](#zig)
 *   [Groovy](#groovy)
 *   [Haskell](#haskell)
 *   [Scala](#scala)
@@ -91,8 +91,6 @@
 *   [RfidResearchGroup/ChameleonUltra](https://github.com/RfidResearchGroup/ChameleonUltra) - The new generation chameleon based on NRF52840 makes the performance of card emulation more stable. And gave the chameleon the ability to read, write, and decrypt cards.
 
 *   [i-p-tel/sipdroid](https://github.com/i-p-tel/sipdroid) - Free SIP/VoIP client for Android
-
-*   [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation
 
 *   [karpathy/llama2.c](https://github.com/karpathy/llama2.c) - Inference Llama 2 in one file of pure C
 
@@ -165,6 +163,8 @@
 *   [JoshAtticus/Compressor](https://github.com/JoshAtticus/Compressor) - Lightning fast, ad free, super lightweight native video compressor for Android
 
 *   [Turbo1123/roubao](https://github.com/Turbo1123/roubao) - Android Automation Tool Based on Vision-Language Models
+
+*   [zly2006/zhihu-plus-plus](https://github.com/zly2006/zhihu-plus-plus) - Zhihu++ | 知乎++: Ad-free, low cost, AI powered zhihu android 3rd-party client. 去广告、占用低、AI大模型的新时代知乎安卓端体验
 
 *   [loper7/miit-rule-checker](https://github.com/loper7/miit-rule-checker) - ⭐🎉虽迟但到，这是一个通过拦截Java方法调用用以检测应用是否合规的工具，如果你的APP正饱受监管部门或应用市场时不时下发整改通知的折磨，那么用它来检查你的代码以及引用的三方库是再好不过的选择了！
 
@@ -2014,8 +2014,6 @@
 
 *   [waylau/harmonyos-tutorial](https://github.com/waylau/harmonyos-tutorial) - HarmonyOS Tutorial. 《跟老卫学HarmonyOS开发》
 
-*   [zly2006/zhihu-plus-plus](https://github.com/zly2006/zhihu-plus-plus) - Zhihu++ | 知乎++: Ad-free, low cost, AI powered zhihu android 3rd-party client. 去广告、占用低、AI大模型的新时代知乎安卓端体验
-
 *   [Naxavor/five-worker](https://github.com/Naxavor/five-worker) -
 
 *   [666OS/ClashMac](https://github.com/666OS/ClashMac) - Native Proxy Experience Built for macOS
@@ -2434,6 +2432,12 @@
 
 *   [aaronrussell/anthropix](https://github.com/aaronrussell/anthropix) - Unofficial Anthropic API client for Elixir. Integrate Claude, Anthropic's powerful language model, into your applications.
 
+## Zig
+
+*   [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation
+
+*   [zfl9/chinadns-ng](https://github.com/zfl9/chinadns-ng) - chinadns 重构增强版，支持域名分流、ipset/nftset、UDP/TCP/DoT
+
 ## CSS
 
 *   [ChatBot-All/chatbot-app](https://github.com/ChatBot-All/chatbot-app) - "ChatBot" AI application, supporting GPT,  Gemini Pro, Cohere & Ollama models
@@ -2503,10 +2507,6 @@
 ## Fluent
 
 *   [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
-
-## Zig
-
-*   [zfl9/chinadns-ng](https://github.com/zfl9/chinadns-ng) - chinadns 重构增强版，支持域名分流、ipset/nftset、UDP/TCP/DoT
 
 ## Groovy
 
