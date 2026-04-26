@@ -570,6 +570,8 @@
 
 *   [brave/adblock-rust](https://github.com/brave/adblock-rust) - Brave's Rust-based adblock engine
 
+*   [libnyanpasu/clash-nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu) - Clash Nyanpasu～(∠・ω< )⌒☆​
+
 *   [Watfaq/clash-rs](https://github.com/Watfaq/clash-rs) - custom protocol network proxy
 
 *   [messense/aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
@@ -1186,8 +1188,6 @@
 
 *   [tldraw/tldraw](https://github.com/tldraw/tldraw) - very good whiteboard infinite canvas SDK
 
-*   [libnyanpasu/clash-nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu) - Clash Nyanpasu～(∠・ω< )⌒☆​
-
 *   [mihomo-party-org/clash-party](https://github.com/mihomo-party-org/clash-party) - :electron: Another Mihomo GUI.
 
 *   [SukkaW/Surge](https://github.com/SukkaW/Surge) - Rule Snippet & Rule Set for Surge / Mihomo (Clash.Meta) / Clash Premium (Dreamacro) / sing-box / Surfboard for Android / Stash
@@ -1369,8 +1369,6 @@
 *   [vvbbnn00/WARP-Clash-API](https://github.com/vvbbnn00/WARP-Clash-API) - 该项目可以让你通过订阅的方式使用Cloudflare WARP+，自动获取流量。This project enables you to use Cloudflare WARP+ through subscription, automatically acquiring traffic.
 
 *   [mistralai/client-python](https://github.com/mistralai/client-python) - Python client library for Mistral AI platform
-
-*   [chatanywhere/GPT\_API\_free](https://github.com/chatanywhere/GPT_API_free) - Free ChatGPT\&DeepSeek API Key，免费ChatGPT\&DeepSeek API。免费接入DeepSeek API和GPT4 API，支持 gpt | deepseek | claude | gemini | grok 等排名靠前的常用大模型。
 
 *   [yinan-c/RSS-GPT](https://github.com/yinan-c/RSS-GPT) - Using ChatGPT to summarize your personalized RSS feeds
 
@@ -2081,6 +2079,8 @@
 *   [jsrgjcy/geoLibChina](https://github.com/jsrgjcy/geoLibChina) - 经纬度转省市区县乡镇离线包，采用空间查询算法，速度快(单线程5w次/s)，省市区县100%准确率。
 
 *   [xiaohucode/yidaRule](https://github.com/xiaohucode/yidaRule) - 益达规则仓库
+
+*   [chatanywhere/GPT\_API\_free](https://github.com/chatanywhere/GPT_API_free) - Free ChatGPT\&DeepSeek API Key，免费ChatGPT\&DeepSeek API。免费接入DeepSeek API和GPT4 API，支持 gpt | deepseek | claude | gemini | grok 等排名靠前的常用大模型。
 
 *   [xlucn/oh-my-foss-android](https://github.com/xlucn/oh-my-foss-android) - 个人收集的实用、良心开源安卓软件
 
