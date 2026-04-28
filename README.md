@@ -338,8 +338,6 @@
 
 *   [kazutoiris/infinite-illusion](https://github.com/kazutoiris/infinite-illusion) - Infinite Illusion （无限幻境）
 
-*   [gitofleonardo/AnyDebug](https://github.com/gitofleonardo/AnyDebug) - ViewEditor/视图编辑器
-
 *   [jinweijie/notify-me](https://github.com/jinweijie/notify-me) - An Android application that forwards Bark, Email, Webhook notifications upon receiving SMS messages or phone calls.
 
 *   [Leon406/SubCrawler](https://github.com/Leon406/SubCrawler) - 每天自动爬取测活（google ping）公开节点。 🚀 免费节点,🚀免费订阅 (若不进行二次开发,请不要fork)
@@ -1593,6 +1591,8 @@
 *   [Mapaler/FastCopy-M](https://github.com/Mapaler/FastCopy-M) - FastCopy-Multilanguage，FastCopy完整支持多国语言版
 
 *   [begeekmyfriend/yasea](https://github.com/begeekmyfriend/yasea) - RTMP live streaming client for Android
+
+*   [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree
 
 ## Java
 
