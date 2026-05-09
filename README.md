@@ -908,8 +908,6 @@
 
 *   [serverless-proxy/serverless-proxy](https://github.com/serverless-proxy/serverless-proxy) - HTTP to TCP proxy that deploys to Cloudflare Workers and Deno Deploy
 
-*   [XyzenSun/SpectreProxy](https://github.com/XyzenSun/SpectreProxy) - 支持HTTP，Websocket，DoH/DoT协议，支持AI API代理，支持流式传输，使用原生 TCP Socket 解决 fetch API 的隐私泄露问题并提供灵活的回退策略解决TCP Socket 目前无法连接到 Cloudflare 自身的 IP 段的问题的Cloudflare Worker代理程序。
-
 *   [bropines/Deeplx-vercel](https://github.com/bropines/Deeplx-vercel) - Serverless DeepLX on vercel implementation
 
 *   [zizifn/edgetunnel](https://github.com/zizifn/edgetunnel) - Running V2ray inside edge/serverless runtime
@@ -2067,6 +2065,8 @@
 *   [17mon/china\_ip\_list](https://github.com/17mon/china_ip_list) -
 
 *   [AXFOX/DisplayMyHEIC](https://github.com/AXFOX/DisplayMyHEIC) - 在任何网页上显示你贴出的HEIF/HEIC图片。 Display your posted HEIF/HEIC images on any web page.
+
+*   [XyzenSun/llm-enhance](https://github.com/XyzenSun/llm-enhance) -
 
 *   [Xposed-Modules-Repo/me.plusne](https://github.com/Xposed-Modules-Repo/me.plusne) - PlusNE 7+
 
