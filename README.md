@@ -246,8 +246,6 @@
 
 *   [wb14123/seq2seq-couplet](https://github.com/wb14123/seq2seq-couplet) - Play couplet with seq2seq model. 用深度学习对对联。
 
-*   [joshua-wu/deepfakes\_faceswap](https://github.com/joshua-wu/deepfakes_faceswap) - from deekfakes' faceswap: https://www.reddit.com/user/deepfakes/
-
 *   [qiyeboy/IPProxyPool](https://github.com/qiyeboy/IPProxyPool) - IPProxyPool代理池项目，提供代理ip
 
 *   [cdhigh/KindleEar](https://github.com/cdhigh/KindleEar) - Aggregates RSS and web content(Calibre recipe), sends to Kindle, and includes an e-ink optimized online reader.
@@ -2001,6 +1999,8 @@
 *   [kyleduo/SwitchButton](https://github.com/kyleduo/SwitchButton) - A cute widget of Switch Button for  you to create beautiful and friendly UI.
 
 *   [zcweng/ToggleButton](https://github.com/zcweng/ToggleButton) - ToggleButton Widget For Android Dev
+
+*   [google/gson](https://github.com/google/gson) - A Java serialization/deserialization library to convert Java Objects into JSON and back
 
 ## Shell
 
