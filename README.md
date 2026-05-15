@@ -486,6 +486,8 @@
 
 *   [spacefarers/Dropp](https://github.com/spacefarers/Dropp) -
 
+*   [osaurus-ai/osaurus](https://github.com/osaurus-ai/osaurus) - Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cryptographic identity. Built in Swift. Fully offline. Open source.
+
 *   [DanielZhangyc/RLLM](https://github.com/DanielZhangyc/RLLM) - LLM powered RSS reader
 
 *   [bin64/Clash-Dash](https://github.com/bin64/Clash-Dash) - 原生 SwiftUI 开发的 OpenClash/Nikki(MihomoTProxy) 管理工具
@@ -1296,7 +1298,7 @@
 
 *   [5VNetwork/VX](https://github.com/5VNetwork/VX) - Multi-platform Proxy Client 全平台代理客户端
 
-*   [naaammme/pilipro](https://github.com/naaammme/pilipro) - 此项目已经停止维护!!!! 请移步 https://github.com/naaammme/bbspace
+*   [naaammme/pilipro](https://github.com/naaammme/pilipro) - 使用Flutter开发的BiliBili第三方安卓客户端，对piliplus做了最小化修改，增加一些自用功能——自动记录评论和弹幕，应用内小窗。小字：pro是PeRsOnal的缩写，非professional
 
 *   [SageMik/sqlite3\_simple](https://github.com/SageMik/sqlite3_simple) - 基于 Simple (支持中文和拼音的 SQLite fts5 全文搜索扩展) 和 sqlite3.dart 的 Flutter 库，用于 SQLite 中文和拼音全文搜索 | A Flutter plugin for Full-Text Search of Chinese & PinYin in SQLite, based on Simple (A SQLite3 fts5 tokenizer which supports Chinese & PinYin) and sqlite3.dart
 
@@ -1316,7 +1318,7 @@
 
 *   [sun-jiao/flut-renamer](https://github.com/sun-jiao/flut-renamer) - Flut Renamer - A bulk file renamer written in flutter (dart). Available on Linux, Windows, Android, iOS and macOS.
 
-*   [VPNclient/VPNclient-engine-flutter](https://github.com/VPNclient/VPNclient-engine-flutter) - Flutter wrapper for VPN Client Engine: Xray(VMESS, VLESS, REALITY) + WireGuard
+*   [aiSridhar/VPNclient-engine-flutter](https://github.com/aiSridhar/VPNclient-engine-flutter) - Flutter wrapper for VPN Client Engine: Xray(VMESS, VLESS, REALITY) + WireGuard
 
 *   [bipark/my\_ollama\_app](https://github.com/bipark/my_ollama_app) - MyOllama: Ollama-based LLM mobile client
 
@@ -1393,8 +1395,6 @@
 *   [bellard/quickjs](https://github.com/bellard/quickjs) - Public repository of the QuickJS Javascript Engine.
 
 *   [RfidResearchGroup/ChameleonUltra](https://github.com/RfidResearchGroup/ChameleonUltra) - The new generation chameleon based on NRF52840 makes the performance of card emulation more stable. And gave the chameleon the ability to read, write, and decrypt cards.
-
-*   [osaurus-ai/osaurus](https://github.com/osaurus-ai/osaurus) - Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cryptographic identity. Built in Swift. Fully offline. Open source.
 
 *   [i-p-tel/sipdroid](https://github.com/i-p-tel/sipdroid) - Free SIP/VoIP client for Android
 
@@ -1478,7 +1478,7 @@
 
 *   [xjasonlyu/vercel-deeplx](https://github.com/xjasonlyu/vercel-deeplx) - Serverless DeepLX on Vercel (Golang)
 
-*   [fish2018/pansou](https://github.com/fish2018/pansou) - PanSou是一款高性能的网盘资源搜索API服务，支持TG频道和插件搜索。系统设计以性能和可扩展性为核心，支持多频道多插件并发搜索、结果智能排序和网盘类型分类。docker集成前后端，一键启动，开箱即用。 https://so.252035.xyz/
+*   [fish2018/pansou](https://github.com/fish2018/pansou) - PanSou是一款高性能的网盘资源搜索API服务，支持TG频道和插件搜索。系统设计以性能和可扩展性为核心，支持多频道多插件并发搜索、结果智能排序和网盘类型分类。docker集成前后端，一键启动，开箱即用。仅供学习研究，请勿以各种形式用于盈利目的。
 
 *   [anytls/anytls-go](https://github.com/anytls/anytls-go) -
 
