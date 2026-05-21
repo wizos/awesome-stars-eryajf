@@ -72,6 +72,10 @@
 
 ## TypeScript
 
+*   [Sleepstars/Surge-Geosite-Enhance](https://github.com/Sleepstars/Surge-Geosite-Enhance) - Geosite ruleset for Surge. Powered by Loyalsoldier.
+
+*   [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
+
 *   [PM-Shawn/Abu-Cowork](https://github.com/PM-Shawn/Abu-Cowork) - Claude Cowork 开源替代品，开源的本地 AI Agent 桌面端 · 多模型适配 · 自进化 Skills · 隐私优先
 
 *   [jctaoo/ClashConfig](https://github.com/jctaoo/ClashConfig) - my clash config
@@ -908,8 +912,6 @@
 
 *   [Mapaler/FastCopy-M](https://github.com/Mapaler/FastCopy-M) - FastCopy-Multilanguage，FastCopy完整支持多国语言版
 
-*   [begeekmyfriend/yasea](https://github.com/begeekmyfriend/yasea) - RTMP live streaming client for Android
-
 ## Kotlin
 
 *   [HarlonWang/TrendingAI](https://github.com/HarlonWang/TrendingAI) - 全球技术热点，AI 精选速递。（Global tech trends, fast-picked by AI）
@@ -990,7 +992,7 @@
 
 *   [trinadhthatakula/Thor](https://github.com/trinadhthatakula/Thor) - Thor - Android App Manager and App Installer utility
 
-*   [prajwalch/TorrentSearch](https://github.com/prajwalch/TorrentSearch) - A Material 3 designed Android app for searching and downloading torrents from multiple providers.
+*   [prajwalch/TorrentSearch](https://github.com/prajwalch/TorrentSearch) - An Android app for searching torrents across multiple providers - fast, detailed, and packed with actions.
 
 *   [2dust/v2flyNG](https://github.com/2dust/v2flyNG) - A V2Ray client for Android, support v2fly core
 
@@ -2223,8 +2225,6 @@
 *   [westlinkin/AndroidLocalizationer](https://github.com/westlinkin/AndroidLocalizationer) - This is a Android Studio/ IntelliJ IDEA plugin to localize your Android app, translate your string resources automactically.
 
 *   [kyleduo/SwitchButton](https://github.com/kyleduo/SwitchButton) - A cute widget of Switch Button for  you to create beautiful and friendly UI.
-
-*   [zcweng/ToggleButton](https://github.com/zcweng/ToggleButton) - ToggleButton Widget For Android Dev
 
 ## Shell
 
